@@ -39,7 +39,7 @@ def FetchPage(url):
         However, that changed some of the strings in the data (like class="score" to class="\'score\'" which was messing with
         BeautifulSoup find_all method.
         So alternatively, I'm using urlretrieve() to fetch and save the url contents locally in one single step.
-        And not it's working perfect.
+        And now it's working perfect.
         '''
     except HTTPError as e:
         print("Error. Reason: ",e.reason)
@@ -85,8 +85,9 @@ def extractMatchResults(fileName):
     #look for match-details
     matchDetails = soup.findAll("td",class_= "match-details") 
     #print("len:",len(matchDetails))
-
-    f2 = open("test2.txt","w")
+    
+    outputFileName = fileName[:fileName.find(".")] + ".txt"
+    f2 = open(outputFileName,"w")
     for idx,element in enumerate(matchDetails):
         span1 = element.find("span",class_="team-home")
         home = span1.text.strip()
@@ -172,30 +173,15 @@ def readTable(name):
     
     total = len(teams)
 
-    '''
-    for item in teamWins.items():
-        print(item)
-    
-    for key,val in winList.items():
-        val.sort()
-    
-    for item in winList.items():
-        print(item) 
-    
-    print(teams)
-    '''
     pass
     
 def lookForChain(left, right):
-    # left list, right list, the element in hand currently
+    # left list, right list
     
     global result
     
     #check terminating condition
-    #print("start")
-    #print("left:",left)
-    #print("right:",right)
-    #print("total:",total)
+   
     if (len(left) == total):
         if (left[0] in winList[left[len(left)-1]]):
             print("FOUND")
@@ -215,18 +201,15 @@ def lookForChain(left, right):
     else:    
         #select the last item of left as current
         current =  left[len(left)-1]
-    #print("current:",current)
     
     #make eligible list
     eligible = [x for x in right if x in winList[current]]
-    #print("eligible:",eligible)
     
     if (len(eligible) == 0):
         return False
     
     #sort eligible list in terms of win number
     sortedEligible = [x[0] for x in sorted([(k,teamWins[k]) for k in eligible],key=operator.itemgetter(1))]
-    #print("sortedEligible:",sortedEligible)
     
     #for each element in sortedEligible, call recursive function
     
@@ -257,8 +240,9 @@ def printFormattedResult():
     pass
     
 #FetchPage(URL)    
-#extractMatchResults("page.html")    
-readTable("test2.txt");
+name = "LaLiga2013_14"
+#extractMatchResults(name + ".html")    
+readTable(name + ".txt");
 #sreadTable("smallInput.txt");
 left = []
 right = teams
