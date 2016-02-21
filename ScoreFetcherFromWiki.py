@@ -13,20 +13,30 @@ Target:
         1 , Tottenham , 4-1 , West Ham
         2 , Watford , 1-2 , Man Utd
         
-    Our existing code can already fetch it, so voila.
+    Our existing code can already process it from this point, so voila.
 '''
 
 from urllib.request import urlretrieve
 from urllib.error import URLError, HTTPError
 from bs4 import BeautifulSoup
 import operator
+import os
+from os import listdir
+from os.path import isfile, join
+import re
 
-URL = "https://en.wikipedia.org/wiki/2013%E2%80%9314_La_Liga"
-fileName = "LaLiga2013_14"
+#URL = "https://en.wikipedia.org/wiki/2013%E2%80%9314_La_Liga"
+#fileName = "LaLiga2013_14"
+
+folderForLeagues = "AllLeagues"
+folderForSeasons = "AllSeasons"
+folderForScores = "AllMatchScores"
 
 def fetchPage(url,name):
+    os.makedirs(folderForSeasons, exist_ok = True)
+    fullName = folderForSeasons + "/" + name + ".html"
     try:
-        urlretrieve(url, name + ".html")
+        urlretrieve(url, fullName)
     except HTTPError as e:
         print("Error. Reason: ",e.reason)
         print("Quitting ...")
@@ -53,9 +63,11 @@ def processScore(score):
         
 def extractMatchResults(fileName):
     #open file and read
-    fp = open(fileName + ".html", encoding="utf8")
+    fp = open(folderForSeasons + "/" + fileName + ".html", encoding="utf8")
     allText = fp.read()
     fp.close()
+    
+    fp3 = open(folderForScores + "/" + "0_scoresNotFound" + ".txt","a")
     
     #now locate the table and extract data
     '''
@@ -68,28 +80,38 @@ def extractMatchResults(fileName):
     #The table that starts immediately afterwards is the table we are looking for.
     #The table itself does not have a unique identifier, which could be a problem.
     
-    #probable solution: traverse the BEautifulSoup pase tree. Locate the span class with name and id.
-    #Then grab its parent (h2), and then get the nextSibling of the h2 tag to gget the table.
+    #probable solution: traverse the BeautifulSoup parse tree. Locate the span class with name and id.
+    #Then grab its parent (h2), and then get the nextSibling of the h2 tag to get the table.
     #There may be some newline objects returned by nextSibling, check those and ignore and keep fetching till the Table tag is found.
     
     soup = BeautifulSoup(allText,"lxml")
     
+    searchStrings = ["Results","Scoresheet","Result_table","Results_table"]
     
-    span = soup.find("span", {"id" : "Results", "class" : "mw-headline"})
+    for searchString in searchStrings:
+        span = soup.find("span", {"id" : searchString, "class" : "mw-headline"})
+        if span is not None:
+            break
+    
+    #no searchString matched. Either it has a span id that we didn't cover, 
+    #or it may not have match-by-match scores. 
+    if span is None:    
+        print(fileName)
+        fp3.write(fileName + "\n")
+        return
+        
+    #print(span)
     h2 = span.parent
     for sibling in h2.next_siblings:
         if(sibling.name == "table"):
             table = sibling
             break
     
-    #fp1 = open("temp1.txt","w", encoding='utf-8')
-    #fp1.write(table.prettify())
-    #fp1.close()
-    
     nameOfTeams = [""] #keeping an initial blank element to help with indexing in future
     matchCounter = 0
     
-    fp2 = open(fileName + ".txt","w", encoding='utf-8')
+    os.makedirs(folderForScores, exist_ok = True)
+    fp2 = open(folderForScores + "/" + fileName + ".txt","w", encoding='utf-8')
     for idx, row in enumerate(table.find_all("tr")):
         #fp2.write(str(idx) + ":\n")
         for count,data in enumerate(row.find_all("td")):
@@ -124,11 +146,41 @@ def extractMatchResults(fileName):
         pass
     
     fp2.close()
-    
+    fp3.close()
     #print(nameOfTeams)
     
     pass
         
+#Go to the desired folder ("AllLeagues")
+#Open each file with name with the pattern "*_season_links.txt"
+#Within each file:
+    # read <url,name> info in each file
+    # call fetchPage(url,name) to fetch it. Make sure to save it to a specific folder ("AllSeasons")
+def fetchAllSeasonsPages():
+    pattern = r'[\w]+_season_links.txt'
+    p = re.compile(pattern)
+    allFiles = [f for f in listdir(folderForLeagues) if isfile(join(folderForLeagues,f)) and p.match(f)]
+    for fileName in allFiles:
+        print("-------------------------------->", fileName)
+        fp = open(join(folderForLeagues,fileName),"r",encoding = "utf8")
+        for line in fp:
+            url = line[:line.find(",")]
+            name = line[line.find(",")+1:].strip()
+            print(url," | ", name)
+            fetchPage(url,name)
+            #extract score here. Careful aboutFrench Leage. Everything else should be okay.  
+        fp.close()            
+        
+
+#Go to the desired folder ("AllSeasons")
+#For each filename under this folder: 
+    # call extractMatchResults(filename)  
+        # extractMatchResults() will take care of saving the score file
+  
+def extractScoresForSeason():
+    allFiles = [f for f in listdir(folderForSeasons) if isfile(join(folderForSeasons,f))]
+    for fileName in allFiles:
+        extractMatchResults(fileName[:fileName.find(".")])
+
 print("Hello World")
-#fetchPage(URL,fileName) 
-extractMatchResults(fileName)
+extractScoresForSeason()
