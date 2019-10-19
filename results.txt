@@ -1,0 +1,674 @@
+
+0,1929 La Liga.txt
+No cycles found!
+
+1,1929_30 La Liga.txt
+Empty file!
+
+2,1929_30 Serie A.txt
+CRE 1 - 0 PAD 2 - 1 LAZ 4 - 0 MOD 2 - 1 TRI 3 - 0 LIV 4 - 1 MIL 3 - 2 PPA 1 - 0 PVE 2 - 0 BRE 2 - 1 ALE 2 - 1 BOL 3 - 1 NAP 2 - 0 TOR 1 - 0 ROM 2 - 0 AMB 4 - 1 GEN 2 - 0 JUV 4 - 1 CRE
+
+3,1930_31 La Liga.txt
+Empty file!
+
+4,1930_31 Serie A.txt
+LEG 3 - 0 LIV 5 - 0 CSL 4 - 0 PPA 2 - 1 TRI 3 - 1 MIL 1 - 0 BRE 7 - 3 ALE 2 - 0 AMB 6 - 1 PVE 3 - 1 MOD 2 - 0 TOR 2 - 0 LAZ 2 - 0 BOL 2 - 0 NAP 3 - 0 ROM 5 - 0 JUV 3 - 0 GEN 5 - 0 LEG
+
+5,1931_32 La Liga.txt
+Empty file!
+
+6,1931_32 Serie A.txt
+MOD 3 - 1 LAZ 2 - 0 BRE 2 - 1 TRI 2 - 0 BAR 2 - 1 PPA 2 - 1 PVE 4 - 2 GEN 3 - 1 CSL 1 - 0 NAP 1 - 0 AMB 4 - 0 ALE 3 - 1 TOR 1 - 0 FIO 3 - 0 MIL 1 - 0 BOL 3 - 0 ROM 2 - 0 JUV 3 - 0 MOD
+
+7,1932_33 French Division 1.txt
+Empty file!
+
+8,1932_33 La Liga.txt
+Empty file!
+
+9,1932_33 Serie A.txt
+PAD 4 - 1 PPA 2 - 1 BAR 4 - 2 GEN 3 - 2 CSL 2 - 1 PAL 1 - 0 MIL 2 - 0 ALE 4 - 1 TRI 2 - 1 LAZ 2 - 1 PVE 3 - 1 ROM 7 - 1 TOR 3 - 2 BOL 3 - 1 NAP 2 - 1 FIO 1 - 0 JUV 3 - 0 AMB 3 - 2 PAD
+
+10,1933_34 La Liga.txt
+Empty file!
+
+11,1933_34 Serie A.txt
+CSL 2 - 1 GEN 1 - 0 PAD 1 - 0 TOR 2 - 1 PAL 2 - 1 TRI 4 - 2 LAZ 3 - 2 BRE 2 - 1 ALE 2 - 1 LIV 3 - 0 FIO 1 - 0 MIL 2 - 0 PVE 2 - 0 BOL 1 - 0 ROM 2 - 1 NAP 2 - 1 AMB 3 - 2 JUV 3 - 0 CSL
+
+12,1934_35 La Liga.txt
+Empty file!
+
+13,1934_35 Serie A.txt
+PVE 2 - 1 BOL 4 - 0 LIV 3 - 1 BRE 2 - 0 MIL 2 - 1 PAL 1 - 0 SAM 3 - 2 TOR 3 - 1 TRI 3 - 1 ALE 4 - 2 NAP 3 - 0 LAZ 5 - 3 JUV 1 - 0 FIO 4 - 1 ROM 1 - 0 AMB 1 - 0 PVE
+
+14,1935_36 La Liga.txt
+Empty file!
+
+15,1935_36 Serie A.txt
+BRE 2 - 0 FIO 2 - 1 GEN 3 - 0 SAM 2 - 1 BAR 4 - 0 ALE 6 - 1 MIL 3 - 1 PAL 1 - 0 TRI 6 - 1 NAP 3 - 2 AMB 3 - 1 LAZ 3 - 0 JUV 2 - 1 TOR 1 - 0 ROM 1 - 0 BOL 1 - 0 BRE
+
+16,1936_37 Serie A.txt
+SAM 5 - 0 ALE 2 - 0 NAP 4 - 0 NOV 2 - 1 TRI 2 - 1 AMB 2 - 1 ROM 5 - 2 BAR 2 - 0 LUC 3 - 1 TOR 1 - 0 JUV 3 - 0 FIO 5 - 1 LAZ 3 - 0 MIL 1 - 0 BOL 1 - 0 GEN 2 - 0 SAM
+
+17,1937_38 Serie A.txt
+FIO 4 - 0 ATA 1 - 0 LUC 2 - 1 BAR 3 - 1 NAP 3 - 2 LIG 3 - 2 LIV 1 - 0 LAZ 6 - 0 TOR 1 - 0 TRI 3 - 1 BOL 1 - 0 MIL 1 - 0 GEN 2 - 1 JUV 2 - 1 AMB 1 - 0 ROM 4 - 1 FIO
+
+18,1938_39 Serie A.txt
+TRI 2 - 1 LUC 1 - 0 JUV 3 - 0 BAR 1 - 0 MOD 3 - 2 LIV 2 - 0 NAP 2 - 1 NOV 2 - 1 MIL 3 - 0 LAZ 1 - 0 LIG 1 - 0 AMB 1 - 0 GEN 2 - 0 ROM 2 - 0 TOR 3 - 0 BOL 2 - 0 TRI
+
+19,1939_40 La Liga.txt
+Empty file!
+
+20,1939_40 Serie A.txt
+LIG 1 - 0 BAR 1 - 0 MOD 3 - 0 FIO 2 - 0 NAP 3 - 1 TRI 1 - 0 ROM 3 - 1 MIL 2 - 1 VEN 2 - 1 LAZ 1 - 0 NOV 3 - 1 GEN 1 - 0 TOR 2 - 1 BOL 1 - 0 JUV 1 - 0 AMB 1 - 0 LIG
+
+21,1940_41 Serie A.txt
+BAR 3 - 2 VEN 2 - 0 LAZ 1 - 0 LIV 6 - 1 ROM 3 - 0 GEN 2 - 1 TRI 1 - 0 NOV 5 - 1 ATA 4 - 0 NAP 2 - 1 TOR 2 - 0 JUV 2 - 0 AMB 1 - 0 MIL 3 - 2 FIO 3 - 0 BOL 5 - 1 BAR
+
+22,1941_42 Serie A.txt
+MOD 2 - 0 ATA 5 - 1 NAP 2 - 1 LIV 3 - 0 AMB 2 - 1 LIG 1 - 0 TRI 2 - 0 FIO 4 - 3 MIL 2 - 0 BOL 2 - 0 JUV 4 - 1 GEN 2 - 0 ROM 2 - 1 LAZ 2 - 1 VEN 3 - 1 TOR 3 - 0 MOD
+
+23,1942_43 Serie A.txt
+TRI 3 - 1 LIG 1 - 0 BAR 2 - 1 VEN 2 - 1 LAZ 2 - 1 VIC 2 - 1 BOL 3 - 0 MIL 4 - 1 ROM 2 - 1 ATA 1 - 0 FIO 3 - 2 GEN 1 - 0 AMB 3 - 1 JUV 3 - 0 LIV 2 - 1 TOR 4 - 1 TRI
+
+24,1945_46 Serie A-B.txt
+VEN 3 - 1 SAM 2 - 0 GEN 1 - 0 ADO 1 - 0 ATA 2 - 0 MOD 5 - 1 TRI 1 - 0 VIC 3 - 0 BOL 2 - 1 JUV 2 - 1 TOR 1 - 0 INT 2 - 0 MIL 3 - 1 BRE 3 - 1 VEN
+
+25,1946_47 Serie A.txt
+TRI 2 - 0 VEN 1 - 0 LIV 1 - 0 BRE 1 - 0 FIO 1 - 0 ATA 1 - 0 ALE 2 - 1 LAZ 2 - 1 NAP 2 - 1 GEN 3 - 0 ROM 2 - 1 INT 2 - 1 SAM 3 - 1 TOR 4 - 0 BOL 2 - 1 BAR 1 - 0 VIC 3 - 2 MIL 2 - 1 JUV 1 - 0 MOD 1 - 0 TRI
+
+26,1947_48 Serie A.txt
+VIC 1 - 0 LIV 1 - 0 ALE 4 - 2 LUC 2 - 1 NAP 3 - 1 SAM 2 - 1 LAZ 2 - 0 ROM 1 - 0 SAL 1 - 0 BAR 3 - 0 ATA 1 - 0 BOL 4 - 2 GEN 2 - 1 INT 4 - 0 PPA 3 - 1 TRI 1 - 0 MOD 1 - 0 JUV 4 - 2 FIO 2 - 1 MIL 3 - 2 TOR 2 - 0 VIC
+
+27,1948_49 Serie A.txt
+LIV 1 - 0 MOD 1 - 0 BAR 2 - 0 ATA 3 - 1 NOV 2 - 1 PAD 2 - 0 LAZ 2 - 1 PPA 3 - 1 TRI 2 - 0 ROM 2 - 1 BOL 4 - 1 LUC 6 - 2 PAL 3 - 0 GEN 4 - 2 FIO 1 - 0 SAM 2 - 1 MIL 1 - 0 TOR 4 - 2 INT 1 - 0 JUV 3 - 1 LIV
+
+28,1949_50 Serie A.txt
+VEN 2 - 1 BAR 3 - 2 BOL 2 - 1 NOV 5 - 0 LUC 3 - 1 ROM 2 - 0 PPA 2 - 0 GEN 1 - 0 PAL 3 - 0 PAD 2 - 1 COM 3 - 1 SAM 3 - 1 TRI 1 - 0 ATA 3 - 2 FIO 4 - 1 TOR 1 - 0 INT 2 - 1 LAZ 3 - 2 MIL 7 - 1 JUV 1 - 0 VEN
+
+29,1951_52 Serie A.txt
+LEG 1 - 0 TOR 4 - 1 PAD 2 - 1 BOL 2 - 1 LUC 1 - 0 PAL 1 - 0 TRI 3 - 0 PPA 1 - 0 UDI 3 - 2 SPA 2 - 1 ATA 1 - 0 COM 2 - 1 LAZ 1 - 0 NOV 2 - 1 SAM 1 - 0 FIO 2 - 1 NAP 1 - 0 INT 3 - 2 JUV 3 - 1 MIL 4 - 1 LEG
+
+30,1952_53 Serie A.txt
+PPA 2 - 0 SPA 1 - 0 ATA 4 - 0 SAM 4 - 1 PAL 3 - 2 UDI 1 - 0 COM 2 - 0 TRI 2 - 0 NOV 2 - 0 TOR 2 - 0 FIO 1 - 0 LAZ 1 - 0 ROM 5 - 2 NAP 3 - 1 BOL 2 - 0 MIL 3 - 0 JUV 2 - 1 INT 2 - 1 PPA
+
+31,1953_54 Serie A.txt
+LEG 5 - 1 NOV 4 - 2 SPA 2 - 1 UDI 1 - 0 PAL 1 - 0 ATA 3 - 1 TOR 3 - 2 GEN 1 - 0 TRI 2 - 1 SAM 2 - 1 ROM 2 - 1 LAZ 1 - 0 FIO 1 - 0 NAP 2 - 1 BOL 2 - 1 MIL 2 - 0 INT 6 - 0 JUV 2 - 1 LEG
+
+32,1954_55 Serie A.txt
+SPA 1 - 0 GEN 2 - 0 PPA 2 - 1 ATA 4 - 0 CTN 2 - 1 TRI 1 - 0 NOV 2 - 1 LAZ 2 - 1 JUV 3 - 0 TOR 1 - 0 SAM 5 - 2 NAP 4 - 1 INT 2 - 0 UDI 1 - 0 ROM 2 - 0 MIL 2 - 0 FIO 2 - 0 BOL 2 - 0 SPA
+
+33,1955_56 Serie A.txt
+PPA 2 - 0 ATA 2 - 1 NOV 2 - 0 LRV 3 - 2 JUV 1 - 0 GEN 3 - 1 FIO 1 - 0 SPA 4 - 0 TRI 2 - 1 NAP 3 - 1 SAM 2 - 1 ROM 2 - 1 TOR 1 - 0 LAZ 3 - 1 PAD 1 - 0 INT 2 - 1 MIL 3 - 0 BOL 6 - 1 PPA
+
+34,1956_57 Serie A.txt
+PAL 3 - 1 ATA 3 - 1 TRI 1 - 0 GEN 1 - 0 LRV 1 - 0 ROM 1 - 0 PAD 3 - 2 INT 3 - 1 NAP 2 - 0 SAM 2 - 1 JUV 3 - 1 BOL 3 - 1 LAZ 1 - 0 TOR 3 - 2 SPA 2 - 1 FIO 2 - 1 UDI 2 - 1 MIL 1 - 0 PAL
+
+35,1957_58 Serie A.txt
+ATA 2 - 1 GEN 5 - 1 MIL 2 - 0 SAM 4 - 0 TOR 1 - 0 SPA 3 - 2 ALE 3 - 1 HEL 1 - 0 LAZ 3 - 1 INT 1 - 0 ROM 2 - 1 UDI 1 - 0 BOL 4 - 0 LRV 3 - 0 FIO 6 - 1 PAD 3 - 0 NAP 3 - 1 JUV 3 - 0 ATA
+
+36,1958_59 Serie A.txt
+TOR 1 - 0 TRI 2 - 0 ALE 2 - 0 SPA 2 - 1 UDI 3 - 1 BAR 2 - 1 NAP 4 - 2 BOL 2 - 1 GEN 4 - 2 LAZ 1 - 0 SAM 2 - 1 LRV 4 - 1 ROM 3 - 0 JUV 2 - 1 PAD 2 - 0 INT 1 - 0 MIL 3 - 1 FIO 4 - 0 TOR
+
+37,1959_60 Serie A.txt
+GEN 1 - 0 ALE 1 - 0 PAL 1 - 0 ATA 1 - 0 NAP 3 - 1 LRV 1 - 0 UDI 1 - 0 LAZ 3 - 1 SAM 1 - 0 BAR 5 - 2 PAD 6 - 3 SPA 2 - 1 ROM 3 - 1 INT 2 - 1 BOL 3 - 1 FIO 1 - 0 JUV 3 - 1 MIL 2 - 0 GEN
+
+38,1960_61 Serie A.txt
+LAZ 5 - 2 NAP 1 - 0 BAR 1 - 0 TOR 3 - 1 UDI 2 - 1 ATA 3 - 0 LCO 2 - 0 BOL 3 - 1 SPA 2 - 1 LRV 1 - 0 FIO 2 - 0 CTN 2 - 0 PAD 3 - 0 SAM 3 - 2 ROM 2 - 1 JUV 9 - 1 INT 1 - 0 MIL 1 - 0 LAZ
+
+39,1961_62 Serie A.txt
+UDI 5 - 1 LCO 4 - 1 VEN 2 - 0 LRV 1 - 0 PAD 3 - 1 CTN 2 - 0 SAM 1 - 0 JUV 2 - 1 SPA 2 - 1 MAN 2 - 0 ATA 2 - 0 TOR 3 - 0 PAL 1 - 0 BOL 3 - 1 ROM 1 - 0 FIO 4 - 1 INT 2 - 0 MIL 4 - 3 UDI
+
+40,1962_63 Serie A.txt
+PAL 2 - 1 VEN 4 - 1 MAN 2 - 0 GEN 3 - 2 NAP 3 - 2 CTN 3 - 2 MOD 1 - 0 SAM 2 - 0 ATA 1 - 0 SPA 2 - 0 TOR 1 - 0 LRV 1 - 0 ROM 3 - 0 INT 1 - 0 FIO 1 - 0 JUV 1 - 0 MIL 2 - 1 BOL 4 - 0 PAL
+
+41,1963_64 Bundesliga.txt
+SBR 3 - 0 BSC 2 - 0 MÜN 1 - 0 KAI 1 - 0 KAR 3 - 1 BRS 3 - 2 BRE 4 - 2 HAM 5 - 0 M60 5 - 0 NUR 2 - 0 MSV 3 - 0 S04 2 - 0 STU 2 - 1 DOR 3 - 0 FRA 2 - 1 KÖL 2 - 0 SBR
+
+42,1963_64 Serie A.txt
+BAR 1 - 0 SPA 5 - 2 MAN 3 - 0 MOD 1 - 0 ATA 3 - 0 CTN 1 - 0 LAZ 2 - 0 MES 2 - 1 ROM 3 - 0 TOR 2 - 1 GEN 1 - 0 SAM 3 - 1 LRV 2 - 0 FIO 2 - 1 JUV 4 - 1 INT 2 - 1 BOL 2 - 1 MIL 2 - 0 BAR
+
+43,1964_65 Bundesliga.txt
+S04 3 - 0 BSC 2 - 1 KAR 2 - 1 NKI 3 - 1 STU 3 - 1 BRS 3 - 2 FRA 2 - 1 HAM 3 - 2 KAI 3 - 2 NUR 1 - 0 H96 2 - 0 MSV 2 - 1 KÖL 3 - 2 M60 3 - 1 BRE 3 - 0 DOR 4 - 0 S04
+
+44,1964_65 Serie A.txt
+MES 1 - 0 ATA 2 - 1 MAN 2 - 0 GEN 1 - 0 LAZ 3 - 1 VAR 2 - 0 SAM 1 - 0 ROM 1 - 0 FOG 1 - 0 LRV 2 - 0 CTN 4 - 0 BOL 3 - 1 FIO 2 - 0 CAG 2 - 1 MIL 3 - 0 INT 2 - 0 JUV 3 - 0 TOR 1 - 0 MES
+
+45,1965_66 Bundesliga.txt
+TAB 2 - 0 KAR 1 - 0 KAI 4 - 1 NKI 1 - 0 S04 3 - 0 H96 2 - 1 MGL 1 - 0 BRS 1 - 0 STU 2 - 0 MSV 2 - 1 DOR 2 - 0 NUR 2 - 1 FRA 5 - 2 M60 2 - 1 KÖL 6 - 1 FCB 3 - 1 BRE 2 - 0 HAM 4 - 0 TAB
+
+46,1965_66 La Liga.txt
+Empty file!
+
+47,1965_66 Serie A.txt
+VAR 2 - 1 TOR 2 - 0 CTN 2 - 1 CAG 1 - 0 FOG 3 - 1 ATA 1 - 0 LAZ 2 - 1 LRV 2 - 1 SAM 1 - 0 SPA 2 - 0 ROM 1 - 0 MIL 3 - 0 BRE 4 - 0 JUV 1 - 0 FIO 4 - 0 NAP 1 - 0 BOL 2 - 1 INT 5 - 2 VAR
+
+48,1966_67 Bundesliga.txt
+RWE 3 - 1 KAR 3 - 2 DÜS 3 - 1 S04 2 - 1 DUI 1 - 0 BRE 5 - 1 HAM 3 - 1 STU 2 - 1 MGL 2 - 0 NUR 1 - 0 DOR 3 - 0 H96 2 - 1 KAI 1 - 0 FCB 4 - 2 KÖL 1 - 0 BRS 1 - 0 M60 2 - 1 FRA 5 - 0 RWE
+
+49,1966_67 La Liga.txt
+Empty file!
+
+50,1966_67 Serie A.txt
+LCO 2 - 1 VEN 3 - 0 BRE 1 - 0 LAZ 1 - 0 MAN 2 - 0 LRV 3 - 1 FOG 4 - 1 ATA 1 - 0 CAG 2 - 0 TOR 2 - 1 SPA 1 - 0 ROM 1 - 0 JUV 2 - 1 FIO 1 - 0 MIL 1 - 0 NAP 2 - 1 BOL 3 - 2 INT 2 - 0 LCO
+
+51,1967_68 Bundesliga.txt
+No cycles found!
+
+52,1967_68 La Liga.txt
+Empty file!
+
+53,1967_68 Serie A.txt
+MAN 1 - 0 BRE 1 - 0 ROM 1 - 0 SPA 1 - 0 SAM 1 - 0 LRV 4 - 1 ATA 1 - 0 BOL 2 - 1 CAG 2 - 0 TOR 4 - 0 JUV 3 - 0 VAR 2 - 1 MIL 2 - 0 FIO 3 - 0 NAP 2 - 1 INT 3 - 0 MAN
+
+54,1968_69 Bundesliga.txt
+NUR 3 - 0 BSC 2 - 1 H96 4 - 1 HAM 3 - 0 OFF 4 - 3 DOR 2 - 1 DUI 2 - 0 BRE 2 - 1 KAI 4 - 0 BRS 1 - 0 FRA 3 - 2 MGL 4 - 1 KÖL 2 - 0 S04 2 - 0 M60 3 - 1 STU 3 - 0 FCB 4 - 2 AAC 4 - 2 NUR
+
+55,1968_69 La Liga.txt
+Empty file!
+
+56,1968_69 Serie A.txt
+ATA 2 - 1 VAR 3 - 1 PIS 1 - 0 SAM 1 - 0 LRV 1 - 0 PAL 2 - 0 BOL 3 - 1 FIO 1 - 0 HEL 1 - 0 NAP 2 - 1 JUV 2 - 1 TOR 2 - 1 INT 4 - 0 CAG 3 - 1 MIL 1 - 0 ROM 2 - 0 ATA
+
+57,1969_70 Bundesliga.txt
+AAC 3 - 2 DUI 2 - 1 M60 1 - 0 BRS 1 - 0 BRE 2 - 1 RWE 1 - 0 H96 4 - 2 KAI 2 - 0 FRA 5 - 1 OBH 2 - 1 DOR 2 - 1 HAM 1 - 0 BSC 3 - 0 S04 1 - 0 KÖL 3 - 1 STU 2 - 1 FCB 1 - 0 MGL 3 - 0 AAC
+
+58,1969_70 La Liga.txt
+Empty file!
+
+59,1969_70 Serie A.txt
+BAR 2 - 0 BRE 4 - 2 PAL 1 - 0 BOL 2 - 1 ROM 2 - 1 NAP 2 - 1 HEL 1 - 0 LAZ 1 - 0 LRV 1 - 0 TOR 2 - 1 JUV 3 - 0 MIL 4 - 2 FIO 2 - 0 INT 1 - 0 CAG 4 - 0 SAM 1 - 0 BAR
+
+60,1970_71 Bundesliga.txt
+RWE 2 - 1 OFF 3 - 2 OBH 3 - 0 BRE 3 - 1 DOR 3 - 0 FRA 1 - 0 STU 1 - 0 BIE 1 - 0 KÖL 2 - 1 DUI 3 - 2 H96 2 - 1 KAI 2 - 0 HAM 2 - 1 BRS 2 - 1 BSC 4 - 2 MGL 3 - 1 FCB 3 - 0 S04 3 - 1 RWE
+
+61,1970_71 La Liga.txt
+Empty file!
+
+62,1970_71 Serie A.txt
+FIO 3 - 0 FOG 1 - 0 CTN 3 - 1 LAZ 1 - 0 SAM 2 - 1 VAR 2 - 0 HEL 1 - 0 LRV 3 - 2 TOR 4 - 0 ROM 1 - 0 CAG 2 - 1 BOL 1 - 0 JUV 4 - 1 NAP 2 - 1 INT 2 - 0 MIL 5 - 2 FIO
+
+63,1971_72 Bundesliga.txt
+DOR 1 - 0 BIE 2 - 0 DUI 1 - 0 OBH 2 - 0 DÜS 2 - 0 H96 3 - 0 BRS 4 - 2 BRE 4 - 0 HAM 3 - 0 STU 3 - 2 BOC 2 - 1 BSC 2 - 1 KAI 2 - 0 KÖL 4 - 3 MGL 6 - 2 FRA 3 - 2 FCB 5 - 1 S04 3 - 0 DOR
+
+64,1971_72 La Liga.txt
+Empty file!
+
+65,1971_72 Serie A.txt
+VAR 4 - 0 LRV 2 - 0 CTZ 1 - 0 BOL 1 - 0 HEL 1 - 0 MAN 1 - 0 ATA 3 - 1 NAP 2 - 1 SAM 1 - 0 ROM 3 - 1 INT 2 - 0 TOR 2 - 1 CAG 2 - 1 JUV 1 - 0 FIO 2 - 0 MIL 3 - 1 VAR
+
+66,1972_73 Bundesliga.txt
+BRS 3 - 2 H96 3 - 2 OBH 3 - 1 HAM 2 - 1 BOC 2 - 0 S04 1 - 0 DUI 2 - 1 BSC 2 - 1 BRE 5 - 1 KAI 3 - 1 OFF 3 - 0 FRA 2 - 1 DÜS 2 - 1 WUP 4 - 0 STU 3 - 1 KÖL 2 - 1 FCB 3 - 0 MGL 4 - 0 BRS
+
+67,1972_73 La Liga.txt
+Empty file!
+
+68,1972_73 Serie A.txt
+PAL 1 - 0 NAP 1 - 0 TER 2 - 1 HEL 1 - 0 ATA 1 - 0 ROM 3 - 1 SAM 2 - 1 BOL 4 - 2 CAG 3 - 0 LRV 1 - 0 TOR 4 - 0 INT 2 - 1 FIO 2 - 1 JUV 1 - 0 LAZ 2 - 1 MIL 4 - 0 PAL
+
+69,1973_74 Bundesliga.txt
+H96 3 - 1 BSC 3 - 0 WUP 2 - 0 BOC 2 - 0 FKÖ 2 - 0 RWE 3 - 1 BRE 3 - 1 KAI 2 - 1 DUI 4 - 0 OFF 2 - 1 STU 3 - 0 HAM 4 - 2 FRA 2 - 1 DÜS 3 - 0 KÖL 3 - 1 S04 2 - 0 MGL 5 - 0 FCB 5 - 1 H96
+
+70,1973_74 La Liga.txt
+Empty file!
+
+71,1973_74 Serie A.txt
+GEN 2 - 1 FOG 2 - 1 LRV 2 - 1 BOL 2 - 1 SAM 2 - 1 HEL 2 - 1 CES 1 - 0 MIL 1 - 0 CAG 1 - 0 FIO 1 - 0 ROM 3 - 2 JUV 2 - 0 INT 3 - 0 TOR 1 - 0 LAZ 1 - 0 NAP 2 - 1 GEN
+
+72,1974_75 Bundesliga.txt
+WUP 2 - 0 TBB 4 - 0 BRE 5 - 2 STU 3 - 2 RWE 3 - 0 DUI 3 - 2 KAI 1 - 0 BOC 1 - 0 BRS 3 - 1 FCB 4 - 0 DÜS 2 - 1 S04 2 - 0 OFF 1 - 0 KÖL 2 - 1 BSC 1 - 0 HAM 3 - 1 MGL 3 - 0 FRA 5 - 0 WUP
+
+73,1974_75 La Liga.txt
+Empty file!
+
+74,1974_75 Serie A.txt
+VAR 4 - 0 SAM 1 - 0 TER 1 - 0 CES 3 - 1 LRV 1 - 0 ASC 1 - 0 INT 1 - 0 CAG 2 - 1 FIO 1 - 0 BOL 1 - 0 NAP 1 - 0 TOR 5 - 1 LAZ 3 - 0 MIL 1 - 0 ROM 1 - 0 JUV 3 - 0 VAR
+
+75,1975_76 Bundesliga.txt
+UER 3 - 2 OFF 1 - 0 H96 4 - 1 BOC 2 - 0 BSC 2 - 1 S04 2 - 1 DÜS 3 - 0 BRE 1 - 0 KAR 2 - 0 FRA 6 - 1 BRS 3 - 1 DUI 4 - 0 RWE 5 - 1 KAI 2 - 0 HAM 2 - 1 KÖL 1 - 0 FCB 4 - 0 MGL 6 - 1 UER
+
+76,1975_76 La Liga.txt
+Empty file!
+
+77,1975_76 Serie A.txt
+ASC 2 - 1 LAZ 3 - 0 CAG 1 - 0 COM 2 - 1 HEL 4 - 1 SAM 1 - 0 ROM 1 - 0 PER 1 - 0 CES 2 - 1 MIL 3 - 1 BOL 2 - 1 FIO 2 - 1 NAP 3 - 1 INT 1 - 0 TOR 2 - 0 JUV 3 - 0 ASC
+
+78,1976_77 Bundesliga.txt
+TBB 4 - 2 KAR 3 - 0 SBR 2 - 1 RWE 5 - 3 DÜS 2 - 1 BOC 2 - 1 DUI 1 - 0 KAI 2 - 1 DOR 2 - 1 BSC 2 - 1 BRE 1 - 0 BRS 1 - 0 FCB 6 - 2 HAM 3 - 1 FRA 4 - 0 KÖL 2 - 0 S04 1 - 0 MGL 1 - 0 TBB
+
+79,1976_77 La Liga.txt
+Empty file!
+
+80,1976_77 Serie A.txt
+CES 1 - 0 CTZ 1 - 0 MIL 3 - 0 SAM 3 - 1 HEL 3 - 2 GEN 3 - 2 FOG 1 - 0 BOL 2 - 1 NAP 1 - 0 ROM 1 - 0 TOR 2 - 0 JUV 2 - 0 LAZ 1 - 0 FIO 3 - 0 INT 1 - 0 PER 3 - 0 CES
+
+81,1977_78 Bundesliga.txt
+STP 4 - 1 M60 2 - 0 SBR 2 - 1 FCB 3 - 1 BRE 1 - 0 BOC 1 - 0 DOR 1 - 0 BRS 4 - 0 HAM 2 - 0 S04 2 - 0 BSC 2 - 0 FRA 3 - 1 DUI 3 - 2 KAI 3 - 2 DÜS 1 - 0 STU 3 - 0 KÖL 5 - 2 MGL 2 - 1 STP
+
+82,1977_78 La Liga.txt
+Empty file!
+
+83,1977_78 Serie A.txt
+PES 2 - 1 BOL 2 - 1 GEN 2 - 1 FIO 1 - 0 NAP 3 - 0 HEL 3 - 1 FOG 2 - 1 ATA 2 - 0 LAZ 3 - 0 JUV 2 - 0 ROM 2 - 0 PER 2 - 0 TOR 1 - 0 MIL 3 - 1 INT 2 - 0 LRV 2 - 1 PES
+
+84,1978_79 Bundesliga.txt
+DAR 2 - 1 BOC 2 - 1 NUR 2 - 1 BSC 1 - 0 BRS 5 - 2 BIE 3 - 2 S04 2 - 1 BRE 3 - 2 DUI 2 - 0 MGL 1 - 0 DÜS 3 - 1 DOR 1 - 0 FCB 5 - 1 KÖL 4 - 1 STU 3 - 0 KAI 2 - 1 HAM 4 - 0 FRA 2 - 0 DAR
+
+85,1978_79 La Liga.txt
+Empty file!
+
+86,1978_79 Serie A.txt
+Empty file!
+
+87,1979_80 Bundesliga.txt
+BRS 3 - 1 BSC 1 - 0 M60 6 - 4 BRE 2 - 1 DUI 5 - 0 LEV 2 - 0 S04 1 - 0 MGL 3 - 2 UER 1 - 0 BOC 4 - 1 DÜS 2 - 1 DOR 3 - 1 KÖL 2 - 0 KAI 5 - 3 FRA 3 - 2 HAM 3 - 1 FCB 4 - 0 STU 2 - 0 BRS
+
+88,1979_80 La Liga.txt
+Empty file!
+
+89,1979_80 Serie A.txt
+Empty file!
+
+90,1980_81 Bundesliga.txt
+S04 3 - 1 UER 1 - 0 BOC 4 - 1 M60 4 - 2 KAR 2 - 1 BIE 2 - 1 DUI 2 - 1 DÜS 4 - 3 LEV 4 - 1 DOR 1 - 0 NUR 2 - 1 KÖL 5 - 0 FRA 2 - 1 MGL 1 - 0 KAI 4 - 2 FCB 2 - 1 STU 3 - 1 HAM 7 - 1 S04
+
+91,1980_81 La Liga.txt
+Empty file!
+
+92,1980_81 Serie A.txt
+Empty file!
+
+93,1981_82 Bundesliga.txt
+DAR 3 - 2 DUI 2 - 1 DÜS 2 - 0 KAR 3 - 2 NUR 3 - 2 LEV 3 - 1 BIE 2 - 0 BOC 2 - 0 BRS 2 - 0 STU 4 - 0 KAI 3 - 2 MGL 1 - 0 BRE 2 - 1 FRA 3 - 2 HAM 3 - 1 KÖL 1 - 0 DOR 2 - 0 FCB 2 - 1 DAR
+
+94,1981_82 La Liga.txt
+Empty file!
+
+95,1981_82 Serie A.txt
+Empty file!
+
+96,1982_83 Bundesliga.txt
+BSC 5 - 2 KAR 1 - 0 BOC 2 - 0 BRS 2 - 1 DÜS 3 - 1 S04 2 - 0 LEV 1 - 0 NUR 3 - 0 FRA 2 - 1 BIE 4 - 2 MGL 4 - 2 KAI 3 - 2 FCB 3 - 0 DOR 2 - 0 KÖL 2 - 1 BRE 3 - 2 HAM 2 - 0 STU 4 - 1 BSC
+
+97,1982_83 La Liga.txt
+Empty file!
+
+98,1982_83 Serie A.txt
+Empty file!
+
+99,1983_84 Bundesliga.txt
+NUR 4 - 0 OFF 2 - 1 FRA 1 - 0 BOC 1 - 0 WMA 4 - 1 DOR 6 - 0 DÜS 3 - 1 BIE 3 - 2 KAI 5 - 2 UER 2 - 1 BRS 1 - 0 STU 3 - 2 KÖL 2 - 0 LEV 2 - 0 HAM 4 - 0 BRE 3 - 2 FCB 4 - 0 MGL 2 - 0 NUR
+
+100,1983_84 La Liga.txt
+Empty file!
+
+101,1983_84 Serie A.txt
+Empty file!
+
+102,1984_85 Bundesliga.txt
+KAR 4 - 0 BIE 3 - 2 BRS 3 - 0 LEV 4 - 3 DÜS 3 - 1 FRA 2 - 1 DOR 3 - 0 BOC 3 - 0 KAI 2 - 1 STU 1 - 0 S04 4 - 0 WMA 3 - 1 HAM 1 - 0 MGL 5 - 1 KÖL 3 - 2 BRE 4 - 2 FCB 2 - 1 UER 4 - 0 KAR
+
+103,1984_85 La Liga.txt
+Empty file!
+
+104,1984_85 Serie A.txt
+Empty file!
+
+105,1985_86 Bundesliga.txt
+H96 2 - 0 SBR 3 - 1 FRA 2 - 1 DOR 5 - 1 KÖL 3 - 1 DÜS 4 - 1 WMA 3 - 0 S04 2 - 0 NUR 3 - 0 KAI 2 - 0 BOC 2 - 0 HAM 4 - 1 MGL 4 - 2 FCB 2 - 1 LEV 2 - 1 STU 4 - 1 UER 1 - 0 BRE 8 - 2 H96
+
+106,1985_86 French Division 1.txt
+Empty file!
+
+107,1985_86 La Liga.txt
+Empty file!
+
+108,1985_86 Serie A.txt
+Empty file!
+
+109,1986_87 Bundesliga.txt
+BWB 3 - 1 FRA 4 - 0 HOM 3 - 1 DÜS 2 - 0 WMA 3 - 0 NUR 1 - 0 BOC 2 - 1 UER 2 - 1 KÖL 3 - 2 S04 2 - 1 STU 2 - 1 DOR 2 - 0 KAI 1 - 0 MGL 2 - 0 LEV 3 - 0 FCB 3 - 2 BRE 2 - 1 HAM 3 - 1 BWB
+
+110,1986_87 Serie A.txt
+Empty file!
+
+111,1987_88 Bundesliga.txt
+WMA 2 - 0 S04 3 - 0 HOM 1 - 0 KAR 2 - 0 DOR 3 - 1 FRA 3 - 2 LEV 3 - 1 KAI 4 - 2 BOC 4 - 0 HAM 3 - 1 UER 1 - 0 H96 3 - 1 NUR 3 - 0 MGL 2 - 0 FCB 2 - 1 STU 1 - 0 BRE 2 - 1 KÖL 3 - 0 WMA
+
+112,1987_88 La Liga.txt
+MUR 2 - 0 SAB 2 - 0 MLL 3 - 0 ESP 3 - 1 VAL 2 - 0 LOG 2 - 1 ZAR 2 - 0 CÁD 2 - 0 LPA 4 - 0 VLD 1 - 0 BET 2 - 1 SEV 2 - 0 SPG 3 - 1 CEL 3 - 1 BAR 2 - 0 ATM 3 - 1 OSA 2 - 1 RMA 5 - 0 ATH 1 - 0 RSO 2 - 1 MUR
+
+113,1987_88 Serie A.txt
+Empty file!
+
+114,1988_89 Bundesliga.txt
+H96 3 - 1 BOC 1 - 0 FRA 1 - 0 NUR 5 - 3 STP 2 - 0 LEV 3 - 1 SKI 2 - 0 KAI 2 - 0 UER 1 - 0 KAR 2 - 1 WMA 2 - 1 DOR 3 - 1 STU 2 - 1 MGL 2 - 1 FCB 1 - 0 HAM 2 - 1 KÖL 2 - 1 BRE 1 - 0 H96
+
+115,1988_89 La Liga.txt
+ELC 3 - 0 MUR 1 - 0 ESP 2 - 0 LOG 3 - 1 BET 1 - 0 ROV 1 - 0 CÁD 2 - 0 MLG 1 - 0 RSO 2 - 1 OSA 1 - 0 CEL 2 - 0 RMA 5 - 1 SPG 4 - 1 ATH 3 - 2 BAR 4 - 0 SEV 1 - 0 VAL 1 - 0 ATM 3 - 1 ZAR 2 - 0 VLD 3 - 0 ELC
+
+116,1988_89 Serie A.txt
+Empty file!
+
+117,1989_90 Bundesliga.txt
+HOM 1 - 0 DÜS 7 - 0 STP 1 - 0 WMA 1 - 0 BRE 4 - 0 KAI 5 - 1 KAR 2 - 0 BOC 2 - 1 UER 1 - 0 MGL 3 - 0 NUR 2 - 0 HAM 1 - 0 STU 3 - 1 DOR 2 - 0 FRA 3 - 1 KÖL 2 - 0 LEV 1 - 0 FCB 3 - 1 HOM
+
+118,1989_90 La Liga.txt
+CEL 1 - 0 TEN 1 - 0 RVA 2 - 1 VLD 1 - 0 MLG 2 - 0 CÁD 1 - 0 CAS 1 - 0 ATH 1 - 0 SPG 3 - 0 MLL 2 - 0 ROV 2 - 0 OSA 2 - 0 ZAR 2 - 1 RSO 1 - 0 LOG 2 - 1 SEV 2 - 1 ATM 3 - 1 VAL 2 - 1 BAR 3 - 1 RMA 3 - 0 CEL
+
+119,1989_90 Serie A.txt
+Empty file!
+
+120,1990_91 Bundesliga.txt
+BSC 2 - 1 UER 2 - 0 STP 2 - 0 KAR 1 - 0 BOC 3 - 0 MGL 2 - 1 DOR 2 - 1 LEV 2 - 1 W09 2 - 0 DÜS 3 - 0 NUR 1 - 0 FRA 1 - 0 KÖL 1 - 0 BRE 1 - 0 FCB 4 - 0 KAI 2 - 0 STU 2 - 0 HAM 4 - 1 BSC
+
+121,1990_91 La Liga.txt
+BET 3 - 0 CÁD 1 - 0 MLL 1 - 0 CAS 4 - 2 VLD 1 - 0 RBU 2 - 0 RSO 1 - 0 ZAR 2 - 0 TEN 2 - 0 ESP 5 - 0 ROV 2 - 1 VAL 2 - 0 ATH 2 - 0 OSA 1 - 0 SEV 1 - 0 LOG 1 - 0 RMA 3 - 0 ATM 3 - 1 SPG 1 - 0 BAR 4 - 2 BET
+
+122,1990_91 Serie A.txt
+Empty file!
+
+123,1991_92 Bundesliga.txt
+DÜS 1 - 0 HAM 1 - 0 DUI 2 - 0 ROS 2 - 1 MGL 1 - 0 W09 4 - 1 SKI 2 - 0 BOC 1 - 0 S04 3 - 0 KÖL 3 - 1 BRE 2 - 0 DRE 2 - 1 FCB 1 - 0 KAI 2 - 1 LEV 1 - 0 FRA 2 - 0 KAR 1 - 0 NUR 4 - 3 STU 4 - 2 DOR 3 - 1 DÜS
+
+124,1991_92 La Liga.txt
+CÁD 1 - 0 DEP 1 - 0 VLD 2 - 1 MLL 1 - 0 ESP 3 - 2 OSA 2 - 0 TEN 4 - 1 RBU 2 - 0 ATH 1 - 0 LOG 1 - 0 SEV 2 - 1 SPG 1 - 0 ROV 2 - 0 RSO 1 - 0 ALB 1 - 0 VAL 1 - 0 BAR 3 - 1 ZAR 1 - 0 ATM 2 - 0 RMA 1 - 0 CÁD
+
+125,1991_92 Serie A.txt
+Empty file!
+
+126,1992_93 Bundesliga.txt
+SBR 2 - 0 KAI 3 - 1 DRE 2 - 1 W09 2 - 0 BOC 4 - 1 UER 2 - 1 NUR 1 - 0 HAM 3 - 0 KÖL 2 - 1 S04 1 - 0 STU 3 - 2 MGL 3 - 1 KAR 4 - 1 FRA 3 - 0 BRE 4 - 1 FCB 4 - 2 LEV 2 - 1 DOR 3 - 0 SBR
+
+127,1992_93 FA Premier League.txt
+NOT 2 - 1 MID 1 - 0 IPS 4 - 2 LEE 2 - 0 OLD 4 - 3 SOU 2 - 1 CRY 2 - 0 SHU 3 - 1 COV 2 - 1 WDN 1 - 0 ARS 2 - 1 CHE 2 - 1 EVE 5 - 2 MCI 3 - 0 SHW 2 - 0 TOT 2 - 0 LIV 1 - 0 QPR 2 - 1 AST 1 - 0 MUN 3 - 1 BLB 7 - 1 NOR 3 - 1 NOT
+
+128,1992_93 La Liga.txt
+RBU 1 - 0 LOG 1 - 0 CÁD 1 - 0 ESP 1 - 0 CEL 1 - 0 RVA 1 - 0 OSA 3 - 0 ALB 2 - 0 ROV 2 - 1 SPG 3 - 1 ZAR 1 - 0 ATM 3 - 2 TEN 1 - 0 RSO 1 - 0 ATH 2 - 1 SEV 2 - 0 RMA 2 - 0 VAL 3 - 0 DEP 1 - 0 BAR 4 - 1 RBU
+
+129,1992_93 Serie A.txt
+Empty file!
+
+130,1993_94 Bundesliga.txt
+LEI 1 - 0 KAR 2 - 0 W09 3 - 1 FRE 2 - 1 DRE 1 - 0 S04 1 - 0 BRE 1 - 0 NUR 1 - 0 STU 4 - 0 HAM 1 - 0 DUI 2 - 0 MGL 4 - 0 KÖL 2 - 0 DOR 1 - 0 LEV 2 - 1 FCB 2 - 1 FRA 1 - 0 KAI 1 - 0 LEI
+
+131,1993_94 FA Premier League.txt
+SWI 2 - 1 TOT 2 - 0 MCI 1 - 0 SHU 2 - 1 OLD 2 - 1 NOR 1 - 0 IPS 1 - 0 SOU 3 - 1 CHE 4 - 2 EVE 1 - 0 WHU 3 - 2 COV 1 - 0 LIV 2 - 1 AST 4 - 1 QPR 1 - 0 WDN 4 - 1 BLB 2 - 0 MUN 2 - 0 LEE 2 - 1 ARS 2 - 1 NEW 4 - 2 SHW 1 - 0 SWI
+
+132,1993_94 La Liga.txt
+LLE 1 - 0 VLD 2 - 1 OSA 3 - 1 ALB 4 - 1 CEL 2 - 0 LOG 2 - 1 ROV 5 - 0 RVA 4 - 1 RSO 2 - 1 ATM 2 - 0 VAL 1 - 0 RAC 1 - 0 SEV 1 - 0 SPG 2 - 1 RMA 2 - 1 ATH 3 - 2 TEN 5 - 3 ZAR 6 - 3 BAR 3 - 0 DEP 2 - 0 LLE
+
+133,1993_94 Serie A.txt
+Empty file!
+
+134,1994_95 Bundesliga.txt
+DRE 4 - 2 DUI 2 - 0 UER 2 - 1 BOC 5 - 1 S04 1 - 0 M60 1 - 0 KAR 2 - 0 HAM 3 - 1 FRA 2 - 0 LEV 3 - 1 STU 1 - 0 FRE 4 - 2 KÖL 3 - 1 FCB 3 - 0 MGL 4 - 0 KAI 1 - 0 DOR 2 - 0 BRE 1 - 0 DRE
+
+135,1994_95 FA Premier League.txt
+LEI 2 - 0 IPS 2 - 0 COV 1 - 0 NOR 1 - 0 CRY 1 - 0 EVE 1 - 0 CHE 1 - 0 AST 2 - 1 SHW 3 - 1 ARS 3 - 0 MCI 3 - 0 WHU 2 - 0 SOU 2 - 0 WDN 2 - 1 TOT 4 - 2 NEW 2 - 1 QPR 3 - 2 LEE 1 - 0 LIV 1 - 0 NOT 2 - 1 MUN 4 - 2 BLB 3 - 0 LEI
+
+136,1994_95 La Liga.txt
+LOG 1 - 0 CEL 2 - 0 SPG 2 - 1 ALB 1 - 0 VLD 2 - 0 COM 2 - 1 ATM 2 - 1 RSO 3 - 1 ROV 3 - 1 RAC 2 - 1 TEN 1 - 0 ATH 2 - 1 VAL 2 - 1 BET 3 - 1 ESP 2 - 0 ZAR 2 - 1 BAR 1 - 0 RMA 2 - 1 DEP 5 - 1 SEV 2 - 0 LOG
+
+137,1994_95 Serie A.txt
+Empty file!
+
+138,1995_96 Bundesliga.txt
+UER 3 - 0 LEV 2 - 0 FRA 3 - 1 KAI 2 - 0 DÜS 2 - 0 STP 2 - 0 FRE 2 - 0 KÖL 1 - 0 BRE 2 - 0 M60 3 - 2 STU 3 - 0 HAM 2 - 1 MGL 3 - 2 ROS 2 - 0 KAR 5 - 0 DOR 2 - 1 S04 2 - 1 FCB 2 - 0 UER
+
+139,1995_96 FA Premier League.txt
+COV 2 - 1 BOL 2 - 1 SHW 3 - 0 QPR 1 - 0 MCI 2 - 1 SOU 2 - 1 WDN 2 - 1 MID 2 - 0 CHE 4 - 1 LEE 2 - 0 WHU 1 - 0 NOT 2 - 1 TOT 2 - 1 ARS 2 - 0 EVE 1 - 0 AST 2 - 0 BLB 2 - 1 NEW 2 - 1 LIV 2 - 0 MUN 4 - 0 COV
+
+140,1995_96 La Liga.txt
+Empty file!
+
+141,1995_96 Serie A.txt
+Empty file!
+
+142,1996_97 Bundesliga.txt
+STP 2 - 0 FRE 2 - 1 BIE 1 - 0 DÜS 1 - 0 S04 2 - 0 HAM 1 - 0 ROS 1 - 0 DUI 4 - 2 MGL 2 - 1 KÖL 4 - 1 KAR 3 - 0 M60 3 - 0 LEV 2 - 0 BOC 3 - 2 BRE 3 - 0 FCB 4 - 2 STU 4 - 1 DOR 2 - 1 STP
+
+143,1996_97 FA Premier League.txt
+NOT 3 - 0 COV 3 - 0 MID 2 - 1 BLB 2 - 0 EVE 7 - 1 SOU 3 - 0 SUN 2 - 0 DER 1 - 0 WHU 1 - 0 LEI 1 - 0 LEE 1 - 0 WDN 1 - 0 TOT 1 - 0 AST 1 - 0 LIV 5 - 1 CHE 2 - 0 SHW 2 - 1 NEW 5 - 0 MUN 2 - 1 ARS 2 - 0 NOT
+
+144,1996_97 La Liga.txt
+Empty file!
+
+145,1996_97 Serie A.txt
+REA 4 - 2 HEL 2 - 0 NAP 4 - 2 PER 3 - 2 CAG 1 - 0 PIA 3 - 1 ATA 2 - 0 ROM 3 - 0 MIL 2 - 0 FIO 2 - 0 BOL 2 - 1 SAM 2 - 1 VIC 1 - 0 INT 1 - 0 UDI 1 - 0 LAZ 2 - 1 PAR 1 - 0 JUV 3 - 1 REA
+
+146,1997_98 Bundesliga.txt
+BIE 2 - 1 KAR 3 - 1 KÖL 3 - 2 MGL 2 - 1 BOC 2 - 1 DOR 3 - 0 DUI 3 - 0 HAM 2 - 0 BSC 2 - 0 M60 2 - 1 WOL 1 - 0 BRE 2 - 1 S04 2 - 1 LEV 3 - 0 KAI 2 - 0 FCB 3 - 0 STU 2 - 1 ROS 1 - 0 BIE
+
+147,1997_98 FA Premier League.txt
+CRY 2 - 1 EVE 3 - 2 BOL 1 - 0 WDN 4 - 1 BAR 2 - 0 COV 4 - 0 TOT 2 - 0 NEW 2 - 1 SHW 1 - 0 LEI 4 - 0 DER 4 - 0 SOU 3 - 0 BLB 3 - 0 WHU 2 - 1 AST 1 - 0 LEE 3 - 1 CHE 4 - 1 LIV 1 - 0 ARS 3 - 2 MUN 3 - 0 CRY
+
+148,1997_98 La Liga.txt
+SPG 1 - 0 ESP 1 - 0 COM 3 - 0 MER 2 - 1 ROV 1 - 0 TEN 2 - 0 SAL 4 - 1 DEP 4 - 1 RAC 3 - 1 RSO 3 - 0 VLD 4 - 0 ZAR 2 - 0 MLL 3 - 2 ATM 3 - 1 VAL 3 - 0 ATH 2 - 1 CEL 2 - 0 BET 3 - 1 BAR 3 - 0 RMA 3 - 0 SPG
+
+149,1997_98 Serie A.txt
+NAP 2 - 0 VIC 1 - 0 LCE 2 - 0 BRE 1 - 0 ATA 2 - 0 BAR 1 - 0 PIA 3 - 2 EMP 4 - 1 SAM 2 - 0 FIO 2 - 1 PAR 2 - 1 BOL 2 - 1 LAZ 2 - 0 UDI 1 - 0 INT 1 - 0 JUV 3 - 1 ROM 5 - 0 MIL 2 - 1 NAP
+
+150,1998_99 Bundesliga.txt
+MGL 3 - 1 FRE 2 - 1 BOC 2 - 0 BRE 2 - 0 FRA 3 - 2 NUR 3 - 0 S04 1 - 0 ROS 3 - 0 STU 3 - 1 HAM 3 - 0 M60 2 - 0 DOR 2 - 0 DUI 6 - 1 WOL 2 - 1 KAI 4 - 3 BSC 1 - 0 FCB 2 - 1 LEV 4 - 1 MGL
+
+151,1998_99 FA Premier League.txt
+NOT 2 - 1 BLB 1 - 0 CHA 2 - 0 WDN 2 - 1 COV 3 - 0 EVE 1 - 0 NEW 4 - 0 SOU 2 - 1 LEI 2 - 1 TOT 1 - 0 DER 2 - 1 MID 4 - 0 SHW 1 - 0 LIV 4 - 2 AST 3 - 2 ARS 3 - 0 MUN 4 - 1 WHU 1 - 0 CHE 1 - 0 LEE 3 - 1 NOT
+
+152,1998_99 French Division 1.txt
+Empty file!
+
+153,1998_99 La Liga.txt
+SAL 1 - 0 VIL 2 - 1 RAC 3 - 0 EXT 1 - 0 TEN 1 - 0 ROV 1 - 0 ALV 2 - 0 ATM 6 - 1 VLD 2 - 0 ESP 1 - 0 BET 1 - 0 RSO 3 - 1 ATH 2 - 0 ZAR 3 - 1 DEP 2 - 1 CEL 4 - 2 MLL 2 - 1 RMA 3 - 1 VAL 4 - 2 BAR 4 - 1 SAL
+
+154,1998_99 Serie A.txt
+EMP 1 - 0 VIC 1 - 0 BAR 3 - 1 SAM 1 - 0 SAL 4 - 0 BOL 1 - 0 CAG 3 - 2 PIA 2 - 0 PER 1 - 0 VEN 3 - 1 INT 4 - 1 ROM 2 - 0 JUV 2 - 1 FIO 2 - 1 PAR 4 - 0 MIL 1 - 0 LAZ 3 - 1 UDI 3 - 1 EMP
+
+155,1999_2000 Bundesliga.txt
+DUI 1 - 0 BIE 3 - 1 DOR 3 - 0 ROS 1 - 0 S04 2 - 0 FRA 2 - 1 ULM 1 - 0 UHA 1 - 0 FRE 2 - 1 BRE 7 - 2 WOL 2 - 1 M60 2 - 1 BSC 2 - 1 KAI 1 - 0 STU 1 - 0 FCB 4 - 1 LEV 2 - 0 HAM 6 - 1 DUI
+
+156,1999_2000 FA Premier League.txt
+WAT 1 - 0 SHW 5 - 1 WDN 3 - 2 BRA 1 - 0 DER 1 - 0 EVE 4 - 1 SOU 1 - 0 COV 2 - 1 MID 2 - 1 TOT 3 - 1 NEW 1 - 0 AST 1 - 0 LEE 1 - 0 WHU 3 - 1 LEI 5 - 2 SUN 4 - 1 CHE 5 - 0 MUN 3 - 2 LIV 1 - 0 ARS 1 - 0 WAT
+
+157,1999_2000 La Liga.txt
+SEV 2 - 1 ATM 2 - 0 RAC 3 - 1 ROV 1 - 0 NUM 2 - 1 BET 1 - 0 RSO 4 - 1 ATH 4 - 3 MLG 2 - 0 ESP 3 - 1 MLL 1 - 0 CEL 3 - 1 VLD 1 - 0 RMA 3 - 2 RVA 1 - 0 ALV 2 - 0 VAL 2 - 1 ZAR 2 - 1 DEP 2 - 1 BAR 2 - 0 SEV
+
+158,1999_2000 Serie A.txt
+CAG 3 - 0 PIA 2 - 1 BAR 3 - 0 VEN 2 - 0 REG 2 - 1 TOR 2 - 1 BOL 2 - 0 LCE 2 - 1 HEL 2 - 0 PER 2 - 1 PAR 2 - 0 FIO 2 - 1 MIL 4 - 0 UDI 3 - 0 INT 2 - 1 ROM 4 - 1 LAZ 1 - 0 JUV 1 - 0 CAG
+
+159,2000_01 Bundesliga.txt
+BOC 3 - 0 UHA 2 - 0 FRA 2 - 1 STU 1 - 0 COT 4 - 2 HAM 2 - 1 ROS 2 - 1 KÖL 4 - 0 M60 1 - 0 WOL 3 - 2 BRE 3 - 1 FRE 5 - 2 KAI 3 - 2 S04 3 - 1 FCB 1 - 0 LEV 3 - 1 DOR 2 - 0 BSC 4 - 0 BOC
+
+160,2000_01 FA Premier League.txt
+BRA 2 - 1 COV 2 - 1 MCI 1 - 0 WHU 1 - 0 MID 4 - 0 DER 1 - 0 EVE 3 - 0 CHA 1 - 0 TOT 3 - 0 LEI 1 - 0 SOU 2 - 0 AST 2 - 1 IPS 1 - 0 NEW 3 - 1 LEE 2 - 0 SUN 4 - 2 CHE 3 - 0 LIV 4 - 0 ARS 1 - 0 MUN 3 - 0 BRA
+
+161,2000_01 La Liga.txt
+VLD 2 - 0 ZAR 3 - 1 NUM 1 - 0 OSA 1 - 0 ATH 3 - 1 RAC 2 - 0 ROV 2 - 0 RVA 4 - 1 RSO 1 - 0 ALV 1 - 0 LPA 1 - 0 ESP 2 - 1 VIL 2 - 0 CEL 1 - 0 MLG 3 - 0 VAL 4 - 0 MLL 2 - 1 DEP 3 - 2 BAR 2 - 0 RMA 2 - 1 VLD
+
+162,2000_01 Serie A.txt
+BAR 3 - 2 LCE 3 - 1 VIC 2 - 1 NAP 2 - 1 FIO 2 - 0 HEL 2 - 1 ATA 2 - 0 BRE 1 - 0 PER 2 - 0 REG 2 - 1 BOL 2 - 1 MIL 3 - 0 UDI 3 - 0 INT 2 - 0 ROM 2 - 1 PAR 2 - 0 LAZ 4 - 1 JUV 1 - 0 BAR
+
+163,2001_02 FA Premier League.txt
+LEI 3 - 2 DER 3 - 1 BOL 4 - 1 IPS 1 - 0 FUL 2 - 0 SUN 1 - 0 EVE 2 - 1 CHA 3 - 1 TOT 1 - 0 BLB 3 - 0 AST 2 - 1 SOU 3 - 1 MID 2 - 0 WHU 2 - 1 CHE 2 - 0 LEE 2 - 1 ARS 2 - 1 LIV 3 - 0 NEW 4 - 3 MUN 1 - 0 LEI
+
+164,2001_02 La Liga.txt
+LPA 3 - 1 TEN 2 - 0 OSA 1 - 0 ZAR 1 - 0 MLL 2 - 1 ESP 3 - 1 VIL 1 - 0 RSO 2 - 1 MLG 2 - 0 SEV 2 - 1 RVA 1 - 0 VLD 4 - 1 ATH 3 - 2 CEL 3 - 1 BET 1 - 0 ALV 2 - 0 BAR 3 - 2 DEP 3 - 0 RMA 1 - 0 VAL 1 - 0 LPA
+
+165,2001_02 Serie A.txt
+VEN 2 - 0 FIO 1 - 0 BRE 3 - 1 LCE 2 - 1 PIA 3 - 1 TOR 5 - 1 HEL 1 - 0 UDI 5 - 1 ATA 4 - 1 PAR 2 - 1 PER 3 - 1 MIL 3 - 2 CHV 3 - 1 LAZ 4 - 2 INT 3 - 1 ROM 2 - 0 JUV 2 - 1 BOL 1 - 0 VEN
+
+166,2002_03 FA Premier League.txt
+SUN 1 - 0 AST 2 - 1 WBA 1 - 0 WHU 1 - 0 FUL 4 - 1 BOL 4 - 2 BIR 3 - 0 MID 3 - 2 LEE 6 - 1 CHA 2 - 1 SOU 1 - 0 TOT 3 - 2 MCI 3 - 1 EVE 1 - 0 BLB 1 - 0 MUN 2 - 0 ARS 1 - 0 NEW 1 - 0 LIV 1 - 0 CHE 3 - 0 SUN
+
+167,2002_03 La Liga.txt
+RVA 2 - 1 MLG 1 - 0 ALV 3 - 0 REC 5 - 0 VIL 4 - 3 ATM 2 - 1 ESP 1 - 0 VLD 1 - 0 RAC 1 - 0 SEV 2 - 0 OSA 2 - 1 BET 1 - 0 ATH 2 - 1 CEL 3 - 1 MLL 2 - 1 BAR 3 - 1 VAL 2 - 1 DEP 2 - 1 RSO 4 - 2 RMA 3 - 2 RVA
+
+168,2002_03 Serie A.txt
+TOR 2 - 1 BOL 1 - 0 COM 1 - 0 PIA 2 - 0 ATA 2 - 0 BRE 3 - 1 PER 2 - 0 MOD 2 - 1 REG 1 - 0 EMP 2 - 1 CHV 1 - 0 ROM 2 - 1 PAR 2 - 1 LAZ 2 - 1 UDI 1 - 0 MIL 2 - 1 JUV 3 - 0 INT 1 - 0 TOR
+
+170,2003_04 La Liga.txt
+MUR 2 - 1 VLD 3 - 1 RSO 5 - 2 CEL 1 - 0 OSA 2 - 0 ALB 4 - 0 RAC 2 - 1 ATH 2 - 1 BET 2 - 1 ESP 2 - 0 MLL 2 - 0 ZAR 1 - 0 MLG 2 - 0 SEV 2 - 0 ATM 1 - 0 VIL 1 - 0 DEP 2 - 0 RMA 2 - 1 BAR 1 - 0 VAL 2 - 0 MUR
+
+171,2003_04 Serie A.txt
+ANC 2 - 1 EMP 1 - 0 PER 2 - 1 REG 2 - 1 MOD 2 - 0 BOL 3 - 1 SIE 2 - 1 LCE 2 - 1 BRE 2 - 1 LAZ 2 - 1 SAM 1 - 0 UDI 2 - 1 MIL 1 - 0 ROM 4 - 1 PAR 1 - 0 INT 3 - 2 JUV 2 - 1 CHV 2 - 0 ANC
+
+172,2004_05 FA Premier League.txt
+SOU 4 - 3 NOR 3 - 2 WBA 2 - 0 POR 1 - 0 CRY 1 - 0 BIR 2 - 1 BLB 1 - 0 CHA 3 - 0 AST 4 - 2 NEW 3 - 1 FUL 2 - 0 TOT 1 - 0 MCI 1 - 0 CHE 2 - 0 MID 2 - 0 LIV 1 - 0 BOL 1 - 0 ARS 7 - 0 EVE 1 - 0 MUN 3 - 0 SOU
+
+173,2004_05 La Liga.txt
+ALB 3 - 1 LEV 3 - 1 NUM 1 - 0 GET 2 - 0 RAC 2 - 1 MLL 3 - 0 DEP 2 - 1 ATH 4 - 3 OSA 1 - 0 RSO 3 - 2 ATM 1 - 0 VAL 2 - 0 MLG 3 - 2 ESP 3 - 1 ZAR 1 - 0 BET 1 - 0 SEV 2 - 1 VIL 3 - 0 BAR 3 - 0 RMA 2 - 1 ALB
+
+174,2004_05 Serie A.txt
+ATA 2 - 0 BOL 1 - 0 CAG 1 - 0 FIO 4 - 0 LCE 1 - 0 BRE 3 - 2 SIE 3 - 1 CHV 2 - 0 PAR 1 - 0 REG 2 - 1 LAZ 3 - 1 LIV 3 - 1 MES 1 - 0 UDI 5 - 1 PAL 2 - 0 SAM 1 - 0 JUV 1 - 0 MIL 1 - 0 INT 2 - 0 ROM 1 - 0 ATA
+
+175,2005_06 Bundesliga.txt
+DUI 1 - 0 WOL 4 - 2 H96 1 - 0 KÖL 1 - 0 MAI 2 - 0 KAI 2 - 0 BIE 1 - 0 FRA 2 - 0 STU 1 - 0 NUR 1 - 0 MGL 2 - 1 DOR 2 - 0 BSC 2 - 1 LEV 2 - 0 HAM 1 - 0 S04 2 - 1 BRE 3 - 0 FCB 3 - 1 DUI
+
+176,2005_06 FA Premier League.txt
+SUN 1 - 0 WBA 2 - 1 POR 1 - 0 MID 3 - 0 BIR 1 - 0 FUL 2 - 1 CHA 1 - 0 WIG 2 - 0 AST 4 - 0 EVE 1 - 0 MCI 2 - 1 WHU 2 - 1 TOT 1 - 0 BOL 2 - 0 NEW 3 - 0 BLB 4 - 3 MUN 1 - 0 CHE 2 - 0 ARS 2 - 1 LIV 1 - 0 SUN
+
+177,2005_06 La Liga.txt
+MLG 5 - 0 BET 3 - 0 ALV 2 - 1 RAC 2 - 0 ESP 2 - 0 MLL 2 - 1 CÁD 2 - 1 ZAR 3 - 2 ATH 3 - 0 RSO 2 - 0 VIL 3 - 1 ATM 3 - 2 DEP 1 - 0 GET 2 - 1 VAL 1 - 0 CEL 3 - 2 RMA 4 - 2 SEV 3 - 2 BAR 3 - 0 OSA 2 - 1 MLG
+
+178,2005_06 Serie A.txt
+Empty file!
+
+179,2006_07 Bundesliga.txt
+MAI 3 - 0 MGL 3 - 1 WOL 1 - 0 HAM 4 - 0 AAC 2 - 0 BIE 3 - 0 FRA 1 - 0 COT 1 - 0 BSC 4 - 0 H96 4 - 2 DOR 3 - 2 FCB 2 - 1 BOC 4 - 1 LEV 2 - 0 NUR 4 - 1 STU 3 - 0 S04 2 - 0 BRE 2 - 0 MAI
+
+180,2006_07 FA Premier League.txt
+WAT 2 - 0 MID 3 - 1 CHA 1 - 0 WIG 1 - 0 FUL 1 - 0 SHU 1 - 0 NEW 3 - 1 AST 2 - 0 MCI 2 - 0 WHU 2 - 1 BLB 3 - 0 POR 2 - 0 EVE 1 - 0 BOL 3 - 1 ARS 2 - 1 MUN 3 - 2 REA 3 - 1 TOT 2 - 1 CHE 1 - 0 LIV 2 - 0 WAT
+
+181,2006_07 La Liga.txt
+GIM 2 - 0 ATH 2 - 0 RSO 1 - 0 BET 1 - 0 CEL 1 - 0 DEP 3 - 1 ESP 2 - 0 OSA 4 - 1 LEV 2 - 0 RAC 1 - 0 GET 1 - 0 MLL 2 - 1 REC 1 - 0 ATM 3 - 1 VIL 3 - 2 ZAR 2 - 1 SEV 2 - 1 RMA 2 - 1 VAL 2 - 1 BAR 3 - 0 GIM
+
+182,2006_07 Ligue 1.txt
+Empty file!
+
+183,2006_07 Serie A.txt
+MES 2 - 1 CHV 1 - 0 ASC 2 - 1 CAG 1 - 0 CTN 3 - 2 LIV 3 - 0 PAR 1 - 0 SIE 1 - 0 TOR 2 - 1 ATA 3 - 2 UDI 1 - 0 SAM 1 - 0 REG 4 - 1 EMP 2 - 0 PAL 2 - 0 MIL 2 - 1 LAZ 3 - 0 ROM 3 - 1 INT 3 - 2 FIO 4 - 0 MES
+
+184,2007_08 Bundesliga.txt
+NUR 2 - 0 DUI 2 - 0 BIE 4 - 2 ROS 3 - 2 COT 2 - 0 KAR 3 - 1 DOR 2 - 1 BOC 2 - 1 H96 2 - 1 FRA 3 - 0 BSC 2 - 1 LEV 2 - 1 WOL 4 - 0 STU 3 - 1 FCB 1 - 0 S04 1 - 0 BRE 2 - 1 HAM 1 - 0 NUR
+
+185,2007_08 La Liga.txt
+MUR 2 - 1 ZAR 3 - 0 LEV 1 - 0 BET 3 - 2 GET 3 - 1 REC 1 - 0 OSA 2 - 0 ATH 2 - 0 VLD 1 - 0 ESP 1 - 0 DEP 3 - 1 RAC 1 - 0 ALM 1 - 0 VAL 2 - 0 MLL 1 - 0 ATM 4 - 2 BAR 2 - 1 SEV 2 - 0 RMA 3 - 2 VIL 1 - 0 MUR
+
+186,2007_08 Ligue 1.txt
+MET 3 - 2 RCS 2 - 1 RCL 3 - 2 SOC 2 - 1 TFC 2 - 1 PSG 1 - 0 AUX 5 - 3 LOR 2 - 1 ASM 1 - 0 LIL 3 - 0 VAL 3 - 0 CAE 1 - 0 NIC 1 - 0 NAL 2 - 0 REN 3 - 0 MFC 3 - 2 STE 1 - 0 OM 2 - 1 OL 3 - 1 BOR 3 - 0 MET
+
+187,2007_08 Premier League.txt
+DER 1 - 0 NEW 2 - 1 BIR 1 - 0 BOL 1 - 0 MID 2 - 1 FUL 3 - 1 REA 2 - 1 WIG 3 - 0 SUN 1 - 0 TOT 4 - 0 WHU 1 - 0 BLB 1 - 0 MCI 1 - 0 MUN 1 - 0 LIV 2 - 1 AST 2 - 0 CHE 2 - 1 ARS 1 - 0 EVE 3 - 1 POR 3 - 1 DER
+
+188,2007_08 Serie A.txt
+LIV 1 - 0 CTN 1 - 0 EMP 1 - 0 TOR 3 - 1 REG 2 - 1 PAR 2 - 1 PAL 1 - 0 CAG 1 - 0 SIE 3 - 1 GEN 2 - 1 ATA 2 - 1 LAZ 2 - 1 NAP 3 - 1 UDI 3 - 2 SAM 2 - 1 MIL 2 - 1 INT 4 - 1 ROM 1 - 0 FIO 3 - 2 JUV 5 - 1 LIV
+
+189,2008_09 Bundesliga.txt
+BIE 1 - 0 KAR 1 - 0 BOC 3 - 2 COT 3 - 1 MGL 4 - 2 KÖL 1 - 0 BRE 5 - 0 FRA 4 - 0 H96 1 - 0 S04 1 - 0 BSC 1 - 0 LEV 4 - 1 HOF 4 - 1 DOR 2 - 0 HAM 2 - 0 STU 4 - 1 WOL 5 - 1 FCB 1 - 0 BIE
+
+190,2008_09 La Liga.txt
+REC 1 - 0 BET 4 - 2 NUM 2 - 0 GET 3 - 0 OSA 2 - 1 ATH 2 - 1 RAC 3 - 0 ESP 1 - 0 VLD 2 - 0 ALM 2 - 1 MLL 1 - 0 SPG 2 - 1 MLG 2 - 0 VIL 1 - 0 DEP 2 - 1 RMA 1 - 0 VAL 3 - 1 ATM 4 - 3 BAR 4 - 0 SEV 1 - 0 REC
+
+191,2008_09 Ligue 1.txt
+HAC 1 - 0 CAE 3 - 0 NAN 1 - 0 GRE 2 - 1 MFC 2 - 0 NAL 2 - 0 VAL 3 - 1 LOR 3 - 1 STE 2 - 1 SOC 3 - 0 ASM 3 - 1 REN 1 - 0 NIC 1 - 0 AUX 2 - 0 LIL 2 - 0 OL 3 - 0 TFC 1 - 0 PSG 4 - 2 OM 1 - 0 BOR 4 - 0 HAC
+
+192,2008_09 Premier League.txt
+MID 3 - 1 HUL 2 - 1 NEW 2 - 1 WBA 3 - 0 SUN 2 - 1 BLB 2 - 0 POR 1 - 0 BOL 3 - 1 STK 2 - 0 WIG 1 - 0 TOT 2 - 1 LIV 1 - 0 FUL 3 - 1 MCI 3 - 0 ARS 2 - 1 MUN 3 - 0 CHE 1 - 0 AST 3 - 2 EVE 3 - 1 WHU 2 - 1 MID
+
+193,2008_09 Serie A.txt
+LCE 2 - 0 CHV 2 - 1 REG 2 - 1 BOL 5 - 2 TOR 2 - 1 CTN 2 - 0 SAM 1 - 0 ATA 3 - 1 NAP 2 - 0 SIE 2 - 0 CAG 4 - 1 LAZ 1 - 0 PAL 3 - 2 UDI 3 - 1 ROM 1 - 0 FIO 1 - 0 GEN 3 - 2 JUV 4 - 2 MIL 1 - 0 INT 1 - 0 LCE
+
+194,2009_10 Bundesliga.txt
+BSC 3 - 0 FRE 2 - 1 BOC 1 - 0 NUR 3 - 1 H96 1 - 0 KÖL 2 - 0 HOF 4 - 2 MGL 2 - 1 FRA 2 - 0 MAI 1 - 0 HAM 4 - 2 WOL 2 - 1 S04 2 - 0 LEV 4 - 0 STU 2 - 1 FCB 3 - 1 DOR 2 - 1 BRE 3 - 2 BSC
+
+195,2009_10 La Liga.txt
+MLG 3 - 0 RAC 3 - 2 XER 3 - 0 VLD 2 - 0 SPG 1 - 0 ALM 1 - 0 ZAR 3 - 1 TEN 4 - 1 ESP 2 - 1 OSA 3 - 0 ATM 2 - 1 BAR 3 - 0 DEP 3 - 1 ATH 3 - 2 VIL 3 - 2 GET 3 - 0 MLL 3 - 2 VAL 2 - 0 SEV 2 - 1 RMA 2 - 0 MLG
+
+196,2009_10 Ligue 1.txt
+GRE 2 - 0 BOU 1 - 0 STE 2 - 0 MFC 1 - 0 PSG 4 - 1 SOC 1 - 0 NIC 1 - 0 TFC 2 - 0 RCL 2 - 1 NAL 3 - 1 VAL 3 - 0 REN 1 - 0 ASM 2 - 0 LOR 1 - 0 BOR 1 - 0 MHS 2 - 1 OL 3 - 0 AUX 3 - 2 LIL 3 - 2 OM 2 - 0 GRE
+
+197,2009_10 Premier League.txt
+HUL 2 - 1 WIG 3 - 1 BUR 2 - 1 WHU 2 - 0 POR 3 - 1 WOL 2 - 1 BOL 2 - 1 STK 1 - 0 SUN 3 - 1 BIR 1 - 0 FUL 3 - 0 BLB 1 - 0 AST 3 - 1 LIV 2 - 0 EVE 2 - 0 MCI 4 - 2 ARS 3 - 0 TOT 2 - 1 CHE 1 - 0 MUN 3 - 1 HUL
+
+198,2009_10 Serie A.txt
+LIV 1 - 0 ATA 2 - 0 SIE 1 - 0 BOL 2 - 1 UDI 4 - 2 CTN 2 - 1 CAG 1 - 0 LAZ 2 - 1 CHV 2 - 1 FIO 2 - 1 BAR 3 - 0 GEN 3 - 2 PAR 3 - 2 NAP 3 - 2 JUV 5 - 1 SAM 2 - 1 MIL 2 - 1 ROM 2 - 1 INT 5 - 3 PAL 2 - 1 LIV
+
+199,2010_11 Bundesliga.txt
+STP 2 - 1 MGL 1 - 0 FRA 3 - 1 WOL 1 - 0 BRE 2 - 1 HOF 2 - 0 S04 2 - 1 FRE 1 - 0 HAM 4 - 2 STU 3 - 1 KÖL 1 - 0 NUR 2 - 0 KAI 2 - 0 FCB 3 - 1 MAI 1 - 0 LEV 2 - 0 DOR 4 - 1 H96 1 - 0 STP
+
+200,2010_11 La Liga.txt
+ALM 2 - 1 HÉR 1 - 0 DEP 2 - 1 LEV 2 - 0 GET 3 - 0 SPG 4 - 0 MLL 1 - 0 ZAR 2 - 1 MLG 4 - 1 RAC 4 - 1 OSA 3 - 1 RSO 2 - 1 BAR 5 - 0 RMA 1 - 0 ESP 2 - 1 SEV 2 - 0 VAL 2 - 1 ATM 3 - 1 VIL 1 - 0 ATH 3 - 1 ALM
+
+201,2010_11 Ligue 1.txt
+ACAA 1 - 0 RCL 2 - 0 CAE 2 - 0 AUX 2 - 0 NIC 3 - 2 ASM 1 - 0 BOR 3 - 1 BRS 1 - 0 VAL 2 - 1 TFC 3 - 0 LOR 2 - 1 STE 2 - 1 MHS 2 - 1 NAL 2 - 0 PSG 1 - 0 OL 3 - 2 OM 3 - 1 LIL 3 - 2 REN 2 - 1 SOC 3 - 1 ACAA
+
+202,2010_11 Premier League.txt
+WHU 3 - 1 WIG 2 - 1 BIR 2 - 0 BLP 2 - 0 NEW 4 - 1 WOL 1 - 0 AST 4 - 1 BLB 1 - 0 BOL 2 - 0 WBA 2 - 1 FUL 3 - 0 SUN 2 - 0 STK 2 - 0 EVE 2 - 1 TOT 2 - 0 LIV 1 - 0 CHE 2 - 0 ARS 1 - 0 MUN 2 - 1 MCI 2 - 1 WHU
+
+203,2010_11 Serie A.txt
+BAR 2 - 1 BRE 1 - 0 SAM 3 - 1 BOL 2 - 0 CES 1 - 0 CHV 1 - 0 LCE 1 - 0 PAR 2 - 0 CTN 2 - 0 CAG 1 - 0 GEN 1 - 0 PAL 2 - 1 FIO 5 - 2 UDI 2 - 1 JUV 2 - 0 ROM 1 - 0 MIL 3 - 0 NAP 4 - 3 LAZ 3 - 1 INT 3 - 0 BAR
+
+204,2011_12 Bundesliga.txt
+KAI 2 - 1 BSC 3 - 0 KÖL 3 - 0 AUG 1 - 0 HAM 2 - 1 FRE 2 - 1 NUR 3 - 2 HOF 4 - 0 MAI 3 - 0 BRE 3 - 0 H96 2 - 1 DOR 5 - 1 WOL 3 - 2 LEV 1 - 0 STU 3 - 0 S04 1 - 0 MGL 1 - 0 FCB 2 - 0 KAI
+
+205,2011_12 La Liga.txt
+RAC 1 - 0 VIL 3 - 2 SPG 3 - 0 ESP 2 - 1 ATH 2 - 0 RSO 1 - 0 GRA 1 - 0 GET 1 - 0 BET 4 - 3 ZAR 1 - 0 ATM 1 - 0 OSA 2 - 0 LEV 1 - 0 RMA 2 - 1 BAR 2 - 0 SEV 3 - 1 MLL 1 - 0 RVA 2 - 0 MLG 1 - 0 VAL 4 - 3 RAC
+
+206,2011_12 Ligue 1.txt
+AUX 4 - 0 BRS 3 - 1 LOR 2 - 0 ACA 2 - 1 DIJ 2 - 0 CAE 2 - 1 SOC 2 - 0 NIC 2 - 0 VAL 1 - 0 NAL 3 - 2 STE 2 - 1 EVI 2 - 0 OM 2 - 1 REN 1 - 0 BOR 2 - 0 TFC 3 - 0 OL 2 - 1 LIL 2 - 1 PSG 3 - 0 MHS 2 - 1 AUX
+
+207,2011_12 Premier League.txt
+WOL 2 - 1 BLB 3 - 2 QPR 1 - 0 STK 1 - 0 NOR 2 - 0 AST 2 - 1 BOL 3 - 1 WIG 2 - 1 SUN 2 - 0 SWA 3 - 0 WBA 1 - 0 LIV 2 - 0 EVE 4 - 0 FUL 5 - 2 NEW 2 - 0 CHE 2 - 1 MCI 1 - 0 MUN 3 - 0 TOT 2 - 1 ARS 3 - 0 WOL
+
+209,2012_13 Bundesliga.txt
+GRF 1 - 0 MAI 1 - 0 DÜS 2 - 0 AUG 3 - 1 BRE 4 - 1 HOF 2 - 1 NUR 1 - 0 WOL 3 - 1 MGL 1 - 0 H96 4 - 2 STU 2 - 1 FRA 2 - 1 FRE 1 - 0 HAM 3 - 1 S04 2 - 1 DOR 3 - 2 LEV 2 - 1 FCB 2 - 0 GRF
+
+210,2012_13 La Liga.txt
+DEP 1 - 0 MLL 1 - 0 CEL 2 - 1 ZAR 3 - 1 OSA 3 - 0 ESP 4 - 0 ATH 1 - 0 GRA 2 - 0 GET 2 - 1 VLD 2 - 0 LEV 1 - 0 SEV 5 - 1 BET 3 - 0 MLG 3 - 2 RMA 2 - 0 RVA 1 - 0 VAL 2 - 0 ATM 1 - 0 RSO 3 - 2 BAR 2 - 0 DEP
+
+211,2012_13 Ligue 1.txt
+BRS 2 - 1 TRO 1 - 0 ACA 2 - 0 EVI 2 - 1 REI 2 - 1 NAL 2 - 1 SOC 1 - 0 LOR 4 - 1 BAS 4 - 3 VAL 4 - 1 REN 2 - 0 TFC 2 - 0 MHS 1 - 0 BOR 1 - 0 NIC 2 - 0 LIL 2 - 1 STE 2 - 1 PSG 1 - 0 OL 4 - 1 OM 2 - 1 BRS
+
+212,2012_13 Premier League.txt
+QPR 2 - 1 SOU 2 - 0 REA 2 - 1 SUN 1 - 0 WIG 3 - 0 AST 3 - 1 STK 1 - 0 NOR 4 - 3 SWA 2 - 1 FUL 2 - 1 NEW 2 - 1 WBA 2 - 0 EVE 2 - 0 WHU 3 - 1 CHE 2 - 1 ARS 2 - 0 LIV 3 - 2 TOT 3 - 1 MCI 2 - 1 MUN 3 - 1 QPR
+
+213,2012_13 Serie A.txt
+PAL 2 - 0 SAM 3 - 2 PES 2 - 0 GEN 2 - 0 BOL 2 - 1 ATA 2 - 1 SIE 2 - 0 INT 2 - 0 TOR 2 - 0 CHV 2 - 0 CAG 1 - 0 LAZ 2 - 1 PAR 3 - 2 ROM 1 - 0 FIO 2 - 0 CTN 3 - 1 UDI 2 - 1 MIL 1 - 0 JUV 2 - 0 NAP 3 - 0 PAL
+
+214,2013_14 Bundesliga.txt
+NUR 2 - 1 BRS 4 - 2 HAM 3 - 0 FRE 4 - 1 FRA 2 - 1 STU 1 - 0 BSC 3 - 2 BRE 3 - 1 HOF 4 - 1 H96 2 - 1 AUG 2 - 1 MAI 2 - 0 WOL 3 - 1 MGL 2 - 1 S04 2 - 1 LEV 1 - 0 DOR 3 - 0 FCB 2 - 0 NUR
+
+215,2013_14 La Liga.txt
+BET 4 - 3 VLD 1 - 0 ALM 1 - 0 OSA 2 - 1 ELC 2 - 1 ESP 1 - 0 GRA 1 - 0 LEV 2 - 0 ATM 7 - 0 GET 1 - 0 MLG 5 - 0 RVA 1 - 0 VAL 2 - 1 CEL 2 - 0 VIL 2 - 1 RSO 2 - 0 ATH 1 - 0 BAR 3 - 2 SEV 2 - 1 RMA 5 - 0 BET
+
+216,2013_14 Ligue 1.txt
+ACA 3 - 2 VAL 1 - 0 EVI 3 - 0 SOC 1 - 0 GUI 2 - 0 REN 3 - 0 BAS 2 - 0 MHS 3 - 1 NIC 1 - 0 REI 1 - 0 BOR 3 - 2 LOR 2 - 1 NAN 1 - 0 OM 4 - 2 OL 1 - 0 PSG 2 - 0 TFC 2 - 1 STE 2 - 0 LIL 2 - 0 ASM 4 - 1 ACA
+
+217,2013_14 Premier League.txt
+CAR 1 - 0 WBA 1 - 0 NOR 1 - 0 HUL 6 - 0 FUL 2 - 1 AST 1 - 0 SUN 1 - 0 STK 3 - 1 WHU 2 - 0 SWA 2 - 0 CRY 3 - 2 EVE 3 - 2 NEW 2 - 0 CHE 3 - 1 SOU 1 - 0 LIV 3 - 2 MCI 4 - 1 MUN 1 - 0 ARS 1 - 0 TOT 1 - 0 CAR
+
+218,2013_14 Serie A.txt
+BOL 1 - 0 LIV 2 - 0 CTN 2 - 0 CHV 1 - 0 CAG 2 - 1 GEN 2 - 0 SAS 4 - 3 SAM 3 - 0 UDI 3 - 1 PAR 4 - 0 ATA 2 - 1 INT 4 - 1 LAZ 1 - 0 FIO 1 - 0 NAP 2 - 0 JUV 3 - 0 ROM 2 - 1 TOR 3 - 1 HEL 2 - 1 MIL 1 - 0 BOL
+
+219,2014_15 Bundesliga.txt
+FRE 2 - 0 BSC 2 - 0 PAD 2 - 1 H96 2 - 0 HAM 2 - 1 MAI 2 - 0 KÖL 2 - 0 STU 3 - 2 BRE 1 - 0 FRA 3 - 1 HOF 2 - 1 S04 2 - 1 DOR 3 - 2 AUG 2 - 1 MGL 3 - 0 LEV 2 - 0 FCB 2 - 1 WOL 2 - 1 FRE
+
+220,2014_15 La Liga.txt
+CÓR 2 - 0 GRA 2 - 1 DEP 2 - 0 EIB 5 - 2 ALM 1 - 0 GET 1 - 0 ELC 1 - 0 LEV 4 - 1 MLG 1 - 0 RSO 1 - 0 ESP 1 - 0 CEL 6 - 1 RVA 2 - 1 ATH 4 - 0 VIL 1 - 0 ATM 4 - 0 RMA 3 - 1 BAR 2 - 0 VAL 3 - 1 SEV 3 - 1 CÓR
+
+221,2014_15 Ligue 1.txt
+MET 3 - 1 RCL 1 - 0 NAN 2 - 0 EVI 2 - 1 BAS 1 - 0 TFC 1 - 0 LOR 2 - 1 CAE 4 - 1 REI 1 - 0 REN 2 - 1 NIC 7 - 2 GUI 2 - 1 LIL 2 - 1 MHS 2 - 0 OM 3 - 1 BOR 3 - 2 PSG 5 - 0 STE 3 - 0 OL 2 - 1 ASM 1 - 0 MET
+
+222,2014_15 Premier League.txt
+BUR 1 - 0 HUL 3 - 1 SUN 1 - 0 NEW 1 - 0 QPR 2 - 0 AST 2 - 1 LEI 3 - 2 WBA 2 - 0 CRY 3 - 2 EVE 2 - 1 WHU 3 - 1 SWA 2 - 0 STK 6 - 1 LIV 2 - 1 SOU 1 - 0 MUN 2 - 1 ARS 2 - 0 MCI 4 - 1 TOT 5 - 3 CHE 3 - 1 BUR
+
+223,2014_15 Serie A.txt
+CES 1 - 0 PAR 3 - 2 CHV 2 - 0 CAG 4 - 0 EMP 3 - 0 PAL 3 - 1 UDI 2 - 0 ATA 2 - 1 SAS 2 - 1 HEL 1 - 0 TOR 5 - 1 SAM 1 - 0 INT 3 - 1 GEN 1 - 0 JUV 3 - 1 MIL 2 - 0 NAP 2 - 0 ROM 2 - 1 LAZ 2 - 0 FIO 4 - 1 CES
+
+224,2015_16 Bundesliga.txt
+HOF 1 - 0 H96 1 - 0 BRE 2 - 1 AUG 4 - 0 STU 2 - 0 DAR 1 - 0 FRA 6 - 2 KÖL 2 - 1 HAM 1 - 0 ING 1 - 0 MAI 2 - 0 WOL 2 - 1 LEV 5 - 0 MGL 3 - 1 FCB 5 - 1 DOR 3 - 2 S04 2 - 1 BSC 1 - 0 HOF
+
+225,2015_16 La Liga.txt
+LEV 2 - 1 RVA 2 - 1 GRA 2 - 1 GET 4 - 0 LPA 2 - 0 RSO 2 - 1 EIB 2 - 0 SPG 3 - 2 DEP 2 - 1 RBS 1 - 0 MLG 2 - 0 CEL 2 - 1 VIL 1 - 0 ATM 3 - 0 SEV 2 - 1 BAR 4 - 0 RMA 2 - 1 ATH 2 - 1 ESP 1 - 0 VAL 3 - 0 LEV
+
+226,2015_16 Ligue 1.txt

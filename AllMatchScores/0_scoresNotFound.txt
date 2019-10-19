@@ -1,0 +1,95 @@
+1934_35 French Division 1
+1935_36 French Division 1
+1936_37 French Division 1
+1937_38 French Division 1
+1938_39 French Division 1
+1940_41 La Liga
+1941_42 La Liga
+1942_43 La Liga
+1943_44 La Liga
+1944_45 La Liga
+1945_46 French Division 1
+1945_46 La Liga
+1946_47 French Division 1
+1946_47 La Liga
+1947_48 French Division 1
+1947_48 La Liga
+1948_49 French Division 1
+1948_49 La Liga
+1949_50 French Division 1
+1949_50 La Liga
+1950_51 French Division 1
+1950_51 La Liga
+1950_51 Serie A
+1951_52 French Division 1
+1951_52 La Liga
+1952_53 French Division 1
+1952_53 La Liga
+1953_54 French Division 1
+1953_54 La Liga
+1954_55 French Division 1
+1954_55 La Liga
+1955_56 French Division 1
+1955_56 La Liga
+1956_57 French Division 1
+1956_57 La Liga
+1957_58 French Division 1
+1957_58 La Liga
+1958_59 French Division 1
+1958_59 La Liga
+1959_60 French Division 1
+1959_60 La Liga
+1960_61 French Division 1
+1960_61 La Liga
+1961_62 French Division 1
+1961_62 La Liga
+1962_63 French Division 1
+1962_63 La Liga
+1963_64 French Division 1
+1963_64 La Liga
+1964_65 French Division 1
+1964_65 La Liga
+1965_66 French Division 1
+1966_67 French Division 1
+1967_68 French Division 1
+1968_69 French Division 1
+1969_70 French Division 1
+1970_71 French Division 1
+1971_72 French Division 1
+1972_73 French Division 1
+1973_74 French Division 1
+1974_75 French Division 1
+1975_76 French Division 1
+1976_77 French Division 1
+1977_78 French Division 1
+1978_79 French Division 1
+1979_80 French Division 1
+1980_81 French Division 1
+1981_82 French Division 1
+1982_83 French Division 1
+1983_84 French Division 1
+1984_85 French Division 1
+1986_87 French Division 1
+1986_87 La Liga
+1987_88 French Division 1
+1988_89 French Division 1
+1989_90 French Division 1
+1990_91 French Division 1
+1991_92 French Division 1
+1992_93 French Division 1
+1993_94 French Division 1
+1994_95 French Division 1
+1995_96 French Division 1
+1996_97 French Division 1
+1997_98 French Division 1
+1999_2000 French Division 1
+2000_01 French Division 1
+2001_02 Bundesliga
+2001_02 French Division 1
+2002_03 Bundesliga
+2002_03 Ligue 1
+2003_04 Bundesliga
+2003_04 Ligue 1
+2004_05 Bundesliga
+2004_05 Ligue 1
+2005_06 Ligue 1

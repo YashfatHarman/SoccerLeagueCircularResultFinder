@@ -1,0 +1,382 @@
+0 , Almería , 0-1 , Athletic Bilbao
+1 , Almería , 0-1 , Atlético Madrid
+2 , Almería , 1-2 , Barcelona
+3 , Almería , 2-2 , Celta Vigo
+4 , Almería , 1-1 , Córdoba
+5 , Almería , 0-0 , Deportivo La Coruña
+6 , Almería , 2-0 , Eibar
+7 , Almería , 2-2 , Elche
+8 , Almería , 1-1 , Espanyol
+9 , Almería , 1-0 , Getafe
+10 , Almería , 3-0 , Granada
+11 , Almería , 1-4 , Levante
+12 , Almería , 1-2 , Málaga
+13 , Almería , 0-1 , Rayo Vallecano
+14 , Almería , 1-4 , Real Madrid
+15 , Almería , 2-2 , Real Sociedad
+16 , Almería , 0-2 , Sevilla
+17 , Almería , 2-3 , Valencia
+18 , Almería , 0-0 , Villarreal
+19 , Athletic Bilbao , 2-1 , Almería
+20 , Athletic Bilbao , 1-4 , Atlético Madrid
+21 , Athletic Bilbao , 2-5 , Barcelona
+22 , Athletic Bilbao , 1-1 , Celta Vigo
+23 , Athletic Bilbao , 0-1 , Córdoba
+24 , Athletic Bilbao , 1-1 , Deportivo La Coruña
+25 , Athletic Bilbao , 0-0 , Eibar
+26 , Athletic Bilbao , 1-2 , Elche
+27 , Athletic Bilbao , 3-1 , Espanyol
+28 , Athletic Bilbao , 4-0 , Getafe
+29 , Athletic Bilbao , 0-1 , Granada
+30 , Athletic Bilbao , 3-0 , Levante
+31 , Athletic Bilbao , 1-1 , Málaga
+32 , Athletic Bilbao , 1-0 , Rayo Vallecano
+33 , Athletic Bilbao , 1-0 , Real Madrid
+34 , Athletic Bilbao , 1-1 , Real Sociedad
+35 , Athletic Bilbao , 1-0 , Sevilla
+36 , Athletic Bilbao , 1-1 , Valencia
+37 , Athletic Bilbao , 4-0 , Villarreal
+38 , Atlético Madrid , 3-0 , Almería
+39 , Atlético Madrid , 0-0 , Athletic Bilbao
+40 , Atlético Madrid , 0-1 , Barcelona
+41 , Atlético Madrid , 2-2 , Celta Vigo
+42 , Atlético Madrid , 4-2 , Córdoba
+43 , Atlético Madrid , 2-0 , Deportivo La Coruña
+44 , Atlético Madrid , 2-1 , Eibar
+45 , Atlético Madrid , 3-0 , Elche
+46 , Atlético Madrid , 2-0 , Espanyol
+47 , Atlético Madrid , 2-0 , Getafe
+48 , Atlético Madrid , 2-0 , Granada
+49 , Atlético Madrid , 3-1 , Levante
+50 , Atlético Madrid , 3-1 , Málaga
+51 , Atlético Madrid , 3-1 , Rayo Vallecano
+52 , Atlético Madrid , 4-0 , Real Madrid
+53 , Atlético Madrid , 2-0 , Real Sociedad
+54 , Atlético Madrid , 4-0 , Sevilla
+55 , Atlético Madrid , 1-1 , Valencia
+56 , Atlético Madrid , 0-1 , Villarreal
+57 , Barcelona , 4-0 , Almería
+58 , Barcelona , 2-0 , Athletic Bilbao
+59 , Barcelona , 3-1 , Atlético Madrid
+60 , Barcelona , 0-1 , Celta Vigo
+61 , Barcelona , 5-0 , Córdoba
+62 , Barcelona , 2-2 , Deportivo La Coruña
+63 , Barcelona , 3-0 , Eibar
+64 , Barcelona , 3-0 , Elche
+65 , Barcelona , 5-1 , Espanyol
+66 , Barcelona , 6-0 , Getafe
+67 , Barcelona , 6-0 , Granada
+68 , Barcelona , 5-0 , Levante
+69 , Barcelona , 0-1 , Málaga
+70 , Barcelona , 6-1 , Rayo Vallecano
+71 , Barcelona , 2-1 , Real Madrid
+72 , Barcelona , 2-0 , Real Sociedad
+73 , Barcelona , 5-1 , Sevilla
+74 , Barcelona , 2-0 , Valencia
+75 , Barcelona , 3-2 , Villarreal
+76 , Celta Vigo , 0-1 , Almería
+77 , Celta Vigo , 1-2 , Athletic Bilbao
+78 , Celta Vigo , 2-0 , Atlético Madrid
+79 , Celta Vigo , 0-1 , Barcelona
+80 , Celta Vigo , 1-0 , Córdoba
+81 , Celta Vigo , 2-1 , Deportivo La Coruña
+82 , Celta Vigo , 0-1 , Eibar
+83 , Celta Vigo , 1-1 , Elche
+84 , Celta Vigo , 3-2 , Espanyol
+85 , Celta Vigo , 3-1 , Getafe
+86 , Celta Vigo , 0-0 , Granada
+87 , Celta Vigo , 3-0 , Levante
+88 , Celta Vigo , 1-0 , Málaga
+89 , Celta Vigo , 6-1 , Rayo Vallecano
+90 , Celta Vigo , 2-4 , Real Madrid
+91 , Celta Vigo , 2-2 , Real Sociedad
+92 , Celta Vigo , 1-1 , Sevilla
+93 , Celta Vigo , 1-1 , Valencia
+94 , Celta Vigo , 1-3 , Villarreal
+95 , Córdoba , 1-2 , Almería
+96 , Córdoba , 0-1 , Athletic Bilbao
+97 , Córdoba , 0-2 , Atlético Madrid
+98 , Córdoba , 0-8 , Barcelona
+99 , Córdoba , 1-1 , Celta Vigo
+100 , Córdoba , 0-0 , Deportivo La Coruña
+101 , Córdoba , 1-1 , Eibar
+102 , Córdoba , 0-2 , Elche
+103 , Córdoba , 0-0 , Espanyol
+104 , Córdoba , 1-2 , Getafe
+105 , Córdoba , 2-0 , Granada
+106 , Córdoba , 0-0 , Levante
+107 , Córdoba , 1-2 , Málaga
+108 , Córdoba , 1-2 , Rayo Vallecano
+109 , Córdoba , 1-2 , Real Madrid
+110 , Córdoba , 1-1 , Real Sociedad
+111 , Córdoba , 1-3 , Sevilla
+112 , Córdoba , 1-2 , Valencia
+113 , Córdoba , 0-2 , Villarreal
+114 , Deportivo La Coruña , 0-1 , Almería
+115 , Deportivo La Coruña , 1-0 , Athletic Bilbao
+116 , Deportivo La Coruña , 1-2 , Atlético Madrid
+117 , Deportivo La Coruña , 0-4 , Barcelona
+118 , Deportivo La Coruña , 0-2 , Celta Vigo
+119 , Deportivo La Coruña , 1-1 , Córdoba
+120 , Deportivo La Coruña , 2-0 , Eibar
+121 , Deportivo La Coruña , 1-0 , Elche
+122 , Deportivo La Coruña , 0-0 , Espanyol
+123 , Deportivo La Coruña , 1-2 , Getafe
+124 , Deportivo La Coruña , 2-2 , Granada
+125 , Deportivo La Coruña , 2-0 , Levante
+126 , Deportivo La Coruña , 0-1 , Málaga
+127 , Deportivo La Coruña , 2-2 , Rayo Vallecano
+128 , Deportivo La Coruña , 2-8 , Real Madrid
+129 , Deportivo La Coruña , 0-0 , Real Sociedad
+130 , Deportivo La Coruña , 3-4 , Sevilla
+131 , Deportivo La Coruña , 3-0 , Valencia
+132 , Deportivo La Coruña , 1-1 , Villarreal
+133 , Eibar , 5-2 , Almería
+134 , Eibar , 0-1 , Athletic Bilbao
+135 , Eibar , 1-3 , Atlético Madrid
+136 , Eibar , 0-2 , Barcelona
+137 , Eibar , 0-1 , Celta Vigo
+138 , Eibar , 3-0 , Córdoba
+139 , Eibar , 0-1 , Deportivo La Coruña
+140 , Eibar , 0-1 , Elche
+141 , Eibar , 0-2 , Espanyol
+142 , Eibar , 2-1 , Getafe
+143 , Eibar , 1-1 , Granada
+144 , Eibar , 3-3 , Levante
+145 , Eibar , 1-0 , Málaga
+146 , Eibar , 1-2 , Rayo Vallecano
+147 , Eibar , 0-4 , Real Madrid
+148 , Eibar , 1-0 , Real Sociedad
+149 , Eibar , 1-3 , Sevilla
+150 , Eibar , 0-1 , Valencia
+151 , Eibar , 1-1 , Villarreal
+152 , Elche , 1-0 , Almería
+153 , Elche , 2-3 , Athletic Bilbao
+154 , Elche , 0-2 , Atlético Madrid
+155 , Elche , 0-6 , Barcelona
+156 , Elche , 0-1 , Celta Vigo
+157 , Elche , 2-2 , Córdoba
+158 , Elche , 4-0 , Deportivo La Coruña
+159 , Elche , 0-2 , Eibar
+160 , Elche , 2-1 , Espanyol
+161 , Elche , 0-1 , Getafe
+162 , Elche , 1-1 , Granada
+163 , Elche , 1-0 , Levante
+164 , Elche , 1-2 , Málaga
+165 , Elche , 2-0 , Rayo Vallecano
+166 , Elche , 0-2 , Real Madrid
+167 , Elche , 1-0 , Real Sociedad
+168 , Elche , 0-2 , Sevilla
+169 , Elche , 0-4 , Valencia
+170 , Elche , 2-2 , Villarreal
+171 , Espanyol , 3-0 , Almería
+172 , Espanyol , 1-0 , Athletic Bilbao
+173 , Espanyol , 0-0 , Atlético Madrid
+174 , Espanyol , 0-2 , Barcelona
+175 , Espanyol , 1-0 , Celta Vigo
+176 , Espanyol , 1-0 , Córdoba
+177 , Espanyol , 0-0 , Deportivo La Coruña
+178 , Espanyol , 1-2 , Eibar
+179 , Espanyol , 1-1 , Elche
+180 , Espanyol , 2-0 , Getafe
+181 , Espanyol , 2-1 , Granada
+182 , Espanyol , 2-1 , Levante
+183 , Espanyol , 2-2 , Málaga
+184 , Espanyol , 1-1 , Rayo Vallecano
+185 , Espanyol , 1-4 , Real Madrid
+186 , Espanyol , 2-0 , Real Sociedad
+187 , Espanyol , 1-2 , Sevilla
+188 , Espanyol , 1-2 , Valencia
+189 , Espanyol , 1-1 , Villarreal
+190 , Getafe , 1-0 , Almería
+191 , Getafe , 1-2 , Athletic Bilbao
+192 , Getafe , 0-1 , Atlético Madrid
+193 , Getafe , 0-0 , Barcelona
+194 , Getafe , 2-1 , Celta Vigo
+195 , Getafe , 1-1 , Córdoba
+196 , Getafe , 2-1 , Deportivo La Coruña
+197 , Getafe , 1-1 , Eibar
+198 , Getafe , 0-0 , Elche
+199 , Getafe , 2-1 , Espanyol
+200 , Getafe , 1-2 , Granada
+201 , Getafe , 0-1 , Levante
+202 , Getafe , 1-0 , Málaga
+203 , Getafe , 1-2 , Rayo Vallecano
+204 , Getafe , 0-3 , Real Madrid
+205 , Getafe , 0-1 , Real Sociedad
+206 , Getafe , 2-1 , Sevilla
+207 , Getafe , 0-3 , Valencia
+208 , Getafe , 1-1 , Villarreal
+209 , Granada , 0-0 , Almería
+210 , Granada , 0-0 , Athletic Bilbao
+211 , Granada , 0-0 , Atlético Madrid
+212 , Granada , 1-3 , Barcelona
+213 , Granada , 1-1 , Celta Vigo
+214 , Granada , 2-0 , Córdoba
+215 , Granada , 2-1 , Deportivo La Coruña
+216 , Granada , 0-0 , Eibar
+217 , Granada , 1-0 , Elche
+218 , Granada , 1-2 , Espanyol
+219 , Granada , 1-1 , Getafe
+220 , Granada , 0-1 , Levante
+221 , Granada , 1-0 , Málaga
+222 , Granada , 0-1 , Rayo Vallecano
+223 , Granada , 0-4 , Real Madrid
+224 , Granada , 1-1 , Real Sociedad
+225 , Granada , 1-1 , Sevilla
+226 , Granada , 1-1 , Valencia
+227 , Granada , 0-0 , Villarreal
+228 , Levante , 2-1 , Almería
+229 , Levante , 0-2 , Athletic Bilbao
+230 , Levante , 2-2 , Atlético Madrid
+231 , Levante , 0-5 , Barcelona
+232 , Levante , 0-1 , Celta Vigo
+233 , Levante , 1-0 , Córdoba
+234 , Levante , 0-0 , Deportivo La Coruña
+235 , Levante , 2-1 , Eibar
+236 , Levante , 0-0 , Elche
+237 , Levante , 2-2 , Espanyol
+238 , Levante , 1-1 , Getafe
+239 , Levante , 2-1 , Granada
+240 , Levante , 4-1 , Málaga
+241 , Levante , 0-2 , Rayo Vallecano
+242 , Levante , 0-5 , Real Madrid
+243 , Levante , 1-1 , Real Sociedad
+244 , Levante , 1-2 , Sevilla
+245 , Levante , 2-1 , Valencia
+246 , Levante , 0-2 , Villarreal
+247 , Málaga , 1-2 , Almería
+248 , Málaga , 1-0 , Athletic Bilbao
+249 , Málaga , 2-2 , Atlético Madrid
+250 , Málaga , 0-0 , Barcelona
+251 , Málaga , 1-0 , Celta Vigo
+252 , Málaga , 2-0 , Córdoba
+253 , Málaga , 1-1 , Deportivo La Coruña
+254 , Málaga , 2-1 , Eibar
+255 , Málaga , 1-2 , Elche
+256 , Málaga , 0-2 , Espanyol
+257 , Málaga , 3-2 , Getafe
+258 , Málaga , 2-1 , Granada
+259 , Málaga , 0-0 , Levante
+260 , Málaga , 4-0 , Rayo Vallecano
+261 , Málaga , 1-2 , Real Madrid
+262 , Málaga , 1-1 , Real Sociedad
+263 , Málaga , 2-3 , Sevilla
+264 , Málaga , 1-0 , Valencia
+265 , Málaga , 1-1 , Villarreal
+266 , Rayo Vallecano , 2-0 , Almería
+267 , Rayo Vallecano , 2-1 , Athletic Bilbao
+268 , Rayo Vallecano , 0-0 , Atlético Madrid
+269 , Rayo Vallecano , 0-2 , Barcelona
+270 , Rayo Vallecano , 1-0 , Celta Vigo
+271 , Rayo Vallecano , 0-1 , Córdoba
+272 , Rayo Vallecano , 1-2 , Deportivo La Coruña
+273 , Rayo Vallecano , 2-3 , Eibar
+274 , Rayo Vallecano , 2-3 , Elche
+275 , Rayo Vallecano , 1-3 , Espanyol
+276 , Rayo Vallecano , 2-0 , Getafe
+277 , Rayo Vallecano , 3-1 , Granada
+278 , Rayo Vallecano , 4-2 , Levante
+279 , Rayo Vallecano , 1-0 , Málaga
+280 , Rayo Vallecano , 0-2 , Real Madrid
+281 , Rayo Vallecano , 2-4 , Real Sociedad
+282 , Rayo Vallecano , 0-1 , Sevilla
+283 , Rayo Vallecano , 1-1 , Valencia
+284 , Rayo Vallecano , 2-0 , Villarreal
+285 , Real Madrid , 3-0 , Almería
+286 , Real Madrid , 5-0 , Athletic Bilbao
+287 , Real Madrid , 1-2 , Atlético Madrid
+288 , Real Madrid , 3-1 , Barcelona
+289 , Real Madrid , 3-0 , Celta Vigo
+290 , Real Madrid , 2-0 , Córdoba
+291 , Real Madrid , 2-0 , Deportivo La Coruña
+292 , Real Madrid , 3-0 , Eibar
+293 , Real Madrid , 5-1 , Elche
+294 , Real Madrid , 3-0 , Espanyol
+295 , Real Madrid , 7-3 , Getafe
+296 , Real Madrid , 9-1 , Granada
+297 , Real Madrid , 2-0 , Levante
+298 , Real Madrid , 3-1 , Málaga
+299 , Real Madrid , 5-1 , Rayo Vallecano
+300 , Real Madrid , 4-1 , Real Sociedad
+301 , Real Madrid , 2-1 , Sevilla
+302 , Real Madrid , 2-2 , Valencia
+303 , Real Madrid , 1-1 , Villarreal
+304 , Real Sociedad , 1-2 , Almería
+305 , Real Sociedad , 1-1 , Athletic Bilbao
+306 , Real Sociedad , 2-1 , Atlético Madrid
+307 , Real Sociedad , 1-0 , Barcelona
+308 , Real Sociedad , 1-1 , Celta Vigo
+309 , Real Sociedad , 3-1 , Córdoba
+310 , Real Sociedad , 2-2 , Deportivo La Coruña
+311 , Real Sociedad , 1-0 , Eibar
+312 , Real Sociedad , 3-0 , Elche
+313 , Real Sociedad , 1-0 , Espanyol
+314 , Real Sociedad , 1-2 , Getafe
+315 , Real Sociedad , 0-3 , Granada
+316 , Real Sociedad , 3-0 , Levante
+317 , Real Sociedad , 0-1 , Málaga
+318 , Real Sociedad , 0-1 , Rayo Vallecano
+319 , Real Sociedad , 4-2 , Real Madrid
+320 , Real Sociedad , 4-3 , Sevilla
+321 , Real Sociedad , 1-1 , Valencia
+322 , Real Sociedad , 0-0 , Villarreal
+323 , Sevilla , 2-1 , Almería
+324 , Sevilla , 2-0 , Athletic Bilbao
+325 , Sevilla , 0-0 , Atlético Madrid
+326 , Sevilla , 2-2 , Barcelona
+327 , Sevilla , 1-0 , Celta Vigo
+328 , Sevilla , 3-0 , Córdoba
+329 , Sevilla , 4-1 , Deportivo La Coruña
+330 , Sevilla , 0-0 , Eibar
+331 , Sevilla , 3-0 , Elche
+332 , Sevilla , 3-2 , Espanyol
+333 , Sevilla , 2-0 , Getafe
+334 , Sevilla , 5-1 , Granada
+335 , Sevilla , 1-1 , Levante
+336 , Sevilla , 2-0 , Málaga
+337 , Sevilla , 2-0 , Rayo Vallecano
+338 , Sevilla , 2-3 , Real Madrid
+339 , Sevilla , 1-0 , Real Sociedad
+340 , Sevilla , 1-1 , Valencia
+341 , Sevilla , 2-1 , Villarreal
+342 , Valencia , 3-2 , Almería
+343 , Valencia , 0-0 , Athletic Bilbao
+344 , Valencia , 3-1 , Atlético Madrid
+345 , Valencia , 0-1 , Barcelona
+346 , Valencia , 1-1 , Celta Vigo
+347 , Valencia , 3-0 , Córdoba
+348 , Valencia , 2-0 , Deportivo La Coruña
+349 , Valencia , 3-1 , Eibar
+350 , Valencia , 3-1 , Elche
+351 , Valencia , 3-1 , Espanyol
+352 , Valencia , 1-0 , Getafe
+353 , Valencia , 4-0 , Granada
+354 , Valencia , 3-0 , Levante
+355 , Valencia , 3-0 , Málaga
+356 , Valencia , 3-0 , Rayo Vallecano
+357 , Valencia , 2-1 , Real Madrid
+358 , Valencia , 2-0 , Real Sociedad
+359 , Valencia , 3-1 , Sevilla
+360 , Valencia , 0-0 , Villarreal
+361 , Villarreal , 2-0 , Almería
+362 , Villarreal , 2-0 , Athletic Bilbao
+363 , Villarreal , 0-1 , Atlético Madrid
+364 , Villarreal , 0-1 , Barcelona
+365 , Villarreal , 4-1 , Celta Vigo
+366 , Villarreal , 0-0 , Córdoba
+367 , Villarreal , 3-0 , Deportivo La Coruña
+368 , Villarreal , 1-0 , Eibar
+369 , Villarreal , 1-0 , Elche
+370 , Villarreal , 0-3 , Espanyol
+371 , Villarreal , 2-1 , Getafe
+372 , Villarreal , 2-0 , Granada
+373 , Villarreal , 1-0 , Levante
+374 , Villarreal , 2-1 , Málaga
+375 , Villarreal , 4-2 , Rayo Vallecano
+376 , Villarreal , 0-2 , Real Madrid
+377 , Villarreal , 4-0 , Real Sociedad
+378 , Villarreal , 0-2 , Sevilla
+379 , Villarreal , 1-3 , Valencia
+shortNames:,,Home ╲ Away,Almería !ALM,Athletic Bilbao !ATH,Atlético Madrid !ATM,Barcelona !BAR,Celta de Vigo !CEL,Córdoba !CÓR,Deportivo La Coruña !DEP,Eibar !EIB,Elche !ELC,Espanyol !ESP,Getafe !GET,Granada !GRA,Levante !LEV,Málaga !MLG,Rayo Vallecano !RVA,Real Madrid !RMA,Real Sociedad !RSO,Sevilla !SEV,Valencia !VAL,Villarreal !VIL
+fullNames:,,Almería,Athletic Bilbao,Atlético Madrid,Barcelona,Celta Vigo,Córdoba,Deportivo La Coruña,Eibar,Elche,Espanyol,Getafe,Granada,Levante,Málaga,Rayo Vallecano,Real Madrid,Real Sociedad,Sevilla,Valencia,Villarreal

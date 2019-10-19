@@ -1,0 +1,184 @@
+0 , Andrea Doria , 1-0 , Atalanta
+1 , Andrea Doria , 0-0 , Bologna
+2 , Andrea Doria , 1-1 , Brescia
+3 , Andrea Doria , 0-1 , Genoa
+4 , Andrea Doria , 1-1 , Internazionale
+5 , Andrea Doria , 1-1 , Juventus
+6 , Andrea Doria , 1-2 , Milan
+7 , Andrea Doria , 1-1 , Modena
+8 , Andrea Doria , 0-1 , Sampierdarenese
+9 , Andrea Doria , 2-3 , Torino
+10 , Andrea Doria , 0-0 , Triestina
+11 , Andrea Doria , 2-0 , Venezia
+12 , Andrea Doria , 3-2 , Vicenza
+13 , Atalanta , 0-3 , Andrea Doria
+14 , Atalanta , 0-1 , Bologna
+15 , Atalanta , 0-0 , Brescia
+16 , Atalanta , 2-2 , Genoa
+17 , Atalanta , 2-1 , Internazionale
+18 , Atalanta , 1-1 , Juventus
+19 , Atalanta , 0-2 , Milan
+20 , Atalanta , 0-1 , Modena
+21 , Atalanta , 3-0 , Sampierdarenese
+22 , Atalanta , 1-0 , Torino
+23 , Atalanta , 2-1 , Triestina
+24 , Atalanta , 1-0 , Venezia
+25 , Atalanta , 2-2 , Vicenza
+26 , Bologna , 1-0 , Andrea Doria
+27 , Bologna , 2-0 , Atalanta
+28 , Bologna , 0-0 , Brescia
+29 , Bologna , 4-0 , Genoa
+30 , Bologna , 1-3 , Internazionale
+31 , Bologna , 2-1 , Juventus
+32 , Bologna , 1-2 , Milan
+33 , Bologna , 2-2 , Modena
+34 , Bologna , 3-2 , Sampierdarenese
+35 , Bologna , 0-2 , Torino
+36 , Bologna , 1-0 , Triestina
+37 , Bologna , 3-0 , Venezia
+38 , Bologna , 2-1 , Vicenza
+39 , Brescia , 2-0 , Andrea Doria
+40 , Brescia , 1-1 , Atalanta
+41 , Brescia , 2-1 , Bologna
+42 , Brescia , 3-1 , Genoa
+43 , Brescia , 1-2 , Internazionale
+44 , Brescia , 2-1 , Juventus
+45 , Brescia , 2-0 , Milan
+46 , Brescia , 1-0 , Modena
+47 , Brescia , 1-0 , Sampierdarenese
+48 , Brescia , 1-3 , Torino
+49 , Brescia , 1-1 , Triestina
+50 , Brescia , 3-1 , Venezia
+51 , Brescia , 4-1 , Vicenza
+52 , Genoa , 0-3 , Andrea Doria
+53 , Genoa , 1-0 , Atalanta
+54 , Genoa , 3-0 , Bologna
+55 , Genoa , 2-3 , Brescia
+56 , Genoa , 1-2 , Internazionale
+57 , Genoa , 2-1 , Juventus
+58 , Genoa , 1-0 , Milan
+59 , Genoa , 0-0 , Modena
+60 , Genoa , 0-2 , Sampierdarenese
+61 , Genoa , 0-1 , Torino
+62 , Genoa , 0-1 , Triestina
+63 , Genoa , 0-0 , Venezia
+64 , Genoa , 2-0 , Vicenza
+65 , Internazionale , 2-0 , Andrea Doria
+66 , Internazionale , 1-0 , Atalanta
+67 , Internazionale , 1-0 , Bologna
+68 , Internazionale , 4-1 , Brescia
+69 , Internazionale , 9-1 , Genoa
+70 , Internazionale , 2-2 , Juventus
+71 , Internazionale , 2-0 , Milan
+72 , Internazionale , 2-0 , Modena
+73 , Internazionale , 2-0 , Sampierdarenese
+74 , Internazionale , 1-1 , Torino
+75 , Internazionale , 1-2 , Triestina
+76 , Internazionale , 2-1 , Venezia
+77 , Internazionale , 4-2 , Vicenza
+78 , Juventus , 6-1 , Andrea Doria
+79 , Juventus , 2-0 , Atalanta
+80 , Juventus , 1-0 , Bologna
+81 , Juventus , 3-1 , Brescia
+82 , Juventus , 4-1 , Genoa
+83 , Juventus , 0-0 , Internazionale
+84 , Juventus , 2-2 , Milan
+85 , Juventus , 1-0 , Modena
+86 , Juventus , 6-0 , Sampierdarenese
+87 , Juventus , 2-1 , Torino
+88 , Juventus , 1-1 , Triestina
+89 , Juventus , 5-0 , Venezia
+90 , Juventus , 2-1 , Vicenza
+91 , Milan , 1-2 , Andrea Doria
+92 , Milan , 2-1 , Atalanta
+93 , Milan , 2-2 , Bologna
+94 , Milan , 3-1 , Brescia
+95 , Milan , 1-0 , Genoa
+96 , Milan , 1-3 , Internazionale
+97 , Milan , 1-1 , Juventus
+98 , Milan , 1-0 , Modena
+99 , Milan , 3-0 , Sampierdarenese
+100 , Milan , 2-3 , Torino
+101 , Milan , 2-0 , Triestina
+102 , Milan , 2-1 , Venezia
+103 , Milan , 2-4 , Vicenza
+104 , Modena , 1-0 , Andrea Doria
+105 , Modena , 0-2 , Atalanta
+106 , Modena , 2-0 , Bologna
+107 , Modena , 2-1 , Brescia
+108 , Modena , 1-1 , Genoa
+109 , Modena , 0-0 , Internazionale
+110 , Modena , 0-0 , Juventus
+111 , Modena , 1-1 , Milan
+112 , Modena , 2-0 , Sampierdarenese
+113 , Modena , 0-3 , Torino
+114 , Modena , 5-1 , Triestina
+115 , Modena , 0-0 , Venezia
+116 , Modena , 2-0 , Vicenza
+117 , Sampierdarenese , 1-0 , Andrea Doria
+118 , Sampierdarenese , 1-3 , Atalanta
+119 , Sampierdarenese , 0-2 , Bologna
+120 , Sampierdarenese , 1-2 , Brescia
+121 , Sampierdarenese , 1-1 , Genoa
+122 , Sampierdarenese , 1-3 , Internazionale
+123 , Sampierdarenese , 2-2 , Juventus
+124 , Sampierdarenese , 1-2 , Milan
+125 , Sampierdarenese , 0-0 , Modena
+126 , Sampierdarenese , 0-5 , Torino
+127 , Sampierdarenese , 0-6 , Triestina
+128 , Sampierdarenese , 1-1 , Venezia
+129 , Sampierdarenese , 1-0 , Vicenza
+130 , Torino , 5-0 , Andrea Doria
+131 , Torino , 2-0 , Atalanta
+132 , Torino , 4-0 , Bologna
+133 , Torino , 2-2 , Brescia
+134 , Torino , 6-0 , Genoa
+135 , Torino , 1-0 , Internazionale
+136 , Torino , 1-0 , Juventus
+137 , Torino , 4-0 , Milan
+138 , Torino , 1-1 , Modena
+139 , Torino , 2-1 , Sampierdarenese
+140 , Torino , 4-0 , Triestina
+141 , Torino , 3-1 , Venezia
+142 , Torino , 4-0 , Vicenza
+143 , Triestina , 0-1 , Andrea Doria
+144 , Triestina , 0-0 , Atalanta
+145 , Triestina , 1-0 , Bologna
+146 , Triestina , 1-0 , Brescia
+147 , Triestina , 2-1 , Genoa
+148 , Triestina , 1-3 , Internazionale
+149 , Triestina , 0-3 , Juventus
+150 , Triestina , 1-2 , Milan
+151 , Triestina , 1-0 , Modena
+152 , Triestina , 0-1 , Sampierdarenese
+153 , Triestina , 1-1 , Torino
+154 , Triestina , 0-0 , Venezia
+155 , Triestina , 0-2 , Vicenza
+156 , Venezia , 2-2 , Andrea Doria
+157 , Venezia , 0-0 , Atalanta
+158 , Venezia , 1-2 , Bologna
+159 , Venezia , 1-2 , Brescia
+160 , Venezia , 0-0 , Genoa
+161 , Venezia , 0-1 , Internazionale
+162 , Venezia , 0-2 , Juventus
+163 , Venezia , 0-0 , Milan
+164 , Venezia , 2-3 , Modena
+165 , Venezia , 3-1 , Sampierdarenese
+166 , Venezia , 2-1 , Torino
+167 , Venezia , 1-1 , Triestina
+168 , Venezia , 1-0 , Vicenza
+169 , Vicenza , 1-0 , Andrea Doria
+170 , Vicenza , 1-0 , Atalanta
+171 , Vicenza , 3-0 , Bologna
+172 , Vicenza , 1-0 , Brescia
+173 , Vicenza , 0-0 , Genoa
+174 , Vicenza , 1-0 , Internazionale
+175 , Vicenza , 1-2 , Juventus
+176 , Vicenza , 2-2 , Milan
+177 , Vicenza , 1-0 , Modena
+178 , Vicenza , 1-1 , Sampierdarenese
+179 , Vicenza , 1-2 , Torino
+180 , Vicenza , 0-1 , Triestina
+181 , Vicenza , 0-1 , Venezia
+shortNames:,,Home ╲ Away,Andrea Doria !ADO,Atalanta !ATA,Bologna !BOL,Brescia !BRE,Genoa !GEN,Internazionale !INT,Juventus !JUV,Milan !MIL,Modena !MOD,Sampierdarenese !SAM,Torino !TOR,Triestina !TRI,Venezia !VEN,Vicenza !VIC
+fullNames:,,Andrea Doria,Atalanta,Bologna,Brescia,Genoa,Internazionale,Juventus,Milan,Modena,Sampierdarenese,Torino,Triestina,Venezia,Vicenza

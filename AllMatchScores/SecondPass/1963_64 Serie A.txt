@@ -1,0 +1,308 @@
+0 , Atalanta , 1-0 , Bari
+1 , Atalanta , 1-1 , Bologna
+2 , Atalanta , 3-0 , Catania
+3 , Atalanta , 1-7 , Fiorentina
+4 , Atalanta , 1-3 , Genoa
+5 , Atalanta , 1-3 , Internazionale
+6 , Atalanta , 3-0 , Juventus
+7 , Atalanta , 2-1 , L.R. Vicenza
+8 , Atalanta , 1-1 , Lazio
+9 , Atalanta , 0-0 , Mantova
+10 , Atalanta , 3-0 , Messina
+11 , Atalanta , 0-0 , Milan
+12 , Atalanta , 1-1 , Modena
+13 , Atalanta , 1-0 , Roma
+14 , Atalanta , 0-0 , Sampdoria
+15 , Atalanta , 0-0 , SPAL
+16 , Atalanta , 1-1 , Torino
+17 , Bari , 4-0 , Atalanta
+18 , Bari , 0-1 , Bologna
+19 , Bari , 0-0 , Catania
+20 , Bari , 2-0 , Fiorentina
+21 , Bari , 0-2 , Genoa
+22 , Bari , 1-1 , Internazionale
+23 , Bari , 1-1 , Juventus
+24 , Bari , 1-0 , L.R. Vicenza
+25 , Bari , 0-2 , Lazio
+26 , Bari , 0-0 , Mantova
+27 , Bari , 0-1 , Messina
+28 , Bari , 0-2 , Milan
+29 , Bari , 0-0 , Modena
+30 , Bari , 1-3 , Roma
+31 , Bari , 2-1 , Sampdoria
+32 , Bari , 1-0 , SPAL
+33 , Bari , 0-3 , Torino
+34 , Bologna , 2-0 , Atalanta
+35 , Bologna , 3-1 , Bari
+36 , Bologna , 1-0 , Catania
+37 , Bologna , 2-0 , Fiorentina
+38 , Bologna , 1-1 , Genoa
+39 , Bologna , 1-2 , Internazionale
+40 , Bologna , 2-1 , Juventus
+41 , Bologna , 3-0 , L.R. Vicenza
+42 , Bologna , 1-0 , Lazio
+43 , Bologna , 2-1 , Mantova
+44 , Bologna , 2-0 , Messina
+45 , Bologna , 2-2 , Milan
+46 , Bologna , 0-0 , Modena
+47 , Bologna , 4-0 , Roma
+48 , Bologna , 1-0 , Sampdoria
+49 , Bologna , 2-1 , SPAL
+50 , Bologna , 4-1 , Torino
+51 , Catania , 0-0 , Atalanta
+52 , Catania , 1-0 , Bari
+53 , Catania , 1-3 , Bologna
+54 , Catania , 2-0 , Fiorentina
+55 , Catania , 5-3 , Genoa
+56 , Catania , 1-2 , Internazionale
+57 , Catania , 2-0 , Juventus
+58 , Catania , 0-1 , L.R. Vicenza
+59 , Catania , 1-0 , Lazio
+60 , Catania , 0-0 , Mantova
+61 , Catania , 2-0 , Messina
+62 , Catania , 0-1 , Milan
+63 , Catania , 1-0 , Modena
+64 , Catania , 0-0 , Roma
+65 , Catania , 1-5 , Sampdoria
+66 , Catania , 0-0 , SPAL
+67 , Catania , 1-0 , Torino
+68 , Fiorentina , 4-0 , Atalanta
+69 , Fiorentina , 1-0 , Bari
+70 , Fiorentina , 0-0 , Bologna
+71 , Fiorentina , 1-1 , Catania
+72 , Fiorentina , 2-0 , Genoa
+73 , Fiorentina , 1-3 , Internazionale
+74 , Fiorentina , 2-1 , Juventus
+75 , Fiorentina , 0-2 , L.R. Vicenza
+76 , Fiorentina , 1-0 , Lazio
+77 , Fiorentina , 0-1 , Mantova
+78 , Fiorentina , 0-1 , Messina
+79 , Fiorentina , 2-1 , Milan
+80 , Fiorentina , 0-0 , Modena
+81 , Fiorentina , 0-0 , Roma
+82 , Fiorentina , 3-0 , Sampdoria
+83 , Fiorentina , 1-0 , SPAL
+84 , Fiorentina , 1-1 , Torino
+85 , Genoa , 0-0 , Atalanta
+86 , Genoa , 0-0 , Bari
+87 , Genoa , 0-2 , Bologna
+88 , Genoa , 0-2 , Catania
+89 , Genoa , 2-1 , Fiorentina
+90 , Genoa , 0-2 , Internazionale
+91 , Genoa , 3-1 , Juventus
+92 , Genoa , 0-0 , L.R. Vicenza
+93 , Genoa , 4-1 , Lazio
+94 , Genoa , 1-0 , Mantova
+95 , Genoa , 3-0 , Messina
+96 , Genoa , 1-1 , Milan
+97 , Genoa , 2-2 , Modena
+98 , Genoa , 3-0 , Roma
+99 , Genoa , 0-1 , Sampdoria
+100 , Genoa , 1-0 , SPAL
+101 , Genoa , 0-0 , Torino
+102 , Internazionale , 2-1 , Atalanta
+103 , Internazionale , 3-0 , Bari
+104 , Internazionale , 0-0 , Bologna
+105 , Internazionale , 4-1 , Catania
+106 , Internazionale , 1-1 , Fiorentina
+107 , Internazionale , 1-0 , Genoa
+108 , Internazionale , 1-0 , Juventus
+109 , Internazionale , 0-0 , L.R. Vicenza
+110 , Internazionale , 1-0 , Lazio
+111 , Internazionale , 2-0 , Mantova
+112 , Internazionale , 4-0 , Messina
+113 , Internazionale , 0-2 , Milan
+114 , Internazionale , 2-1 , Modena
+115 , Internazionale , 1-0 , Roma
+116 , Internazionale , 1-0 , Sampdoria
+117 , Internazionale , 0-0 , SPAL
+118 , Internazionale , 3-1 , Torino
+119 , Juventus , 0-0 , Atalanta
+120 , Juventus , 4-0 , Bari
+121 , Juventus , 0-0 , Bologna
+122 , Juventus , 4-2 , Catania
+123 , Juventus , 1-1 , Fiorentina
+124 , Juventus , 0-0 , Genoa
+125 , Juventus , 4-1 , Internazionale
+126 , Juventus , 4-1 , L.R. Vicenza
+127 , Juventus , 0-3 , Lazio
+128 , Juventus , 2-2 , Mantova
+129 , Juventus , 2-1 , Messina
+130 , Juventus , 1-2 , Milan
+131 , Juventus , 0-0 , Modena
+132 , Juventus , 3-1 , Roma
+133 , Juventus , 1-0 , Sampdoria
+134 , Juventus , 3-1 , SPAL
+135 , Juventus , 3-1 , Torino
+136 , L.R. Vicenza , 3-0 , Atalanta
+137 , L.R. Vicenza , 2-1 , Bari
+138 , L.R. Vicenza , 1-3 , Bologna
+139 , L.R. Vicenza , 1-1 , Catania
+140 , L.R. Vicenza , 1-0 , Fiorentina
+141 , L.R. Vicenza , 1-0 , Genoa
+142 , L.R. Vicenza , 1-0 , Internazionale
+143 , L.R. Vicenza , 0-1 , Juventus
+144 , L.R. Vicenza , 1-0 , Lazio
+145 , L.R. Vicenza , 1-1 , Mantova
+146 , L.R. Vicenza , 1-1 , Messina
+147 , L.R. Vicenza , 0-1 , Milan
+148 , L.R. Vicenza , 4-3 , Modena
+149 , L.R. Vicenza , 2-1 , Roma
+150 , L.R. Vicenza , 1-3 , Sampdoria
+151 , L.R. Vicenza , 1-0 , SPAL
+152 , L.R. Vicenza , 1-1 , Torino
+153 , Lazio , 0-1 , Atalanta
+154 , Lazio , 1-0 , Bari
+155 , Lazio , 1-2 , Bologna
+156 , Lazio , 0-0 , Catania
+157 , Lazio , 1-1 , Fiorentina
+158 , Lazio , 1-0 , Genoa
+159 , Lazio , 0-0 , Internazionale
+160 , Lazio , 0-2 , Juventus
+161 , Lazio , 0-1 , L.R. Vicenza
+162 , Lazio , 2-0 , Mantova
+163 , Lazio , 0-0 , Messina
+164 , Lazio , 1-1 , Milan
+165 , Lazio , 1-0 , Modena
+166 , Lazio , 1-1 , Roma
+167 , Lazio , 0-0 , Sampdoria
+168 , Lazio , 0-0 , SPAL
+169 , Lazio , 0-0 , Torino
+170 , Mantova , 1-1 , Atalanta
+171 , Mantova , 0-0 , Bari
+172 , Mantova , 0-0 , Bologna
+173 , Mantova , 1-0 , Catania
+174 , Mantova , 0-3 , Fiorentina
+175 , Mantova , 0-0 , Genoa
+176 , Mantova , 2-2 , Internazionale
+177 , Mantova , 1-1 , Juventus
+178 , Mantova , 0-0 , L.R. Vicenza
+179 , Mantova , 0-0 , Lazio
+180 , Mantova , 2-2 , Messina
+181 , Mantova , 1-4 , Milan
+182 , Mantova , 3-0 , Modena
+183 , Mantova , 1-0 , Roma
+184 , Mantova , 2-0 , Sampdoria
+185 , Mantova , 2-0 , SPAL
+186 , Mantova , 0-0 , Torino
+187 , Messina , 1-1 , Atalanta
+188 , Messina , 1-1 , Bari
+189 , Messina , 0-2 , Bologna
+190 , Messina , 0-0 , Catania
+191 , Messina , 0-3 , Fiorentina
+192 , Messina , 1-0 , Genoa
+193 , Messina , 0-1 , Internazionale
+194 , Messina , 1-0 , Juventus
+195 , Messina , 2-0 , L.R. Vicenza
+196 , Messina , 0-2 , Lazio
+197 , Messina , 1-0 , Mantova
+198 , Messina , 1-2 , Milan
+199 , Messina , 2-0 , Modena
+200 , Messina , 2-1 , Roma
+201 , Messina , 4-3 , Sampdoria
+202 , Messina , 0-0 , SPAL
+203 , Messina , 1-1 , Torino
+204 , Milan , 2-0 , Atalanta
+205 , Milan , 2-0 , Bari
+206 , Milan , 1-2 , Bologna
+207 , Milan , 3-1 , Catania
+208 , Milan , 2-1 , Fiorentina
+209 , Milan , 3-1 , Genoa
+210 , Milan , 1-1 , Internazionale
+211 , Milan , 2-2 , Juventus
+212 , Milan , 2-1 , L.R. Vicenza
+213 , Milan , 0-1 , Lazio
+214 , Milan , 1-0 , Mantova
+215 , Milan , 3-0 , Messina
+216 , Milan , 3-0 , Modena
+217 , Milan , 2-1 , Roma
+218 , Milan , 0-1 , Sampdoria
+219 , Milan , 1-1 , SPAL
+220 , Milan , 1-1 , Torino
+221 , Modena , 1-0 , Atalanta
+222 , Modena , 1-1 , Bari
+223 , Modena , 1-4 , Bologna
+224 , Modena , 0-0 , Catania
+225 , Modena , 0-1 , Fiorentina
+226 , Modena , 2-1 , Genoa
+227 , Modena , 0-1 , Internazionale
+228 , Modena , 1-0 , Juventus
+229 , Modena , 2-3 , L.R. Vicenza
+230 , Modena , 2-1 , Lazio
+231 , Modena , 1-1 , Mantova
+232 , Modena , 0-0 , Messina
+233 , Modena , 0-1 , Milan
+234 , Modena , 3-3 , Roma
+235 , Modena , 3-0 , Sampdoria
+236 , Modena , 4-3 , SPAL
+237 , Modena , 0-0 , Torino
+238 , Roma , 1-1 , Atalanta
+239 , Roma , 0-0 , Bari
+240 , Roma , 0-1 , Bologna
+241 , Roma , 4-4 , Catania
+242 , Roma , 1-1 , Fiorentina
+243 , Roma , 1-0 , Genoa
+244 , Roma , 0-1 , Internazionale
+245 , Roma , 1-2 , Juventus
+246 , Roma , 1-1 , L.R. Vicenza
+247 , Roma , 0-0 , Lazio
+248 , Roma , 2-1 , Mantova
+249 , Roma , 2-0 , Messina
+250 , Roma , 2-3 , Milan
+251 , Roma , 2-0 , Modena
+252 , Roma , 6-1 , Sampdoria
+253 , Roma , 2-0 , SPAL
+254 , Roma , 3-0 , Torino
+255 , Sampdoria , 1-1 , Atalanta
+256 , Sampdoria , 2-0 , Bari
+257 , Sampdoria , 2-0 , Bologna
+258 , Sampdoria , 4-1 , Catania
+259 , Sampdoria , 0-1 , Fiorentina
+260 , Sampdoria , 0-1 , Genoa
+261 , Sampdoria , 1-5 , Internazionale
+262 , Sampdoria , 0-2 , Juventus
+263 , Sampdoria , 1-1 , L.R. Vicenza
+264 , Sampdoria , 1-0 , Lazio
+265 , Sampdoria , 1-1 , Mantova
+266 , Sampdoria , 3-1 , Messina
+267 , Sampdoria , 1-2 , Milan
+268 , Sampdoria , 1-1 , Modena
+269 , Sampdoria , 0-2 , Roma
+270 , Sampdoria , 3-1 , SPAL
+271 , Sampdoria , 0-0 , Torino
+272 , SPAL , 0-0 , Atalanta
+273 , SPAL , 3-1 , Bari
+274 , SPAL , 0-0 , Bologna
+275 , SPAL , 3-1 , Catania
+276 , SPAL , 0-0 , Fiorentina
+277 , SPAL , 0-0 , Genoa
+278 , SPAL , 0-1 , Internazionale
+279 , SPAL , 1-3 , Juventus
+280 , SPAL , 1-0 , L.R. Vicenza
+281 , SPAL , 0-1 , Lazio
+282 , SPAL , 5-2 , Mantova
+283 , SPAL , 1-1 , Messina
+284 , SPAL , 2-4 , Milan
+285 , SPAL , 0-0 , Modena
+286 , SPAL , 2-0 , Roma
+287 , SPAL , 3-1 , Sampdoria
+288 , SPAL , 0-1 , Torino
+289 , Torino , 3-0 , Atalanta
+290 , Torino , 1-2 , Bari
+291 , Torino , 0-0 , Bologna
+292 , Torino , 0-0 , Catania
+293 , Torino , 0-3 , Fiorentina
+294 , Torino , 2-1 , Genoa
+295 , Torino , 0-2 , Internazionale
+296 , Torino , 0-0 , Juventus
+297 , Torino , 0-0 , L.R. Vicenza
+298 , Torino , 2-0 , Lazio
+299 , Torino , 5-2 , Mantova
+300 , Torino , 1-0 , Messina
+301 , Torino , 0-0 , Milan
+302 , Torino , 0-0 , Modena
+303 , Torino , 2-2 , Roma
+304 , Torino , 2-1 , Sampdoria
+305 , Torino , 2-0 , SPAL
+shortNames:,,Home ╲ Away,Atalanta !ATA,Bari !BAR,Bologna !BOL,Catania !CTN,Fiorentina !FIO,Genoa !GEN,Internazionale !INT,Juventus !JUV,L.R. Vicenza !LRV,Lazio !LAZ,Mantova !MAN,Messina !MES,Milan !MIL,Modena !MOD,Roma !ROM,Sampdoria !SAM,SPAL !SPA,Torino !TOR
+fullNames:,,Atalanta,Bari,Bologna,Catania,Fiorentina,Genoa,Internazionale,Juventus,L.R. Vicenza,Lazio,Mantova,Messina,Milan,Modena,Roma,Sampdoria,SPAL,Torino

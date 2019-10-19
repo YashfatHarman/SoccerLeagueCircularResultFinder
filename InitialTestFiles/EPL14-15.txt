@@ -1,0 +1,22 @@
+FOUND
+And the result is: ['Aston Villa', 'Bournemouth', 'Sunderland', 'Newcastle', 'Norwich', 'Swansea', 'Man Utd', 'Tottenham', 'West Ham', 'Liverpool', 'Man City', 'Everton', 'Southampton', 'Chelsea', 'West Brom', 'Arsenal', 'Leicester', 'Crystal Palace', 'Watford', 'Stoke']
+Aston Villa 1 - 0 Bournemouth
+Bournemouth 2 - 0 Sunderland
+Sunderland 3 - 0 Newcastle
+Newcastle 6 - 2 Norwich
+Norwich 1 - 0 Swansea
+Swansea 2 - 1 Man Utd
+Man Utd 1 - 0 Tottenham
+Tottenham 4 - 1 West Ham
+West Ham 3 - 0 Liverpool
+Liverpool 4 - 1 Man City
+Man City 2 - 0 Everton
+Everton 3 - 0 Southampton
+Southampton 3 - 1 Chelsea
+Chelsea 3 - 2 West Brom
+West Brom 2 - 1 Arsenal
+Arsenal 5 - 2 Leicester
+Leicester 1 - 0 Crystal Palace
+Crystal Palace 1 - 0 Watford
+Watford 2 - 0 Stoke
+Stoke 1 - 0 Aston Villa

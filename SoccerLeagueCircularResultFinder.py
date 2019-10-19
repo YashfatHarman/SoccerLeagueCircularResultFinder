@@ -1,4 +1,14 @@
 '''
+ErrorLog:
+
+1. A lot of the score files are empty. For some reason scores were not persed. Check those.
+
+2. In some cases, there are undefined characters in the score files and text processing functions aren't working for them. Example: 1990-91 La Liga.
+    Error message says: "UnicodeDecodeError: 'charmap' codec can't decode byte 0x81 in position 81: character maps to <undefined>"
+    I'm pretty sure its for the special character a in Cadiz. Check.
+'''
+
+'''
 #Target:
     Want to analyse the results of a Soccer League and to find any circular result.
     For example, if A 3-2 B, B 3-1 C, C 1-0 D, D 2-1 A, then we can say there is  a circle of result in A-B-C-D-A.
@@ -9,7 +19,7 @@
 '''
 Steps:
 1. Fetch a page from internet containing the results.
-2. Extract the results suing BeautifulSoup and save as a text.
+2. Extract the results using BeautifulSoup and save as a text.
 3. Load the scores in a suitable data type.
 4. Finally, run the algo to find cycles. I haven't thought deeply yet, but I think we need some greedy algorithm, and backtracking. Definitely thinking recursion.
 '''
@@ -21,6 +31,7 @@ import operator
 import os
 from os import listdir
 from os.path import isfile, join
+import sys
 
 URL = "http://www.bbc.com/sport/football/premier-league/results"
 
@@ -34,6 +45,17 @@ winList = {}
 total = 0
 matchResults = []
 result = []
+allResults = []
+
+def initializeGlobals():
+    global teams, teamWins, winList, total, matchResults, result
+    teams = []
+    teamWins = {}
+    winList = {}
+    total = 0
+    matchResults = []
+    result = []   
+    allResults = []
 
 def FetchPage(url):
     #print("Hello World!")
@@ -58,6 +80,7 @@ def FetchPage(url):
     else:
         pass    
     
+#was needed in the initial prototype. Not needed anymore.
 def extractMatchResults(fileName):
     #open file and read
     fp = open(fileName, "r")
@@ -142,7 +165,9 @@ def readTable(name):
     global total
     global matchResults
     
-    matches = [line.rstrip("\n") for line in open(join(folderForScores,name))]
+    #matches = [line.rstrip("\n") for line in open(join(folderForScores,name))]
+    matches = [line.rstrip("\n") for line in open(name,encoding="utf8")]
+    
     
     for element in matches:
         matchTuple = processLine(element)
@@ -178,6 +203,10 @@ def readTable(name):
     teams.sort()
     
     total = len(teams)
+    
+    #print("teams: ", teams)
+    #print("total: ",total)
+    #print("end of readTable()")
 
     pass
     
@@ -187,10 +216,13 @@ def lookForChain(left, right):
     global result
     
     #check terminating condition
-   
+    #print("teams: ",teams)
+    #print("total: ",total)
+    #print("left: ",left)
+    #print("right: ",right)
     if (len(left) == total):
         if (left[0] in winList[left[len(left)-1]]):
-            print("FOUND")
+            #print("FOUND")
             # save the result
             result.extend(left)
             
@@ -227,9 +259,64 @@ def lookForChain(left, right):
         right.append(element)
         
     return False    
+
+def lookForAllChains(left, right):
+    # left list, right list 
     
-def printFormattedResult():
+    global result
+    global allResults
+    
+    #check terminating condition
+    #print("teams: ",teams)
+    #print("total: ",total)
+    #print("left: ",left)
+    #print("right: ",right)
+    if (len(left) == total):
+        if (left[0] in winList[left[len(left)-1]]):
+            print("FOUND")
+            print(left)
+            # save the result in a global list and continue
+            #result.extend(left)
+            allResults.append(left[:])
+            
+        else:
+            return
+
+    #check initial case
+    if len(left) == 0:
+        #select the team that has least number of wins
+        current = sorted(teamWins.items(),key=operator.itemgetter(1))[0][0]
+        left.append(current)
+        right.remove(current)
+    else:    
+        #select the last item of left as current
+        current =  left[len(left)-1]
+    
+    #make eligible list
+    eligible = [x for x in right if x in winList[current]]
+    
+    if (len(eligible) == 0):
+        return
+    
+    #sort eligible list in terms of win number
+    sortedEligible = [x[0] for x in sorted([(k,teamWins[k]) for k in eligible],key=operator.itemgetter(1))]
+    
+    #for each element in sortedEligible, call recursive function    
+    for element in sortedEligible:
+        left.append(element)
+        right.remove(element)
+        
+        lookForAllChains(left,right)
+        
+        left.remove(element)
+        right.append(element)
+        
+    return
+
+    
+def printFormattedResult(fp):
     #This function will only be called if a result is already been found and is saved in result[]
+    resString = ""
     
     for i in range(total):  #total teams
         first = result[i]
@@ -237,23 +324,91 @@ def printFormattedResult():
         
         for match in matchResults:
             if((match[0] == first) and (match[1] == second) and (match[2] > match[3])):
-                print(first, match[2], "-", match[3], second)
+                #print(first, match[2], "-", match[3], end=" ")
+                resString = resString + "{} {} - {} ".format(first, match[2],match[3])
                 break
             if((match[0] == second) and (match[1] == first) and (match[3] > match[2])):
-                print(first, match[3], "-", match[2], second)
+                #print(first, match[3], "-", match[2], end=" ")
+                resString = resString + "{} {} - {} ".format(first, match[3],match[2])
                 break    
+    resString += second
+    #print(resString)
+    fp.write(resString + "\n")
+    
     pass
     
-#FetchPage(URL)    
-name = "2015_16 La Liga"
-#extractMatchResults(name + ".html")    
-readTable(name + ".txt");
-#sreadTable("smallInput.txt");
-left = []
-right = teams
-lookForChain(left, right)
-print("And the result is:", result)
-printFormattedResult()
+def findChainForEachLeague():
+    fp = open("results.txt","w",encoding="utf8")
+    
+    names = [name for name in os.listdir(folderForScores) if name[0] != '0']
+    #names = ["1990_91 La Liga.txt"]
+    #names = ["test.txt"]
+        
+    for idx,name in enumerate(names):
+        fullName = join(folderForScores,name)
+        #print()
+        print(idx,",",name)
+        if name == "2003_04 FA Premier League.txt":
+            continue
+        if name == "2011_12 Serie A.txt":
+            continue
+        fp.write("\n" + str(idx) + "," + name + "\n")
+        #print(fullName)
+        
+        #if the file is empty, skip
+        if os.path.getsize(fullName) == 0:
+            #print("Empty file!")
+            fp.write("Empty file!\n")
+            continue
+        
+        initializeGlobals()
+        readTable(fullName)
+        
+        left = []
+        right = teams[:] 
+        if lookForChain(left, right) is True:
+            #print("And the result is:", result)
+            printFormattedResult(fp)
+        else:
+            #print("No cycles found!")
+            fp.write("No cycles found!\n")
+    
+    fp.close()
+    pass
+    
+def findAllChainsForALeague(name):
+    fullName = join(folderForScores,name)
+    print(fullName)
+    
+    initializeGlobals()
+    readTable(fullName)
+    
+    left = []
+    right = teams[:] 
+    
+    lookForAllChains(left,right)
+    
+    #print(allResults)
+    print("total chain found: ", len(allResults))
+    for idx, chain in enumerate(allResults):
+        print("chain: ",idx, " : ", chain)
+    
+    pass
+
+
+print("Hello World!")
+
+#to redirect input to a file, just for testing
+
+#fp = open("result.txt","w",encoding="utf8")
+#sys.stdout = fp
+
+findChainForEachLeague()
+
+#fp.close()
+
+#findAllChainsForALeague("2015_16 Premier League.txt")
+
 
 #TODO
 '''

@@ -1,0 +1,308 @@
+0 , Athletic Bilbao , 2-0 , Atlético Madrid
+1 , Athletic Bilbao , 1-1 , FC Barcelona
+2 , Athletic Bilbao , 5-1 , Betis
+3 , Athletic Bilbao , 3-0 , Cádiz CF
+4 , Athletic Bilbao , 2-1 , CD Castellón
+5 , Athletic Bilbao , 3-1 , RCD Español
+6 , Athletic Bilbao , 3-1 , Hércules CF
+7 , Athletic Bilbao , 3-1 , UD Las Palmas
+8 , Athletic Bilbao , 5-1 , Osasuna
+9 , Athletic Bilbao , 4-1 , Racing de Santander
+10 , Athletic Bilbao , 1-2 , Real Madrid
+11 , Athletic Bilbao , 1-1 , Real Sociedad
+12 , Athletic Bilbao , 2-0 , Sevilla FC
+13 , Athletic Bilbao , 2-1 , Sporting de Gijón
+14 , Athletic Bilbao , 1-0 , Valencia CF
+15 , Athletic Bilbao , 4-0 , Valladolid
+16 , Athletic Bilbao , 4-1 , Zaragoza
+17 , Atlético Madrid , 2-0 , Athletic Bilbao
+18 , Atlético Madrid , 0-1 , FC Barcelona
+19 , Atlético Madrid , 1-0 , Betis
+20 , Atlético Madrid , 1-0 , Cádiz CF
+21 , Atlético Madrid , 3-0 , CD Castellón
+22 , Atlético Madrid , 1-0 , RCD Español
+23 , Atlético Madrid , 1-0 , Hércules CF
+24 , Atlético Madrid , 3-1 , UD Las Palmas
+25 , Atlético Madrid , 2-1 , Osasuna
+26 , Atlético Madrid , 0-0 , Racing de Santander
+27 , Atlético Madrid , 2-3 , Real Madrid
+28 , Atlético Madrid , 2-0 , Real Sociedad
+29 , Atlético Madrid , 1-2 , Sevilla FC
+30 , Atlético Madrid , 1-1 , Sporting de Gijón
+31 , Atlético Madrid , 2-1 , Valencia CF
+32 , Atlético Madrid , 2-0 , Valladolid
+33 , Atlético Madrid , 1-0 , Zaragoza
+34 , FC Barcelona , 2-2 , Athletic Bilbao
+35 , FC Barcelona , 2-0 , Atlético Madrid
+36 , FC Barcelona , 2-2 , Betis
+37 , FC Barcelona , 4-0 , Cádiz CF
+38 , FC Barcelona , 4-3 , CD Castellón
+39 , FC Barcelona , 1-3 , RCD Español
+40 , FC Barcelona , 5-0 , Hércules CF
+41 , FC Barcelona , 4-0 , UD Las Palmas
+42 , FC Barcelona , 2-0 , Osasuna
+43 , FC Barcelona , 5-1 , Racing de Santander
+44 , FC Barcelona , 3-1 , Real Madrid
+45 , FC Barcelona , 2-0 , Real Sociedad
+46 , FC Barcelona , 2-0 , Sevilla FC
+47 , FC Barcelona , 1-0 , Sporting de Gijón
+48 , FC Barcelona , 5-1 , Valencia CF
+49 , FC Barcelona , 3-1 , Valladolid
+50 , FC Barcelona , 2-1 , Zaragoza
+51 , Betis , 2-1 , Athletic Bilbao
+52 , Betis , 3-1 , Atlético Madrid
+53 , Betis , 2-0 , FC Barcelona
+54 , Betis , 2-0 , Cádiz CF
+55 , Betis , 3-1 , CD Castellón
+56 , Betis , 2-0 , RCD Español
+57 , Betis , 1-2 , Hércules CF
+58 , Betis , 4-1 , UD Las Palmas
+59 , Betis , 2-0 , Osasuna
+60 , Betis , 1-1 , Racing de Santander
+61 , Betis , 0-0 , Real Madrid
+62 , Betis , 0-1 , Real Sociedad
+63 , Betis , 2-0 , Sevilla FC
+64 , Betis , 2-0 , Sporting de Gijón
+65 , Betis , 2-3 , Valencia CF
+66 , Betis , 4-0 , Valladolid
+67 , Betis , 2-0 , Zaragoza
+68 , Cádiz CF , 3-0 , Athletic Bilbao
+69 , Cádiz CF , 1-0 , Atlético Madrid
+70 , Cádiz CF , 1-0 , FC Barcelona
+71 , Cádiz CF , 0-2 , Betis
+72 , Cádiz CF , 5-1 , CD Castellón
+73 , Cádiz CF , 0-0 , RCD Español
+74 , Cádiz CF , 3-2 , Hércules CF
+75 , Cádiz CF , 0-2 , UD Las Palmas
+76 , Cádiz CF , 1-0 , Osasuna
+77 , Cádiz CF , 1-0 , Racing de Santander
+78 , Cádiz CF , 1-0 , Real Madrid
+79 , Cádiz CF , 2-1 , Real Sociedad
+80 , Cádiz CF , 2-0 , Sevilla FC
+81 , Cádiz CF , 3-1 , Sporting de Gijón
+82 , Cádiz CF , 0-0 , Valencia CF
+83 , Cádiz CF , 0-0 , Valladolid
+84 , Cádiz CF , 1-0 , Zaragoza
+85 , CD Castellón , 1-2 , Athletic Bilbao
+86 , CD Castellón , 3-0 , Atlético Madrid
+87 , CD Castellón , 1-6 , FC Barcelona
+88 , CD Castellón , 0-0 , Betis
+89 , CD Castellón , 0-1 , Cádiz CF
+90 , CD Castellón , 1-4 , RCD Español
+91 , CD Castellón , 1-2 , Hércules CF
+92 , CD Castellón , 1-1 , UD Las Palmas
+93 , CD Castellón , 1-1 , Osasuna
+94 , CD Castellón , 0-0 , Racing de Santander
+95 , CD Castellón , 1-2 , Real Madrid
+96 , CD Castellón , 1-3 , Real Sociedad
+97 , CD Castellón , 0-3 , Sevilla FC
+98 , CD Castellón , 0-2 , Sporting de Gijón
+99 , CD Castellón , 1-4 , Valencia CF
+100 , CD Castellón , 1-1 , Valladolid
+101 , CD Castellón , 2-1 , Zaragoza
+102 , RCD Español , 1-0 , Athletic Bilbao
+103 , RCD Español , 2-2 , Atlético Madrid
+104 , RCD Español , 0-4 , FC Barcelona
+105 , RCD Español , 2-4 , Betis
+106 , RCD Español , 1-0 , Cádiz CF
+107 , RCD Español , 3-2 , CD Castellón
+108 , RCD Español , 0-1 , Hércules CF
+109 , RCD Español , 2-1 , UD Las Palmas
+110 , RCD Español , 0-1 , Osasuna
+111 , RCD Español , 1-1 , Racing de Santander
+112 , RCD Español , 1-0 , Real Madrid
+113 , RCD Español , 2-1 , Real Sociedad
+114 , RCD Español , 2-0 , Sevilla FC
+115 , RCD Español , 5-1 , Sporting de Gijón
+116 , RCD Español , 3-2 , Valencia CF
+117 , RCD Español , 3-1 , Valladolid
+118 , RCD Español , 0-1 , Zaragoza
+119 , Hércules CF , 3-1 , Athletic Bilbao
+120 , Hércules CF , 0-1 , Atlético Madrid
+121 , Hércules CF , 2-2 , FC Barcelona
+122 , Hércules CF , 3-1 , Betis
+123 , Hércules CF , 2-1 , Cádiz CF
+124 , Hércules CF , 2-2 , CD Castellón
+125 , Hércules CF , 2-0 , RCD Español
+126 , Hércules CF , 3-0 , UD Las Palmas
+127 , Hércules CF , 1-2 , Osasuna
+128 , Hércules CF , 3-4 , Racing de Santander
+129 , Hércules CF , 0-1 , Real Madrid
+130 , Hércules CF , 2-0 , Real Sociedad
+131 , Hércules CF , 0-1 , Sevilla FC
+132 , Hércules CF , 1-0 , Sporting de Gijón
+133 , Hércules CF , 2-2 , Valencia CF
+134 , Hércules CF , 0-2 , Valladolid
+135 , Hércules CF , 0-1 , Zaragoza
+136 , UD Las Palmas , 2-1 , Athletic Bilbao
+137 , UD Las Palmas , 1-2 , Atlético Madrid
+138 , UD Las Palmas , 2-1 , FC Barcelona
+139 , UD Las Palmas , 3-1 , Betis
+140 , UD Las Palmas , 2-0 , Cádiz CF
+141 , UD Las Palmas , 1-3 , CD Castellón
+142 , UD Las Palmas , 2-0 , RCD Español
+143 , UD Las Palmas , 2-0 , Hércules CF
+144 , UD Las Palmas , 0-0 , Osasuna
+145 , UD Las Palmas , 1-1 , Racing de Santander
+146 , UD Las Palmas , 1-0 , Real Madrid
+147 , UD Las Palmas , 0-0 , Real Sociedad
+148 , UD Las Palmas , 3-1 , Sevilla FC
+149 , UD Las Palmas , 1-1 , Sporting de Gijón
+150 , UD Las Palmas , 3-0 , Valencia CF
+151 , UD Las Palmas , 1-1 , Valladolid
+152 , UD Las Palmas , 2-4 , Zaragoza
+153 , Osasuna , 0-2 , Athletic Bilbao
+154 , Osasuna , 0-1 , Atlético Madrid
+155 , Osasuna , 3-2 , FC Barcelona
+156 , Osasuna , 0-1 , Betis
+157 , Osasuna , 6-1 , Cádiz CF
+158 , Osasuna , 4-1 , CD Castellón
+159 , Osasuna , 3-0 , RCD Español
+160 , Osasuna , 3-1 , Hércules CF
+161 , Osasuna , 1-3 , UD Las Palmas
+162 , Osasuna , 2-1 , Racing de Santander
+163 , Osasuna , 3-2 , Real Madrid
+164 , Osasuna , 0-0 , Real Sociedad
+165 , Osasuna , 1-0 , Sevilla FC
+166 , Osasuna , 1-1 , Sporting de Gijón
+167 , Osasuna , 2-1 , Valencia CF
+168 , Osasuna , 1-1 , Valladolid
+169 , Osasuna , 1-0 , Zaragoza
+170 , Racing de Santander , 1-3 , Athletic Bilbao
+171 , Racing de Santander , 1-0 , Atlético Madrid
+172 , Racing de Santander , 0-1 , FC Barcelona
+173 , Racing de Santander , 2-1 , Betis
+174 , Racing de Santander , 2-1 , Cádiz CF
+175 , Racing de Santander , 4-1 , CD Castellón
+176 , Racing de Santander , 2-1 , RCD Español
+177 , Racing de Santander , 2-0 , Hércules CF
+178 , Racing de Santander , 3-1 , UD Las Palmas
+179 , Racing de Santander , 0-3 , Osasuna
+180 , Racing de Santander , 3-2 , Real Madrid
+181 , Racing de Santander , 2-3 , Real Sociedad
+182 , Racing de Santander , 3-0 , Sevilla FC
+183 , Racing de Santander , 1-0 , Sporting de Gijón
+184 , Racing de Santander , 1-1 , Valencia CF
+185 , Racing de Santander , 3-0 , Valladolid
+186 , Racing de Santander , 0-1 , Zaragoza
+187 , Real Madrid , 1-1 , Athletic Bilbao
+188 , Real Madrid , 2-1 , Atlético Madrid
+189 , Real Madrid , 3-1 , FC Barcelona
+190 , Real Madrid , 4-1 , Betis
+191 , Real Madrid , 2-0 , Cádiz CF
+192 , Real Madrid , 4-0 , CD Castellón
+193 , Real Madrid , 1-1 , RCD Español
+194 , Real Madrid , 2-1 , Hércules CF
+195 , Real Madrid , 2-1 , UD Las Palmas
+196 , Real Madrid , 1-0 , Osasuna
+197 , Real Madrid , 4-0 , Racing de Santander
+198 , Real Madrid , 1-1 , Real Sociedad
+199 , Real Madrid , 2-1 , Sevilla FC
+200 , Real Madrid , 1-1 , Sporting de Gijón
+201 , Real Madrid , 3-0 , Valencia CF
+202 , Real Madrid , 3-1 , Valladolid
+203 , Real Madrid , 3-0 , Zaragoza
+204 , Real Sociedad , 2-1 , Athletic Bilbao
+205 , Real Sociedad , 1-0 , Atlético Madrid
+206 , Real Sociedad , 1-1 , FC Barcelona
+207 , Real Sociedad , 1-0 , Betis
+208 , Real Sociedad , 3-0 , Cádiz CF
+209 , Real Sociedad , 3-1 , CD Castellón
+210 , Real Sociedad , 2-1 , RCD Español
+211 , Real Sociedad , 2-1 , Hércules CF
+212 , Real Sociedad , 2-0 , UD Las Palmas
+213 , Real Sociedad , 1-0 , Osasuna
+214 , Real Sociedad , 1-1 , Racing de Santander
+215 , Real Sociedad , 3-1 , Real Madrid
+216 , Real Sociedad , 1-0 , Sevilla FC
+217 , Real Sociedad , 3-0 , Sporting de Gijón
+218 , Real Sociedad , 4-1 , Valencia CF
+219 , Real Sociedad , 4-0 , Valladolid
+220 , Real Sociedad , 3-0 , Zaragoza
+221 , Sevilla FC , 1-0 , Athletic Bilbao
+222 , Sevilla FC , 1-0 , Atlético Madrid
+223 , Sevilla FC , 2-1 , FC Barcelona
+224 , Sevilla FC , 1-1 , Betis
+225 , Sevilla FC , 3-1 , Cádiz CF
+226 , Sevilla FC , 4-0 , CD Castellón
+227 , Sevilla FC , 4-1 , RCD Español
+228 , Sevilla FC , 0-1 , Hércules CF
+229 , Sevilla FC , 0-0 , UD Las Palmas
+230 , Sevilla FC , 2-3 , Osasuna
+231 , Sevilla FC , 4-0 , Racing de Santander
+232 , Sevilla FC , 0-0 , Real Madrid
+233 , Sevilla FC , 2-2 , Real Sociedad
+234 , Sevilla FC , 0-0 , Sporting de Gijón
+235 , Sevilla FC , 2-0 , Valencia CF
+236 , Sevilla FC , 4-2 , Valladolid
+237 , Sevilla FC , 5-0 , Zaragoza
+238 , Sporting de Gijón , 1-3 , Athletic Bilbao
+239 , Sporting de Gijón , 3-2 , Atlético Madrid
+240 , Sporting de Gijón , 0-0 , FC Barcelona
+241 , Sporting de Gijón , 1-0 , Betis
+242 , Sporting de Gijón , 2-1 , Cádiz CF
+243 , Sporting de Gijón , 1-0 , CD Castellón
+244 , Sporting de Gijón , 4-1 , RCD Español
+245 , Sporting de Gijón , 1-1 , Hércules CF
+246 , Sporting de Gijón , 4-0 , UD Las Palmas
+247 , Sporting de Gijón , 2-0 , Osasuna
+248 , Sporting de Gijón , 2-0 , Racing de Santander
+249 , Sporting de Gijón , 0-1 , Real Madrid
+250 , Sporting de Gijón , 2-3 , Real Sociedad
+251 , Sporting de Gijón , 0-2 , Sevilla FC
+252 , Sporting de Gijón , 1-0 , Valencia CF
+253 , Sporting de Gijón , 2-2 , Valladolid
+254 , Sporting de Gijón , 1-2 , Zaragoza
+255 , Valencia CF , 4-0 , Athletic Bilbao
+256 , Valencia CF , 1-0 , Atlético Madrid
+257 , Valencia CF , 3-0 , FC Barcelona
+258 , Valencia CF , 2-1 , Betis
+259 , Valencia CF , 1-0 , Cádiz CF
+260 , Valencia CF , 1-0 , CD Castellón
+261 , Valencia CF , 1-1 , RCD Español
+262 , Valencia CF , 2-0 , Hércules CF
+263 , Valencia CF , 3-2 , UD Las Palmas
+264 , Valencia CF , 4-1 , Osasuna
+265 , Valencia CF , 3-0 , Racing de Santander
+266 , Valencia CF , 2-1 , Real Madrid
+267 , Valencia CF , 1-2 , Real Sociedad
+268 , Valencia CF , 3-2 , Sevilla FC
+269 , Valencia CF , 1-0 , Sporting de Gijón
+270 , Valencia CF , 3-0 , Valladolid
+271 , Valencia CF , 2-1 , Zaragoza
+272 , Valladolid , 1-0 , Athletic Bilbao
+273 , Valladolid , 2-1 , Atlético Madrid
+274 , Valladolid , 2-3 , FC Barcelona
+275 , Valladolid , 3-0 , Betis
+276 , Valladolid , 2-0 , Cádiz CF
+277 , Valladolid , 2-0 , CD Castellón
+278 , Valladolid , 2-4 , RCD Español
+279 , Valladolid , 1-0 , Hércules CF
+280 , Valladolid , 1-0 , UD Las Palmas
+281 , Valladolid , 2-0 , Osasuna
+282 , Valladolid , 0-0 , Racing de Santander
+283 , Valladolid , 0-0 , Real Madrid
+284 , Valladolid , 2-1 , Real Sociedad
+285 , Valladolid , 2-1 , Sevilla FC
+286 , Valladolid , 2-1 , Sporting de Gijón
+287 , Valladolid , 1-1 , Valencia CF
+288 , Valladolid , 2-1 , Zaragoza
+289 , Zaragoza , 1-0 , Athletic Bilbao
+290 , Zaragoza , 2-2 , Atlético Madrid
+291 , Zaragoza , 2-2 , FC Barcelona
+292 , Zaragoza , 3-3 , Betis
+293 , Zaragoza , 2-1 , Cádiz CF
+294 , Zaragoza , 3-2 , CD Castellón
+295 , Zaragoza , 2-2 , RCD Español
+296 , Zaragoza , 2-2 , Hércules CF
+297 , Zaragoza , 1-0 , UD Las Palmas
+298 , Zaragoza , 1-1 , Osasuna
+299 , Zaragoza , 1-0 , Racing de Santander
+300 , Zaragoza , 2-2 , Real Madrid
+301 , Zaragoza , 3-2 , Real Sociedad
+302 , Zaragoza , 1-4 , Sevilla FC
+303 , Zaragoza , 1-1 , Sporting de Gijón
+304 , Zaragoza , 2-0 , Valencia CF
+305 , Zaragoza , 2-1 , Valladolid
+shortNames:,,ATH,ATM,BAR,BET,CÁD,CAS,ESP,HÉR,LPA,OSA,RAC,RMA,RSO,SEV,SPG,VAL,VLD,ZAR
+fullNames:,,Athletic Bilbao,Atlético Madrid,FC Barcelona,Betis,Cádiz CF,CD Castellón,RCD Español,Hércules CF,UD Las Palmas,Osasuna,Racing de Santander,Real Madrid,Real Sociedad,Sevilla FC,Sporting de Gijón,Valencia CF,Valladolid,Zaragoza

@@ -1,0 +1,242 @@
+0 , Alessandria , 1-3 , Ambrosiana-Inter
+1 , Alessandria , 2-0 , Bologna
+2 , Alessandria , 1-0 , Brescia
+3 , Alessandria , 2-0 , Fiorentina
+4 , Alessandria , 0-0 , Juventus
+5 , Alessandria , 1-2 , Lazio
+6 , Alessandria , 4-1 , Livorno
+7 , Alessandria , 2-1 , Milan
+8 , Alessandria , 4-2 , Napoli
+9 , Alessandria , 4-2 , Palermo
+10 , Alessandria , 2-1 , Pro Vercelli
+11 , Alessandria , 1-6 , Roma
+12 , Alessandria , 2-2 , Sampierdarenese
+13 , Alessandria , 3-0 , Torino
+14 , Alessandria , 3-0 , Triestina
+15 , Ambrosiana-Inter , 0-0 , Alessandria
+16 , Ambrosiana-Inter , 1-0 , Bologna
+17 , Ambrosiana-Inter , 5-1 , Brescia
+18 , Ambrosiana-Inter , 1-1 , Fiorentina
+19 , Ambrosiana-Inter , 0-0 , Juventus
+20 , Ambrosiana-Inter , 1-0 , Lazio
+21 , Ambrosiana-Inter , 5-1 , Livorno
+22 , Ambrosiana-Inter , 2-0 , Milan
+23 , Ambrosiana-Inter , 2-1 , Napoli
+24 , Ambrosiana-Inter , 3-0 , Palermo
+25 , Ambrosiana-Inter , 1-0 , Pro Vercelli
+26 , Ambrosiana-Inter , 0-1 , Roma
+27 , Ambrosiana-Inter , 6-1 , Sampierdarenese
+28 , Ambrosiana-Inter , 4-0 , Torino
+29 , Ambrosiana-Inter , 7-0 , Triestina
+30 , Bologna , 3-3 , Alessandria
+31 , Bologna , 0-0 , Ambrosiana-Inter
+32 , Bologna , 3-0 , Brescia
+33 , Bologna , 2-1 , Fiorentina
+34 , Bologna , 2-0 , Juventus
+35 , Bologna , 1-2 , Lazio
+36 , Bologna , 4-0 , Livorno
+37 , Bologna , 6-3 , Milan
+38 , Bologna , 3-0 , Napoli
+39 , Bologna , 0-0 , Palermo
+40 , Bologna , 5-0 , Pro Vercelli
+41 , Bologna , 1-1 , Roma
+42 , Bologna , 0-1 , Sampierdarenese
+43 , Bologna , 3-1 , Torino
+44 , Bologna , 1-3 , Triestina
+45 , Brescia , 1-0 , Alessandria
+46 , Brescia , 1-1 , Ambrosiana-Inter
+47 , Brescia , 1-1 , Bologna
+48 , Brescia , 1-1 , Fiorentina
+49 , Brescia , 0-2 , Juventus
+50 , Brescia , 1-0 , Lazio
+51 , Brescia , 4-0 , Livorno
+52 , Brescia , 2-0 , Milan
+53 , Brescia , 0-1 , Napoli
+54 , Brescia , 2-2 , Palermo
+55 , Brescia , 3-0 , Pro Vercelli
+56 , Brescia , 2-1 , Roma
+57 , Brescia , 1-0 , Sampierdarenese
+58 , Brescia , 2-1 , Torino
+59 , Brescia , 2-1 , Triestina
+60 , Fiorentina , 4-1 , Alessandria
+61 , Fiorentina , 1-1 , Ambrosiana-Inter
+62 , Fiorentina , 1-0 , Bologna
+63 , Fiorentina , 1-0 , Brescia
+64 , Fiorentina , 0-1 , Juventus
+65 , Fiorentina , 2-1 , Lazio
+66 , Fiorentina , 0-1 , Livorno
+67 , Fiorentina , 1-0 , Milan
+68 , Fiorentina , 3-2 , Napoli
+69 , Fiorentina , 2-0 , Palermo
+70 , Fiorentina , 1-0 , Pro Vercelli
+71 , Fiorentina , 4-1 , Roma
+72 , Fiorentina , 0-0 , Sampierdarenese
+73 , Fiorentina , 4-0 , Torino
+74 , Fiorentina , 1-0 , Triestina
+75 , Juventus , 4-1 , Alessandria
+76 , Juventus , 1-0 , Ambrosiana-Inter
+77 , Juventus , 1-0 , Bologna
+78 , Juventus , 0-0 , Brescia
+79 , Juventus , 0-0 , Fiorentina
+80 , Juventus , 6-1 , Lazio
+81 , Juventus , 2-1 , Livorno
+82 , Juventus , 1-0 , Milan
+83 , Juventus , 2-1 , Napoli
+84 , Juventus , 2-1 , Palermo
+85 , Juventus , 3-0 , Pro Vercelli
+86 , Juventus , 2-1 , Roma
+87 , Juventus , 4-0 , Sampierdarenese
+88 , Juventus , 1-1 , Torino
+89 , Juventus , 0-0 , Triestina
+90 , Lazio , 0-1 , Alessandria
+91 , Lazio , 4-2 , Ambrosiana-Inter
+92 , Lazio , 2-1 , Bologna
+93 , Lazio , 4-0 , Brescia
+94 , Lazio , 3-5 , Fiorentina
+95 , Lazio , 5-3 , Juventus
+96 , Lazio , 6-1 , Livorno
+97 , Lazio , 1-4 , Milan
+98 , Lazio , 3-1 , Napoli
+99 , Lazio , 1-0 , Palermo
+100 , Lazio , 6-0 , Pro Vercelli
+101 , Lazio , 0-0 , Roma
+102 , Lazio , 2-1 , Sampierdarenese
+103 , Lazio , 1-1 , Torino
+104 , Lazio , 0-0 , Triestina
+105 , Livorno , 1-0 , Alessandria
+106 , Livorno , 1-1 , Ambrosiana-Inter
+107 , Livorno , 4-1 , Bologna
+108 , Livorno , 3-1 , Brescia
+109 , Livorno , 1-2 , Fiorentina
+110 , Livorno , 1-2 , Juventus
+111 , Livorno , 0-2 , Lazio
+112 , Livorno , 0-2 , Milan
+113 , Livorno , ??-?? , Napoli
+114 , Livorno , 0-3 , Palermo
+115 , Livorno , 1-0 , Pro Vercelli
+116 , Livorno , 1-1 , Roma
+117 , Livorno , 0-0 , Sampierdarenese
+118 , Livorno , 1-1 , Torino
+119 , Livorno , 1-0 , Triestina
+120 , Milan , 2-2 , Alessandria
+121 , Milan , 2-2 , Ambrosiana-Inter
+122 , Milan , 0-0 , Bologna
+123 , Milan , 0-1 , Brescia
+124 , Milan , 1-1 , Fiorentina
+125 , Milan , 3-0 , Juventus
+126 , Milan , 1-1 , Lazio
+127 , Milan , 1-1 , Livorno
+128 , Milan , 2-2 , Napoli
+129 , Milan , 2-1 , Palermo
+130 , Milan , 1-0 , Pro Vercelli
+131 , Milan , 4-4 , Roma
+132 , Milan , 2-1 , Sampierdarenese
+133 , Milan , 0-0 , Torino
+134 , Milan , 0-1 , Triestina
+135 , Napoli , 0-1 , Alessandria
+136 , Napoli , 0-1 , Ambrosiana-Inter
+137 , Napoli , 1-1 , Bologna
+138 , Napoli , 2-0 , Brescia
+139 , Napoli , 1-1 , Fiorentina
+140 , Napoli , 0-0 , Juventus
+141 , Napoli , 3-0 , Lazio
+142 , Napoli , 1-1 , Livorno
+143 , Napoli , 0-1 , Milan
+144 , Napoli , 6-0 , Palermo
+145 , Napoli , 1-0 , Pro Vercelli
+146 , Napoli , 3-2 , Roma
+147 , Napoli , 1-1 , Sampierdarenese
+148 , Napoli , 2-1 , Torino
+149 , Napoli , 2-1 , Triestina
+150 , Palermo , 2-0 , Alessandria
+151 , Palermo , 1-1 , Ambrosiana-Inter
+152 , Palermo , 0-1 , Bologna
+153 , Palermo , 0-0 , Brescia
+154 , Palermo , 0-0 , Fiorentina
+155 , Palermo , 0-0 , Juventus
+156 , Palermo , 2-1 , Lazio
+157 , Palermo , 2-2 , Livorno
+158 , Palermo , 1-0 , Milan
+159 , Palermo , 2-0 , Napoli
+160 , Palermo , 2-0 , Pro Vercelli
+161 , Palermo , 1-0 , Roma
+162 , Palermo , 1-0 , Sampierdarenese
+163 , Palermo , 0-0 , Torino
+164 , Palermo , 2-0 , Triestina
+165 , Pro Vercelli , 1-0 , Alessandria
+166 , Pro Vercelli , 1-1 , Ambrosiana-Inter
+167 , Pro Vercelli , 2-1 , Bologna
+168 , Pro Vercelli , 1-1 , Brescia
+169 , Pro Vercelli , 2-0 , Fiorentina
+170 , Pro Vercelli , 0-1 , Juventus
+171 , Pro Vercelli , 1-0 , Lazio
+172 , Pro Vercelli , 0-1 , Livorno
+173 , Pro Vercelli , 1-2 , Milan
+174 , Pro Vercelli , 1-1 , Napoli
+175 , Pro Vercelli , 0-0 , Palermo
+176 , Pro Vercelli , 1-4 , Roma
+177 , Pro Vercelli , 2-3 , Sampierdarenese
+178 , Pro Vercelli , 0-3 , Torino
+179 , Pro Vercelli , 4-2 , Triestina
+180 , Roma , 3-0 , Alessandria
+181 , Roma , 3-4 , Ambrosiana-Inter
+182 , Roma , 1-1 , Bologna
+183 , Roma , 4-0 , Brescia
+184 , Roma , 0-0 , Fiorentina
+185 , Roma , 1-2 , Juventus
+186 , Roma , 1-1 , Lazio
+187 , Roma , 5-1 , Livorno
+188 , Roma , 1-0 , Milan
+189 , Roma , 4-0 , Napoli
+190 , Roma , 5-1 , Palermo
+191 , Roma , 3-2 , Pro Vercelli
+192 , Roma , 2-0 , Sampierdarenese
+193 , Roma , 2-1 , Torino
+194 , Roma , 1-2 , Triestina
+195 , Sampierdarenese , 2-1 , Alessandria
+196 , Sampierdarenese , 0-0 , Ambrosiana-Inter
+197 , Sampierdarenese , 2-1 , Bologna
+198 , Sampierdarenese , 3-0 , Brescia
+199 , Sampierdarenese , 0-1 , Fiorentina
+200 , Sampierdarenese , 0-1 , Juventus
+201 , Sampierdarenese , 2-3 , Lazio
+202 , Sampierdarenese , 0-0 , Livorno
+203 , Sampierdarenese , 0-0 , Milan
+204 , Sampierdarenese , 1-3 , Napoli
+205 , Sampierdarenese , 1-0 , Palermo
+206 , Sampierdarenese , 0-0 , Pro Vercelli
+207 , Sampierdarenese , 1-0 , Roma
+208 , Sampierdarenese , 3-2 , Torino
+209 , Sampierdarenese , 1-0 , Triestina
+210 , Torino , 2-1 , Alessandria
+211 , Torino , 1-2 , Ambrosiana-Inter
+212 , Torino , 0-1 , Bologna
+213 , Torino , 4-2 , Brescia
+214 , Torino , 1-0 , Fiorentina
+215 , Torino , 1-3 , Juventus
+216 , Torino , 2-2 , Lazio
+217 , Torino , 1-0 , Livorno
+218 , Torino , 1-1 , Milan
+219 , Torino , 0-0 , Napoli
+220 , Torino , 0-0 , Palermo
+221 , Torino , 2-0 , Pro Vercelli
+222 , Torino , 2-3 , Roma
+223 , Torino , 5-2 , Sampierdarenese
+224 , Torino , 3-1 , Triestina
+225 , Triestina , 3-1 , Alessandria
+226 , Triestina , 1-1 , Ambrosiana-Inter
+227 , Triestina , 1-3 , Bologna
+228 , Triestina , 3-0 , Brescia
+229 , Triestina , 0-1 , Fiorentina
+230 , Triestina , 2-1 , Juventus
+231 , Triestina , 2-1 , Lazio
+232 , Triestina , 1-2 , Livorno
+233 , Triestina , 2-1 , Milan
+234 , Triestina , 0-0 , Napoli
+235 , Triestina , 1-1 , Palermo
+236 , Triestina , 3-1 , Pro Vercelli
+237 , Triestina , 0-2 , Roma
+238 , Triestina , 2-1 , Sampierdarenese
+239 , Triestina , 1-0 , Torino
+shortNames:,,Home ╲ Away,Alessandria !ALE,Ambrosiana-Inter !AMB,Bologna !BOL,Brescia !BRE,Fiorentina !FIO,Juventus !JUV,Lazio !LAZ,Livorno !LIV,Milan !MIL,Napoli !NAP,Palermo !PAL,Pro Vercelli !PVE,Roma !ROM,Sampierdarenese !SAM,Torino !TOR,Triestina !TRI
+fullNames:,,Alessandria,Ambrosiana-Inter,Bologna,Brescia,Fiorentina,Juventus,Lazio,Livorno,Milan,Napoli,Palermo,Pro Vercelli,Roma,Sampierdarenese,Torino,Triestina

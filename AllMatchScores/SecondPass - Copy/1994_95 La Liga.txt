@@ -1,0 +1,382 @@
+0 , Albacete , 1-2 , Athletic Bilbao
+1 , Albacete , 2-2 , Atlético Madrid
+2 , Albacete , 2-2 , Barcelona
+3 , Albacete , 3-1 , Betis
+4 , Albacete , 1-1 , Celta de Vigo
+5 , Albacete , 1-3 , Compostela
+6 , Albacete , 2-8 , Deportivo La Coruña
+7 , Albacete , 1-1 , Espanyol
+8 , Albacete , 0-0 , Logroñés
+9 , Albacete , 2-0 , Racing Santander
+10 , Albacete , 1-1 , Real Madrid
+11 , Albacete , 1-0 , Oviedo
+12 , Albacete , 0-1 , Real Sociedad
+13 , Albacete , 1-1 , Sevilla
+14 , Albacete , 1-2 , Sporting de Gijón
+15 , Albacete , 2-1 , Tenerife
+16 , Albacete , 1-0 , Valencia
+17 , Albacete , 1-0 , Valladolid
+18 , Albacete , 0-3 , Zaragoza
+19 , Athletic Bilbao , 1-2 , Albacete
+20 , Athletic Bilbao , 3-1 , Atlético Madrid
+21 , Athletic Bilbao , 0-2 , Barcelona
+22 , Athletic Bilbao , 1-0 , Betis
+23 , Athletic Bilbao , 1-1 , Celta de Vigo
+24 , Athletic Bilbao , 1-0 , Compostela
+25 , Athletic Bilbao , 0-2 , Deportivo La Coruña
+26 , Athletic Bilbao , 1-3 , Espanyol
+27 , Athletic Bilbao , 1-0 , Logroñés
+28 , Athletic Bilbao , 2-0 , Racing Santander
+29 , Athletic Bilbao , 1-1 , Real Madrid
+30 , Athletic Bilbao , 1-0 , Oviedo
+31 , Athletic Bilbao , 0-0 , Real Sociedad
+32 , Athletic Bilbao , 0-2 , Sevilla
+33 , Athletic Bilbao , 2-0 , Sporting de Gijón
+34 , Athletic Bilbao , 3-2 , Tenerife
+35 , Athletic Bilbao , 2-1 , Valencia
+36 , Athletic Bilbao , 1-1 , Valladolid
+37 , Athletic Bilbao , 1-0 , Zaragoza
+38 , Atlético Madrid , 4-0 , Albacete
+39 , Atlético Madrid , 2-1 , Athletic Bilbao
+40 , Atlético Madrid , 2-0 , Barcelona
+41 , Atlético Madrid , 0-2 , Betis
+42 , Atlético Madrid , 0-2 , Celta de Vigo
+43 , Atlético Madrid , 1-1 , Compostela
+44 , Atlético Madrid , 1-1 , Deportivo La Coruña
+45 , Atlético Madrid , 3-1 , Espanyol
+46 , Atlético Madrid , 3-0 , Logroñés
+47 , Atlético Madrid , 0-1 , Racing Santander
+48 , Atlético Madrid , 0-2 , Real Madrid
+49 , Atlético Madrid , 3-3 , Oviedo
+50 , Atlético Madrid , 2-1 , Real Sociedad
+51 , Atlético Madrid , 2-2 , Sevilla
+52 , Atlético Madrid , 3-2 , Sporting de Gijón
+53 , Atlético Madrid , 3-1 , Tenerife
+54 , Atlético Madrid , 2-4 , Valencia
+55 , Atlético Madrid , 6-0 , Valladolid
+56 , Atlético Madrid , 2-0 , Zaragoza
+57 , Barcelona , 0-1 , Albacete
+58 , Barcelona , 1-0 , Athletic Bilbao
+59 , Barcelona , 4-3 , Atlético Madrid
+60 , Barcelona , 1-1 , Betis
+61 , Barcelona , 1-1 , Celta de Vigo
+62 , Barcelona , 4-0 , Compostela
+63 , Barcelona , 1-1 , Deportivo La Coruña
+64 , Barcelona , 3-0 , Espanyol
+65 , Barcelona , 3-0 , Logroñés
+66 , Barcelona , 2-1 , Racing Santander
+67 , Barcelona , 1-0 , Real Madrid
+68 , Barcelona , 1-0 , Oviedo
+69 , Barcelona , 1-1 , Real Sociedad
+70 , Barcelona , 0-1 , Sevilla
+71 , Barcelona , 3-1 , Sporting de Gijón
+72 , Barcelona , 1-0 , Tenerife
+73 , Barcelona , 0-0 , Valencia
+74 , Barcelona , 4-1 , Valladolid
+75 , Barcelona , 3-0 , Zaragoza
+76 , Betis , 4-1 , Albacete
+77 , Betis , 0-0 , Athletic Bilbao
+78 , Betis , 2-0 , Atlético Madrid
+79 , Betis , 1-1 , Barcelona
+80 , Betis , 1-1 , Celta de Vigo
+81 , Betis , 1-0 , Compostela
+82 , Betis , 0-0 , Deportivo La Coruña
+83 , Betis , 3-1 , Espanyol
+84 , Betis , 1-0 , Logroñés
+85 , Betis , 2-0 , Racing Santander
+86 , Betis , 0-0 , Real Madrid
+87 , Betis , 0-0 , Oviedo
+88 , Betis , 0-0 , Real Sociedad
+89 , Betis , 2-1 , Sevilla
+90 , Betis , 5-0 , Sporting de Gijón
+91 , Betis , 3-0 , Tenerife
+92 , Betis , 1-1 , Valencia
+93 , Betis , 1-2 , Valladolid
+94 , Betis , 0-1 , Zaragoza
+95 , Celta de Vigo , 0-0 , Albacete
+96 , Celta de Vigo , 1-1 , Athletic Bilbao
+97 , Celta de Vigo , 1-0 , Atlético Madrid
+98 , Celta de Vigo , 2-4 , Barcelona
+99 , Celta de Vigo , 0-2 , Betis
+100 , Celta de Vigo , 1-2 , Compostela
+101 , Celta de Vigo , 0-2 , Deportivo La Coruña
+102 , Celta de Vigo , 1-2 , Espanyol
+103 , Celta de Vigo , 0-1 , Logroñés
+104 , Celta de Vigo , 2-1 , Racing Santander
+105 , Celta de Vigo , 0-2 , Real Madrid
+106 , Celta de Vigo , 0-0 , Oviedo
+107 , Celta de Vigo , 2-1 , Real Sociedad
+108 , Celta de Vigo , 0-0 , Sevilla
+109 , Celta de Vigo , 2-0 , Sporting de Gijón
+110 , Celta de Vigo , 3-2 , Tenerife
+111 , Celta de Vigo , 0-0 , Valencia
+112 , Celta de Vigo , 1-0 , Valladolid
+113 , Celta de Vigo , 0-0 , Zaragoza
+114 , Compostela , 0-0 , Albacete
+115 , Compostela , 0-1 , Athletic Bilbao
+116 , Compostela , 2-1 , Atlético Madrid
+117 , Compostela , 1-2 , Barcelona
+118 , Compostela , 1-1 , Betis
+119 , Compostela , 2-0 , Celta de Vigo
+120 , Compostela , 0-1 , Deportivo La Coruña
+121 , Compostela , 1-1 , Espanyol
+122 , Compostela , 2-0 , Logroñés
+123 , Compostela , 2-1 , Racing Santander
+124 , Compostela , 1-1 , Real Madrid
+125 , Compostela , 1-1 , Oviedo
+126 , Compostela , 0-2 , Real Sociedad
+127 , Compostela , 0-4 , Sevilla
+128 , Compostela , 3-2 , Sporting de Gijón
+129 , Compostela , 2-0 , Tenerife
+130 , Compostela , 1-1 , Valencia
+131 , Compostela , 1-0 , Valladolid
+132 , Compostela , 3-2 , Zaragoza
+133 , Deportivo La Coruña , 2-1 , Albacete
+134 , Deportivo La Coruña , 0-0 , Athletic Bilbao
+135 , Deportivo La Coruña , 0-1 , Atlético Madrid
+136 , Deportivo La Coruña , 1-0 , Barcelona
+137 , Deportivo La Coruña , 2-0 , Betis
+138 , Deportivo La Coruña , 1-2 , Celta de Vigo
+139 , Deportivo La Coruña , 1-0 , Compostela
+140 , Deportivo La Coruña , 1-1 , Espanyol
+141 , Deportivo La Coruña , 5-0 , Logroñés
+142 , Deportivo La Coruña , 3-0 , Racing Santander
+143 , Deportivo La Coruña , 0-0 , Real Madrid
+144 , Deportivo La Coruña , 2-2 , Oviedo
+145 , Deportivo La Coruña , 3-1 , Real Sociedad
+146 , Deportivo La Coruña , 5-1 , Sevilla
+147 , Deportivo La Coruña , 2-1 , Sporting de Gijón
+148 , Deportivo La Coruña , 4-1 , Tenerife
+149 , Deportivo La Coruña , 3-1 , Valencia
+150 , Deportivo La Coruña , 4-0 , Valladolid
+151 , Deportivo La Coruña , 3-3 , Zaragoza
+152 , Espanyol , 5-1 , Albacete
+153 , Espanyol , 3-1 , Athletic Bilbao
+154 , Espanyol , 2-0 , Atlético Madrid
+155 , Espanyol , 0-0 , Barcelona
+156 , Espanyol , 0-0 , Betis
+157 , Espanyol , 0-0 , Celta de Vigo
+158 , Espanyol , 2-0 , Compostela
+159 , Espanyol , 1-0 , Deportivo La Coruña
+160 , Espanyol , 2-0 , Logroñés
+161 , Espanyol , 2-0 , Racing Santander
+162 , Espanyol , 1-2 , Real Madrid
+163 , Espanyol , 4-2 , Oviedo
+164 , Espanyol , 0-0 , Real Sociedad
+165 , Espanyol , 2-2 , Sevilla
+166 , Espanyol , 1-1 , Sporting de Gijón
+167 , Espanyol , 0-0 , Tenerife
+168 , Espanyol , 5-0 , Valencia
+169 , Espanyol , 3-0 , Valladolid
+170 , Espanyol , 2-0 , Zaragoza
+171 , Logroñés , 1-1 , Albacete
+172 , Logroñés , 0-1 , Athletic Bilbao
+173 , Logroñés , 0-0 , Atlético Madrid
+174 , Logroñés , 1-4 , Barcelona
+175 , Logroñés , 0-0 , Betis
+176 , Logroñés , 0-3 , Celta de Vigo
+177 , Logroñés , 0-4 , Compostela
+178 , Logroñés , 0-1 , Deportivo La Coruña
+179 , Logroñés , 1-1 , Espanyol
+180 , Logroñés , 0-1 , Racing Santander
+181 , Logroñés , 1-4 , Real Madrid
+182 , Logroñés , 0-2 , Oviedo
+183 , Logroñés , 0-4 , Real Sociedad
+184 , Logroñés , 0-2 , Sevilla
+185 , Logroñés , 1-3 , Sporting de Gijón
+186 , Logroñés , 4-2 , Tenerife
+187 , Logroñés , 2-2 , Valencia
+188 , Logroñés , 0-0 , Valladolid
+189 , Logroñés , 0-0 , Zaragoza
+190 , Racing Santander , 2-1 , Albacete
+191 , Racing Santander , 0-2 , Athletic Bilbao
+192 , Racing Santander , 0-0 , Atlético Madrid
+193 , Racing Santander , 5-0 , Barcelona
+194 , Racing Santander , 0-0 , Betis
+195 , Racing Santander , 2-0 , Celta de Vigo
+196 , Racing Santander , 2-2 , Compostela
+197 , Racing Santander , 1-2 , Deportivo La Coruña
+198 , Racing Santander , 0-0 , Espanyol
+199 , Racing Santander , 3-0 , Logroñés
+200 , Racing Santander , 3-1 , Real Madrid
+201 , Racing Santander , 2-0 , Oviedo
+202 , Racing Santander , 0-0 , Real Sociedad
+203 , Racing Santander , 0-3 , Sevilla
+204 , Racing Santander , 0-0 , Sporting de Gijón
+205 , Racing Santander , 2-1 , Tenerife
+206 , Racing Santander , 3-2 , Valencia
+207 , Racing Santander , 0-0 , Valladolid
+208 , Racing Santander , 0-1 , Zaragoza
+209 , Real Madrid , 0-0 , Albacete
+210 , Real Madrid , 4-0 , Athletic Bilbao
+211 , Real Madrid , 4-2 , Atlético Madrid
+212 , Real Madrid , 5-0 , Barcelona
+213 , Real Madrid , 0-2 , Betis
+214 , Real Madrid , 4-0 , Celta de Vigo
+215 , Real Madrid , 1-1 , Compostela
+216 , Real Madrid , 2-1 , Deportivo La Coruña
+217 , Real Madrid , 1-0 , Espanyol
+218 , Real Madrid , 2-0 , Logroñés
+219 , Real Madrid , 3-1 , Racing Santander
+220 , Real Madrid , 2-0 , Oviedo
+221 , Real Madrid , 0-0 , Real Sociedad
+222 , Real Madrid , 2-0 , Sevilla
+223 , Real Madrid , 4-0 , Sporting de Gijón
+224 , Real Madrid , 4-2 , Tenerife
+225 , Real Madrid , 3-1 , Valencia
+226 , Real Madrid , 1-0 , Valladolid
+227 , Real Madrid , 3-0 , Zaragoza
+228 , Oviedo , 1-3 , Albacete
+229 , Oviedo , 1-1 , Athletic Bilbao
+230 , Oviedo , 1-0 , Atlético Madrid
+231 , Oviedo , 0-0 , Barcelona
+232 , Oviedo , 0-0 , Betis
+233 , Oviedo , 2-2 , Celta de Vigo
+234 , Oviedo , 2-2 , Compostela
+235 , Oviedo , 2-0 , Deportivo La Coruña
+236 , Oviedo , 3-0 , Espanyol
+237 , Oviedo , 1-0 , Logroñés
+238 , Oviedo , 3-1 , Racing Santander
+239 , Oviedo , 3-2 , Real Madrid
+240 , Oviedo , 3-0 , Real Sociedad
+241 , Oviedo , 1-0 , Sevilla
+242 , Oviedo , 1-0 , Sporting de Gijón
+243 , Oviedo , 1-2 , Tenerife
+244 , Oviedo , 1-0 , Valencia
+245 , Oviedo , 1-0 , Valladolid
+246 , Oviedo , 2-1 , Zaragoza
+247 , Real Sociedad , 2-0 , Albacete
+248 , Real Sociedad , 5-0 , Athletic Bilbao
+249 , Real Sociedad , 3-1 , Atlético Madrid
+250 , Real Sociedad , 1-1 , Barcelona
+251 , Real Sociedad , 1-1 , Betis
+252 , Real Sociedad , 2-3 , Celta de Vigo
+253 , Real Sociedad , 1-1 , Compostela
+254 , Real Sociedad , 1-3 , Deportivo La Coruña
+255 , Real Sociedad , 2-0 , Espanyol
+256 , Real Sociedad , 6-0 , Logroñés
+257 , Real Sociedad , 0-1 , Racing Santander
+258 , Real Sociedad , 1-1 , Real Madrid
+259 , Real Sociedad , 3-1 , Oviedo
+260 , Real Sociedad , 0-0 , Sevilla
+261 , Real Sociedad , 2-2 , Sporting de Gijón
+262 , Real Sociedad , 5-2 , Tenerife
+263 , Real Sociedad , 0-2 , Valencia
+264 , Real Sociedad , 3-0 , Valladolid
+265 , Real Sociedad , 1-2 , Zaragoza
+266 , Sevilla , 0-2 , Albacete
+267 , Sevilla , 0-0 , Athletic Bilbao
+268 , Sevilla , 2-2 , Atlético Madrid
+269 , Sevilla , 4-2 , Barcelona
+270 , Sevilla , 0-1 , Betis
+271 , Sevilla , 2-3 , Celta de Vigo
+272 , Sevilla , 3-0 , Compostela
+273 , Sevilla , 0-0 , Deportivo La Coruña
+274 , Sevilla , 3-0 , Espanyol
+275 , Sevilla , 1-0 , Logroñés
+276 , Sevilla , 1-3 , Racing Santander
+277 , Sevilla , 1-4 , Real Madrid
+278 , Sevilla , 1-1 , Oviedo
+279 , Sevilla , 2-0 , Real Sociedad
+280 , Sevilla , 5-1 , Sporting de Gijón
+281 , Sevilla , 1-2 , Tenerife
+282 , Sevilla , 1-1 , Valencia
+283 , Sevilla , 1-0 , Valladolid
+284 , Sevilla , 2-1 , Zaragoza
+285 , Sporting de Gijón , 3-2 , Albacete
+286 , Sporting de Gijón , 1-1 , Athletic Bilbao
+287 , Sporting de Gijón , 0-2 , Atlético Madrid
+288 , Sporting de Gijón , 2-1 , Barcelona
+289 , Sporting de Gijón , 1-1 , Betis
+290 , Sporting de Gijón , 0-0 , Celta de Vigo
+291 , Sporting de Gijón , 1-1 , Compostela
+292 , Sporting de Gijón , 3-1 , Deportivo La Coruña
+293 , Sporting de Gijón , 0-0 , Espanyol
+294 , Sporting de Gijón , 2-2 , Logroñés
+295 , Sporting de Gijón , 2-3 , Racing Santander
+296 , Sporting de Gijón , 1-0 , Real Madrid
+297 , Sporting de Gijón , 1-1 , Oviedo
+298 , Sporting de Gijón , 1-2 , Real Sociedad
+299 , Sporting de Gijón , 3-0 , Sevilla
+300 , Sporting de Gijón , 1-1 , Tenerife
+301 , Sporting de Gijón , 1-0 , Valencia
+302 , Sporting de Gijón , 1-3 , Valladolid
+303 , Sporting de Gijón , 1-3 , Zaragoza
+304 , Tenerife , 2-2 , Albacete
+305 , Tenerife , 1-0 , Athletic Bilbao
+306 , Tenerife , 1-0 , Atlético Madrid
+307 , Tenerife , 2-1 , Barcelona
+308 , Tenerife , 1-4 , Betis
+309 , Tenerife , 3-0 , Celta de Vigo
+310 , Tenerife , 2-0 , Compostela
+311 , Tenerife , 1-1 , Deportivo La Coruña
+312 , Tenerife , 1-1 , Espanyol
+313 , Tenerife , 4-0 , Logroñés
+314 , Tenerife , 3-0 , Racing Santander
+315 , Tenerife , 0-1 , Real Madrid
+316 , Tenerife , 1-1 , Oviedo
+317 , Tenerife , 3-0 , Real Sociedad
+318 , Tenerife , 0-0 , Sevilla
+319 , Tenerife , 3-0 , Sporting de Gijón
+320 , Tenerife , 1-2 , Valencia
+321 , Tenerife , 0-0 , Valladolid
+322 , Tenerife , 2-0 , Zaragoza
+323 , Valencia , 3-3 , Albacete
+324 , Valencia , 3-1 , Athletic Bilbao
+325 , Valencia , 0-0 , Atlético Madrid
+326 , Valencia , 1-2 , Barcelona
+327 , Valencia , 2-1 , Betis
+328 , Valencia , 1-0 , Celta de Vigo
+329 , Valencia , 4-1 , Compostela
+330 , Valencia , 1-2 , Deportivo La Coruña
+331 , Valencia , 0-0 , Espanyol
+332 , Valencia , 3-0 , Logroñés
+333 , Valencia , 1-1 , Racing Santander
+334 , Valencia , 1-2 , Real Madrid
+335 , Valencia , 1-0 , Oviedo
+336 , Valencia , 4-2 , Real Sociedad
+337 , Valencia , 0-1 , Sevilla
+338 , Valencia , 0-0 , Sporting de Gijón
+339 , Valencia , 2-1 , Tenerife
+340 , Valencia , 3-0 , Valladolid
+341 , Valencia , 3-0 , Zaragoza
+342 , Valladolid , 1-1 , Albacete
+343 , Valladolid , 0-1 , Athletic Bilbao
+344 , Valladolid , 0-1 , Atlético Madrid
+345 , Valladolid , 1-3 , Barcelona
+346 , Valladolid , 0-2 , Betis
+347 , Valladolid , 1-1 , Celta de Vigo
+348 , Valladolid , 2-0 , Compostela
+349 , Valladolid , 0-0 , Deportivo La Coruña
+350 , Valladolid , 0-4 , Espanyol
+351 , Valladolid , 2-1 , Logroñés
+352 , Valladolid , 1-1 , Racing Santander
+353 , Valladolid , 0-5 , Real Madrid
+354 , Valladolid , 2-1 , Oviedo
+355 , Valladolid , 1-1 , Real Sociedad
+356 , Valladolid , 0-4 , Sevilla
+357 , Valladolid , 2-0 , Sporting de Gijón
+358 , Valladolid , 1-4 , Tenerife
+359 , Valladolid , 2-0 , Valencia
+360 , Valladolid , 2-0 , Zaragoza
+361 , Zaragoza , 1-0 , Albacete
+362 , Zaragoza , 1-4 , Athletic Bilbao
+363 , Zaragoza , 3-1 , Atlético Madrid
+364 , Zaragoza , 2-1 , Barcelona
+365 , Zaragoza , 3-0 , Betis
+366 , Zaragoza , 4-0 , Celta de Vigo
+367 , Zaragoza , 5-3 , Compostela
+368 , Zaragoza , 1-0 , Deportivo La Coruña
+369 , Zaragoza , 1-0 , Espanyol
+370 , Zaragoza , 3-0 , Logroñés
+371 , Zaragoza , 1-1 , Racing Santander
+372 , Zaragoza , 3-2 , Real Madrid
+373 , Zaragoza , 2-1 , Oviedo
+374 , Zaragoza , 1-1 , Real Sociedad
+375 , Zaragoza , 0-1 , Sevilla
+376 , Zaragoza , 3-2 , Sporting de Gijón
+377 , Zaragoza , 2-2 , Tenerife
+378 , Zaragoza , 2-2 , Valencia
+379 , Zaragoza , 1-0 , Valladolid
+shortNames:,,Home ╲ Away,Albacete !ALB,Athletic Bilbao !ATH,Atlético Madrid !ATM,Barcelona !BAR,Betis !BET,Celta de Vigo !CEL,Compostela !COM,Deportivo La Coruña !DEP,Espanyol !ESP,Logroñés !LOG,Racing Santander !RAC,Real Madrid !RMA,Oviedo !ROV,Real Sociedad !RSO,Sevilla !SEV,Sporting de Gijón !SPG,Tenerife !TEN,Valencia !VAL,Valladolid !VLD,Zaragoza !ZAR
+fullNames:,,Albacete,Athletic Bilbao,Atlético Madrid,Barcelona,Betis,Celta de Vigo,Compostela,Deportivo La Coruña,Espanyol,Logroñés,Racing Santander,Real Madrid,Oviedo,Real Sociedad,Sevilla,Sporting de Gijón,Tenerife,Valencia,Valladolid,Zaragoza

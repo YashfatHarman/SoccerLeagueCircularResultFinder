@@ -1,0 +1,308 @@
+0 , Alessandria , 2-1 , Ambrosiana-Inter
+1 , Alessandria , 3-0 , Bari
+2 , Alessandria , 3-3 , Bologna
+3 , Alessandria , 3-2 , Brescia
+4 , Alessandria , 1-4 , Casale
+5 , Alessandria , 1-0 , Fiorentina
+6 , Alessandria , 2-2 , Genova 1893
+7 , Alessandria , 2-3 , Juventus
+8 , Alessandria , 2-1 , Lazio
+9 , Alessandria , 2-1 , Milan
+10 , Alessandria , 5-0 , Modena
+11 , Alessandria , 3-1 , Napoli
+12 , Alessandria , 6-1 , Pro Patria
+13 , Alessandria , 4-5 , Pro Vercelli
+14 , Alessandria , 0-1 , Roma
+15 , Alessandria , 1-1 , Torino
+16 , Alessandria , 4-0 , Triestina
+17 , Ambrosiana-Inter , 4-0 , Alessandria
+18 , Ambrosiana-Inter , 0-0 , Bari
+19 , Ambrosiana-Inter , 4-3 , Bologna
+20 , Ambrosiana-Inter , 5-0 , Brescia
+21 , Ambrosiana-Inter , 4-0 , Casale
+22 , Ambrosiana-Inter , 1-1 , Fiorentina
+23 , Ambrosiana-Inter , 3-1 , Genova 1893
+24 , Ambrosiana-Inter , 2-4 , Juventus
+25 , Ambrosiana-Inter , 2-0 , Lazio
+26 , Ambrosiana-Inter , 0-0 , Milan
+27 , Ambrosiana-Inter , 4-2 , Modena
+28 , Ambrosiana-Inter , 6-1 , Napoli
+29 , Ambrosiana-Inter , 3-1 , Pro Patria
+30 , Ambrosiana-Inter , 4-1 , Pro Vercelli
+31 , Ambrosiana-Inter , 2-1 , Roma
+32 , Ambrosiana-Inter , 1-1 , Torino
+33 , Ambrosiana-Inter , 4-3 , Triestina
+34 , Bari , 1-0 , Alessandria
+35 , Bari , 0-0 , Ambrosiana-Inter
+36 , Bari , 1-2 , Bologna
+37 , Bari , 1-1 , Brescia
+38 , Bari , 0-1 , Casale
+39 , Bari , 3-0 , Fiorentina
+40 , Bari , 4-2 , Genova 1893
+41 , Bari , 0-1 , Juventus
+42 , Bari , 1-0 , Lazio
+43 , Bari , 2-5 , Milan
+44 , Bari , 1-0 , Modena
+45 , Bari , 0-2 , Napoli
+46 , Bari , 2-1 , Pro Patria
+47 , Bari , 1-0 , Pro Vercelli
+48 , Bari , 1-2 , Roma
+49 , Bari , 3-2 , Torino
+50 , Bari , 3-2 , Triestina
+51 , Bologna , 3-1 , Alessandria
+52 , Bologna , 2-0 , Ambrosiana-Inter
+53 , Bologna , 2-0 , Bari
+54 , Bologna , 6-1 , Brescia
+55 , Bologna , 4-2 , Casale
+56 , Bologna , 2-1 , Fiorentina
+57 , Bologna , 2-0 , Genova 1893
+58 , Bologna , 1-1 , Juventus
+59 , Bologna , 5-1 , Lazio
+60 , Bologna , 3-0 , Milan
+61 , Bologna , 4-0 , Modena
+62 , Bologna , 2-0 , Napoli
+63 , Bologna , 4-0 , Pro Patria
+64 , Bologna , 1-0 , Pro Vercelli
+65 , Bologna , 3-0 , Roma
+66 , Bologna , 4-2 , Torino
+67 , Bologna , 8-0 , Triestina
+68 , Brescia , 1-0 , Alessandria
+69 , Brescia , 0-2 , Ambrosiana-Inter
+70 , Brescia , 0-0 , Bari
+71 , Brescia , 0-1 , Bologna
+72 , Brescia , 1-0 , Casale
+73 , Brescia , 0-1 , Fiorentina
+74 , Brescia , 4-2 , Genova 1893
+75 , Brescia , 0-4 , Juventus
+76 , Brescia , 1-0 , Lazio
+77 , Brescia , 2-3 , Milan
+78 , Brescia , 2-1 , Modena
+79 , Brescia , 1-0 , Napoli
+80 , Brescia , 0-0 , Pro Patria
+81 , Brescia , 2-0 , Pro Vercelli
+82 , Brescia , 1-1 , Roma
+83 , Brescia , 1-2 , Torino
+84 , Brescia , 2-1 , Triestina
+85 , Casale , 2-2 , Alessandria
+86 , Casale , 3-1 , Ambrosiana-Inter
+87 , Casale , 6-2 , Bari
+88 , Casale , 1-5 , Bologna
+89 , Casale , 2-1 , Brescia
+90 , Casale , 3-2 , Fiorentina
+91 , Casale , 2-0 , Genova 1893
+92 , Casale , 1-1 , Juventus
+93 , Casale , 0-1 , Lazio
+94 , Casale , 0-1 , Milan
+95 , Casale , 4-0 , Modena
+96 , Casale , 1-0 , Napoli
+97 , Casale , 1-2 , Pro Patria
+98 , Casale , 0-1 , Pro Vercelli
+99 , Casale , 1-0 , Roma
+100 , Casale , 1-1 , Torino
+101 , Casale , 0-1 , Triestina
+102 , Fiorentina , 0-1 , Alessandria
+103 , Fiorentina , 3-0 , Ambrosiana-Inter
+104 , Fiorentina , 2-1 , Bari
+105 , Fiorentina , 1-3 , Bologna
+106 , Fiorentina , 2-1 , Brescia
+107 , Fiorentina , 4-1 , Casale
+108 , Fiorentina , 2-2 , Genova 1893
+109 , Fiorentina , 1-2 , Juventus
+110 , Fiorentina , 2-0 , Lazio
+111 , Fiorentina , 3-0 , Milan
+112 , Fiorentina , 5-0 , Modena
+113 , Fiorentina , 2-0 , Napoli
+114 , Fiorentina , 1-0 , Pro Patria
+115 , Fiorentina , 1-0 , Pro Vercelli
+116 , Fiorentina , 3-1 , Roma
+117 , Fiorentina , 4-2 , Torino
+118 , Fiorentina , 1-0 , Triestina
+119 , Genova 1893 , 1-2 , Alessandria
+120 , Genova 1893 , 0-1 , Ambrosiana-Inter
+121 , Genova 1893 , 3-0 , Bari
+122 , Genova 1893 , 3-2 , Bologna
+123 , Genova 1893 , 4-0 , Brescia
+124 , Genova 1893 , 3-1 , Casale
+125 , Genova 1893 , 1-1 , Fiorentina
+126 , Genova 1893 , 2-0 , Juventus
+127 , Genova 1893 , 1-0 , Lazio
+128 , Genova 1893 , 1-2 , Milan
+129 , Genova 1893 , 3-0 , Modena
+130 , Genova 1893 , 1-0 , Napoli
+131 , Genova 1893 , 4-1 , Pro Patria
+132 , Genova 1893 , 2-1 , Pro Vercelli
+133 , Genova 1893 , 1-1 , Roma
+134 , Genova 1893 , 2-2 , Torino
+135 , Genova 1893 , 2-0 , Triestina
+136 , Juventus , 3-0 , Alessandria
+137 , Juventus , 6-2 , Ambrosiana-Inter
+138 , Juventus , 7-3 , Bari
+139 , Juventus , 3-2 , Bologna
+140 , Juventus , 3-0 , Brescia
+141 , Juventus , 3-2 , Casale
+142 , Juventus , 2-2 , Fiorentina
+143 , Juventus , 2-1 , Genova 1893
+144 , Juventus , 1-2 , Lazio
+145 , Juventus , 2-0 , Milan
+146 , Juventus , 3-0 , Modena
+147 , Juventus , 5-3 , Napoli
+148 , Juventus , 7-2 , Pro Patria
+149 , Juventus , 4-1 , Pro Vercelli
+150 , Juventus , 7-1 , Roma
+151 , Juventus , 3-0 , Torino
+152 , Juventus , 4-2 , Triestina
+153 , Lazio , 2-2 , Alessandria
+154 , Lazio , 2-2 , Ambrosiana-Inter
+155 , Lazio , 3-2 , Bari
+156 , Lazio , 2-1 , Bologna
+157 , Lazio , 2-0 , Brescia
+158 , Lazio , 1-3 , Casale
+159 , Lazio , 1-0 , Fiorentina
+160 , Lazio , 0-0 , Genova 1893
+161 , Lazio , 0-3 , Juventus
+162 , Lazio , 0-0 , Milan
+163 , Lazio , 9-1 , Modena
+164 , Lazio , 0-2 , Napoli
+165 , Lazio , 1-2 , Pro Patria
+166 , Lazio , 5-0 , Pro Vercelli
+167 , Lazio , 1-4 , Roma
+168 , Lazio , 2-0 , Torino
+169 , Lazio , 2-0 , Triestina
+170 , Milan , 1-1 , Alessandria
+171 , Milan , 2-3 , Ambrosiana-Inter
+172 , Milan , 2-1 , Bari
+173 , Milan , 1-0 , Bologna
+174 , Milan , 2-2 , Brescia
+175 , Milan , 4-2 , Casale
+176 , Milan , 1-1 , Fiorentina
+177 , Milan , 3-0 , Genova 1893
+178 , Milan , 0-0 , Juventus
+179 , Milan , 2-0 , Lazio
+180 , Milan , 5-0 , Modena
+181 , Milan , 3-1 , Napoli
+182 , Milan , 1-1 , Pro Patria
+183 , Milan , 3-0 , Pro Vercelli
+184 , Milan , 1-2 , Roma
+185 , Milan , 6-1 , Torino
+186 , Milan , 1-1 , Triestina
+187 , Modena , 2-1 , Alessandria
+188 , Modena , 3-1 , Ambrosiana-Inter
+189 , Modena , 0-0 , Bari
+190 , Modena , 0-0 , Bologna
+191 , Modena , 2-2 , Brescia
+192 , Modena , 4-1 , Casale
+193 , Modena , 1-1 , Fiorentina
+194 , Modena , 0-0 , Genova 1893
+195 , Modena , 0-1 , Juventus
+196 , Modena , 3-1 , Lazio
+197 , Modena , 2-1 , Milan
+198 , Modena , 2-2 , Napoli
+199 , Modena , 1-1 , Pro Patria
+200 , Modena , 2-0 , Pro Vercelli
+201 , Modena , 2-3 , Roma
+202 , Modena , 5-2 , Torino
+203 , Modena , 1-1 , Triestina
+204 , Napoli , 1-1 , Alessandria
+205 , Napoli , 1-0 , Ambrosiana-Inter
+206 , Napoli , 3-0 , Bari
+207 , Napoli , 1-1 , Bologna
+208 , Napoli , 1-1 , Brescia
+209 , Napoli , 5-1 , Casale
+210 , Napoli , 0-2 , Fiorentina
+211 , Napoli , 3-1 , Genova 1893
+212 , Napoli , 2-0 , Juventus
+213 , Napoli , 0-0 , Lazio
+214 , Napoli , 3-1 , Milan
+215 , Napoli , 4-1 , Modena
+216 , Napoli , 1-1 , Pro Patria
+217 , Napoli , 2-1 , Pro Vercelli
+218 , Napoli , 1-0 , Roma
+219 , Napoli , 0-0 , Torino
+220 , Napoli , 4-2 , Triestina
+221 , Pro Patria , 2-1 , Alessandria
+222 , Pro Patria , 1-1 , Ambrosiana-Inter
+223 , Pro Patria , 2-2 , Bari
+224 , Pro Patria , 0-2 , Bologna
+225 , Pro Patria , 0-0 , Brescia
+226 , Pro Patria , 3-1 , Casale
+227 , Pro Patria , 0-3 , Fiorentina
+228 , Pro Patria , 2-0 , Genova 1893
+229 , Pro Patria , 1-1 , Juventus
+230 , Pro Patria , 1-1 , Lazio
+231 , Pro Patria , 2-0 , Milan
+232 , Pro Patria , 3-1 , Modena
+233 , Pro Patria , 0-0 , Napoli
+234 , Pro Patria , 2-1 , Pro Vercelli
+235 , Pro Patria , 2-2 , Roma
+236 , Pro Patria , 2-1 , Torino
+237 , Pro Patria , 0-2 , Triestina
+238 , Pro Vercelli , 1-1 , Alessandria
+239 , Pro Vercelli , 2-0 , Ambrosiana-Inter
+240 , Pro Vercelli , 2-0 , Bari
+241 , Pro Vercelli , 1-1 , Bologna
+242 , Pro Vercelli , 1-0 , Brescia
+243 , Pro Vercelli , 0-1 , Casale
+244 , Pro Vercelli , 1-0 , Fiorentina
+245 , Pro Vercelli , 4-2 , Genova 1893
+246 , Pro Vercelli , 1-2 , Juventus
+247 , Pro Vercelli , 2-2 , Lazio
+248 , Pro Vercelli , 0-2 , Milan
+249 , Pro Vercelli , 2-1 , Modena
+250 , Pro Vercelli , 1-1 , Napoli
+251 , Pro Vercelli , 1-0 , Pro Patria
+252 , Pro Vercelli , 0-0 , Roma
+253 , Pro Vercelli , 2-0 , Torino
+254 , Pro Vercelli , 1-1 , Triestina
+255 , Roma , 1-2 , Alessandria
+256 , Roma , 2-1 , Ambrosiana-Inter
+257 , Roma , 0-0 , Bari
+258 , Roma , 1-1 , Bologna
+259 , Roma , 3-1 , Brescia
+260 , Roma , 4-0 , Casale
+261 , Roma , 1-1 , Fiorentina
+262 , Roma , 6-0 , Genova 1893
+263 , Roma , 2-0 , Juventus
+264 , Roma , 2-0 , Lazio
+265 , Roma , 1-0 , Milan
+266 , Roma , 4-2 , Modena
+267 , Roma , 1-0 , Napoli
+268 , Roma , 0-0 , Pro Patria
+269 , Roma , 2-1 , Pro Vercelli
+270 , Roma , 2-3 , Torino
+271 , Roma , 1-0 , Triestina
+272 , Torino , 1-3 , Alessandria
+273 , Torino , 2-1 , Ambrosiana-Inter
+274 , Torino , 6-1 , Bari
+275 , Torino , 1-1 , Bologna
+276 , Torino , 4-0 , Brescia
+277 , Torino , 3-1 , Casale
+278 , Torino , 1-0 , Fiorentina
+279 , Torino , 3-1 , Genova 1893
+280 , Torino , 0-0 , Juventus
+281 , Torino , 3-1 , Lazio
+282 , Torino , 0-0 , Milan
+283 , Torino , 6-0 , Modena
+284 , Torino , 4-1 , Napoli
+285 , Torino , 3-1 , Pro Patria
+286 , Torino , 4-0 , Pro Vercelli
+287 , Torino , 2-1 , Roma
+288 , Torino , 1-1 , Triestina
+289 , Triestina , 1-4 , Alessandria
+290 , Triestina , 2-2 , Ambrosiana-Inter
+291 , Triestina , 2-0 , Bari
+292 , Triestina , 1-1 , Bologna
+293 , Triestina , 1-1 , Brescia
+294 , Triestina , 2-2 , Casale
+295 , Triestina , 2-1 , Fiorentina
+296 , Triestina , 0-0 , Genova 1893
+297 , Triestina , 0-1 , Juventus
+298 , Triestina , 3-2 , Lazio
+299 , Triestina , 1-3 , Milan
+300 , Triestina , 5-2 , Modena
+301 , Triestina , 1-2 , Napoli
+302 , Triestina , 0-0 , Pro Patria
+303 , Triestina , 1-1 , Pro Vercelli
+304 , Triestina , 2-0 , Roma
+305 , Triestina , 1-0 , Torino
+shortNames:,,Home ╲ Away,Alessandria !ALE,Ambrosiana-Inter !AMB,Bari !BAR,Bologna !BOL,Brescia !BRE,Casale !CSL,Fiorentina !FIO,Genova 1893 !GEN,Juventus !JUV,Lazio !LAZ,Milan !MIL,Modena !MOD,Napoli !NAP,Pro Patria !PPA,Pro Vercelli !PVE,Roma !ROM,Torino !TOR,Triestina !TRI
+fullNames:,,Alessandria,Ambrosiana-Inter,Bari,Bologna,Brescia,Casale,Fiorentina,Genova 1893,Juventus,Lazio,Milan,Modena,Napoli,Pro Patria,Pro Vercelli,Roma,Torino,Triestina

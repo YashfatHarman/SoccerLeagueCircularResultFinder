@@ -1,0 +1,134 @@
+0 , Athletic Bilbao , 1-3 , Athletic Aviación Club
+1 , Athletic Bilbao , 7-5 , FC Barcelona
+2 , Athletic Bilbao , 6-1 , Betis Balompié
+3 , Athletic Bilbao , 4-1 , Celta de Vigo
+4 , Athletic Bilbao , 4-0 , CE Espanyol
+5 , Athletic Bilbao , 4-1 , Hércules CF
+6 , Athletic Bilbao , 3-1 , Madrid CF
+7 , Athletic Bilbao , 3-2 , Racing de Santander
+8 , Athletic Bilbao , 3-4 , Sevilla FC
+9 , Athletic Bilbao , 1-2 , Valencia CF
+10 , Athletic Bilbao , 1-1 , Zaragoza
+11 , Athletic Aviación Club , 3-1 , Athletic Bilbao
+12 , Athletic Aviación Club , 3-0 , FC Barcelona
+13 , Athletic Aviación Club , 0-0 , Betis Balompié
+14 , Athletic Aviación Club , 4-1 , Celta de Vigo
+15 , Athletic Aviación Club , 2-0 , CE Espanyol
+16 , Athletic Aviación Club , 2-1 , Hércules CF
+17 , Athletic Aviación Club , 2-1 , Madrid CF
+18 , Athletic Aviación Club , 2-1 , Racing de Santander
+19 , Athletic Aviación Club , 4-2 , Sevilla FC
+20 , Athletic Aviación Club , 2-0 , Valencia CF
+21 , Athletic Aviación Club , 5-1 , Zaragoza
+22 , FC Barcelona , 0-2 , Athletic Bilbao
+23 , FC Barcelona , 1-2 , Athletic Aviación Club
+24 , FC Barcelona , 2-0 , Betis Balompié
+25 , FC Barcelona , 2-0 , Celta de Vigo
+26 , FC Barcelona , 0-1 , CE Espanyol
+27 , FC Barcelona , 0-0 , Hércules CF
+28 , FC Barcelona , 0-0 , Madrid CF
+29 , FC Barcelona , 3-1 , Racing de Santander
+30 , FC Barcelona , 1-2 , Sevilla FC
+31 , FC Barcelona , 4-1 , Valencia CF
+32 , FC Barcelona , 2-1 , Zaragoza
+33 , Betis Balompié , 0-0 , Athletic Bilbao
+34 , Betis Balompié , 1-2 , Athletic Aviación Club
+35 , Betis Balompié , 3-0 , FC Barcelona
+36 , Betis Balompié , 2-0 , Celta de Vigo
+37 , Betis Balompié , 2-0 , CE Espanyol
+38 , Betis Balompié , 4-3 , Hércules CF
+39 , Betis Balompié , 0-4 , Madrid CF
+40 , Betis Balompié , 2-1 , Racing de Santander
+41 , Betis Balompié , 3-2 , Sevilla FC
+42 , Betis Balompié , 0-3 , Valencia CF
+43 , Betis Balompié , 0-0 , Zaragoza
+44 , Celta de Vigo , 2-4 , Athletic Bilbao
+45 , Celta de Vigo , 1-0 , Athletic Aviación Club
+46 , Celta de Vigo , 1-2 , FC Barcelona
+47 , Celta de Vigo , 4-2 , Betis Balompié
+48 , Celta de Vigo , 2-0 , CE Espanyol
+49 , Celta de Vigo , 4-0 , Hércules CF
+50 , Celta de Vigo , 2-3 , Madrid CF
+51 , Celta de Vigo , 5-1 , Racing de Santander
+52 , Celta de Vigo , 2-0 , Sevilla FC
+53 , Celta de Vigo , 3-2 , Valencia CF
+54 , Celta de Vigo , 5-1 , Zaragoza
+55 , CE Espanyol , 3-4 , Athletic Bilbao
+56 , CE Espanyol , 2-0 , Athletic Aviación Club
+57 , CE Espanyol , 1-1 , FC Barcelona
+58 , CE Espanyol , 5-0 , Betis Balompié
+59 , CE Espanyol , 4-1 , Celta de Vigo
+60 , CE Espanyol , 3-3 , Hércules CF
+61 , CE Espanyol , 5-4 , Madrid CF
+62 , CE Espanyol , 3-1 , Racing de Santander
+63 , CE Espanyol , 2-1 , Sevilla FC
+64 , CE Espanyol , 2-3 , Valencia CF
+65 , CE Espanyol , 2-0 , Zaragoza
+66 , Hércules CF , 1-0 , Athletic Bilbao
+67 , Hércules CF , 4-1 , Athletic Aviación Club
+68 , Hércules CF , 1-2 , FC Barcelona
+69 , Hércules CF , 3-0 , Betis Balompié
+70 , Hércules CF , 6-1 , Celta de Vigo
+71 , Hércules CF , 1-2 , CE Espanyol
+72 , Hércules CF , 0-2 , Madrid CF
+73 , Hércules CF , 3-1 , Racing de Santander
+74 , Hércules CF , 3-3 , Sevilla FC
+75 , Hércules CF , 2-1 , Valencia CF
+76 , Hércules CF , 5-1 , Zaragoza
+77 , Madrid CF , 4-1 , Athletic Bilbao
+78 , Madrid CF , 2-0 , Athletic Aviación Club
+79 , Madrid CF , 2-1 , FC Barcelona
+80 , Madrid CF , 3-0 , Betis Balompié
+81 , Madrid CF , 2-1 , Celta de Vigo
+82 , Madrid CF , 3-1 , CE Espanyol
+83 , Madrid CF , 0-1 , Hércules CF
+84 , Madrid CF , 3-2 , Racing de Santander
+85 , Madrid CF , 1-3 , Sevilla FC
+86 , Madrid CF , 2-1 , Valencia CF
+87 , Madrid CF , 5-1 , Zaragoza
+88 , Racing de Santander , 3-0 , Athletic Bilbao
+89 , Racing de Santander , 0-2 , Athletic Aviación Club
+90 , Racing de Santander , 2-3 , FC Barcelona
+91 , Racing de Santander , 4-2 , Betis Balompié
+92 , Racing de Santander , 6-2 , Celta de Vigo
+93 , Racing de Santander , 2-3 , CE Espanyol
+94 , Racing de Santander , 0-1 , Hércules CF
+95 , Racing de Santander , 2-1 , Madrid CF
+96 , Racing de Santander , 3-3 , Sevilla FC
+97 , Racing de Santander , 2-1 , Valencia CF
+98 , Racing de Santander , 1-0 , Zaragoza
+99 , Sevilla FC , 3-3 , Athletic Bilbao
+100 , Sevilla FC , 4-1 , Athletic Aviación Club
+101 , Sevilla FC , 2-1 , FC Barcelona
+102 , Sevilla FC , 4-3 , Betis Balompié
+103 , Sevilla FC , 1-4 , Celta de Vigo
+104 , Sevilla FC , 4-0 , CE Espanyol
+105 , Sevilla FC , 1-1 , Hércules CF
+106 , Sevilla FC , 3-2 , Madrid CF
+107 , Sevilla FC , 8-2 , Racing de Santander
+108 , Sevilla FC , 4-2 , Valencia CF
+109 , Sevilla FC , 3-0 , Zaragoza
+110 , Valencia CF , 3-4 , Athletic Bilbao
+111 , Valencia CF , 1-0 , Athletic Aviación Club
+112 , Valencia CF , 3-1 , FC Barcelona
+113 , Valencia CF , 4-0 , Betis Balompié
+114 , Valencia CF , 1-1 , Celta de Vigo
+115 , Valencia CF , 1-3 , CE Espanyol
+116 , Valencia CF , 2-1 , Hércules CF
+117 , Valencia CF , 3-1 , Madrid CF
+118 , Valencia CF , 4-0 , Racing de Santander
+119 , Valencia CF , 2-2 , Sevilla FC
+120 , Valencia CF , 0-0 , Zaragoza
+121 , Zaragoza , 1-1 , Athletic Bilbao
+122 , Zaragoza , 4-3 , Athletic Aviación Club
+123 , Zaragoza , 3-1 , FC Barcelona
+124 , Zaragoza , 1-1 , Betis Balompié
+125 , Zaragoza , 3-2 , Celta de Vigo
+126 , Zaragoza , 4-1 , CE Espanyol
+127 , Zaragoza , 0-0 , Hércules CF
+128 , Zaragoza , 3-1 , Madrid CF
+129 , Zaragoza , 3-0 , Racing de Santander
+130 , Zaragoza , 1-1 , Sevilla FC
+131 , Zaragoza , 1-0 , Valencia CF
+shortNames:,,Ath,AtM,Bar,Bet,Cel,Esp,Hér,Mad,Rac,Sev,Val,Zar
+fullNames:,,Athletic Bilbao,Athletic Aviación Club,FC Barcelona,Betis Balompié,Celta de Vigo,CE Espanyol,Hércules CF,Madrid CF,Racing de Santander,Sevilla FC,Valencia CF,Zaragoza

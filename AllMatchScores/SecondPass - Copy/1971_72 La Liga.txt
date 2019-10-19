@@ -1,0 +1,308 @@
+0 , Atlético Bilbao , 0-1 , Atlético Madrid
+1 , Atlético Bilbao , 0-1 , CF Barcelona
+2 , Atlético Bilbao , 3-0 , Betis
+3 , Atlético Bilbao , 1-0 , Burgos
+4 , Atlético Bilbao , 4-0 , Celta de Vigo
+5 , Atlético Bilbao , 5-0 , Córdoba CF
+6 , Atlético Bilbao , 1-0 , Deportivo de La Coruña
+7 , Atlético Bilbao , 1-1 , RCD Español
+8 , Atlético Bilbao , 1-0 , Granada CF
+9 , Atlético Bilbao , 1-2 , UD Las Palmas
+10 , Atlético Bilbao , 0-0 , CD Málaga
+11 , Atlético Bilbao , 3-1 , Real Gijón
+12 , Atlético Bilbao , 1-0 , Real Madrid
+13 , Atlético Bilbao , 1-2 , Real Sociedad
+14 , Atlético Bilbao , 3-1 , CE Sabadell FC
+15 , Atlético Bilbao , 2-0 , Sevilla CF
+16 , Atlético Bilbao , 1-1 , Valencia CF
+17 , Atlético Madrid , 1-2 , Atlético Bilbao
+18 , Atlético Madrid , 1-1 , CF Barcelona
+19 , Atlético Madrid , 4-1 , Betis
+20 , Atlético Madrid , 1-0 , Burgos
+21 , Atlético Madrid , 0-0 , Celta de Vigo
+22 , Atlético Madrid , 2-2 , Córdoba CF
+23 , Atlético Madrid , 2-1 , Deportivo de La Coruña
+24 , Atlético Madrid , 1-1 , RCD Español
+25 , Atlético Madrid , 1-0 , Granada CF
+26 , Atlético Madrid , 2-0 , UD Las Palmas
+27 , Atlético Madrid , 0-0 , CD Málaga
+28 , Atlético Madrid , 1-0 , Real Gijón
+29 , Atlético Madrid , 4-1 , Real Madrid
+30 , Atlético Madrid , 5-0 , Real Sociedad
+31 , Atlético Madrid , 5-0 , CE Sabadell FC
+32 , Atlético Madrid , 0-2 , Sevilla CF
+33 , Atlético Madrid , 0-1 , Valencia CF
+34 , CF Barcelona , 0-1 , Atlético Bilbao
+35 , CF Barcelona , 0-0 , Atlético Madrid
+36 , CF Barcelona , 2-2 , Betis
+37 , CF Barcelona , 2-1 , Burgos
+38 , CF Barcelona , 1-0 , Celta de Vigo
+39 , CF Barcelona , 4-1 , Córdoba CF
+40 , CF Barcelona , 1-0 , Deportivo de La Coruña
+41 , CF Barcelona , 2-0 , RCD Español
+42 , CF Barcelona , 2-0 , Granada CF
+43 , CF Barcelona , 1-2 , UD Las Palmas
+44 , CF Barcelona , 0-1 , CD Málaga
+45 , CF Barcelona , 1-0 , Real Gijón
+46 , CF Barcelona , 1-0 , Real Madrid
+47 , CF Barcelona , 3-0 , Real Sociedad
+48 , CF Barcelona , 2-0 , CE Sabadell FC
+49 , CF Barcelona , 1-0 , Sevilla CF
+50 , CF Barcelona , 1-1 , Valencia CF
+51 , Betis , 1-0 , Atlético Bilbao
+52 , Betis , 1-3 , Atlético Madrid
+53 , Betis , 0-0 , CF Barcelona
+54 , Betis , 2-0 , Burgos
+55 , Betis , 1-1 , Celta de Vigo
+56 , Betis , 0-0 , Córdoba CF
+57 , Betis , 2-0 , Deportivo de La Coruña
+58 , Betis , 0-1 , RCD Español
+59 , Betis , 1-0 , Granada CF
+60 , Betis , 2-1 , UD Las Palmas
+61 , Betis , 0-0 , CD Málaga
+62 , Betis , 2-1 , Real Gijón
+63 , Betis , 0-0 , Real Madrid
+64 , Betis , 1-0 , Real Sociedad
+65 , Betis , 1-0 , CE Sabadell FC
+66 , Betis , 1-1 , Sevilla CF
+67 , Betis , 1-0 , Valencia CF
+68 , Burgos , 1-0 , Atlético Bilbao
+69 , Burgos , 0-0 , Atlético Madrid
+70 , Burgos , 2-3 , CF Barcelona
+71 , Burgos , 0-1 , Betis
+72 , Burgos , 3-2 , Celta de Vigo
+73 , Burgos , 1-0 , Córdoba CF
+74 , Burgos , 3-1 , Deportivo de La Coruña
+75 , Burgos , 2-1 , RCD Español
+76 , Burgos , 1-1 , Granada CF
+77 , Burgos , 1-0 , UD Las Palmas
+78 , Burgos , 3-1 , CD Málaga
+79 , Burgos , 1-0 , Real Gijón
+80 , Burgos , 1-2 , Real Madrid
+81 , Burgos , 3-1 , Real Sociedad
+82 , Burgos , 4-1 , CE Sabadell FC
+83 , Burgos , 1-0 , Sevilla CF
+84 , Burgos , 0-1 , Valencia CF
+85 , Celta de Vigo , 2-0 , Atlético Bilbao
+86 , Celta de Vigo , 2-1 , Atlético Madrid
+87 , Celta de Vigo , 1-2 , CF Barcelona
+88 , Celta de Vigo , 1-0 , Betis
+89 , Celta de Vigo , 2-0 , Burgos
+90 , Celta de Vigo , 2-0 , Córdoba CF
+91 , Celta de Vigo , 3-1 , Deportivo de La Coruña
+92 , Celta de Vigo , 4-2 , RCD Español
+93 , Celta de Vigo , 0-0 , Granada CF
+94 , Celta de Vigo , 2-0 , UD Las Palmas
+95 , Celta de Vigo , 1-1 , CD Málaga
+96 , Celta de Vigo , 2-2 , Real Gijón
+97 , Celta de Vigo , 1-1 , Real Madrid
+98 , Celta de Vigo , 0-1 , Real Sociedad
+99 , Celta de Vigo , 0-1 , CE Sabadell FC
+100 , Celta de Vigo , 4-1 , Sevilla CF
+101 , Celta de Vigo , 1-3 , Valencia CF
+102 , Córdoba CF , 0-1 , Atlético Bilbao
+103 , Córdoba CF , 0-1 , Atlético Madrid
+104 , Córdoba CF , 1-0 , CF Barcelona
+105 , Córdoba CF , 3-1 , Betis
+106 , Córdoba CF , 0-0 , Burgos
+107 , Córdoba CF , 0-0 , Celta de Vigo
+108 , Córdoba CF , 0-0 , Deportivo de La Coruña
+109 , Córdoba CF , 3-1 , RCD Español
+110 , Córdoba CF , 2-0 , Granada CF
+111 , Córdoba CF , 2-2 , UD Las Palmas
+112 , Córdoba CF , 0-0 , CD Málaga
+113 , Córdoba CF , 0-1 , Real Gijón
+114 , Córdoba CF , 2-2 , Real Madrid
+115 , Córdoba CF , 1-0 , Real Sociedad
+116 , Córdoba CF , 4-1 , CE Sabadell FC
+117 , Córdoba CF , 1-1 , Sevilla CF
+118 , Córdoba CF , 0-4 , Valencia CF
+119 , Deportivo de La Coruña , 1-0 , Atlético Bilbao
+120 , Deportivo de La Coruña , 1-1 , Atlético Madrid
+121 , Deportivo de La Coruña , 0-2 , CF Barcelona
+122 , Deportivo de La Coruña , 1-1 , Betis
+123 , Deportivo de La Coruña , 0-0 , Burgos
+124 , Deportivo de La Coruña , 0-1 , Celta de Vigo
+125 , Deportivo de La Coruña , 3-2 , Córdoba CF
+126 , Deportivo de La Coruña , 3-1 , RCD Español
+127 , Deportivo de La Coruña , 2-0 , Granada CF
+128 , Deportivo de La Coruña , 1-0 , UD Las Palmas
+129 , Deportivo de La Coruña , 0-0 , CD Málaga
+130 , Deportivo de La Coruña , 1-1 , Real Gijón
+131 , Deportivo de La Coruña , 1-0 , Real Madrid
+132 , Deportivo de La Coruña , 1-0 , Real Sociedad
+133 , Deportivo de La Coruña , 1-0 , CE Sabadell FC
+134 , Deportivo de La Coruña , 1-0 , Sevilla CF
+135 , Deportivo de La Coruña , 3-0 , Valencia CF
+136 , RCD Español , 1-2 , Atlético Bilbao
+137 , RCD Español , 1-2 , Atlético Madrid
+138 , RCD Español , 3-0 , CF Barcelona
+139 , RCD Español , 3-0 , Betis
+140 , RCD Español , 1-1 , Burgos
+141 , RCD Español , 1-0 , Celta de Vigo
+142 , RCD Español , 1-1 , Córdoba CF
+143 , RCD Español , 2-0 , Deportivo de La Coruña
+144 , RCD Español , 2-3 , Granada CF
+145 , RCD Español , 4-0 , UD Las Palmas
+146 , RCD Español , 4-1 , CD Málaga
+147 , RCD Español , 0-0 , Real Gijón
+148 , RCD Español , 0-0 , Real Madrid
+149 , RCD Español , 1-0 , Real Sociedad
+150 , RCD Español , 2-1 , CE Sabadell FC
+151 , RCD Español , 2-0 , Sevilla CF
+152 , RCD Español , 3-1 , Valencia CF
+153 , Granada CF , 5-1 , Atlético Bilbao
+154 , Granada CF , 1-0 , Atlético Madrid
+155 , Granada CF , 2-0 , CF Barcelona
+156 , Granada CF , 0-0 , Betis
+157 , Granada CF , 2-1 , Burgos
+158 , Granada CF , 0-0 , Celta de Vigo
+159 , Granada CF , 1-0 , Córdoba CF
+160 , Granada CF , 2-2 , Deportivo de La Coruña
+161 , Granada CF , 0-0 , RCD Español
+162 , Granada CF , 3-0 , UD Las Palmas
+163 , Granada CF , 2-0 , CD Málaga
+164 , Granada CF , 1-0 , Real Gijón
+165 , Granada CF , 2-1 , Real Madrid
+166 , Granada CF , 1-0 , Real Sociedad
+167 , Granada CF , 3-1 , CE Sabadell FC
+168 , Granada CF , 3-0 , Sevilla CF
+169 , Granada CF , 1-0 , Valencia CF
+170 , UD Las Palmas , 2-1 , Atlético Bilbao
+171 , UD Las Palmas , 1-0 , Atlético Madrid
+172 , UD Las Palmas , 1-2 , CF Barcelona
+173 , UD Las Palmas , 2-0 , Betis
+174 , UD Las Palmas , 3-1 , Burgos
+175 , UD Las Palmas , 1-1 , Celta de Vigo
+176 , UD Las Palmas , 3-0 , Córdoba CF
+177 , UD Las Palmas , 2-0 , Deportivo de La Coruña
+178 , UD Las Palmas , 1-0 , RCD Español
+179 , UD Las Palmas , 2-2 , Granada CF
+180 , UD Las Palmas , 2-0 , CD Málaga
+181 , UD Las Palmas , 5-1 , Real Gijón
+182 , UD Las Palmas , 2-0 , Real Madrid
+183 , UD Las Palmas , 0-0 , Real Sociedad
+184 , UD Las Palmas , 0-0 , CE Sabadell FC
+185 , UD Las Palmas , 1-1 , Sevilla CF
+186 , UD Las Palmas , 1-1 , Valencia CF
+187 , CD Málaga , 1-0 , Atlético Bilbao
+188 , CD Málaga , 0-0 , Atlético Madrid
+189 , CD Málaga , 0-0 , CF Barcelona
+190 , CD Málaga , 0-0 , Betis
+191 , CD Málaga , 4-1 , Burgos
+192 , CD Málaga , 1-1 , Celta de Vigo
+193 , CD Málaga , 2-2 , Córdoba CF
+194 , CD Málaga , 2-0 , Deportivo de La Coruña
+195 , CD Málaga , 1-0 , RCD Español
+196 , CD Málaga , 1-0 , Granada CF
+197 , CD Málaga , 0-0 , UD Las Palmas
+198 , CD Málaga , 1-1 , Real Gijón
+199 , CD Málaga , 1-1 , Real Madrid
+200 , CD Málaga , 1-1 , Real Sociedad
+201 , CD Málaga , 1-0 , CE Sabadell FC
+202 , CD Málaga , 2-2 , Sevilla CF
+203 , CD Málaga , 0-2 , Valencia CF
+204 , Real Gijón , 3-2 , Atlético Bilbao
+205 , Real Gijón , 1-2 , Atlético Madrid
+206 , Real Gijón , 1-0 , CF Barcelona
+207 , Real Gijón , 3-1 , Betis
+208 , Real Gijón , 0-0 , Burgos
+209 , Real Gijón , 2-2 , Celta de Vigo
+210 , Real Gijón , 0-0 , Córdoba CF
+211 , Real Gijón , 2-0 , Deportivo de La Coruña
+212 , Real Gijón , 4-0 , RCD Español
+213 , Real Gijón , 2-0 , Granada CF
+214 , Real Gijón , 0-1 , UD Las Palmas
+215 , Real Gijón , 1-2 , CD Málaga
+216 , Real Gijón , 1-1 , Real Madrid
+217 , Real Gijón , 1-0 , Real Sociedad
+218 , Real Gijón , 3-0 , CE Sabadell FC
+219 , Real Gijón , 1-0 , Sevilla CF
+220 , Real Gijón , 4-0 , Valencia CF
+221 , Real Madrid , 1-0 , Atlético Bilbao
+222 , Real Madrid , 1-0 , Atlético Madrid
+223 , Real Madrid , 1-1 , CF Barcelona
+224 , Real Madrid , 2-0 , Betis
+225 , Real Madrid , 1-1 , Burgos
+226 , Real Madrid , 3-0 , Celta de Vigo
+227 , Real Madrid , 4-1 , Córdoba CF
+228 , Real Madrid , 1-0 , Deportivo de La Coruña
+229 , Real Madrid , 3-0 , RCD Español
+230 , Real Madrid , 4-2 , Granada CF
+231 , Real Madrid , 2-0 , UD Las Palmas
+232 , Real Madrid , 1-0 , CD Málaga
+233 , Real Madrid , 1-0 , Real Gijón
+234 , Real Madrid , 2-1 , Real Sociedad
+235 , Real Madrid , 2-0 , CE Sabadell FC
+236 , Real Madrid , 4-1 , Sevilla CF
+237 , Real Madrid , 1-1 , Valencia CF
+238 , Real Sociedad , 1-0 , Atlético Bilbao
+239 , Real Sociedad , 0-0 , Atlético Madrid
+240 , Real Sociedad , 2-2 , CF Barcelona
+241 , Real Sociedad , 6-0 , Betis
+242 , Real Sociedad , 2-0 , Burgos
+243 , Real Sociedad , 0-0 , Celta de Vigo
+244 , Real Sociedad , 2-1 , Córdoba CF
+245 , Real Sociedad , 0-1 , Deportivo de La Coruña
+246 , Real Sociedad , 4-1 , RCD Español
+247 , Real Sociedad , 3-1 , Granada CF
+248 , Real Sociedad , 1-0 , UD Las Palmas
+249 , Real Sociedad , 1-0 , CD Málaga
+250 , Real Sociedad , 3-1 , Real Gijón
+251 , Real Sociedad , 0-2 , Real Madrid
+252 , Real Sociedad , 2-0 , CE Sabadell FC
+253 , Real Sociedad , 1-1 , Sevilla CF
+254 , Real Sociedad , 1-0 , Valencia CF
+255 , CE Sabadell FC , 0-0 , Atlético Bilbao
+256 , CE Sabadell FC , 3-1 , Atlético Madrid
+257 , CE Sabadell FC , 0-0 , CF Barcelona
+258 , CE Sabadell FC , 2-1 , Betis
+259 , CE Sabadell FC , 2-1 , Burgos
+260 , CE Sabadell FC , 1-1 , Celta de Vigo
+261 , CE Sabadell FC , 1-0 , Córdoba CF
+262 , CE Sabadell FC , 4-1 , Deportivo de La Coruña
+263 , CE Sabadell FC , 0-2 , RCD Español
+264 , CE Sabadell FC , 0-0 , Granada CF
+265 , CE Sabadell FC , 0-1 , UD Las Palmas
+266 , CE Sabadell FC , 1-1 , CD Málaga
+267 , CE Sabadell FC , 0-2 , Real Gijón
+268 , CE Sabadell FC , 1-2 , Real Madrid
+269 , CE Sabadell FC , 3-1 , Real Sociedad
+270 , CE Sabadell FC , 0-0 , Sevilla CF
+271 , CE Sabadell FC , 1-1 , Valencia CF
+272 , Sevilla CF , 0-1 , Atlético Bilbao
+273 , Sevilla CF , 3-3 , Atlético Madrid
+274 , Sevilla CF , 1-2 , CF Barcelona
+275 , Sevilla CF , 3-1 , Betis
+276 , Sevilla CF , 2-0 , Burgos
+277 , Sevilla CF , 4-0 , Celta de Vigo
+278 , Sevilla CF , 1-1 , Córdoba CF
+279 , Sevilla CF , 1-0 , Deportivo de La Coruña
+280 , Sevilla CF , 1-0 , RCD Español
+281 , Sevilla CF , 2-1 , Granada CF
+282 , Sevilla CF , 0-2 , UD Las Palmas
+283 , Sevilla CF , 1-2 , CD Málaga
+284 , Sevilla CF , 3-1 , Real Gijón
+285 , Sevilla CF , 0-2 , Real Madrid
+286 , Sevilla CF , 0-1 , Real Sociedad
+287 , Sevilla CF , 1-1 , CE Sabadell FC
+288 , Sevilla CF , 2-0 , Valencia CF
+289 , Valencia CF , 2-0 , Atlético Bilbao
+290 , Valencia CF , 1-0 , Atlético Madrid
+291 , Valencia CF , 1-0 , CF Barcelona
+292 , Valencia CF , 2-0 , Betis
+293 , Valencia CF , 2-0 , Burgos
+294 , Valencia CF , 4-0 , Celta de Vigo
+295 , Valencia CF , 4-2 , Córdoba CF
+296 , Valencia CF , 1-1 , Deportivo de La Coruña
+297 , Valencia CF , 1-1 , RCD Español
+298 , Valencia CF , 2-1 , Granada CF
+299 , Valencia CF , 4-0 , UD Las Palmas
+300 , Valencia CF , 3-0 , CD Málaga
+301 , Valencia CF , 1-0 , Real Gijón
+302 , Valencia CF , 1-2 , Real Madrid
+303 , Valencia CF , 2-1 , Real Sociedad
+304 , Valencia CF , 3-1 , CE Sabadell FC
+305 , Valencia CF , 2-0 , Sevilla CF
+shortNames:,,ATB,ATM,BAR,BET,BUR,CEL,CÓR,DEP,ESP,GRA,LPA,MLG,RGI,RMA,RSO,SAB,SEV,VAL
+fullNames:,,Atlético Bilbao,Atlético Madrid,CF Barcelona,Betis,Burgos,Celta de Vigo,Córdoba CF,Deportivo de La Coruña,RCD Español,Granada CF,UD Las Palmas,CD Málaga,Real Gijón,Real Madrid,Real Sociedad,CE Sabadell FC,Sevilla CF,Valencia CF

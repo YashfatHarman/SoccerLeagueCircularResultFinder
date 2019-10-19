@@ -1,0 +1,382 @@
+0 , Almería , 1-1 , Athletic Bilbao
+1 , Almería , 0-0 , Atlético Madrid
+2 , Almería , 2-2 , Barcelona
+3 , Almería , 1-1 , Betis
+4 , Almería , 1-0 , Deportivo La Coruña
+5 , Almería , 1-0 , Espanyol
+6 , Almería , 0-2 , Getafe
+7 , Almería , 2-1 , Levante
+8 , Almería , 1-1 , Mallorca
+9 , Almería , 1-0 , Murcia
+10 , Almería , 2-0 , Osasuna
+11 , Almería , 0-1 , Racing Santander
+12 , Almería , 2-0 , Real Madrid
+13 , Almería , 0-2 , Recreativo
+14 , Almería , 1-0 , Sevilla
+15 , Almería , 1-2 , Valencia
+16 , Almería , 1-0 , Valladolid
+17 , Almería , 1-0 , Villarreal
+18 , Almería , 0-1 , Zaragoza
+19 , Athletic Bilbao , 1-1 , Almería
+20 , Athletic Bilbao , 0-2 , Atlético Madrid
+21 , Athletic Bilbao , 1-1 , Barcelona
+22 , Athletic Bilbao , 0-0 , Betis
+23 , Athletic Bilbao , 2-2 , Deportivo La Coruña
+24 , Athletic Bilbao , 1-0 , Espanyol
+25 , Athletic Bilbao , 1-0 , Getafe
+26 , Athletic Bilbao , 1-0 , Levante
+27 , Athletic Bilbao , 1-2 , Mallorca
+28 , Athletic Bilbao , 1-1 , Murcia
+29 , Athletic Bilbao , 0-0 , Osasuna
+30 , Athletic Bilbao , 0-0 , Racing Santander
+31 , Athletic Bilbao , 0-1 , Real Madrid
+32 , Athletic Bilbao , 2-0 , Recreativo
+33 , Athletic Bilbao , 2-0 , Sevilla
+34 , Athletic Bilbao , 5-1 , Valencia
+35 , Athletic Bilbao , 2-0 , Valladolid
+36 , Athletic Bilbao , 1-2 , Villarreal
+37 , Athletic Bilbao , 1-1 , Zaragoza
+38 , Atlético Madrid , 6-3 , Almería
+39 , Atlético Madrid , 1-2 , Athletic Bilbao
+40 , Atlético Madrid , 4-2 , Barcelona
+41 , Atlético Madrid , 1-3 , Betis
+42 , Atlético Madrid , 1-0 , Deportivo La Coruña
+43 , Atlético Madrid , 1-2 , Espanyol
+44 , Atlético Madrid , 1-0 , Getafe
+45 , Atlético Madrid , 3-0 , Levante
+46 , Atlético Madrid , 1-1 , Mallorca
+47 , Atlético Madrid , 1-1 , Murcia
+48 , Atlético Madrid , 2-0 , Osasuna
+49 , Atlético Madrid , 4-0 , Racing Santander
+50 , Atlético Madrid , 0-2 , Real Madrid
+51 , Atlético Madrid , 3-0 , Recreativo
+52 , Atlético Madrid , 4-3 , Sevilla
+53 , Atlético Madrid , 1-0 , Valencia
+54 , Atlético Madrid , 4-3 , Valladolid
+55 , Atlético Madrid , 3-4 , Villarreal
+56 , Atlético Madrid , 4-0 , Zaragoza
+57 , Barcelona , 2-0 , Almería
+58 , Barcelona , 3-1 , Athletic Bilbao
+59 , Barcelona , 3-0 , Atlético Madrid
+60 , Barcelona , 3-0 , Betis
+61 , Barcelona , 2-1 , Deportivo La Coruña
+62 , Barcelona , 0-0 , Espanyol
+63 , Barcelona , 0-0 , Getafe
+64 , Barcelona , 5-1 , Levante
+65 , Barcelona , 2-3 , Mallorca
+66 , Barcelona , 4-0 , Murcia
+67 , Barcelona , 1-0 , Osasuna
+68 , Barcelona , 1-0 , Racing Santander
+69 , Barcelona , 0-1 , Real Madrid
+70 , Barcelona , 3-0 , Recreativo
+71 , Barcelona , 2-1 , Sevilla
+72 , Barcelona , 6-0 , Valencia
+73 , Barcelona , 4-1 , Valladolid
+74 , Barcelona , 1-2 , Villarreal
+75 , Barcelona , 4-1 , Zaragoza
+76 , Betis , 3-1 , Almería
+77 , Betis , 1-2 , Athletic Bilbao
+78 , Betis , 0-2 , Atlético Madrid
+79 , Betis , 3-2 , Barcelona
+80 , Betis , 0-1 , Deportivo La Coruña
+81 , Betis , 2-2 , Espanyol
+82 , Betis , 3-2 , Getafe
+83 , Betis , 0-1 , Levante
+84 , Betis , 3-0 , Mallorca
+85 , Betis , 4-0 , Murcia
+86 , Betis , 0-3 , Osasuna
+87 , Betis , 1-1 , Racing Santander
+88 , Betis , 2-1 , Real Madrid
+89 , Betis , 1-1 , Recreativo
+90 , Betis , 0-2 , Sevilla
+91 , Betis , 1-2 , Valencia
+92 , Betis , 1-1 , Valladolid
+93 , Betis , 0-1 , Villarreal
+94 , Betis , 2-1 , Zaragoza
+95 , Deportivo La Coruña , 0-3 , Almería
+96 , Deportivo La Coruña , 3-0 , Athletic Bilbao
+97 , Deportivo La Coruña , 0-3 , Atlético Madrid
+98 , Deportivo La Coruña , 2-0 , Barcelona
+99 , Deportivo La Coruña , 1-0 , Betis
+100 , Deportivo La Coruña , 2-0 , Espanyol
+101 , Deportivo La Coruña , 1-1 , Getafe
+102 , Deportivo La Coruña , 1-0 , Levante
+103 , Deportivo La Coruña , 1-1 , Mallorca
+104 , Deportivo La Coruña , 3-1 , Murcia
+105 , Deportivo La Coruña , 1-2 , Osasuna
+106 , Deportivo La Coruña , 0-1 , Racing Santander
+107 , Deportivo La Coruña , 1-0 , Real Madrid
+108 , Deportivo La Coruña , 0-2 , Recreativo
+109 , Deportivo La Coruña , 2-1 , Sevilla
+110 , Deportivo La Coruña , 2-4 , Valencia
+111 , Deportivo La Coruña , 3-1 , Valladolid
+112 , Deportivo La Coruña , 0-2 , Villarreal
+113 , Deportivo La Coruña , 1-1 , Zaragoza
+114 , Espanyol , 1-3 , Almería
+115 , Espanyol , 2-1 , Athletic Bilbao
+116 , Espanyol , 0-2 , Atlético Madrid
+117 , Espanyol , 1-1 , Barcelona
+118 , Espanyol , 1-2 , Betis
+119 , Espanyol , 1-0 , Deportivo La Coruña
+120 , Espanyol , 1-0 , Getafe
+121 , Espanyol , 1-0 , Levante
+122 , Espanyol , 2-1 , Mallorca
+123 , Espanyol , 0-0 , Murcia
+124 , Espanyol , 0-1 , Osasuna
+125 , Espanyol , 0-3 , Racing Santander
+126 , Espanyol , 2-1 , Real Madrid
+127 , Espanyol , 1-2 , Recreativo
+128 , Espanyol , 2-4 , Sevilla
+129 , Espanyol , 2-0 , Valencia
+130 , Espanyol , 0-1 , Valladolid
+131 , Espanyol , 3-0 , Villarreal
+132 , Espanyol , 1-1 , Zaragoza
+133 , Getafe , 4-2 , Almería
+134 , Getafe , 2-0 , Athletic Bilbao
+135 , Getafe , 1-1 , Atlético Madrid
+136 , Getafe , 2-0 , Barcelona
+137 , Getafe , 1-1 , Betis
+138 , Getafe , 0-0 , Deportivo La Coruña
+139 , Getafe , 0-1 , Espanyol
+140 , Getafe , 2-1 , Levante
+141 , Getafe , 3-3 , Mallorca
+142 , Getafe , 2-0 , Murcia
+143 , Getafe , 0-2 , Osasuna
+144 , Getafe , 2-1 , Racing Santander
+145 , Getafe , 0-1 , Real Madrid
+146 , Getafe , 1-1 , Recreativo
+147 , Getafe , 3-2 , Sevilla
+148 , Getafe , 0-0 , Valencia
+149 , Getafe , 0-3 , Valladolid
+150 , Getafe , 1-3 , Villarreal
+151 , Getafe , 0-0 , Zaragoza
+152 , Levante , 3-0 , Almería
+153 , Levante , 1-2 , Athletic Bilbao
+154 , Levante , 0-1 , Atlético Madrid
+155 , Levante , 1-4 , Barcelona
+156 , Levante , 4-3 , Betis
+157 , Levante , 0-1 , Deportivo La Coruña
+158 , Levante , 1-1 , Espanyol
+159 , Levante , 3-1 , Getafe
+160 , Levante , 2-2 , Mallorca
+161 , Levante , 0-0 , Murcia
+162 , Levante , 2-1 , Osasuna
+163 , Levante , 1-1 , Racing Santander
+164 , Levante , 0-2 , Real Madrid
+165 , Levante , 0-2 , Recreativo
+166 , Levante , 0-2 , Sevilla
+167 , Levante , 1-5 , Valencia
+168 , Levante , 0-3 , Valladolid
+169 , Levante , 1-2 , Villarreal
+170 , Levante , 2-1 , Zaragoza
+171 , Mallorca , 0-0 , Almería
+172 , Mallorca , 0-0 , Athletic Bilbao
+173 , Mallorca , 1-0 , Atlético Madrid
+174 , Mallorca , 0-2 , Barcelona
+175 , Mallorca , 1-1 , Betis
+176 , Mallorca , 1-0 , Deportivo La Coruña
+177 , Mallorca , 2-2 , Espanyol
+178 , Mallorca , 4-2 , Getafe
+179 , Mallorca , 3-0 , Levante
+180 , Mallorca , 1-1 , Murcia
+181 , Mallorca , 2-1 , Osasuna
+182 , Mallorca , 3-1 , Racing Santander
+183 , Mallorca , 1-1 , Real Madrid
+184 , Mallorca , 7-1 , Recreativo
+185 , Mallorca , 2-3 , Sevilla
+186 , Mallorca , 0-2 , Valencia
+187 , Mallorca , 4-2 , Valladolid
+188 , Mallorca , 0-1 , Villarreal
+189 , Mallorca , 3-2 , Zaragoza
+190 , Murcia , 0-1 , Almería
+191 , Murcia , 1-2 , Athletic Bilbao
+192 , Murcia , 1-1 , Atlético Madrid
+193 , Murcia , 3-5 , Barcelona
+194 , Murcia , 0-0 , Betis
+195 , Murcia , 0-2 , Deportivo La Coruña
+196 , Murcia , 4-0 , Espanyol
+197 , Murcia , 0-3 , Getafe
+198 , Murcia , 2-3 , Levante
+199 , Murcia , 1-4 , Mallorca
+200 , Murcia , 2-0 , Osasuna
+201 , Murcia , 2-1 , Racing Santander
+202 , Murcia , 1-1 , Real Madrid
+203 , Murcia , 1-0 , Recreativo
+204 , Murcia , 0-0 , Sevilla
+205 , Murcia , 1-0 , Valencia
+206 , Murcia , 0-1 , Valladolid
+207 , Murcia , 0-1 , Villarreal
+208 , Murcia , 2-1 , Zaragoza
+209 , Osasuna , 2-1 , Almería
+210 , Osasuna , 2-0 , Athletic Bilbao
+211 , Osasuna , 3-1 , Atlético Madrid
+212 , Osasuna , 0-0 , Barcelona
+213 , Osasuna , 0-1 , Betis
+214 , Osasuna , 0-1 , Deportivo La Coruña
+215 , Osasuna , 1-2 , Espanyol
+216 , Osasuna , 0-2 , Getafe
+217 , Osasuna , 4-1 , Levante
+218 , Osasuna , 3-1 , Mallorca
+219 , Osasuna , 2-1 , Murcia
+220 , Osasuna , 0-2 , Racing Santander
+221 , Osasuna , 1-2 , Real Madrid
+222 , Osasuna , 0-1 , Recreativo
+223 , Osasuna , 1-1 , Sevilla
+224 , Osasuna , 0-0 , Valencia
+225 , Osasuna , 2-2 , Valladolid
+226 , Osasuna , 3-2 , Villarreal
+227 , Osasuna , 1-0 , Zaragoza
+228 , Racing Santander , 1-0 , Almería
+229 , Racing Santander , 1-0 , Athletic Bilbao
+230 , Racing Santander , 0-2 , Atlético Madrid
+231 , Racing Santander , 0-0 , Barcelona
+232 , Racing Santander , 3-0 , Betis
+233 , Racing Santander , 1-3 , Deportivo La Coruña
+234 , Racing Santander , 1-1 , Espanyol
+235 , Racing Santander , 2-0 , Getafe
+236 , Racing Santander , 1-0 , Levante
+237 , Racing Santander , 3-1 , Mallorca
+238 , Racing Santander , 3-2 , Murcia
+239 , Racing Santander , 1-0 , Osasuna
+240 , Racing Santander , 0-2 , Real Madrid
+241 , Racing Santander , 2-0 , Recreativo
+242 , Racing Santander , 0-3 , Sevilla
+243 , Racing Santander , 1-0 , Valencia
+244 , Racing Santander , 2-0 , Valladolid
+245 , Racing Santander , 0-2 , Villarreal
+246 , Racing Santander , 2-2 , Zaragoza
+247 , Real Madrid , 3-1 , Almería
+248 , Real Madrid , 3-0 , Athletic Bilbao
+249 , Real Madrid , 2-1 , Atlético Madrid
+250 , Real Madrid , 4-1 , Barcelona
+251 , Real Madrid , 2-0 , Betis
+252 , Real Madrid , 3-1 , Deportivo La Coruña
+253 , Real Madrid , 2-1 , Espanyol
+254 , Real Madrid , 0-1 , Getafe
+255 , Real Madrid , 5-2 , Levante
+256 , Real Madrid , 4-3 , Mallorca
+257 , Real Madrid , 1-0 , Murcia
+258 , Real Madrid , 2-0 , Osasuna
+259 , Real Madrid , 3-1 , Racing Santander
+260 , Real Madrid , 2-0 , Recreativo
+261 , Real Madrid , 3-1 , Sevilla
+262 , Real Madrid , 2-3 , Valencia
+263 , Real Madrid , 7-0 , Valladolid
+264 , Real Madrid , 3-2 , Villarreal
+265 , Real Madrid , 2-0 , Zaragoza
+266 , Recreativo , 1-1 , Almería
+267 , Recreativo , 1-1 , Athletic Bilbao
+268 , Recreativo , 0-0 , Atlético Madrid
+269 , Recreativo , 2-2 , Barcelona
+270 , Recreativo , 1-1 , Betis
+271 , Recreativo , 3-2 , Deportivo La Coruña
+272 , Recreativo , 2-1 , Espanyol
+273 , Recreativo , 1-3 , Getafe
+274 , Recreativo , 2-0 , Levante
+275 , Recreativo , 0-2 , Mallorca
+276 , Recreativo , 4-2 , Murcia
+277 , Recreativo , 1-0 , Osasuna
+278 , Recreativo , 0-0 , Racing Santander
+279 , Recreativo , 2-3 , Real Madrid
+280 , Recreativo , 1-2 , Sevilla
+281 , Recreativo , 0-1 , Valencia
+282 , Recreativo , 1-1 , Valladolid
+283 , Recreativo , 0-2 , Villarreal
+284 , Recreativo , 2-1 , Zaragoza
+285 , Sevilla , 1-4 , Almería
+286 , Sevilla , 4-1 , Athletic Bilbao
+287 , Sevilla , 1-2 , Atlético Madrid
+288 , Sevilla , 1-1 , Barcelona
+289 , Sevilla , 3-0 , Betis
+290 , Sevilla , 0-1 , Deportivo La Coruña
+291 , Sevilla , 2-3 , Espanyol
+292 , Sevilla , 4-1 , Getafe
+293 , Sevilla , 2-1 , Levante
+294 , Sevilla , 1-2 , Mallorca
+295 , Sevilla , 3-1 , Murcia
+296 , Sevilla , 2-1 , Osasuna
+297 , Sevilla , 4-1 , Racing Santander
+298 , Sevilla , 2-0 , Real Madrid
+299 , Sevilla , 4-1 , Recreativo
+300 , Sevilla , 3-0 , Valencia
+301 , Sevilla , 2-0 , Valladolid
+302 , Sevilla , 2-0 , Villarreal
+303 , Sevilla , 5-0 , Zaragoza
+304 , Valencia , 0-1 , Almería
+305 , Valencia , 0-3 , Athletic Bilbao
+306 , Valencia , 3-1 , Atlético Madrid
+307 , Valencia , 0-3 , Barcelona
+308 , Valencia , 3-1 , Betis
+309 , Valencia , 2-2 , Deportivo La Coruña
+310 , Valencia , 1-2 , Espanyol
+311 , Valencia , 2-1 , Getafe
+312 , Valencia , 0-0 , Levante
+313 , Valencia , 0-3 , Mallorca
+314 , Valencia , 3-0 , Murcia
+315 , Valencia , 3-0 , Osasuna
+316 , Valencia , 1-2 , Racing Santander
+317 , Valencia , 1-5 , Real Madrid
+318 , Valencia , 1-1 , Recreativo
+319 , Valencia , 1-2 , Sevilla
+320 , Valencia , 2-1 , Valladolid
+321 , Valencia , 0-3 , Villarreal
+322 , Valencia , 1-0 , Zaragoza
+323 , Valladolid , 1-0 , Almería
+324 , Valladolid , 1-2 , Athletic Bilbao
+325 , Valladolid , 1-1 , Atlético Madrid
+326 , Valladolid , 1-1 , Barcelona
+327 , Valladolid , 0-0 , Betis
+328 , Valladolid , 2-2 , Deportivo La Coruña
+329 , Valladolid , 2-1 , Espanyol
+330 , Valladolid , 0-0 , Getafe
+331 , Valladolid , 1-0 , Levante
+332 , Valladolid , 1-1 , Mallorca
+333 , Valladolid , 1-4 , Murcia
+334 , Valladolid , 0-0 , Osasuna
+335 , Valladolid , 0-1 , Racing Santander
+336 , Valladolid , 1-1 , Real Madrid
+337 , Valladolid , 3-1 , Recreativo
+338 , Valladolid , 0-0 , Sevilla
+339 , Valladolid , 0-2 , Valencia
+340 , Valladolid , 2-0 , Villarreal
+341 , Valladolid , 2-1 , Zaragoza
+342 , Villarreal , 1-1 , Almería
+343 , Villarreal , 1-0 , Athletic Bilbao
+344 , Villarreal , 3-0 , Atlético Madrid
+345 , Villarreal , 3-1 , Barcelona
+346 , Villarreal , 0-1 , Betis
+347 , Villarreal , 4-3 , Deportivo La Coruña
+348 , Villarreal , 2-0 , Espanyol
+349 , Villarreal , 2-0 , Getafe
+350 , Villarreal , 3-0 , Levante
+351 , Villarreal , 1-1 , Mallorca
+352 , Villarreal , 2-0 , Murcia
+353 , Villarreal , 0-0 , Osasuna
+354 , Villarreal , 0-0 , Racing Santander
+355 , Villarreal , 0-5 , Real Madrid
+356 , Villarreal , 1-1 , Recreativo
+357 , Villarreal , 3-2 , Sevilla
+358 , Villarreal , 3-0 , Valencia
+359 , Villarreal , 2-0 , Valladolid
+360 , Villarreal , 2-0 , Zaragoza
+361 , Zaragoza , 1-1 , Almería
+362 , Zaragoza , 1-0 , Athletic Bilbao
+363 , Zaragoza , 2-1 , Atlético Madrid
+364 , Zaragoza , 1-2 , Barcelona
+365 , Zaragoza , 0-3 , Betis
+366 , Zaragoza , 1-0 , Deportivo La Coruña
+367 , Zaragoza , 3-3 , Espanyol
+368 , Zaragoza , 1-1 , Getafe
+369 , Zaragoza , 3-0 , Levante
+370 , Zaragoza , 2-2 , Mallorca
+371 , Zaragoza , 3-1 , Murcia
+372 , Zaragoza , 2-1 , Osasuna
+373 , Zaragoza , 1-1 , Racing Santander
+374 , Zaragoza , 2-2 , Real Madrid
+375 , Zaragoza , 3-0 , Recreativo
+376 , Zaragoza , 2-0 , Sevilla
+377 , Zaragoza , 2-2 , Valencia
+378 , Zaragoza , 2-3 , Valladolid
+379 , Zaragoza , 4-1 , Villarreal
+shortNames:,,Home ╲ Away,Almería !ALM,Athletic Bilbao !ATH,Atlético Madrid !ATM,Barcelona !BAR,Betis !BET,Deportivo La Coruña !DEP,Espanyol !ESP,Getafe !GET,Levante !LEV,Mallorca !MLL,Murcia !MUR,Osasuna !OSA,Racing Santander !RAC,Real Madrid !RMA,Recreativo !REC,Sevilla !SEV,Valencia !VAL,Valladolid !VLD,Villarreal !VIL,Zaragoza !ZAR
+fullNames:,,Almería,Athletic Bilbao,Atlético Madrid,Barcelona,Betis,Deportivo La Coruña,Espanyol,Getafe,Levante,Mallorca,Murcia,Osasuna,Racing Santander,Real Madrid,Recreativo,Sevilla,Valencia,Valladolid,Villarreal,Zaragoza

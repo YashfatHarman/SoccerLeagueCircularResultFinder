@@ -1,0 +1,382 @@
+0 , Arsenal , 3-0 , Aston Villa
+1 , Arsenal , 7-1 , Blackburn Rovers
+2 , Arsenal , 3-0 , Bolton Wanderers
+3 , Arsenal , 0-0 , Chelsea
+4 , Arsenal , 1-0 , Everton
+5 , Arsenal , 1-1 , Fulham
+6 , Arsenal , 0-2 , Liverpool
+7 , Arsenal , 1-0 , Manchester City
+8 , Arsenal , 1-2 , Manchester United
+9 , Arsenal , 2-1 , Newcastle United
+10 , Arsenal , 3-3 , Norwich City
+11 , Arsenal , 1-0 , Queens Park Rangers
+12 , Arsenal , 3-1 , Stoke City
+13 , Arsenal , 2-1 , Sunderland
+14 , Arsenal , 1-0 , Swansea City
+15 , Arsenal , 5-2 , Tottenham Hotspur
+16 , Arsenal , 3-0 , West Bromwich Albion
+17 , Arsenal , 1-2 , Wigan Athletic
+18 , Arsenal , 1-1 , Wolverhampton Wanderers
+19 , Aston Villa , 1-2 , Arsenal
+20 , Aston Villa , 3-1 , Blackburn Rovers
+21 , Aston Villa , 1-2 , Bolton Wanderers
+22 , Aston Villa , 2-4 , Chelsea
+23 , Aston Villa , 1-1 , Everton
+24 , Aston Villa , 1-0 , Fulham
+25 , Aston Villa , 0-2 , Liverpool
+26 , Aston Villa , 0-1 , Manchester City
+27 , Aston Villa , 0-1 , Manchester United
+28 , Aston Villa , 1-1 , Newcastle United
+29 , Aston Villa , 3-2 , Norwich City
+30 , Aston Villa , 2-2 , Queens Park Rangers
+31 , Aston Villa , 1-1 , Stoke City
+32 , Aston Villa , 0-0 , Sunderland
+33 , Aston Villa , 0-2 , Swansea City
+34 , Aston Villa , 1-1 , Tottenham Hotspur
+35 , Aston Villa , 1-2 , West Bromwich Albion
+36 , Aston Villa , 2-0 , Wigan Athletic
+37 , Aston Villa , 0-0 , Wolverhampton Wanderers
+38 , Blackburn Rovers , 4-3 , Arsenal
+39 , Blackburn Rovers , 1-1 , Aston Villa
+40 , Blackburn Rovers , 1-2 , Bolton Wanderers
+41 , Blackburn Rovers , 0-1 , Chelsea
+42 , Blackburn Rovers , 0-1 , Everton
+43 , Blackburn Rovers , 3-1 , Fulham
+44 , Blackburn Rovers , 2-3 , Liverpool
+45 , Blackburn Rovers , 0-4 , Manchester City
+46 , Blackburn Rovers , 0-2 , Manchester United
+47 , Blackburn Rovers , 0-2 , Newcastle United
+48 , Blackburn Rovers , 2-0 , Norwich City
+49 , Blackburn Rovers , 3-2 , Queens Park Rangers
+50 , Blackburn Rovers , 1-2 , Stoke City
+51 , Blackburn Rovers , 2-0 , Sunderland
+52 , Blackburn Rovers , 4-2 , Swansea City
+53 , Blackburn Rovers , 1-2 , Tottenham Hotspur
+54 , Blackburn Rovers , 1-2 , West Bromwich Albion
+55 , Blackburn Rovers , 0-1 , Wigan Athletic
+56 , Blackburn Rovers , 1-2 , Wolverhampton Wanderers
+57 , Bolton Wanderers , 0-0 , Arsenal
+58 , Bolton Wanderers , 1-2 , Aston Villa
+59 , Bolton Wanderers , 2-1 , Blackburn Rovers
+60 , Bolton Wanderers , 1-5 , Chelsea
+61 , Bolton Wanderers , 0-2 , Everton
+62 , Bolton Wanderers , 0-3 , Fulham
+63 , Bolton Wanderers , 3-1 , Liverpool
+64 , Bolton Wanderers , 2-3 , Manchester City
+65 , Bolton Wanderers , 0-5 , Manchester United
+66 , Bolton Wanderers , 0-2 , Newcastle United
+67 , Bolton Wanderers , 1-2 , Norwich City
+68 , Bolton Wanderers , 2-1 , Queens Park Rangers
+69 , Bolton Wanderers , 5-0 , Stoke City
+70 , Bolton Wanderers , 0-2 , Sunderland
+71 , Bolton Wanderers , 1-1 , Swansea City
+72 , Bolton Wanderers , 1-4 , Tottenham Hotspur
+73 , Bolton Wanderers , 2-2 , West Bromwich Albion
+74 , Bolton Wanderers , 1-2 , Wigan Athletic
+75 , Bolton Wanderers , 1-1 , Wolverhampton Wanderers
+76 , Chelsea , 3-5 , Arsenal
+77 , Chelsea , 1-3 , Aston Villa
+78 , Chelsea , 2-1 , Blackburn Rovers
+79 , Chelsea , 3-0 , Bolton Wanderers
+80 , Chelsea , 3-1 , Everton
+81 , Chelsea , 1-1 , Fulham
+82 , Chelsea , 1-2 , Liverpool
+83 , Chelsea , 2-1 , Manchester City
+84 , Chelsea , 3-3 , Manchester United
+85 , Chelsea , 0-2 , Newcastle United
+86 , Chelsea , 3-1 , Norwich City
+87 , Chelsea , 6-1 , Queens Park Rangers
+88 , Chelsea , 1-0 , Stoke City
+89 , Chelsea , 1-0 , Sunderland
+90 , Chelsea , 4-1 , Swansea City
+91 , Chelsea , 0-0 , Tottenham Hotspur
+92 , Chelsea , 2-1 , West Bromwich Albion
+93 , Chelsea , 2-1 , Wigan Athletic
+94 , Chelsea , 3-0 , Wolverhampton Wanderers
+95 , Everton , 0-1 , Arsenal
+96 , Everton , 2-2 , Aston Villa
+97 , Everton , 1-1 , Blackburn Rovers
+98 , Everton , 1-2 , Bolton Wanderers
+99 , Everton , 2-0 , Chelsea
+100 , Everton , 4-0 , Fulham
+101 , Everton , 0-2 , Liverpool
+102 , Everton , 1-0 , Manchester City
+103 , Everton , 0-1 , Manchester United
+104 , Everton , 3-1 , Newcastle United
+105 , Everton , 1-1 , Norwich City
+106 , Everton , 0-1 , Queens Park Rangers
+107 , Everton , 0-1 , Stoke City
+108 , Everton , 4-0 , Sunderland
+109 , Everton , 1-0 , Swansea City
+110 , Everton , 1-0 , Tottenham Hotspur
+111 , Everton , 2-0 , West Bromwich Albion
+112 , Everton , 3-1 , Wigan Athletic
+113 , Everton , 2-1 , Wolverhampton Wanderers
+114 , Fulham , 2-1 , Arsenal
+115 , Fulham , 0-0 , Aston Villa
+116 , Fulham , 1-1 , Blackburn Rovers
+117 , Fulham , 2-0 , Bolton Wanderers
+118 , Fulham , 1-1 , Chelsea
+119 , Fulham , 1-3 , Everton
+120 , Fulham , 1-0 , Liverpool
+121 , Fulham , 2-2 , Manchester City
+122 , Fulham , 0-5 , Manchester United
+123 , Fulham , 5-2 , Newcastle United
+124 , Fulham , 2-1 , Norwich City
+125 , Fulham , 6-0 , Queens Park Rangers
+126 , Fulham , 2-1 , Stoke City
+127 , Fulham , 2-1 , Sunderland
+128 , Fulham , 0-3 , Swansea City
+129 , Fulham , 1-3 , Tottenham Hotspur
+130 , Fulham , 1-1 , West Bromwich Albion
+131 , Fulham , 2-1 , Wigan Athletic
+132 , Fulham , 5-0 , Wolverhampton Wanderers
+133 , Liverpool , 1-2 , Arsenal
+134 , Liverpool , 1-1 , Aston Villa
+135 , Liverpool , 1-1 , Blackburn Rovers
+136 , Liverpool , 3-1 , Bolton Wanderers
+137 , Liverpool , 4-1 , Chelsea
+138 , Liverpool , 3-0 , Everton
+139 , Liverpool , 0-1 , Fulham
+140 , Liverpool , 1-1 , Manchester City
+141 , Liverpool , 1-1 , Manchester United
+142 , Liverpool , 3-1 , Newcastle United
+143 , Liverpool , 1-1 , Norwich City
+144 , Liverpool , 1-0 , Queens Park Rangers
+145 , Liverpool , 0-0 , Stoke City
+146 , Liverpool , 1-1 , Sunderland
+147 , Liverpool , 0-0 , Swansea City
+148 , Liverpool , 0-0 , Tottenham Hotspur
+149 , Liverpool , 0-1 , West Bromwich Albion
+150 , Liverpool , 1-2 , Wigan Athletic
+151 , Liverpool , 2-1 , Wolverhampton Wanderers
+152 , Manchester City , 1-0 , Arsenal
+153 , Manchester City , 4-1 , Aston Villa
+154 , Manchester City , 3-0 , Blackburn Rovers
+155 , Manchester City , 2-0 , Bolton Wanderers
+156 , Manchester City , 2-1 , Chelsea
+157 , Manchester City , 2-0 , Everton
+158 , Manchester City , 3-0 , Fulham
+159 , Manchester City , 3-0 , Liverpool
+160 , Manchester City , 1-0 , Manchester United
+161 , Manchester City , 3-1 , Newcastle United
+162 , Manchester City , 5-1 , Norwich City
+163 , Manchester City , 3-2 , Queens Park Rangers
+164 , Manchester City , 3-0 , Stoke City
+165 , Manchester City , 3-3 , Sunderland
+166 , Manchester City , 4-0 , Swansea City
+167 , Manchester City , 3-2 , Tottenham Hotspur
+168 , Manchester City , 4-0 , West Bromwich Albion
+169 , Manchester City , 3-0 , Wigan Athletic
+170 , Manchester City , 3-1 , Wolverhampton Wanderers
+171 , Manchester United , 8-2 , Arsenal
+172 , Manchester United , 4-0 , Aston Villa
+173 , Manchester United , 2-3 , Blackburn Rovers
+174 , Manchester United , 3-0 , Bolton Wanderers
+175 , Manchester United , 3-1 , Chelsea
+176 , Manchester United , 4-4 , Everton
+177 , Manchester United , 1-0 , Fulham
+178 , Manchester United , 2-1 , Liverpool
+179 , Manchester United , 1-6 , Manchester City
+180 , Manchester United , 1-1 , Newcastle United
+181 , Manchester United , 2-0 , Norwich City
+182 , Manchester United , 2-0 , Queens Park Rangers
+183 , Manchester United , 2-0 , Stoke City
+184 , Manchester United , 1-0 , Sunderland
+185 , Manchester United , 2-0 , Swansea City
+186 , Manchester United , 3-0 , Tottenham Hotspur
+187 , Manchester United , 2-0 , West Bromwich Albion
+188 , Manchester United , 5-0 , Wigan Athletic
+189 , Manchester United , 4-1 , Wolverhampton Wanderers
+190 , Newcastle United , 0-0 , Arsenal
+191 , Newcastle United , 2-1 , Aston Villa
+192 , Newcastle United , 3-1 , Blackburn Rovers
+193 , Newcastle United , 2-0 , Bolton Wanderers
+194 , Newcastle United , 0-3 , Chelsea
+195 , Newcastle United , 2-1 , Everton
+196 , Newcastle United , 2-1 , Fulham
+197 , Newcastle United , 2-0 , Liverpool
+198 , Newcastle United , 0-2 , Manchester City
+199 , Newcastle United , 3-0 , Manchester United
+200 , Newcastle United , 1-0 , Norwich City
+201 , Newcastle United , 1-0 , Queens Park Rangers
+202 , Newcastle United , 3-0 , Stoke City
+203 , Newcastle United , 1-1 , Sunderland
+204 , Newcastle United , 0-0 , Swansea City
+205 , Newcastle United , 2-2 , Tottenham Hotspur
+206 , Newcastle United , 2-3 , West Bromwich Albion
+207 , Newcastle United , 1-0 , Wigan Athletic
+208 , Newcastle United , 2-2 , Wolverhampton Wanderers
+209 , Norwich City , 1-2 , Arsenal
+210 , Norwich City , 2-0 , Aston Villa
+211 , Norwich City , 3-3 , Blackburn Rovers
+212 , Norwich City , 2-0 , Bolton Wanderers
+213 , Norwich City , 0-0 , Chelsea
+214 , Norwich City , 2-2 , Everton
+215 , Norwich City , 1-1 , Fulham
+216 , Norwich City , 0-3 , Liverpool
+217 , Norwich City , 1-6 , Manchester City
+218 , Norwich City , 1-2 , Manchester United
+219 , Norwich City , 4-2 , Newcastle United
+220 , Norwich City , 2-1 , Queens Park Rangers
+221 , Norwich City , 1-1 , Stoke City
+222 , Norwich City , 2-1 , Sunderland
+223 , Norwich City , 3-1 , Swansea City
+224 , Norwich City , 0-2 , Tottenham Hotspur
+225 , Norwich City , 0-1 , West Bromwich Albion
+226 , Norwich City , 1-1 , Wigan Athletic
+227 , Norwich City , 2-1 , Wolverhampton Wanderers
+228 , Queens Park Rangers , 2-1 , Arsenal
+229 , Queens Park Rangers , 1-1 , Aston Villa
+230 , Queens Park Rangers , 1-1 , Blackburn Rovers
+231 , Queens Park Rangers , 0-4 , Bolton Wanderers
+232 , Queens Park Rangers , 1-0 , Chelsea
+233 , Queens Park Rangers , 1-1 , Everton
+234 , Queens Park Rangers , 0-1 , Fulham
+235 , Queens Park Rangers , 3-2 , Liverpool
+236 , Queens Park Rangers , 2-3 , Manchester City
+237 , Queens Park Rangers , 0-2 , Manchester United
+238 , Queens Park Rangers , 0-0 , Newcastle United
+239 , Queens Park Rangers , 1-2 , Norwich City
+240 , Queens Park Rangers , 1-0 , Stoke City
+241 , Queens Park Rangers , 2-3 , Sunderland
+242 , Queens Park Rangers , 3-0 , Swansea City
+243 , Queens Park Rangers , 1-0 , Tottenham Hotspur
+244 , Queens Park Rangers , 1-1 , West Bromwich Albion
+245 , Queens Park Rangers , 3-1 , Wigan Athletic
+246 , Queens Park Rangers , 1-2 , Wolverhampton Wanderers
+247 , Stoke City , 1-1 , Arsenal
+248 , Stoke City , 0-0 , Aston Villa
+249 , Stoke City , 3-1 , Blackburn Rovers
+250 , Stoke City , 2-2 , Bolton Wanderers
+251 , Stoke City , 0-0 , Chelsea
+252 , Stoke City , 1-1 , Everton
+253 , Stoke City , 2-0 , Fulham
+254 , Stoke City , 1-0 , Liverpool
+255 , Stoke City , 1-1 , Manchester City
+256 , Stoke City , 1-1 , Manchester United
+257 , Stoke City , 1-3 , Newcastle United
+258 , Stoke City , 1-0 , Norwich City
+259 , Stoke City , 2-3 , Queens Park Rangers
+260 , Stoke City , 0-1 , Sunderland
+261 , Stoke City , 2-0 , Swansea City
+262 , Stoke City , 2-1 , Tottenham Hotspur
+263 , Stoke City , 1-2 , West Bromwich Albion
+264 , Stoke City , 2-2 , Wigan Athletic
+265 , Stoke City , 2-1 , Wolverhampton Wanderers
+266 , Sunderland , 1-2 , Arsenal
+267 , Sunderland , 2-2 , Aston Villa
+268 , Sunderland , 2-1 , Blackburn Rovers
+269 , Sunderland , 2-2 , Bolton Wanderers
+270 , Sunderland , 1-2 , Chelsea
+271 , Sunderland , 1-1 , Everton
+272 , Sunderland , 0-0 , Fulham
+273 , Sunderland , 1-0 , Liverpool
+274 , Sunderland , 1-0 , Manchester City
+275 , Sunderland , 0-1 , Manchester United
+276 , Sunderland , 0-1 , Newcastle United
+277 , Sunderland , 3-0 , Norwich City
+278 , Sunderland , 3-1 , Queens Park Rangers
+279 , Sunderland , 4-0 , Stoke City
+280 , Sunderland , 2-0 , Swansea City
+281 , Sunderland , 0-0 , Tottenham Hotspur
+282 , Sunderland , 2-2 , West Bromwich Albion
+283 , Sunderland , 1-2 , Wigan Athletic
+284 , Sunderland , 0-0 , Wolverhampton Wanderers
+285 , Swansea City , 3-2 , Arsenal
+286 , Swansea City , 0-0 , Aston Villa
+287 , Swansea City , 3-0 , Blackburn Rovers
+288 , Swansea City , 3-1 , Bolton Wanderers
+289 , Swansea City , 1-1 , Chelsea
+290 , Swansea City , 0-2 , Everton
+291 , Swansea City , 2-0 , Fulham
+292 , Swansea City , 1-0 , Liverpool
+293 , Swansea City , 1-0 , Manchester City
+294 , Swansea City , 0-1 , Manchester United
+295 , Swansea City , 0-2 , Newcastle United
+296 , Swansea City , 2-3 , Norwich City
+297 , Swansea City , 1-1 , Queens Park Rangers
+298 , Swansea City , 2-0 , Stoke City
+299 , Swansea City , 0-0 , Sunderland
+300 , Swansea City , 1-1 , Tottenham Hotspur
+301 , Swansea City , 3-0 , West Bromwich Albion
+302 , Swansea City , 0-0 , Wigan Athletic
+303 , Swansea City , 4-4 , Wolverhampton Wanderers
+304 , Tottenham Hotspur , 2-1 , Arsenal
+305 , Tottenham Hotspur , 2-0 , Aston Villa
+306 , Tottenham Hotspur , 2-0 , Blackburn Rovers
+307 , Tottenham Hotspur , 3-0 , Bolton Wanderers
+308 , Tottenham Hotspur , 1-1 , Chelsea
+309 , Tottenham Hotspur , 2-0 , Everton
+310 , Tottenham Hotspur , 2-0 , Fulham
+311 , Tottenham Hotspur , 4-0 , Liverpool
+312 , Tottenham Hotspur , 1-5 , Manchester City
+313 , Tottenham Hotspur , 1-3 , Manchester United
+314 , Tottenham Hotspur , 5-0 , Newcastle United
+315 , Tottenham Hotspur , 1-2 , Norwich City
+316 , Tottenham Hotspur , 3-1 , Queens Park Rangers
+317 , Tottenham Hotspur , 1-1 , Stoke City
+318 , Tottenham Hotspur , 1-0 , Sunderland
+319 , Tottenham Hotspur , 3-1 , Swansea City
+320 , Tottenham Hotspur , 1-0 , West Bromwich Albion
+321 , Tottenham Hotspur , 3-1 , Wigan Athletic
+322 , Tottenham Hotspur , 1-1 , Wolverhampton Wanderers
+323 , West Bromwich Albion , 2-3 , Arsenal
+324 , West Bromwich Albion , 0-0 , Aston Villa
+325 , West Bromwich Albion , 3-0 , Blackburn Rovers
+326 , West Bromwich Albion , 2-1 , Bolton Wanderers
+327 , West Bromwich Albion , 1-0 , Chelsea
+328 , West Bromwich Albion , 0-1 , Everton
+329 , West Bromwich Albion , 0-0 , Fulham
+330 , West Bromwich Albion , 0-2 , Liverpool
+331 , West Bromwich Albion , 0-0 , Manchester City
+332 , West Bromwich Albion , 1-2 , Manchester United
+333 , West Bromwich Albion , 1-3 , Newcastle United
+334 , West Bromwich Albion , 1-2 , Norwich City
+335 , West Bromwich Albion , 1-0 , Queens Park Rangers
+336 , West Bromwich Albion , 0-1 , Stoke City
+337 , West Bromwich Albion , 4-0 , Sunderland
+338 , West Bromwich Albion , 1-2 , Swansea City
+339 , West Bromwich Albion , 1-3 , Tottenham Hotspur
+340 , West Bromwich Albion , 1-2 , Wigan Athletic
+341 , West Bromwich Albion , 2-0 , Wolverhampton Wanderers
+342 , Wigan Athletic , 0-4 , Arsenal
+343 , Wigan Athletic , 0-0 , Aston Villa
+344 , Wigan Athletic , 3-3 , Blackburn Rovers
+345 , Wigan Athletic , 1-3 , Bolton Wanderers
+346 , Wigan Athletic , 1-1 , Chelsea
+347 , Wigan Athletic , 1-1 , Everton
+348 , Wigan Athletic , 0-2 , Fulham
+349 , Wigan Athletic , 0-0 , Liverpool
+350 , Wigan Athletic , 0-1 , Manchester City
+351 , Wigan Athletic , 1-0 , Manchester United
+352 , Wigan Athletic , 4-0 , Newcastle United
+353 , Wigan Athletic , 1-1 , Norwich City
+354 , Wigan Athletic , 2-0 , Queens Park Rangers
+355 , Wigan Athletic , 2-0 , Stoke City
+356 , Wigan Athletic , 1-4 , Sunderland
+357 , Wigan Athletic , 0-2 , Swansea City
+358 , Wigan Athletic , 1-2 , Tottenham Hotspur
+359 , Wigan Athletic , 1-1 , West Bromwich Albion
+360 , Wigan Athletic , 3-2 , Wolverhampton Wanderers
+361 , Wolverhampton Wanderers , 0-3 , Arsenal
+362 , Wolverhampton Wanderers , 2-3 , Aston Villa
+363 , Wolverhampton Wanderers , 0-2 , Blackburn Rovers
+364 , Wolverhampton Wanderers , 2-3 , Bolton Wanderers
+365 , Wolverhampton Wanderers , 1-2 , Chelsea
+366 , Wolverhampton Wanderers , 0-0 , Everton
+367 , Wolverhampton Wanderers , 2-0 , Fulham
+368 , Wolverhampton Wanderers , 0-3 , Liverpool
+369 , Wolverhampton Wanderers , 0-2 , Manchester City
+370 , Wolverhampton Wanderers , 0-5 , Manchester United
+371 , Wolverhampton Wanderers , 1-2 , Newcastle United
+372 , Wolverhampton Wanderers , 2-2 , Norwich City
+373 , Wolverhampton Wanderers , 0-3 , Queens Park Rangers
+374 , Wolverhampton Wanderers , 1-2 , Stoke City
+375 , Wolverhampton Wanderers , 2-1 , Sunderland
+376 , Wolverhampton Wanderers , 2-2 , Swansea City
+377 , Wolverhampton Wanderers , 0-2 , Tottenham Hotspur
+378 , Wolverhampton Wanderers , 1-5 , West Bromwich Albion
+379 , Wolverhampton Wanderers , 3-1 , Wigan Athletic
+shortNames:,,Home ╲ Away,Arsenal !ARS,Aston Villa !AST,Blackburn Rovers !BLB,Bolton Wanderers !BOL,Chelsea !CHE,Everton !EVE,Fulham !FUL,Liverpool !LIV,Manchester City !MCI,Manchester United !MUN,Newcastle United !NEW,Norwich City !NOR,Queens Park Rangers !QPR,Stoke City !STK,Sunderland !SUN,Swansea City !SWA,Tottenham Hotspur !TOT,West Bromwich Albion !WBA,Wigan Athletic !WIG,Wolverhampton Wanderers !WOL
+fullNames:,,Arsenal,Aston Villa,Blackburn Rovers,Bolton Wanderers,Chelsea,Everton,Fulham,Liverpool,Manchester City,Manchester United,Newcastle United,Norwich City,Queens Park Rangers,Stoke City,Sunderland,Swansea City,Tottenham Hotspur,West Bromwich Albion,Wigan Athletic,Wolverhampton Wanderers

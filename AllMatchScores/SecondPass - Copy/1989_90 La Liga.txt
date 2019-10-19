@@ -1,0 +1,382 @@
+0 , Athletic Bilbao , 1-1 , Atlético Madrid
+1 , Athletic Bilbao , 1-2 , Barcelona
+2 , Athletic Bilbao , 3-1 , Cádiz
+3 , Athletic Bilbao , 2-1 , Castellón
+4 , Athletic Bilbao , 2-0 , Celta de Vigo
+5 , Athletic Bilbao , 1-0 , Logroñés
+6 , Athletic Bilbao , 3-0 , Málaga
+7 , Athletic Bilbao , 0-0 , Mallorca
+8 , Athletic Bilbao , 1-1 , Osasuna
+9 , Athletic Bilbao , 3-2 , Rayo Vallecano
+10 , Athletic Bilbao , 1-1 , Real Madrid
+11 , Athletic Bilbao , 0-0 , Oviedo
+12 , Athletic Bilbao , 1-0 , Real Sociedad
+13 , Athletic Bilbao , 1-1 , Sevilla
+14 , Athletic Bilbao , 1-0 , Sporting de Gijón
+15 , Athletic Bilbao , 1-1 , Tenerife
+16 , Athletic Bilbao , 1-1 , Valencia
+17 , Athletic Bilbao , 2-2 , Valladolid
+18 , Athletic Bilbao , 2-0 , Zaragoza
+19 , Atlético Madrid , 2-0 , Athletic Bilbao
+20 , Atlético Madrid , 1-0 , Barcelona
+21 , Atlético Madrid , 1-0 , Cádiz
+22 , Atlético Madrid , 4-1 , Castellón
+23 , Atlético Madrid , 2-1 , Celta de Vigo
+24 , Atlético Madrid , 3-1 , Logroñés
+25 , Atlético Madrid , 2-0 , Málaga
+26 , Atlético Madrid , 2-0 , Mallorca
+27 , Atlético Madrid , 0-1 , Osasuna
+28 , Atlético Madrid , 2-0 , Rayo Vallecano
+29 , Atlético Madrid , 3-3 , Real Madrid
+30 , Atlético Madrid , 1-1 , Oviedo
+31 , Atlético Madrid , 0-0 , Real Sociedad
+32 , Atlético Madrid , 1-0 , Sevilla
+33 , Atlético Madrid , 3-1 , Sporting de Gijón
+34 , Atlético Madrid , 2-0 , Tenerife
+35 , Atlético Madrid , 1-1 , Valencia
+36 , Atlético Madrid , 1-0 , Valladolid
+37 , Atlético Madrid , 2-1 , Zaragoza
+38 , Barcelona , 4-2 , Athletic Bilbao
+39 , Barcelona , 0-2 , Atlético Madrid
+40 , Barcelona , 5-0 , Cádiz
+41 , Barcelona , 2-0 , Castellón
+42 , Barcelona , 6-0 , Celta de Vigo
+43 , Barcelona , 4-2 , Logroñés
+44 , Barcelona , 1-0 , Málaga
+45 , Barcelona , 1-1 , Mallorca
+46 , Barcelona , 4-0 , Osasuna
+47 , Barcelona , 7-1 , Rayo Vallecano
+48 , Barcelona , 3-1 , Real Madrid
+49 , Barcelona , 0-0 , Oviedo
+50 , Barcelona , 2-2 , Real Sociedad
+51 , Barcelona , 3-4 , Sevilla
+52 , Barcelona , 2-0 , Sporting de Gijón
+53 , Barcelona , 3-0 , Tenerife
+54 , Barcelona , 2-1 , Valencia
+55 , Barcelona , 1-0 , Valladolid
+56 , Barcelona , 3-1 , Zaragoza
+57 , Cádiz , 1-0 , Athletic Bilbao
+58 , Cádiz , 0-1 , Atlético Madrid
+59 , Cádiz , 0-4 , Barcelona
+60 , Cádiz , 1-0 , Castellón
+61 , Cádiz , 1-0 , Celta de Vigo
+62 , Cádiz , 0-1 , Logroñés
+63 , Cádiz , 0-2 , Málaga
+64 , Cádiz , 1-1 , Mallorca
+65 , Cádiz , 0-0 , Osasuna
+66 , Cádiz , 3-1 , Rayo Vallecano
+67 , Cádiz , 0-3 , Real Madrid
+68 , Cádiz , 1-0 , Oviedo
+69 , Cádiz , 1-0 , Real Sociedad
+70 , Cádiz , 0-4 , Sevilla
+71 , Cádiz , 2-0 , Sporting de Gijón
+72 , Cádiz , 1-0 , Tenerife
+73 , Cádiz , 0-2 , Valencia
+74 , Cádiz , 1-0 , Valladolid
+75 , Cádiz , 1-1 , Zaragoza
+76 , Castellón , 1-0 , Athletic Bilbao
+77 , Castellón , 0-0 , Atlético Madrid
+78 , Castellón , 1-0 , Barcelona
+79 , Castellón , 1-1 , Cádiz
+80 , Castellón , 1-0 , Celta de Vigo
+81 , Castellón , 0-0 , Logroñés
+82 , Castellón , 1-1 , Málaga
+83 , Castellón , 1-2 , Mallorca
+84 , Castellón , 1-2 , Osasuna
+85 , Castellón , 1-0 , Rayo Vallecano
+86 , Castellón , 0-0 , Real Madrid
+87 , Castellón , 1-1 , Oviedo
+88 , Castellón , 0-2 , Real Sociedad
+89 , Castellón , 3-1 , Sevilla
+90 , Castellón , 1-0 , Sporting de Gijón
+91 , Castellón , 0-0 , Tenerife
+92 , Castellón , 0-1 , Valencia
+93 , Castellón , 1-1 , Valladolid
+94 , Castellón , 2-1 , Zaragoza
+95 , Celta de Vigo , 0-0 , Athletic Bilbao
+96 , Celta de Vigo , 2-0 , Atlético Madrid
+97 , Celta de Vigo , 1-2 , Barcelona
+98 , Celta de Vigo , 5-1 , Cádiz
+99 , Celta de Vigo , 1-0 , Castellón
+100 , Celta de Vigo , 0-1 , Logroñés
+101 , Celta de Vigo , 1-1 , Málaga
+102 , Celta de Vigo , 2-2 , Mallorca
+103 , Celta de Vigo , 1-1 , Osasuna
+104 , Celta de Vigo , 0-0 , Rayo Vallecano
+105 , Celta de Vigo , 0-0 , Real Madrid
+106 , Celta de Vigo , 0-1 , Oviedo
+107 , Celta de Vigo , 0-0 , Real Sociedad
+108 , Celta de Vigo , 0-1 , Sevilla
+109 , Celta de Vigo , 0-0 , Sporting de Gijón
+110 , Celta de Vigo , 1-0 , Tenerife
+111 , Celta de Vigo , 1-2 , Valencia
+112 , Celta de Vigo , 0-0 , Valladolid
+113 , Celta de Vigo , 2-2 , Zaragoza
+114 , Logroñés , 1-0 , Athletic Bilbao
+115 , Logroñés , 0-2 , Atlético Madrid
+116 , Logroñés , 1-2 , Barcelona
+117 , Logroñés , 1-1 , Cádiz
+118 , Logroñés , 1-0 , Castellón
+119 , Logroñés , 4-1 , Celta de Vigo
+120 , Logroñés , 1-0 , Málaga
+121 , Logroñés , 0-1 , Mallorca
+122 , Logroñés , 1-1 , Osasuna
+123 , Logroñés , 2-0 , Rayo Vallecano
+124 , Logroñés , 1-5 , Real Madrid
+125 , Logroñés , 1-1 , Oviedo
+126 , Logroñés , 1-0 , Real Sociedad
+127 , Logroñés , 2-1 , Sevilla
+128 , Logroñés , 1-0 , Sporting de Gijón
+129 , Logroñés , 4-1 , Tenerife
+130 , Logroñés , 1-0 , Valencia
+131 , Logroñés , 1-0 , Valladolid
+132 , Logroñés , 2-1 , Zaragoza
+133 , Málaga , 0-1 , Athletic Bilbao
+134 , Málaga , 0-0 , Atlético Madrid
+135 , Málaga , 0-1 , Barcelona
+136 , Málaga , 1-0 , Cádiz
+137 , Málaga , 1-1 , Castellón
+138 , Málaga , 1-1 , Celta de Vigo
+139 , Málaga , 0-2 , Logroñés
+140 , Málaga , 0-2 , Mallorca
+141 , Málaga , 1-1 , Osasuna
+142 , Málaga , 1-0 , Rayo Vallecano
+143 , Málaga , 1-2 , Real Madrid
+144 , Málaga , 1-0 , Oviedo
+145 , Málaga , 0-2 , Real Sociedad
+146 , Málaga , 2-1 , Sevilla
+147 , Málaga , 1-0 , Sporting de Gijón
+148 , Málaga , 2-1 , Tenerife
+149 , Málaga , 1-1 , Valencia
+150 , Málaga , 0-1 , Valladolid
+151 , Málaga , 0-3 , Zaragoza
+152 , Mallorca , 1-0 , Athletic Bilbao
+153 , Mallorca , 0-0 , Atlético Madrid
+154 , Mallorca , 1-0 , Barcelona
+155 , Mallorca , 5-1 , Cádiz
+156 , Mallorca , 1-1 , Castellón
+157 , Mallorca , 2-0 , Celta de Vigo
+158 , Mallorca , 3-1 , Logroñés
+159 , Mallorca , 2-0 , Málaga
+160 , Mallorca , 2-2 , Osasuna
+161 , Mallorca , 1-0 , Rayo Vallecano
+162 , Mallorca , 0-0 , Real Madrid
+163 , Mallorca , 2-2 , Oviedo
+164 , Mallorca , 0-0 , Real Sociedad
+165 , Mallorca , 1-1 , Sevilla
+166 , Mallorca , 1-1 , Sporting de Gijón
+167 , Mallorca , 0-2 , Tenerife
+168 , Mallorca , 0-1 , Valencia
+169 , Mallorca , 1-1 , Valladolid
+170 , Mallorca , 0-1 , Zaragoza
+171 , Osasuna , 1-1 , Athletic Bilbao
+172 , Osasuna , 2-1 , Atlético Madrid
+173 , Osasuna , 0-3 , Barcelona
+174 , Osasuna , 1-0 , Cádiz
+175 , Osasuna , 1-2 , Castellón
+176 , Osasuna , 1-0 , Celta de Vigo
+177 , Osasuna , 3-0 , Logroñés
+178 , Osasuna , 2-0 , Málaga
+179 , Osasuna , 1-0 , Mallorca
+180 , Osasuna , 2-1 , Rayo Vallecano
+181 , Osasuna , 0-2 , Real Madrid
+182 , Osasuna , 4-0 , Oviedo
+183 , Osasuna , 1-1 , Real Sociedad
+184 , Osasuna , 2-1 , Sevilla
+185 , Osasuna , 0-1 , Sporting de Gijón
+186 , Osasuna , 3-0 , Tenerife
+187 , Osasuna , 2-2 , Valencia
+188 , Osasuna , 1-0 , Valladolid
+189 , Osasuna , 2-0 , Zaragoza
+190 , Rayo Vallecano , 0-0 , Athletic Bilbao
+191 , Rayo Vallecano , 4-4 , Atlético Madrid
+192 , Rayo Vallecano , 1-4 , Barcelona
+193 , Rayo Vallecano , 0-1 , Cádiz
+194 , Rayo Vallecano , 0-2 , Castellón
+195 , Rayo Vallecano , 2-0 , Celta de Vigo
+196 , Rayo Vallecano , 0-2 , Logroñés
+197 , Rayo Vallecano , 1-0 , Málaga
+198 , Rayo Vallecano , 0-0 , Mallorca
+199 , Rayo Vallecano , 1-0 , Osasuna
+200 , Rayo Vallecano , 1-2 , Real Madrid
+201 , Rayo Vallecano , 1-1 , Oviedo
+202 , Rayo Vallecano , 0-3 , Real Sociedad
+203 , Rayo Vallecano , 2-1 , Sevilla
+204 , Rayo Vallecano , 1-2 , Sporting de Gijón
+205 , Rayo Vallecano , 1-0 , Tenerife
+206 , Rayo Vallecano , 2-2 , Valencia
+207 , Rayo Vallecano , 2-1 , Valladolid
+208 , Rayo Vallecano , 2-2 , Zaragoza
+209 , Real Madrid , 4-0 , Athletic Bilbao
+210 , Real Madrid , 3-1 , Atlético Madrid
+211 , Real Madrid , 3-2 , Barcelona
+212 , Real Madrid , 4-1 , Cádiz
+213 , Real Madrid , 7-0 , Castellón
+214 , Real Madrid , 3-0 , Celta de Vigo
+215 , Real Madrid , 3-3 , Logroñés
+216 , Real Madrid , 4-0 , Málaga
+217 , Real Madrid , 1-1 , Mallorca
+218 , Real Madrid , 4-1 , Osasuna
+219 , Real Madrid , 5-2 , Rayo Vallecano
+220 , Real Madrid , 5-2 , Oviedo
+221 , Real Madrid , 3-0 , Real Sociedad
+222 , Real Madrid , 5-2 , Sevilla
+223 , Real Madrid , 2-0 , Sporting de Gijón
+224 , Real Madrid , 5-2 , Tenerife
+225 , Real Madrid , 6-2 , Valencia
+226 , Real Madrid , 4-0 , Valladolid
+227 , Real Madrid , 7-2 , Zaragoza
+228 , Oviedo , 1-0 , Athletic Bilbao
+229 , Oviedo , 3-0 , Atlético Madrid
+230 , Oviedo , 2-0 , Barcelona
+231 , Oviedo , 4-3 , Cádiz
+232 , Oviedo , 1-1 , Castellón
+233 , Oviedo , 1-0 , Celta de Vigo
+234 , Oviedo , 0-4 , Logroñés
+235 , Oviedo , 0-0 , Málaga
+236 , Oviedo , 0-2 , Mallorca
+237 , Oviedo , 2-0 , Osasuna
+238 , Oviedo , 3-2 , Rayo Vallecano
+239 , Oviedo , 0-1 , Real Madrid
+240 , Oviedo , 5-0 , Real Sociedad
+241 , Oviedo , 0-3 , Sevilla
+242 , Oviedo , 1-0 , Sporting de Gijón
+243 , Oviedo , 2-1 , Tenerife
+244 , Oviedo , 0-0 , Valencia
+245 , Oviedo , 0-0 , Valladolid
+246 , Oviedo , 2-2 , Zaragoza
+247 , Real Sociedad , 0-0 , Athletic Bilbao
+248 , Real Sociedad , 0-0 , Atlético Madrid
+249 , Real Sociedad , 2-2 , Barcelona
+250 , Real Sociedad , 2-0 , Cádiz
+251 , Real Sociedad , 2-0 , Castellón
+252 , Real Sociedad , 1-0 , Celta de Vigo
+253 , Real Sociedad , 1-0 , Logroñés
+254 , Real Sociedad , 1-1 , Málaga
+255 , Real Sociedad , 2-0 , Mallorca
+256 , Real Sociedad , 1-0 , Osasuna
+257 , Real Sociedad , 4-1 , Rayo Vallecano
+258 , Real Sociedad , 2-1 , Real Madrid
+259 , Real Sociedad , 1-1 , Oviedo
+260 , Real Sociedad , 2-1 , Sevilla
+261 , Real Sociedad , 1-2 , Sporting de Gijón
+262 , Real Sociedad , 1-0 , Tenerife
+263 , Real Sociedad , 2-2 , Valencia
+264 , Real Sociedad , 1-1 , Valladolid
+265 , Real Sociedad , 2-1 , Zaragoza
+266 , Sevilla , 3-2 , Athletic Bilbao
+267 , Sevilla , 2-1 , Atlético Madrid
+268 , Sevilla , 1-1 , Barcelona
+269 , Sevilla , 1-1 , Cádiz
+270 , Sevilla , 3-2 , Castellón
+271 , Sevilla , 2-1 , Celta de Vigo
+272 , Sevilla , 3-1 , Logroñés
+273 , Sevilla , 3-1 , Málaga
+274 , Sevilla , 3-0 , Mallorca
+275 , Sevilla , 1-1 , Osasuna
+276 , Sevilla , 4-0 , Rayo Vallecano
+277 , Sevilla , 1-2 , Real Madrid
+278 , Sevilla , 1-2 , Oviedo
+279 , Sevilla , 0-1 , Real Sociedad
+280 , Sevilla , 1-0 , Sporting de Gijón
+281 , Sevilla , 1-0 , Tenerife
+282 , Sevilla , 4-0 , Valencia
+283 , Sevilla , 0-0 , Valladolid
+284 , Sevilla , 4-0 , Zaragoza
+285 , Sporting de Gijón , 0-1 , Athletic Bilbao
+286 , Sporting de Gijón , 2-1 , Atlético Madrid
+287 , Sporting de Gijón , 0-2 , Barcelona
+288 , Sporting de Gijón , 4-0 , Cádiz
+289 , Sporting de Gijón , 0-0 , Castellón
+290 , Sporting de Gijón , 3-0 , Celta de Vigo
+291 , Sporting de Gijón , 5-1 , Logroñés
+292 , Sporting de Gijón , 0-1 , Málaga
+293 , Sporting de Gijón , 3-0 , Mallorca
+294 , Sporting de Gijón , 0-0 , Osasuna
+295 , Sporting de Gijón , 1-0 , Rayo Vallecano
+296 , Sporting de Gijón , 1-1 , Real Madrid
+297 , Sporting de Gijón , 0-0 , Oviedo
+298 , Sporting de Gijón , 0-0 , Real Sociedad
+299 , Sporting de Gijón , 0-1 , Sevilla
+300 , Sporting de Gijón , 1-0 , Tenerife
+301 , Sporting de Gijón , 1-1 , Valencia
+302 , Sporting de Gijón , 3-0 , Valladolid
+303 , Sporting de Gijón , 1-1 , Zaragoza
+304 , Tenerife , 1-1 , Athletic Bilbao
+305 , Tenerife , 2-3 , Atlético Madrid
+306 , Tenerife , 1-4 , Barcelona
+307 , Tenerife , 0-1 , Cádiz
+308 , Tenerife , 3-0 , Castellón
+309 , Tenerife , 2-1 , Celta de Vigo
+310 , Tenerife , 3-1 , Logroñés
+311 , Tenerife , 2-2 , Málaga
+312 , Tenerife , 1-1 , Mallorca
+313 , Tenerife , 2-0 , Osasuna
+314 , Tenerife , 1-0 , Rayo Vallecano
+315 , Tenerife , 2-3 , Real Madrid
+316 , Tenerife , 2-1 , Oviedo
+317 , Tenerife , 2-2 , Real Sociedad
+318 , Tenerife , 1-2 , Sevilla
+319 , Tenerife , 1-1 , Sporting de Gijón
+320 , Tenerife , 1-1 , Valencia
+321 , Tenerife , 0-0 , Valladolid
+322 , Tenerife , 1-2 , Zaragoza
+323 , Valencia , 1-1 , Athletic Bilbao
+324 , Valencia , 1-3 , Atlético Madrid
+325 , Valencia , 2-1 , Barcelona
+326 , Valencia , 3-0 , Cádiz
+327 , Valencia , 2-2 , Castellón
+328 , Valencia , 2-0 , Celta de Vigo
+329 , Valencia , 4-0 , Logroñés
+330 , Valencia , 3-0 , Málaga
+331 , Valencia , 1-0 , Mallorca
+332 , Valencia , 3-1 , Osasuna
+333 , Valencia , 4-1 , Rayo Vallecano
+334 , Valencia , 1-1 , Real Madrid
+335 , Valencia , 3-0 , Oviedo
+336 , Valencia , 3-1 , Real Sociedad
+337 , Valencia , 1-1 , Sevilla
+338 , Valencia , 2-0 , Sporting de Gijón
+339 , Valencia , 2-1 , Tenerife
+340 , Valencia , 4-3 , Valladolid
+341 , Valencia , 2-1 , Zaragoza
+342 , Valladolid , 3-1 , Athletic Bilbao
+343 , Valladolid , 2-0 , Atlético Madrid
+344 , Valladolid , 2-0 , Barcelona
+345 , Valladolid , 1-2 , Cádiz
+346 , Valladolid , 0-0 , Castellón
+347 , Valladolid , 0-1 , Celta de Vigo
+348 , Valladolid , 0-1 , Logroñés
+349 , Valladolid , 0-1 , Málaga
+350 , Valladolid , 0-0 , Mallorca
+351 , Valladolid , 1-1 , Osasuna
+352 , Valladolid , 1-0 , Rayo Vallecano
+353 , Valladolid , 0-0 , Real Madrid
+354 , Valladolid , 1-1 , Oviedo
+355 , Valladolid , 1-0 , Real Sociedad
+356 , Valladolid , 3-0 , Sevilla
+357 , Valladolid , 1-3 , Sporting de Gijón
+358 , Valladolid , 1-2 , Tenerife
+359 , Valladolid , 0-2 , Valencia
+360 , Valladolid , 2-1 , Zaragoza
+361 , Zaragoza , 1-0 , Athletic Bilbao
+362 , Zaragoza , 0-2 , Atlético Madrid
+363 , Zaragoza , 2-0 , Barcelona
+364 , Zaragoza , 1-0 , Cádiz
+365 , Zaragoza , 3-1 , Castellón
+366 , Zaragoza , 1-1 , Celta de Vigo
+367 , Zaragoza , 1-0 , Logroñés
+368 , Zaragoza , 3-0 , Málaga
+369 , Zaragoza , 1-0 , Mallorca
+370 , Zaragoza , 1-0 , Osasuna
+371 , Zaragoza , 3-0 , Rayo Vallecano
+372 , Zaragoza , 0-1 , Real Madrid
+373 , Zaragoza , 2-0 , Oviedo
+374 , Zaragoza , 2-1 , Real Sociedad
+375 , Zaragoza , 1-0 , Sevilla
+376 , Zaragoza , 2-1 , Sporting de Gijón
+377 , Zaragoza , 3-3 , Tenerife
+378 , Zaragoza , 0-1 , Valencia
+379 , Zaragoza , 2-2 , Valladolid
+shortNames:,,Home ╲ Away,Athletic Bilbao !ATH,Atlético Madrid !ATM,Barcelona !BAR,Cádiz !CÁD,Castellón !CAS,Celta de Vigo !CEL,Logroñés !LOG,Málaga !MLG,Mallorca !MLL,Osasuna !OSA,Rayo Vallecano !RVA,Real Madrid !RMA,Oviedo !ROV,Real Sociedad !RSO,Sevilla !SEV,Sporting de Gijón !SPG,Tenerife !TEN,Valencia !VAL,Valladolid !VLD,Zaragoza !ZAR
+fullNames:,,Athletic Bilbao,Atlético Madrid,Barcelona,Cádiz,Castellón,Celta de Vigo,Logroñés,Málaga,Mallorca,Osasuna,Rayo Vallecano,Real Madrid,Oviedo,Real Sociedad,Sevilla,Sporting de Gijón,Tenerife,Valencia,Valladolid,Zaragoza

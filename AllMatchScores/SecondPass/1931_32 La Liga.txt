@@ -1,0 +1,92 @@
+0 , Arenas Club de Getxo , 2-1 , Athletic Bilbao
+1 , Arenas Club de Getxo , 1-3 , FC Barcelona
+2 , Arenas Club de Getxo , 4-2 , Deportivo Alavés
+3 , Arenas Club de Getxo , 2-1 , Donostia CF
+4 , Arenas Club de Getxo , 3-2 , CE Espanyol
+5 , Arenas Club de Getxo , 2-2 , Madrid CF
+6 , Arenas Club de Getxo , 3-1 , Racing de Santander
+7 , Arenas Club de Getxo , 5-0 , Union Club Irún
+8 , Arenas Club de Getxo , 4-1 , Valencia CF
+9 , Athletic Bilbao , 4-1 , Arenas Club de Getxo
+10 , Athletic Bilbao , 3-0 , FC Barcelona
+11 , Athletic Bilbao , 3-2 , Deportivo Alavés
+12 , Athletic Bilbao , 5-1 , Donostia CF
+13 , Athletic Bilbao , 4-0 , CE Espanyol
+14 , Athletic Bilbao , 3-3 , Madrid CF
+15 , Athletic Bilbao , 3-2 , Racing de Santander
+16 , Athletic Bilbao , 2-1 , Union Club Irún
+17 , Athletic Bilbao , 7-2 , Valencia CF
+18 , FC Barcelona , 2-2 , Arenas Club de Getxo
+19 , FC Barcelona , 1-3 , Athletic Bilbao
+20 , FC Barcelona , 6-0 , Deportivo Alavés
+21 , FC Barcelona , 2-0 , Donostia CF
+22 , FC Barcelona , 2-2 , CE Espanyol
+23 , FC Barcelona , 2-2 , Madrid CF
+24 , FC Barcelona , 4-2 , Racing de Santander
+25 , FC Barcelona , 3-2 , Union Club Irún
+26 , FC Barcelona , 3-2 , Valencia CF
+27 , Deportivo Alavés , 3-1 , Arenas Club de Getxo
+28 , Deportivo Alavés , 0-1 , Athletic Bilbao
+29 , Deportivo Alavés , 1-3 , FC Barcelona
+30 , Deportivo Alavés , 1-2 , Donostia CF
+31 , Deportivo Alavés , 4-1 , CE Espanyol
+32 , Deportivo Alavés , 0-1 , Madrid CF
+33 , Deportivo Alavés , 1-2 , Racing de Santander
+34 , Deportivo Alavés , 1-0 , Union Club Irún
+35 , Deportivo Alavés , 2-1 , Valencia CF
+36 , Donostia CF , 7-0 , Arenas Club de Getxo
+37 , Donostia CF , 3-2 , Athletic Bilbao
+38 , Donostia CF , 0-1 , FC Barcelona
+39 , Donostia CF , 4-1 , Deportivo Alavés
+40 , Donostia CF , 5-2 , CE Espanyol
+41 , Donostia CF , 1-2 , Madrid CF
+42 , Donostia CF , 1-5 , Racing de Santander
+43 , Donostia CF , 5-0 , Union Club Irún
+44 , Donostia CF , 7-1 , Valencia CF
+45 , CE Espanyol , 4-2 , Arenas Club de Getxo
+46 , CE Espanyol , 1-0 , Athletic Bilbao
+47 , CE Espanyol , 0-3 , FC Barcelona
+48 , CE Espanyol , 4-0 , Deportivo Alavés
+49 , CE Espanyol , 2-0 , Donostia CF
+50 , CE Espanyol , 1-2 , Madrid CF
+51 , CE Espanyol , 6-1 , Racing de Santander
+52 , CE Espanyol , 3-1 , Union Club Irún
+53 , CE Espanyol , 3-0 , Valencia CF
+54 , Madrid CF , 4-0 , Arenas Club de Getxo
+55 , Madrid CF , 1-1 , Athletic Bilbao
+56 , Madrid CF , 2-0 , FC Barcelona
+57 , Madrid CF , 5-0 , Deportivo Alavés
+58 , Madrid CF , 1-0 , Donostia CF
+59 , Madrid CF , 3-0 , CE Espanyol
+60 , Madrid CF , 0-0 , Racing de Santander
+61 , Madrid CF , 3-2 , Union Club Irún
+62 , Madrid CF , 4-1 , Valencia CF
+63 , Racing de Santander , 1-1 , Arenas Club de Getxo
+64 , Racing de Santander , 2-0 , Athletic Bilbao
+65 , Racing de Santander , 3-2 , FC Barcelona
+66 , Racing de Santander , 1-1 , Deportivo Alavés
+67 , Racing de Santander , 2-1 , Donostia CF
+68 , Racing de Santander , 2-1 , CE Espanyol
+69 , Racing de Santander , 0-0 , Madrid CF
+70 , Racing de Santander , 2-2 , Union Club Irún
+71 , Racing de Santander , 4-1 , Valencia CF
+72 , Union Club Irún , 1-0 , Arenas Club de Getxo
+73 , Union Club Irún , 1-5 , Athletic Bilbao
+74 , Union Club Irún , 1-3 , FC Barcelona
+75 , Union Club Irún , 0-2 , Deportivo Alavés
+76 , Union Club Irún , 2-0 , Donostia CF
+77 , Union Club Irún , 4-1 , CE Espanyol
+78 , Union Club Irún , 1-1 , Madrid CF
+79 , Union Club Irún , 2-2 , Racing de Santander
+80 , Union Club Irún , 3-2 , Valencia CF
+81 , Valencia CF , 3-2 , Arenas Club de Getxo
+82 , Valencia CF , 0-0 , Athletic Bilbao
+83 , Valencia CF , 0-0 , FC Barcelona
+84 , Valencia CF , 5-1 , Deportivo Alavés
+85 , Valencia CF , 4-0 , Donostia CF
+86 , Valencia CF , 3-1 , CE Espanyol
+87 , Valencia CF , 1-1 , Madrid CF
+88 , Valencia CF , 6-4 , Racing de Santander
+89 , Valencia CF , 5-1 , Union Club Irún
+shortNames:,,Are,Ath,Bar,DAl,Don,Esp,Mad,Rac,Uni,Val
+fullNames:,,Arenas Club de Getxo,Athletic Bilbao,FC Barcelona,Deportivo Alavés,Donostia CF,CE Espanyol,Madrid CF,Racing de Santander,Union Club Irún,Valencia CF

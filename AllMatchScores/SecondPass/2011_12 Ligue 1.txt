@@ -1,0 +1,382 @@
+0 , Ajaccio , 2-1 , Auxerre
+1 , Ajaccio , 0-2 , Bordeaux
+2 , Ajaccio , 0-0 , Brest
+3 , Ajaccio , 2-2 , Caen
+4 , Ajaccio , 2-1 , Dijon
+5 , Ajaccio , 1-1 , Evian
+6 , Ajaccio , 2-3 , Lille
+7 , Ajaccio , 1-1 , Lorient
+8 , Ajaccio , 1-1 , Lyon
+9 , Ajaccio , 1-0 , Marseille
+10 , Ajaccio , 1-3 , Montpellier
+11 , Ajaccio , 0-0 , Nancy
+12 , Ajaccio , 1-1 , Nice
+13 , Ajaccio , 1-3 , Paris Saint-Germain
+14 , Ajaccio , 1-0 , Rennes
+15 , Ajaccio , 1-1 , Saint-Étienne
+16 , Ajaccio , 2-1 , Sochaux
+17 , Ajaccio , 0-2 , Toulouse
+18 , Ajaccio , 3-1 , Valenciennes
+19 , Auxerre , 4-1 , Ajaccio
+20 , Auxerre , 2-4 , Bordeaux
+21 , Auxerre , 4-0 , Brest
+22 , Auxerre , 1-1 , Caen
+23 , Auxerre , 2-2 , Dijon
+24 , Auxerre , 0-2 , Evian
+25 , Auxerre , 1-3 , Lille
+26 , Auxerre , 1-1 , Lorient
+27 , Auxerre , 0-3 , Lyon
+28 , Auxerre , 2-2 , Marseille
+29 , Auxerre , 1-2 , Montpellier
+30 , Auxerre , 1-3 , Nancy
+31 , Auxerre , 2-1 , Nice
+32 , Auxerre , 1-1 , Paris Saint-Germain
+33 , Auxerre , 0-1 , Rennes
+34 , Auxerre , 0-0 , Saint-Étienne
+35 , Auxerre , 4-1 , Sochaux
+36 , Auxerre , 2-0 , Toulouse
+37 , Auxerre , 2-0 , Valenciennes
+38 , Bordeaux , 1-1 , Ajaccio
+39 , Bordeaux , 1-1 , Auxerre
+40 , Bordeaux , 1-1 , Brest
+41 , Bordeaux , 2-0 , Caen
+42 , Bordeaux , 1-1 , Dijon
+43 , Bordeaux , 0-0 , Evian
+44 , Bordeaux , 1-1 , Lille
+45 , Bordeaux , 1-0 , Lorient
+46 , Bordeaux , 1-0 , Lyon
+47 , Bordeaux , 2-1 , Marseille
+48 , Bordeaux , 2-2 , Montpellier
+49 , Bordeaux , 2-0 , Nancy
+50 , Bordeaux , 1-2 , Nice
+51 , Bordeaux , 1-1 , Paris Saint-Germain
+52 , Bordeaux , 2-0 , Rennes
+53 , Bordeaux , 1-2 , Saint-Étienne
+54 , Bordeaux , 1-0 , Sochaux
+55 , Bordeaux , 2-0 , Toulouse
+56 , Bordeaux , 2-1 , Valenciennes
+57 , Brest , 1-1 , Ajaccio
+58 , Brest , 1-0 , Auxerre
+59 , Brest , 0-2 , Bordeaux
+60 , Brest , 1-1 , Caen
+61 , Brest , 1-1 , Dijon
+62 , Brest , 2-2 , Evian
+63 , Brest , 3-1 , Lille
+64 , Brest , 3-1 , Lorient
+65 , Brest , 1-1 , Lyon
+66 , Brest , 1-0 , Marseille
+67 , Brest , 2-2 , Montpellier
+68 , Brest , 0-1 , Nancy
+69 , Brest , 1-0 , Nice
+70 , Brest , 0-1 , Paris Saint-Germain
+71 , Brest , 0-1 , Rennes
+72 , Brest , 2-2 , Saint-Étienne
+73 , Brest , 2-0 , Sochaux
+74 , Brest , 0-0 , Toulouse
+75 , Brest , 1-0 , Valenciennes
+76 , Caen , 0-0 , Ajaccio
+77 , Caen , 2-1 , Auxerre
+78 , Caen , 1-0 , Bordeaux
+79 , Caen , 0-0 , Brest
+80 , Caen , 3-0 , Dijon
+81 , Caen , 2-2 , Evian
+82 , Caen , 1-2 , Lille
+83 , Caen , 1-0 , Lorient
+84 , Caen , 1-0 , Lyon
+85 , Caen , 1-2 , Marseille
+86 , Caen , 1-3 , Montpellier
+87 , Caen , 1-2 , Nancy
+88 , Caen , 1-1 , Nice
+89 , Caen , 2-2 , Paris Saint-Germain
+90 , Caen , 0-2 , Rennes
+91 , Caen , 1-4 , Saint-Étienne
+92 , Caen , 1-3 , Sochaux
+93 , Caen , 0-1 , Toulouse
+94 , Caen , 1-0 , Valenciennes
+95 , Dijon , 1-1 , Ajaccio
+96 , Dijon , 0-2 , Auxerre
+97 , Dijon , 2-0 , Bordeaux
+98 , Dijon , 1-0 , Brest
+99 , Dijon , 2-0 , Caen
+100 , Dijon , 3-1 , Evian
+101 , Dijon , 0-2 , Lille
+102 , Dijon , 2-0 , Lorient
+103 , Dijon , 1-2 , Lyon
+104 , Dijon , 2-3 , Marseille
+105 , Dijon , 1-1 , Montpellier
+106 , Dijon , 0-2 , Nancy
+107 , Dijon , 3-0 , Nice
+108 , Dijon , 1-2 , Paris Saint-Germain
+109 , Dijon , 1-5 , Rennes
+110 , Dijon , 1-2 , Saint-Étienne
+111 , Dijon , 0-0 , Sochaux
+112 , Dijon , 1-1 , Toulouse
+113 , Dijon , 1-2 , Valenciennes
+114 , Evian , 2-1 , Ajaccio
+115 , Evian , 3-1 , Auxerre
+116 , Evian , 0-0 , Bordeaux
+117 , Evian , 0-1 , Brest
+118 , Evian , 2-4 , Caen
+119 , Evian , 0-1 , Dijon
+120 , Evian , 0-3 , Lille
+121 , Evian , 2-1 , Lorient
+122 , Evian , 1-3 , Lyon
+123 , Evian , 2-0 , Marseille
+124 , Evian , 4-2 , Montpellier
+125 , Evian , 2-0 , Nancy
+126 , Evian , 1-0 , Nice
+127 , Evian , 2-2 , Paris Saint-Germain
+128 , Evian , 1-3 , Rennes
+129 , Evian , 1-2 , Saint-Étienne
+130 , Evian , 2-3 , Sochaux
+131 , Evian , 2-1 , Toulouse
+132 , Evian , 2-1 , Valenciennes
+133 , Lille , 4-1 , Ajaccio
+134 , Lille , 2-2 , Auxerre
+135 , Lille , 4-5 , Bordeaux
+136 , Lille , 2-0 , Brest
+137 , Lille , 3-0 , Caen
+138 , Lille , 2-0 , Dijon
+139 , Lille , 1-1 , Evian
+140 , Lille , 1-1 , Lorient
+141 , Lille , 3-1 , Lyon
+142 , Lille , 3-2 , Marseille
+143 , Lille , 0-1 , Montpellier
+144 , Lille , 4-1 , Nancy
+145 , Lille , 4-4 , Nice
+146 , Lille , 2-1 , Paris Saint-Germain
+147 , Lille , 2-0 , Rennes
+148 , Lille , 3-0 , Saint-Étienne
+149 , Lille , 2-2 , Sochaux
+150 , Lille , 2-1 , Toulouse
+151 , Lille , 4-0 , Valenciennes
+152 , Lorient , 2-0 , Ajaccio
+153 , Lorient , 1-1 , Auxerre
+154 , Lorient , 1-1 , Bordeaux
+155 , Lorient , 2-1 , Brest
+156 , Lorient , 0-0 , Caen
+157 , Lorient , 0-0 , Dijon
+158 , Lorient , 0-1 , Evian
+159 , Lorient , 0-1 , Lille
+160 , Lorient , 0-1 , Lyon
+161 , Lorient , 2-1 , Marseille
+162 , Lorient , 2-1 , Montpellier
+163 , Lorient , 2-1 , Nancy
+164 , Lorient , 1-0 , Nice
+165 , Lorient , 1-2 , Paris Saint-Germain
+166 , Lorient , 0-2 , Rennes
+167 , Lorient , 3-0 , Saint-Étienne
+168 , Lorient , 1-1 , Sochaux
+169 , Lorient , 0-0 , Toulouse
+170 , Lorient , 2-0 , Valenciennes
+171 , Lyon , 1-1 , Ajaccio
+172 , Lyon , 2-1 , Auxerre
+173 , Lyon , 3-1 , Bordeaux
+174 , Lyon , 1-1 , Brest
+175 , Lyon , 1-2 , Caen
+176 , Lyon , 3-1 , Dijon
+177 , Lyon , 2-1 , Evian
+178 , Lyon , 2-1 , Lille
+179 , Lyon , 3-2 , Lorient
+180 , Lyon , 2-0 , Marseille
+181 , Lyon , 2-1 , Montpellier
+182 , Lyon , 3-1 , Nancy
+183 , Lyon , 3-4 , Nice
+184 , Lyon , 4-4 , Paris Saint-Germain
+185 , Lyon , 1-2 , Rennes
+186 , Lyon , 2-0 , Saint-Étienne
+187 , Lyon , 2-1 , Sochaux
+188 , Lyon , 3-2 , Toulouse
+189 , Lyon , 4-1 , Valenciennes
+190 , Marseille , 2-0 , Ajaccio
+191 , Marseille , 3-0 , Auxerre
+192 , Marseille , 0-0 , Bordeaux
+193 , Marseille , 1-1 , Brest
+194 , Marseille , 1-1 , Caen
+195 , Marseille , 1-2 , Dijon
+196 , Marseille , 2-0 , Evian
+197 , Marseille , 2-0 , Lille
+198 , Marseille , 2-1 , Lorient
+199 , Marseille , 2-2 , Lyon
+200 , Marseille , 1-3 , Montpellier
+201 , Marseille , 1-0 , Nancy
+202 , Marseille , 2-0 , Nice
+203 , Marseille , 3-0 , Paris Saint-Germain
+204 , Marseille , 0-1 , Rennes
+205 , Marseille , 0-0 , Saint-Étienne
+206 , Marseille , 2-2 , Sochaux
+207 , Marseille , 0-1 , Toulouse
+208 , Marseille , 1-1 , Valenciennes
+209 , Montpellier , 3-0 , Ajaccio
+210 , Montpellier , 3-1 , Auxerre
+211 , Montpellier , 1-0 , Bordeaux
+212 , Montpellier , 1-0 , Brest
+213 , Montpellier , 3-0 , Caen
+214 , Montpellier , 5-3 , Dijon
+215 , Montpellier , 2-2 , Evian
+216 , Montpellier , 1-0 , Lille
+217 , Montpellier , 4-0 , Lorient
+218 , Montpellier , 1-0 , Lyon
+219 , Montpellier , 1-0 , Marseille
+220 , Montpellier , 2-0 , Nancy
+221 , Montpellier , 1-0 , Nice
+222 , Montpellier , 0-3 , Paris Saint-Germain
+223 , Montpellier , 4-0 , Rennes
+224 , Montpellier , 1-0 , Saint-Étienne
+225 , Montpellier , 2-1 , Sochaux
+226 , Montpellier , 1-1 , Toulouse
+227 , Montpellier , 1-0 , Valenciennes
+228 , Nancy , 2-2 , Ajaccio
+229 , Nancy , 0-0 , Auxerre
+230 , Nancy , 2-2 , Bordeaux
+231 , Nancy , 2-1 , Brest
+232 , Nancy , 1-1 , Caen
+233 , Nancy , 1-2 , Dijon
+234 , Nancy , 1-1 , Evian
+235 , Nancy , 1-1 , Lille
+236 , Nancy , 2-2 , Lorient
+237 , Nancy , 2-0 , Lyon
+238 , Nancy , 1-3 , Marseille
+239 , Nancy , 1-0 , Montpellier
+240 , Nancy , 1-0 , Nice
+241 , Nancy , 2-1 , Paris Saint-Germain
+242 , Nancy , 0-0 , Rennes
+243 , Nancy , 3-2 , Saint-Étienne
+244 , Nancy , 1-2 , Sochaux
+245 , Nancy , 0-3 , Toulouse
+246 , Nancy , 1-1 , Valenciennes
+247 , Nice , 3-0 , Ajaccio
+248 , Nice , 1-0 , Auxerre
+249 , Nice , 3-0 , Bordeaux
+250 , Nice , 0-0 , Brest
+251 , Nice , 1-0 , Caen
+252 , Nice , 1-1 , Dijon
+253 , Nice , 1-1 , Evian
+254 , Nice , 0-1 , Lille
+255 , Nice , 2-0 , Lorient
+256 , Nice , 1-3 , Lyon
+257 , Nice , 1-1 , Marseille
+258 , Nice , 0-1 , Montpellier
+259 , Nice , 1-1 , Nancy
+260 , Nice , 0-0 , Paris Saint-Germain
+261 , Nice , 2-0 , Rennes
+262 , Nice , 0-2 , Saint-Étienne
+263 , Nice , 1-1 , Sochaux
+264 , Nice , 1-1 , Toulouse
+265 , Nice , 2-0 , Valenciennes
+266 , Paris Saint-Germain , 4-1 , Ajaccio
+267 , Paris Saint-Germain , 3-2 , Auxerre
+268 , Paris Saint-Germain , 1-1 , Bordeaux
+269 , Paris Saint-Germain , 1-0 , Brest
+270 , Paris Saint-Germain , 4-2 , Caen
+271 , Paris Saint-Germain , 2-0 , Dijon
+272 , Paris Saint-Germain , 3-1 , Evian
+273 , Paris Saint-Germain , 0-0 , Lille
+274 , Paris Saint-Germain , 0-1 , Lorient
+275 , Paris Saint-Germain , 2-0 , Lyon
+276 , Paris Saint-Germain , 2-1 , Marseille
+277 , Paris Saint-Germain , 2-2 , Montpellier
+278 , Paris Saint-Germain , 0-1 , Nancy
+279 , Paris Saint-Germain , 2-1 , Nice
+280 , Paris Saint-Germain , 3-0 , Rennes
+281 , Paris Saint-Germain , 2-0 , Saint-Étienne
+282 , Paris Saint-Germain , 6-1 , Sochaux
+283 , Paris Saint-Germain , 3-1 , Toulouse
+284 , Paris Saint-Germain , 2-1 , Valenciennes
+285 , Rennes , 3-1 , Ajaccio
+286 , Rennes , 1-1 , Auxerre
+287 , Rennes , 1-0 , Bordeaux
+288 , Rennes , 1-1 , Brest
+289 , Rennes , 3-2 , Caen
+290 , Rennes , 5-0 , Dijon
+291 , Rennes , 3-2 , Evian
+292 , Rennes , 1-1 , Lille
+293 , Rennes , 2-0 , Lorient
+294 , Rennes , 1-1 , Lyon
+295 , Rennes , 1-2 , Marseille
+296 , Rennes , 0-2 , Montpellier
+297 , Rennes , 1-1 , Nancy
+298 , Rennes , 3-1 , Nice
+299 , Rennes , 1-1 , Paris Saint-Germain
+300 , Rennes , 1-1 , Saint-Étienne
+301 , Rennes , 1-0 , Sochaux
+302 , Rennes , 0-1 , Toulouse
+303 , Rennes , 1-1 , Valenciennes
+304 , Saint-Étienne , 3-1 , Ajaccio
+305 , Saint-Étienne , 1-1 , Auxerre
+306 , Saint-Étienne , 2-3 , Bordeaux
+307 , Saint-Étienne , 2-1 , Brest
+308 , Saint-Étienne , 2-0 , Caen
+309 , Saint-Étienne , 1-0 , Dijon
+310 , Saint-Étienne , 0-2 , Evian
+311 , Saint-Étienne , 1-3 , Lille
+312 , Saint-Étienne , 4-2 , Lorient
+313 , Saint-Étienne , 0-1 , Lyon
+314 , Saint-Étienne , 0-0 , Marseille
+315 , Saint-Étienne , 1-1 , Montpellier
+316 , Saint-Étienne , 1-0 , Nancy
+317 , Saint-Étienne , 2-3 , Nice
+318 , Saint-Étienne , 0-1 , Paris Saint-Germain
+319 , Saint-Étienne , 4-0 , Rennes
+320 , Saint-Étienne , 1-0 , Sochaux
+321 , Saint-Étienne , 1-1 , Toulouse
+322 , Saint-Étienne , 1-0 , Valenciennes
+323 , Sochaux , 0-2 , Ajaccio
+324 , Sochaux , 0-0 , Auxerre
+325 , Sochaux , 0-3 , Bordeaux
+326 , Sochaux , 2-1 , Brest
+327 , Sochaux , 1-2 , Caen
+328 , Sochaux , 1-0 , Dijon
+329 , Sochaux , 1-1 , Evian
+330 , Sochaux , 0-1 , Lille
+331 , Sochaux , 1-1 , Lorient
+332 , Sochaux , 2-1 , Lyon
+333 , Sochaux , 1-0 , Marseille
+334 , Sochaux , 1-3 , Montpellier
+335 , Sochaux , 1-0 , Nancy
+336 , Sochaux , 2-0 , Nice
+337 , Sochaux , 0-1 , Paris Saint-Germain
+338 , Sochaux , 2-6 , Rennes
+339 , Sochaux , 2-1 , Saint-Étienne
+340 , Sochaux , 3-0 , Toulouse
+341 , Sochaux , 1-1 , Valenciennes
+342 , Toulouse , 0-2 , Ajaccio
+343 , Toulouse , 1-0 , Auxerre
+344 , Toulouse , 3-2 , Bordeaux
+345 , Toulouse , 0-0 , Brest
+346 , Toulouse , 1-0 , Caen
+347 , Toulouse , 2-0 , Dijon
+348 , Toulouse , 2-1 , Evian
+349 , Toulouse , 0-0 , Lille
+350 , Toulouse , 1-1 , Lorient
+351 , Toulouse , 3-0 , Lyon
+352 , Toulouse , 0-0 , Marseille
+353 , Toulouse , 0-1 , Montpellier
+354 , Toulouse , 1-0 , Nancy
+355 , Toulouse , 0-0 , Nice
+356 , Toulouse , 1-3 , Paris Saint-Germain
+357 , Toulouse , 1-0 , Rennes
+358 , Toulouse , 0-1 , Saint-Étienne
+359 , Toulouse , 2-0 , Sochaux
+360 , Toulouse , 2-0 , Valenciennes
+361 , Valenciennes , 1-2 , Ajaccio
+362 , Valenciennes , 2-1 , Auxerre
+363 , Valenciennes , 1-2 , Bordeaux
+364 , Valenciennes , 0-0 , Brest
+365 , Valenciennes , 3-1 , Caen
+366 , Valenciennes , 4-0 , Dijon
+367 , Valenciennes , 0-3 , Evian
+368 , Valenciennes , 0-0 , Lille
+369 , Valenciennes , 2-0 , Lorient
+370 , Valenciennes , 1-0 , Lyon
+371 , Valenciennes , 1-1 , Marseille
+372 , Valenciennes , 1-0 , Montpellier
+373 , Valenciennes , 1-0 , Nancy
+374 , Valenciennes , 2-0 , Nice
+375 , Valenciennes , 3-4 , Paris Saint-Germain
+376 , Valenciennes , 1-0 , Rennes
+377 , Valenciennes , 1-2 , Saint-Étienne
+378 , Valenciennes , 3-0 , Sochaux
+379 , Valenciennes , 2-0 , Toulouse
+shortNames:,,Home ╲ Away,Ajaccio !ACA,Auxerre !AUX,Bordeaux !BOR,Brest !BRS,Caen !CAE,Dijon !DIJ,Evian !EVI,Lille !LIL,Lorient !LOR,Lyon !OL,Marseille !OM,Montpellier !MHS,Nancy !NAL,Nice !NIC,Paris Saint-Germain !PSG,Rennes !REN,Saint-Étienne !STE,Sochaux !SOC,Toulouse !TFC,Valenciennes !VAL
+fullNames:,,Ajaccio,Auxerre,Bordeaux,Brest,Caen,Dijon,Evian,Lille,Lorient,Lyon,Marseille,Montpellier,Nancy,Nice,Paris Saint-Germain,Rennes,Saint-Étienne,Sochaux,Toulouse,Valenciennes

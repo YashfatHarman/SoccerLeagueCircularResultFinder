@@ -1,0 +1,308 @@
+0 , AD Almería , 4-2 , Athletic Bilbao
+1 , AD Almería , 2-1 , Atlético Madrid
+2 , AD Almería , 1-1 , FC Barcelona
+3 , AD Almería , 1-1 , Betis
+4 , AD Almería , 2-0 , Burgos
+5 , AD Almería , 1-1 , RCD Español
+6 , AD Almería , 2-0 , Hércules CF
+7 , AD Almería , 3-0 , UD Las Palmas
+8 , AD Almería , 3-2 , CD Málaga
+9 , AD Almería , 3-3 , Rayo Vallecano
+10 , AD Almería , 1-1 , Real Madrid
+11 , AD Almería , 0-0 , Real Sociedad
+12 , AD Almería , 2-0 , UD Salamanca
+13 , AD Almería , 2-2 , Sevilla FC
+14 , AD Almería , 0-0 , Sporting de Gijón
+15 , AD Almería , 1-0 , Valencia CF
+16 , AD Almería , 1-0 , Zaragoza
+17 , Athletic Bilbao , 3-0 , AD Almería
+18 , Athletic Bilbao , 2-1 , Atlético Madrid
+19 , Athletic Bilbao , 2-1 , FC Barcelona
+20 , Athletic Bilbao , 2-2 , Betis
+21 , Athletic Bilbao , 1-0 , Burgos
+22 , Athletic Bilbao , 2-0 , RCD Español
+23 , Athletic Bilbao , 2-1 , Hércules CF
+24 , Athletic Bilbao , 3-0 , UD Las Palmas
+25 , Athletic Bilbao , 3-1 , CD Málaga
+26 , Athletic Bilbao , 4-1 , Rayo Vallecano
+27 , Athletic Bilbao , 3-0 , Real Madrid
+28 , Athletic Bilbao , 0-1 , Real Sociedad
+29 , Athletic Bilbao , 2-0 , UD Salamanca
+30 , Athletic Bilbao , 4-3 , Sevilla FC
+31 , Athletic Bilbao , 2-3 , Sporting de Gijón
+32 , Athletic Bilbao , 4-0 , Valencia CF
+33 , Athletic Bilbao , 3-1 , Zaragoza
+34 , Atlético Madrid , 4-1 , AD Almería
+35 , Atlético Madrid , 0-1 , Athletic Bilbao
+36 , Atlético Madrid , 2-1 , FC Barcelona
+37 , Atlético Madrid , 3-1 , Betis
+38 , Atlético Madrid , 1-0 , Burgos
+39 , Atlético Madrid , 1-1 , RCD Español
+40 , Atlético Madrid , 2-1 , Hércules CF
+41 , Atlético Madrid , 0-0 , UD Las Palmas
+42 , Atlético Madrid , 0-0 , CD Málaga
+43 , Atlético Madrid , 2-1 , Rayo Vallecano
+44 , Atlético Madrid , 1-1 , Real Madrid
+45 , Atlético Madrid , 1-1 , Real Sociedad
+46 , Atlético Madrid , 0-1 , UD Salamanca
+47 , Atlético Madrid , 3-2 , Sevilla FC
+48 , Atlético Madrid , 1-3 , Sporting de Gijón
+49 , Atlético Madrid , 0-1 , Valencia CF
+50 , Atlético Madrid , 3-0 , Zaragoza
+51 , FC Barcelona , 2-0 , AD Almería
+52 , FC Barcelona , 1-0 , Athletic Bilbao
+53 , FC Barcelona , 1-0 , Atlético Madrid
+54 , FC Barcelona , 5-0 , Betis
+55 , FC Barcelona , 1-0 , Burgos
+56 , FC Barcelona , 3-1 , RCD Español
+57 , FC Barcelona , 2-0 , Hércules CF
+58 , FC Barcelona , 1-0 , UD Las Palmas
+59 , FC Barcelona , 3-0 , CD Málaga
+60 , FC Barcelona , 2-1 , Rayo Vallecano
+61 , FC Barcelona , 0-2 , Real Madrid
+62 , FC Barcelona , 0-0 , Real Sociedad
+63 , FC Barcelona , 0-0 , UD Salamanca
+64 , FC Barcelona , 0-0 , Sevilla FC
+65 , FC Barcelona , 0-0 , Sporting de Gijón
+66 , FC Barcelona , 2-1 , Valencia CF
+67 , FC Barcelona , 2-0 , Zaragoza
+68 , Betis , 0-0 , AD Almería
+69 , Betis , 0-0 , Athletic Bilbao
+70 , Betis , 0-0 , Atlético Madrid
+71 , Betis , 2-1 , FC Barcelona
+72 , Betis , 3-1 , Burgos
+73 , Betis , 2-0 , RCD Español
+74 , Betis , 2-0 , Hércules CF
+75 , Betis , 3-0 , UD Las Palmas
+76 , Betis , 2-1 , CD Málaga
+77 , Betis , 1-2 , Rayo Vallecano
+78 , Betis , 2-3 , Real Madrid
+79 , Betis , 1-1 , Real Sociedad
+80 , Betis , 2-0 , UD Salamanca
+81 , Betis , 4-0 , Sevilla FC
+82 , Betis , 1-0 , Sporting de Gijón
+83 , Betis , 3-0 , Valencia CF
+84 , Betis , 1-0 , Zaragoza
+85 , Burgos , 2-1 , AD Almería
+86 , Burgos , 1-1 , Athletic Bilbao
+87 , Burgos , 1-1 , Atlético Madrid
+88 , Burgos , 0-0 , FC Barcelona
+89 , Burgos , 1-1 , Betis
+90 , Burgos , 0-0 , RCD Español
+91 , Burgos , 1-1 , Hércules CF
+92 , Burgos , 2-2 , UD Las Palmas
+93 , Burgos , 1-0 , CD Málaga
+94 , Burgos , 1-1 , Rayo Vallecano
+95 , Burgos , 1-2 , Real Madrid
+96 , Burgos , 1-3 , Real Sociedad
+97 , Burgos , 2-0 , UD Salamanca
+98 , Burgos , 1-0 , Sevilla FC
+99 , Burgos , 0-3 , Sporting de Gijón
+100 , Burgos , 1-1 , Valencia CF
+101 , Burgos , 0-1 , Zaragoza
+102 , RCD Español , 5-2 , AD Almería
+103 , RCD Español , 0-0 , Athletic Bilbao
+104 , RCD Español , 0-1 , Atlético Madrid
+105 , RCD Español , 2-0 , FC Barcelona
+106 , RCD Español , 0-0 , Betis
+107 , RCD Español , 1-0 , Burgos
+108 , RCD Español , 0-0 , Hércules CF
+109 , RCD Español , 0-1 , UD Las Palmas
+110 , RCD Español , 1-1 , CD Málaga
+111 , RCD Español , 1-0 , Rayo Vallecano
+112 , RCD Español , 0-0 , Real Madrid
+113 , RCD Español , 1-2 , Real Sociedad
+114 , RCD Español , 1-1 , UD Salamanca
+115 , RCD Español , 1-0 , Sevilla FC
+116 , RCD Español , 1-0 , Sporting de Gijón
+117 , RCD Español , 1-1 , Valencia CF
+118 , RCD Español , 2-0 , Zaragoza
+119 , Hércules CF , 4-0 , AD Almería
+120 , Hércules CF , 2-1 , Athletic Bilbao
+121 , Hércules CF , 2-3 , Atlético Madrid
+122 , Hércules CF , 1-1 , FC Barcelona
+123 , Hércules CF , 1-1 , Betis
+124 , Hércules CF , 3-0 , Burgos
+125 , Hércules CF , 0-1 , RCD Español
+126 , Hércules CF , 1-0 , UD Las Palmas
+127 , Hércules CF , 1-0 , CD Málaga
+128 , Hércules CF , 2-2 , Rayo Vallecano
+129 , Hércules CF , 0-0 , Real Madrid
+130 , Hércules CF , 0-0 , Real Sociedad
+131 , Hércules CF , 4-0 , UD Salamanca
+132 , Hércules CF , 0-1 , Sevilla FC
+133 , Hércules CF , 1-1 , Sporting de Gijón
+134 , Hércules CF , 1-1 , Valencia CF
+135 , Hércules CF , 3-1 , Zaragoza
+136 , UD Las Palmas , 3-2 , AD Almería
+137 , UD Las Palmas , 1-1 , Athletic Bilbao
+138 , UD Las Palmas , 4-2 , Atlético Madrid
+139 , UD Las Palmas , 0-1 , FC Barcelona
+140 , UD Las Palmas , 1-0 , Betis
+141 , UD Las Palmas , 2-1 , Burgos
+142 , UD Las Palmas , 1-0 , RCD Español
+143 , UD Las Palmas , 2-1 , Hércules CF
+144 , UD Las Palmas , 1-1 , CD Málaga
+145 , UD Las Palmas , 3-0 , Rayo Vallecano
+146 , UD Las Palmas , 1-2 , Real Madrid
+147 , UD Las Palmas , 2-2 , Real Sociedad
+148 , UD Las Palmas , 1-0 , UD Salamanca
+149 , UD Las Palmas , 2-0 , Sevilla FC
+150 , UD Las Palmas , 4-2 , Sporting de Gijón
+151 , UD Las Palmas , 2-1 , Valencia CF
+152 , UD Las Palmas , 0-0 , Zaragoza
+153 , CD Málaga , ??-?? , AD Almería
+154 , CD Málaga , 1-0 , Athletic Bilbao
+155 , CD Málaga , 1-0 , Atlético Madrid
+156 , CD Málaga , 0-0 , FC Barcelona
+157 , CD Málaga , 1-0 , Betis
+158 , CD Málaga , 3-1 , Burgos
+159 , CD Málaga , 1-2 , RCD Español
+160 , CD Málaga , 0-2 , Hércules CF
+161 , CD Málaga , 1-0 , UD Las Palmas
+162 , CD Málaga , 1-3 , Rayo Vallecano
+163 , CD Málaga , 1-4 , Real Madrid
+164 , CD Málaga , 0-0 , Real Sociedad
+165 , CD Málaga , ??-?? , UD Salamanca
+166 , CD Málaga , 2-1 , Sevilla FC
+167 , CD Málaga , 0-3 , Sporting de Gijón
+168 , CD Málaga , 2-1 , Valencia CF
+169 , CD Málaga , 1-1 , Zaragoza
+170 , Rayo Vallecano , 1-2 , AD Almería
+171 , Rayo Vallecano , 2-1 , Athletic Bilbao
+172 , Rayo Vallecano , 4-1 , Atlético Madrid
+173 , Rayo Vallecano , 0-0 , FC Barcelona
+174 , Rayo Vallecano , 0-1 , Betis
+175 , Rayo Vallecano , 5-2 , Burgos
+176 , Rayo Vallecano , 2-2 , RCD Español
+177 , Rayo Vallecano , 2-1 , Hércules CF
+178 , Rayo Vallecano , 1-0 , UD Las Palmas
+179 , Rayo Vallecano , 5-1 , CD Málaga
+180 , Rayo Vallecano , 1-2 , Real Madrid
+181 , Rayo Vallecano , 1-1 , Real Sociedad
+182 , Rayo Vallecano , 1-2 , UD Salamanca
+183 , Rayo Vallecano , 1-1 , Sevilla FC
+184 , Rayo Vallecano , 1-2 , Sporting de Gijón
+185 , Rayo Vallecano , 1-0 , Valencia CF
+186 , Rayo Vallecano , 0-1 , Zaragoza
+187 , Real Madrid , 4-1 , AD Almería
+188 , Real Madrid , 3-1 , Athletic Bilbao
+189 , Real Madrid , 4-0 , Atlético Madrid
+190 , Real Madrid , 3-2 , FC Barcelona
+191 , Real Madrid , 1-1 , Betis
+192 , Real Madrid , 2-1 , Burgos
+193 , Real Madrid , 2-0 , RCD Español
+194 , Real Madrid , 5-0 , Hércules CF
+195 , Real Madrid , 3-1 , UD Las Palmas
+196 , Real Madrid , 2-1 , CD Málaga
+197 , Real Madrid , 7-0 , Rayo Vallecano
+198 , Real Madrid , 2-2 , Real Sociedad
+199 , Real Madrid , 2-0 , UD Salamanca
+200 , Real Madrid , 2-0 , Sevilla FC
+201 , Real Madrid , 1-0 , Sporting de Gijón
+202 , Real Madrid , 3-1 , Valencia CF
+203 , Real Madrid , 3-2 , Zaragoza
+204 , Real Sociedad , 1-0 , AD Almería
+205 , Real Sociedad , 4-0 , Athletic Bilbao
+206 , Real Sociedad , 2-0 , Atlético Madrid
+207 , Real Sociedad , 4-3 , FC Barcelona
+208 , Real Sociedad , 0-0 , Betis
+209 , Real Sociedad , 2-2 , Burgos
+210 , Real Sociedad , 1-0 , RCD Español
+211 , Real Sociedad , 1-1 , Hércules CF
+212 , Real Sociedad , 1-0 , UD Las Palmas
+213 , Real Sociedad , 3-1 , CD Málaga
+214 , Real Sociedad , 4-0 , Rayo Vallecano
+215 , Real Sociedad , 4-0 , Real Madrid
+216 , Real Sociedad , 1-0 , UD Salamanca
+217 , Real Sociedad , 2-0 , Sevilla FC
+218 , Real Sociedad , 4-1 , Sporting de Gijón
+219 , Real Sociedad , 0-0 , Valencia CF
+220 , Real Sociedad , 2-1 , Zaragoza
+221 , UD Salamanca , 2-1 , AD Almería
+222 , UD Salamanca , 2-1 , Athletic Bilbao
+223 , UD Salamanca , 1-1 , Atlético Madrid
+224 , UD Salamanca , 1-1 , FC Barcelona
+225 , UD Salamanca , 3-0 , Betis
+226 , UD Salamanca , 1-3 , Burgos
+227 , UD Salamanca , 2-0 , RCD Español
+228 , UD Salamanca , 2-1 , Hércules CF
+229 , UD Salamanca , 2-0 , UD Las Palmas
+230 , UD Salamanca , 3-0 , CD Málaga
+231 , UD Salamanca , 3-0 , Rayo Vallecano
+232 , UD Salamanca , 1-1 , Real Madrid
+233 , UD Salamanca , 0-1 , Real Sociedad
+234 , UD Salamanca , 2-1 , Sevilla FC
+235 , UD Salamanca , 0-1 , Sporting de Gijón
+236 , UD Salamanca , 1-1 , Valencia CF
+237 , UD Salamanca , 0-1 , Zaragoza
+238 , Sevilla FC , 3-1 , AD Almería
+239 , Sevilla FC , 3-1 , Athletic Bilbao
+240 , Sevilla FC , 2-2 , Atlético Madrid
+241 , Sevilla FC , 3-1 , FC Barcelona
+242 , Sevilla FC , 2-1 , Betis
+243 , Sevilla FC , 6-1 , Burgos
+244 , Sevilla FC , 2-1 , RCD Español
+245 , Sevilla FC , 2-1 , Hércules CF
+246 , Sevilla FC , 0-1 , UD Las Palmas
+247 , Sevilla FC , 3-1 , CD Málaga
+248 , Sevilla FC , 1-1 , Rayo Vallecano
+249 , Sevilla FC , 1-1 , Real Madrid
+250 , Sevilla FC , 2-1 , Real Sociedad
+251 , Sevilla FC , 2-0 , UD Salamanca
+252 , Sevilla FC , 1-0 , Sporting de Gijón
+253 , Sevilla FC , 2-1 , Valencia CF
+254 , Sevilla FC , 2-1 , Zaragoza
+255 , Sporting de Gijón , 1-0 , AD Almería
+256 , Sporting de Gijón , 2-0 , Athletic Bilbao
+257 , Sporting de Gijón , 0-0 , Atlético Madrid
+258 , Sporting de Gijón , 4-1 , FC Barcelona
+259 , Sporting de Gijón , 3-1 , Betis
+260 , Sporting de Gijón , 2-0 , Burgos
+261 , Sporting de Gijón , 2-0 , RCD Español
+262 , Sporting de Gijón , 0-0 , Hércules CF
+263 , Sporting de Gijón , 4-1 , UD Las Palmas
+264 , Sporting de Gijón , 0-1 , CD Málaga
+265 , Sporting de Gijón , 1-0 , Rayo Vallecano
+266 , Sporting de Gijón , 1-1 , Real Madrid
+267 , Sporting de Gijón , 0-1 , Real Sociedad
+268 , Sporting de Gijón , 0-0 , UD Salamanca
+269 , Sporting de Gijón , 2-1 , Sevilla FC
+270 , Sporting de Gijón , 4-2 , Valencia CF
+271 , Sporting de Gijón , 1-4 , Zaragoza
+272 , Valencia CF , 1-1 , AD Almería
+273 , Valencia CF , 2-0 , Athletic Bilbao
+274 , Valencia CF , 2-1 , Atlético Madrid
+275 , Valencia CF , 1-1 , FC Barcelona
+276 , Valencia CF , 2-2 , Betis
+277 , Valencia CF , 3-1 , Burgos
+278 , Valencia CF , 5-1 , RCD Español
+279 , Valencia CF , 0-0 , Hércules CF
+280 , Valencia CF , 4-0 , UD Las Palmas
+281 , Valencia CF , 3-1 , CD Málaga
+282 , Valencia CF , 2-1 , Rayo Vallecano
+283 , Valencia CF , 2-0 , Real Madrid
+284 , Valencia CF , 0-0 , Real Sociedad
+285 , Valencia CF , 2-2 , UD Salamanca
+286 , Valencia CF , 2-1 , Sevilla FC
+287 , Valencia CF , 3-1 , Sporting de Gijón
+288 , Valencia CF , 3-0 , Zaragoza
+289 , Zaragoza , 0-0 , AD Almería
+290 , Zaragoza , 1-0 , Athletic Bilbao
+291 , Zaragoza , 0-0 , Atlético Madrid
+292 , Zaragoza , 2-2 , FC Barcelona
+293 , Zaragoza , 5-1 , Betis
+294 , Zaragoza , 5-0 , Burgos
+295 , Zaragoza , 1-1 , RCD Español
+296 , Zaragoza , 1-0 , Hércules CF
+297 , Zaragoza , 4-0 , UD Las Palmas
+298 , Zaragoza , 3-1 , CD Málaga
+299 , Zaragoza , 3-2 , Rayo Vallecano
+300 , Zaragoza , 0-1 , Real Madrid
+301 , Zaragoza , 0-2 , Real Sociedad
+302 , Zaragoza , 1-2 , UD Salamanca
+303 , Zaragoza , 1-0 , Sevilla FC
+304 , Zaragoza , 1-0 , Sporting de Gijón
+305 , Zaragoza , 1-1 , Valencia CF
+shortNames:,,ALM,ATH,ATM,BAR,BET,BUR,ESP,HÉR,LPA,MLG,RAY,RMA,RSO,SAL,SEV,SPG,VAL,ZAR
+fullNames:,,AD Almería,Athletic Bilbao,Atlético Madrid,FC Barcelona,Betis,Burgos,RCD Español,Hércules CF,UD Las Palmas,CD Málaga,Rayo Vallecano,Real Madrid,Real Sociedad,UD Salamanca,Sevilla FC,Sporting de Gijón,Valencia CF,Zaragoza

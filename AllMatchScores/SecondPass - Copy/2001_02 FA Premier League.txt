@@ -1,0 +1,382 @@
+0 , Arsenal , 3-2 , Aston Villa
+1 , Arsenal , 3-3 , Blackburn Rovers
+2 , Arsenal , 1-1 , Bolton Wanderers
+3 , Arsenal , 2-4 , Charlton Athletic
+4 , Arsenal , 2-1 , Chelsea
+5 , Arsenal , 1-0 , Derby County
+6 , Arsenal , 4-3 , Everton
+7 , Arsenal , 4-1 , Fulham
+8 , Arsenal , 2-0 , Ipswich Town
+9 , Arsenal , 1-2 , Leeds United
+10 , Arsenal , 4-0 , Leicester City
+11 , Arsenal , 1-1 , Liverpool
+12 , Arsenal , 3-1 , Manchester United
+13 , Arsenal , 2-1 , Middlesbrough
+14 , Arsenal , 1-3 , Newcastle United
+15 , Arsenal , 1-1 , Southampton
+16 , Arsenal , 3-0 , Sunderland
+17 , Arsenal , 2-1 , Tottenham Hotspur
+18 , Arsenal , 2-0 , West Ham United
+19 , Aston Villa , 1-2 , Arsenal
+20 , Aston Villa , 2-0 , Blackburn Rovers
+21 , Aston Villa , 3-2 , Bolton Wanderers
+22 , Aston Villa , 1-0 , Charlton Athletic
+23 , Aston Villa , 1-1 , Chelsea
+24 , Aston Villa , 2-1 , Derby County
+25 , Aston Villa , 0-0 , Everton
+26 , Aston Villa , 2-0 , Fulham
+27 , Aston Villa , 2-1 , Ipswich Town
+28 , Aston Villa , 0-1 , Leeds United
+29 , Aston Villa , 0-2 , Leicester City
+30 , Aston Villa , 1-2 , Liverpool
+31 , Aston Villa , 1-1 , Manchester United
+32 , Aston Villa , 0-0 , Middlesbrough
+33 , Aston Villa , 1-1 , Newcastle United
+34 , Aston Villa , 2-1 , Southampton
+35 , Aston Villa , 0-0 , Sunderland
+36 , Aston Villa , 1-1 , Tottenham Hotspur
+37 , Aston Villa , 2-1 , West Ham United
+38 , Blackburn Rovers , 2-3 , Arsenal
+39 , Blackburn Rovers , 3-0 , Aston Villa
+40 , Blackburn Rovers , 1-1 , Bolton Wanderers
+41 , Blackburn Rovers , 4-1 , Charlton Athletic
+42 , Blackburn Rovers , 0-0 , Chelsea
+43 , Blackburn Rovers , 0-1 , Derby County
+44 , Blackburn Rovers , 1-0 , Everton
+45 , Blackburn Rovers , 3-0 , Fulham
+46 , Blackburn Rovers , 2-1 , Ipswich Town
+47 , Blackburn Rovers , 1-2 , Leeds United
+48 , Blackburn Rovers , 0-0 , Leicester City
+49 , Blackburn Rovers , 1-1 , Liverpool
+50 , Blackburn Rovers , 2-2 , Manchester United
+51 , Blackburn Rovers , 0-1 , Middlesbrough
+52 , Blackburn Rovers , 2-2 , Newcastle United
+53 , Blackburn Rovers , 2-0 , Southampton
+54 , Blackburn Rovers , 0-3 , Sunderland
+55 , Blackburn Rovers , 2-1 , Tottenham Hotspur
+56 , Blackburn Rovers , 7-1 , West Ham United
+57 , Bolton Wanderers , 0-2 , Arsenal
+58 , Bolton Wanderers , 3-2 , Aston Villa
+59 , Bolton Wanderers , 1-1 , Blackburn Rovers
+60 , Bolton Wanderers , 0-0 , Charlton Athletic
+61 , Bolton Wanderers , 2-2 , Chelsea
+62 , Bolton Wanderers , 1-3 , Derby County
+63 , Bolton Wanderers , 2-2 , Everton
+64 , Bolton Wanderers , 0-0 , Fulham
+65 , Bolton Wanderers , 4-1 , Ipswich Town
+66 , Bolton Wanderers , 0-3 , Leeds United
+67 , Bolton Wanderers , 2-2 , Leicester City
+68 , Bolton Wanderers , 2-1 , Liverpool
+69 , Bolton Wanderers , 0-4 , Manchester United
+70 , Bolton Wanderers , 1-0 , Middlesbrough
+71 , Bolton Wanderers , 0-4 , Newcastle United
+72 , Bolton Wanderers , 0-1 , Southampton
+73 , Bolton Wanderers , 0-2 , Sunderland
+74 , Bolton Wanderers , 1-1 , Tottenham Hotspur
+75 , Bolton Wanderers , 1-0 , West Ham United
+76 , Charlton Athletic , 0-3 , Arsenal
+77 , Charlton Athletic , 1-2 , Aston Villa
+78 , Charlton Athletic , 0-2 , Blackburn Rovers
+79 , Charlton Athletic , 1-2 , Bolton Wanderers
+80 , Charlton Athletic , 2-1 , Chelsea
+81 , Charlton Athletic , 1-0 , Derby County
+82 , Charlton Athletic , 1-2 , Everton
+83 , Charlton Athletic , 1-1 , Fulham
+84 , Charlton Athletic , 3-2 , Ipswich Town
+85 , Charlton Athletic , 0-2 , Leeds United
+86 , Charlton Athletic , 2-0 , Leicester City
+87 , Charlton Athletic , 0-2 , Liverpool
+88 , Charlton Athletic , 0-2 , Manchester United
+89 , Charlton Athletic , 0-0 , Middlesbrough
+90 , Charlton Athletic , 1-1 , Newcastle United
+91 , Charlton Athletic , 1-1 , Southampton
+92 , Charlton Athletic , 2-2 , Sunderland
+93 , Charlton Athletic , 3-1 , Tottenham Hotspur
+94 , Charlton Athletic , 4-4 , West Ham United
+95 , Chelsea , 1-1 , Arsenal
+96 , Chelsea , 1-3 , Aston Villa
+97 , Chelsea , 0-0 , Blackburn Rovers
+98 , Chelsea , 5-1 , Bolton Wanderers
+99 , Chelsea , 0-1 , Charlton Athletic
+100 , Chelsea , 2-1 , Derby County
+101 , Chelsea , 3-0 , Everton
+102 , Chelsea , 3-2 , Fulham
+103 , Chelsea , 2-1 , Ipswich Town
+104 , Chelsea , 2-0 , Leeds United
+105 , Chelsea , 2-0 , Leicester City
+106 , Chelsea , 4-0 , Liverpool
+107 , Chelsea , 0-3 , Manchester United
+108 , Chelsea , 2-2 , Middlesbrough
+109 , Chelsea , 1-1 , Newcastle United
+110 , Chelsea , 2-4 , Southampton
+111 , Chelsea , 4-0 , Sunderland
+112 , Chelsea , 4-0 , Tottenham Hotspur
+113 , Chelsea , 5-1 , West Ham United
+114 , Derby County , 0-2 , Arsenal
+115 , Derby County , 3-1 , Aston Villa
+116 , Derby County , 2-1 , Blackburn Rovers
+117 , Derby County , 1-0 , Bolton Wanderers
+118 , Derby County , 1-1 , Charlton Athletic
+119 , Derby County , 1-1 , Chelsea
+120 , Derby County , 3-4 , Everton
+121 , Derby County , 0-1 , Fulham
+122 , Derby County , 1-3 , Ipswich Town
+123 , Derby County , 0-1 , Leeds United
+124 , Derby County , 2-3 , Leicester City
+125 , Derby County , 0-1 , Liverpool
+126 , Derby County , 2-2 , Manchester United
+127 , Derby County , 0-1 , Middlesbrough
+128 , Derby County , 2-3 , Newcastle United
+129 , Derby County , 1-0 , Southampton
+130 , Derby County , 0-1 , Sunderland
+131 , Derby County , 1-0 , Tottenham Hotspur
+132 , Derby County , 0-0 , West Ham United
+133 , Everton , 0-1 , Arsenal
+134 , Everton , 3-2 , Aston Villa
+135 , Everton , 1-2 , Blackburn Rovers
+136 , Everton , 3-1 , Bolton Wanderers
+137 , Everton , 0-3 , Charlton Athletic
+138 , Everton , 0-0 , Chelsea
+139 , Everton , 1-0 , Derby County
+140 , Everton , 2-1 , Fulham
+141 , Everton , 1-2 , Ipswich Town
+142 , Everton , 0-0 , Leeds United
+143 , Everton , 2-2 , Leicester City
+144 , Everton , 1-3 , Liverpool
+145 , Everton , 0-2 , Manchester United
+146 , Everton , 2-0 , Middlesbrough
+147 , Everton , 1-3 , Newcastle United
+148 , Everton , 2-0 , Southampton
+149 , Everton , 1-0 , Sunderland
+150 , Everton , 1-1 , Tottenham Hotspur
+151 , Everton , 5-0 , West Ham United
+152 , Fulham , 1-3 , Arsenal
+153 , Fulham , 0-0 , Aston Villa
+154 , Fulham , 2-0 , Blackburn Rovers
+155 , Fulham , 3-0 , Bolton Wanderers
+156 , Fulham , 0-0 , Charlton Athletic
+157 , Fulham , 1-1 , Chelsea
+158 , Fulham , 0-0 , Derby County
+159 , Fulham , 2-0 , Everton
+160 , Fulham , 1-1 , Ipswich Town
+161 , Fulham , 0-0 , Leeds United
+162 , Fulham , 0-0 , Leicester City
+163 , Fulham , 0-2 , Liverpool
+164 , Fulham , 2-3 , Manchester United
+165 , Fulham , 2-1 , Middlesbrough
+166 , Fulham , 3-1 , Newcastle United
+167 , Fulham , 2-1 , Southampton
+168 , Fulham , 2-0 , Sunderland
+169 , Fulham , 0-2 , Tottenham Hotspur
+170 , Fulham , 0-1 , West Ham United
+171 , Ipswich Town , 0-2 , Arsenal
+172 , Ipswich Town , 0-0 , Aston Villa
+173 , Ipswich Town , 1-1 , Blackburn Rovers
+174 , Ipswich Town , 1-2 , Bolton Wanderers
+175 , Ipswich Town , 0-1 , Charlton Athletic
+176 , Ipswich Town , 0-0 , Chelsea
+177 , Ipswich Town , 3-1 , Derby County
+178 , Ipswich Town , 0-0 , Everton
+179 , Ipswich Town , 1-0 , Fulham
+180 , Ipswich Town , 1-2 , Leeds United
+181 , Ipswich Town , 2-0 , Leicester City
+182 , Ipswich Town , 0-6 , Liverpool
+183 , Ipswich Town , 0-1 , Manchester United
+184 , Ipswich Town , 1-0 , Middlesbrough
+185 , Ipswich Town , 0-1 , Newcastle United
+186 , Ipswich Town , 1-3 , Southampton
+187 , Ipswich Town , 5-0 , Sunderland
+188 , Ipswich Town , 2-1 , Tottenham Hotspur
+189 , Ipswich Town , 2-3 , West Ham United
+190 , Leeds United , 1-1 , Arsenal
+191 , Leeds United , 1-1 , Aston Villa
+192 , Leeds United , 3-1 , Blackburn Rovers
+193 , Leeds United , 0-0 , Bolton Wanderers
+194 , Leeds United , 0-0 , Charlton Athletic
+195 , Leeds United , 0-0 , Chelsea
+196 , Leeds United , 3-0 , Derby County
+197 , Leeds United , 3-2 , Everton
+198 , Leeds United , 0-1 , Fulham
+199 , Leeds United , 2-0 , Ipswich Town
+200 , Leeds United , 2-2 , Leicester City
+201 , Leeds United , 0-4 , Liverpool
+202 , Leeds United , 3-4 , Manchester United
+203 , Leeds United , 1-0 , Middlesbrough
+204 , Leeds United , 3-4 , Newcastle United
+205 , Leeds United , 2-0 , Southampton
+206 , Leeds United , 2-0 , Sunderland
+207 , Leeds United , 2-1 , Tottenham Hotspur
+208 , Leeds United , 3-0 , West Ham United
+209 , Leicester City , 1-3 , Arsenal
+210 , Leicester City , 2-2 , Aston Villa
+211 , Leicester City , 2-1 , Blackburn Rovers
+212 , Leicester City , 0-5 , Bolton Wanderers
+213 , Leicester City , 1-1 , Charlton Athletic
+214 , Leicester City , 2-3 , Chelsea
+215 , Leicester City , 0-3 , Derby County
+216 , Leicester City , 0-0 , Everton
+217 , Leicester City , 0-0 , Fulham
+218 , Leicester City , 1-1 , Ipswich Town
+219 , Leicester City , 0-2 , Leeds United
+220 , Leicester City , 1-4 , Liverpool
+221 , Leicester City , 0-1 , Manchester United
+222 , Leicester City , 1-2 , Middlesbrough
+223 , Leicester City , 0-0 , Newcastle United
+224 , Leicester City , 0-4 , Southampton
+225 , Leicester City , 1-0 , Sunderland
+226 , Leicester City , 2-1 , Tottenham Hotspur
+227 , Leicester City , 1-1 , West Ham United
+228 , Liverpool , 1-2 , Arsenal
+229 , Liverpool , 1-3 , Aston Villa
+230 , Liverpool , 4-3 , Blackburn Rovers
+231 , Liverpool , 1-1 , Bolton Wanderers
+232 , Liverpool , 2-0 , Charlton Athletic
+233 , Liverpool , 1-0 , Chelsea
+234 , Liverpool , 2-0 , Derby County
+235 , Liverpool , 1-1 , Everton
+236 , Liverpool , 0-0 , Fulham
+237 , Liverpool , 5-0 , Ipswich Town
+238 , Liverpool , 1-1 , Leeds United
+239 , Liverpool , 1-0 , Leicester City
+240 , Liverpool , 3-1 , Manchester United
+241 , Liverpool , 2-0 , Middlesbrough
+242 , Liverpool , 3-0 , Newcastle United
+243 , Liverpool , 1-1 , Southampton
+244 , Liverpool , 1-0 , Sunderland
+245 , Liverpool , 1-0 , Tottenham Hotspur
+246 , Liverpool , 2-1 , West Ham United
+247 , Manchester United , 0-1 , Arsenal
+248 , Manchester United , 1-0 , Aston Villa
+249 , Manchester United , 2-1 , Blackburn Rovers
+250 , Manchester United , 1-2 , Bolton Wanderers
+251 , Manchester United , 0-0 , Charlton Athletic
+252 , Manchester United , 0-3 , Chelsea
+253 , Manchester United , 5-0 , Derby County
+254 , Manchester United , 4-1 , Everton
+255 , Manchester United , 3-2 , Fulham
+256 , Manchester United , 4-0 , Ipswich Town
+257 , Manchester United , 1-1 , Leeds United
+258 , Manchester United , 2-0 , Leicester City
+259 , Manchester United , 0-1 , Liverpool
+260 , Manchester United , 0-1 , Middlesbrough
+261 , Manchester United , 3-1 , Newcastle United
+262 , Manchester United , 6-1 , Southampton
+263 , Manchester United , 4-1 , Sunderland
+264 , Manchester United , 4-0 , Tottenham Hotspur
+265 , Manchester United , 0-1 , West Ham United
+266 , Middlesbrough , 0-4 , Arsenal
+267 , Middlesbrough , 2-1 , Aston Villa
+268 , Middlesbrough , 1-3 , Blackburn Rovers
+269 , Middlesbrough , 1-1 , Bolton Wanderers
+270 , Middlesbrough , 0-0 , Charlton Athletic
+271 , Middlesbrough , 0-2 , Chelsea
+272 , Middlesbrough , 5-1 , Derby County
+273 , Middlesbrough , 1-0 , Everton
+274 , Middlesbrough , 2-1 , Fulham
+275 , Middlesbrough , 0-0 , Ipswich Town
+276 , Middlesbrough , 2-2 , Leeds United
+277 , Middlesbrough , 1-0 , Leicester City
+278 , Middlesbrough , 1-2 , Liverpool
+279 , Middlesbrough , 0-1 , Manchester United
+280 , Middlesbrough , 1-4 , Newcastle United
+281 , Middlesbrough , 1-3 , Southampton
+282 , Middlesbrough , 2-0 , Sunderland
+283 , Middlesbrough , 1-1 , Tottenham Hotspur
+284 , Middlesbrough , 2-0 , West Ham United
+285 , Newcastle United , 0-2 , Arsenal
+286 , Newcastle United , 3-0 , Aston Villa
+287 , Newcastle United , 2-1 , Blackburn Rovers
+288 , Newcastle United , 3-2 , Bolton Wanderers
+289 , Newcastle United , 3-0 , Charlton Athletic
+290 , Newcastle United , 1-2 , Chelsea
+291 , Newcastle United , 1-0 , Derby County
+292 , Newcastle United , 6-2 , Everton
+293 , Newcastle United , 1-1 , Fulham
+294 , Newcastle United , 2-2 , Ipswich Town
+295 , Newcastle United , 3-1 , Leeds United
+296 , Newcastle United , 1-0 , Leicester City
+297 , Newcastle United , 0-2 , Liverpool
+298 , Newcastle United , 4-3 , Manchester United
+299 , Newcastle United , 3-0 , Middlesbrough
+300 , Newcastle United , 3-1 , Southampton
+301 , Newcastle United , 1-1 , Sunderland
+302 , Newcastle United , 0-2 , Tottenham Hotspur
+303 , Newcastle United , 3-1 , West Ham United
+304 , Southampton , 0-2 , Arsenal
+305 , Southampton , 1-3 , Aston Villa
+306 , Southampton , 1-2 , Blackburn Rovers
+307 , Southampton , 0-0 , Bolton Wanderers
+308 , Southampton , 1-0 , Charlton Athletic
+309 , Southampton , 0-2 , Chelsea
+310 , Southampton , 2-0 , Derby County
+311 , Southampton , 0-1 , Everton
+312 , Southampton , 1-1 , Fulham
+313 , Southampton , 3-3 , Ipswich Town
+314 , Southampton , 0-1 , Leeds United
+315 , Southampton , 2-2 , Leicester City
+316 , Southampton , 2-0 , Liverpool
+317 , Southampton , 1-3 , Manchester United
+318 , Southampton , 1-1 , Middlesbrough
+319 , Southampton , 3-1 , Newcastle United
+320 , Southampton , 2-0 , Sunderland
+321 , Southampton , 1-0 , Tottenham Hotspur
+322 , Southampton , 2-0 , West Ham United
+323 , Sunderland , 1-1 , Arsenal
+324 , Sunderland , 1-1 , Aston Villa
+325 , Sunderland , 1-0 , Blackburn Rovers
+326 , Sunderland , 1-0 , Bolton Wanderers
+327 , Sunderland , 2-2 , Charlton Athletic
+328 , Sunderland , 0-0 , Chelsea
+329 , Sunderland , 1-1 , Derby County
+330 , Sunderland , 1-0 , Everton
+331 , Sunderland , 1-1 , Fulham
+332 , Sunderland , 1-0 , Ipswich Town
+333 , Sunderland , 2-0 , Leeds United
+334 , Sunderland , 2-1 , Leicester City
+335 , Sunderland , 0-1 , Liverpool
+336 , Sunderland , 1-3 , Manchester United
+337 , Sunderland , 0-1 , Middlesbrough
+338 , Sunderland , 0-1 , Newcastle United
+339 , Sunderland , 1-1 , Southampton
+340 , Sunderland , 1-2 , Tottenham Hotspur
+341 , Sunderland , 1-0 , West Ham United
+342 , Tottenham Hotspur , 1-1 , Arsenal
+343 , Tottenham Hotspur , 0-0 , Aston Villa
+344 , Tottenham Hotspur , 1-0 , Blackburn Rovers
+345 , Tottenham Hotspur , 3-2 , Bolton Wanderers
+346 , Tottenham Hotspur , 0-1 , Charlton Athletic
+347 , Tottenham Hotspur , 2-3 , Chelsea
+348 , Tottenham Hotspur , 3-1 , Derby County
+349 , Tottenham Hotspur , 1-1 , Everton
+350 , Tottenham Hotspur , 4-0 , Fulham
+351 , Tottenham Hotspur , 1-2 , Ipswich Town
+352 , Tottenham Hotspur , 2-1 , Leeds United
+353 , Tottenham Hotspur , 2-1 , Leicester City
+354 , Tottenham Hotspur , 1-0 , Liverpool
+355 , Tottenham Hotspur , 3-5 , Manchester United
+356 , Tottenham Hotspur , 2-1 , Middlesbrough
+357 , Tottenham Hotspur , 1-3 , Newcastle United
+358 , Tottenham Hotspur , 2-0 , Southampton
+359 , Tottenham Hotspur , 2-1 , Sunderland
+360 , Tottenham Hotspur , 1-1 , West Ham United
+361 , West Ham United , 1-1 , Arsenal
+362 , West Ham United , 1-1 , Aston Villa
+363 , West Ham United , 2-0 , Blackburn Rovers
+364 , West Ham United , 2-1 , Bolton Wanderers
+365 , West Ham United , 2-0 , Charlton Athletic
+366 , West Ham United , 2-1 , Chelsea
+367 , West Ham United , 4-0 , Derby County
+368 , West Ham United , 1-0 , Everton
+369 , West Ham United , 0-2 , Fulham
+370 , West Ham United , 3-1 , Ipswich Town
+371 , West Ham United , 0-0 , Leeds United
+372 , West Ham United , 1-0 , Leicester City
+373 , West Ham United , 1-1 , Liverpool
+374 , West Ham United , 3-5 , Manchester United
+375 , West Ham United , 1-0 , Middlesbrough
+376 , West Ham United , 3-0 , Newcastle United
+377 , West Ham United , 2-0 , Southampton
+378 , West Ham United , 3-0 , Sunderland
+379 , West Ham United , 0-1 , Tottenham Hotspur
+shortNames:,,Home ╲ Away,Arsenal !ARS,Aston Villa !AST,Blackburn Rovers !BLB,Bolton Wanderers !BOL,Charlton Athletic !CHA,Chelsea !CHE,Derby County !DER,Everton !EVE,Fulham !FUL,Ipswich Town !IPS,Leeds United !LEE,Leicester City !LEI,Liverpool !LIV,Manchester United !MUN,Middlesbrough !MID,Newcastle United !NEW,Southampton !SOU,Sunderland !SUN,Tottenham Hotspur !TOT,West Ham United !WHU
+fullNames:,,Arsenal,Aston Villa,Blackburn Rovers,Bolton Wanderers,Charlton Athletic,Chelsea,Derby County,Everton,Fulham,Ipswich Town,Leeds United,Leicester City,Liverpool,Manchester United,Middlesbrough,Newcastle United,Southampton,Sunderland,Tottenham Hotspur,West Ham United

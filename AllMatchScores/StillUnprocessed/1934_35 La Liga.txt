@@ -1,0 +1,134 @@
+0 , Arenas Club de Getxo , 0-1 , Athletic Bilbao
+1 , Arenas Club de Getxo , 3-1 , Athletic Club de Madrid
+2 , Arenas Club de Getxo , 2-2 , FC Barcelona
+3 , Arenas Club de Getxo , 0-3 , Betis Balompié
+4 , Arenas Club de Getxo , 0-1 , Donostia CF
+5 , Arenas Club de Getxo , 0-4 , CE Espanyol
+6 , Arenas Club de Getxo , 1-2 , Madrid CF
+7 , Arenas Club de Getxo , 1-2 , Oviedo CF
+8 , Arenas Club de Getxo , 0-1 , Racing de Santander
+9 , Arenas Club de Getxo , 3-2 , Sevilla FC
+10 , Arenas Club de Getxo , 2-1 , Valencia CF
+11 , Athletic Bilbao , 8-0 , Arenas Club de Getxo
+12 , Athletic Bilbao , 5-2 , Athletic Club de Madrid
+13 , Athletic Bilbao , 3-5 , FC Barcelona
+14 , Athletic Bilbao , 0-0 , Betis Balompié
+15 , Athletic Bilbao , 7-0 , Donostia CF
+16 , Athletic Bilbao , 1-2 , CE Espanyol
+17 , Athletic Bilbao , 4-1 , Madrid CF
+18 , Athletic Bilbao , 4-0 , Oviedo CF
+19 , Athletic Bilbao , 4-2 , Racing de Santander
+20 , Athletic Bilbao , 4-0 , Sevilla FC
+21 , Athletic Bilbao , 4-1 , Valencia CF
+22 , Athletic Club de Madrid , 3-1 , Arenas Club de Getxo
+23 , Athletic Club de Madrid , 2-2 , Athletic Bilbao
+24 , Athletic Club de Madrid , 1-3 , FC Barcelona
+25 , Athletic Club de Madrid , 4-2 , Betis Balompié
+26 , Athletic Club de Madrid , 3-1 , Donostia CF
+27 , Athletic Club de Madrid , 5-2 , CE Espanyol
+28 , Athletic Club de Madrid , 2-2 , Madrid CF
+29 , Athletic Club de Madrid , 3-3 , Oviedo CF
+30 , Athletic Club de Madrid , 3-1 , Racing de Santander
+31 , Athletic Club de Madrid , 1-0 , Sevilla FC
+32 , Athletic Club de Madrid , 5-2 , Valencia CF
+33 , FC Barcelona , 4-0 , Arenas Club de Getxo
+34 , FC Barcelona , 2-2 , Athletic Bilbao
+35 , FC Barcelona , 0-0 , Athletic Club de Madrid
+36 , FC Barcelona , 4-0 , Betis Balompié
+37 , FC Barcelona , 4-0 , Donostia CF
+38 , FC Barcelona , 2-2 , CE Espanyol
+39 , FC Barcelona , 5-0 , Madrid CF
+40 , FC Barcelona , 5-2 , Oviedo CF
+41 , FC Barcelona , 1-1 , Racing de Santander
+42 , FC Barcelona , 2-3 , Sevilla FC
+43 , FC Barcelona , 3-2 , Valencia CF
+44 , Betis Balompié , 0-0 , Arenas Club de Getxo
+45 , Betis Balompié , 1-0 , Athletic Bilbao
+46 , Betis Balompié , 2-0 , Athletic Club de Madrid
+47 , Betis Balompié , 2-1 , FC Barcelona
+48 , Betis Balompié , 1-0 , Donostia CF
+49 , Betis Balompié , 5-0 , CE Espanyol
+50 , Betis Balompié , 1-0 , Madrid CF
+51 , Betis Balompié , 2-1 , Oviedo CF
+52 , Betis Balompié , 3-1 , Racing de Santander
+53 , Betis Balompié , 2-2 , Sevilla FC
+54 , Betis Balompié , 3-0 , Valencia CF
+55 , Donostia CF , 3-2 , Arenas Club de Getxo
+56 , Donostia CF , 0-4 , Athletic Bilbao
+57 , Donostia CF , 4-0 , Athletic Club de Madrid
+58 , Donostia CF , 2-1 , FC Barcelona
+59 , Donostia CF , 2-4 , Betis Balompié
+60 , Donostia CF , 1-4 , CE Espanyol
+61 , Donostia CF , 1-2 , Madrid CF
+62 , Donostia CF , 3-5 , Oviedo CF
+63 , Donostia CF , 2-3 , Racing de Santander
+64 , Donostia CF , 0-0 , Sevilla FC
+65 , Donostia CF , 3-1 , Valencia CF
+66 , CE Espanyol , 2-0 , Arenas Club de Getxo
+67 , CE Espanyol , 1-3 , Athletic Bilbao
+68 , CE Espanyol , 0-2 , Athletic Club de Madrid
+69 , CE Espanyol , 4-1 , FC Barcelona
+70 , CE Espanyol , 1-1 , Betis Balompié
+71 , CE Espanyol , 4-1 , Donostia CF
+72 , CE Espanyol , 2-4 , Madrid CF
+73 , CE Espanyol , 3-2 , Oviedo CF
+74 , CE Espanyol , 4-2 , Racing de Santander
+75 , CE Espanyol , 1-4 , Sevilla FC
+76 , CE Espanyol , 1-2 , Valencia CF
+77 , Madrid CF , 6-1 , Arenas Club de Getxo
+78 , Madrid CF , 5-2 , Athletic Bilbao
+79 , Madrid CF , 2-0 , Athletic Club de Madrid
+80 , Madrid CF , 8-2 , FC Barcelona
+81 , Madrid CF , 0-1 , Betis Balompié
+82 , Madrid CF , 2-0 , Donostia CF
+83 , Madrid CF , 7-2 , CE Espanyol
+84 , Madrid CF , 2-1 , Oviedo CF
+85 , Madrid CF , 3-2 , Racing de Santander
+86 , Madrid CF , 3-1 , Sevilla FC
+87 , Madrid CF , 3-0 , Valencia CF
+88 , Oviedo CF , 4-1 , Arenas Club de Getxo
+89 , Oviedo CF , 3-2 , Athletic Bilbao
+90 , Oviedo CF , 2-1 , Athletic Club de Madrid
+91 , Oviedo CF , 4-3 , FC Barcelona
+92 , Oviedo CF , 0-1 , Betis Balompié
+93 , Oviedo CF , 4-0 , Donostia CF
+94 , Oviedo CF , 8-3 , CE Espanyol
+95 , Oviedo CF , 0-3 , Madrid CF
+96 , Oviedo CF , 3-0 , Racing de Santander
+97 , Oviedo CF , 4-2 , Sevilla FC
+98 , Oviedo CF , 4-4 , Valencia CF
+99 , Racing de Santander , 0-0 , Arenas Club de Getxo
+100 , Racing de Santander , 6-0 , Athletic Bilbao
+101 , Racing de Santander , 2-2 , Athletic Club de Madrid
+102 , Racing de Santander , 2-3 , FC Barcelona
+103 , Racing de Santander , 0-5 , Betis Balompié
+104 , Racing de Santander , 2-1 , Donostia CF
+105 , Racing de Santander , 2-1 , CE Espanyol
+106 , Racing de Santander , 1-2 , Madrid CF
+107 , Racing de Santander , 1-3 , Oviedo CF
+108 , Racing de Santander , 3-2 , Sevilla FC
+109 , Racing de Santander , 5-0 , Valencia CF
+110 , Sevilla FC , 4-0 , Arenas Club de Getxo
+111 , Sevilla FC , 3-0 , Athletic Bilbao
+112 , Sevilla FC , 4-0 , Athletic Club de Madrid
+113 , Sevilla FC , 3-1 , FC Barcelona
+114 , Sevilla FC , 0-3 , Betis Balompié
+115 , Sevilla FC , 7-2 , Donostia CF
+116 , Sevilla FC , 5-1 , CE Espanyol
+117 , Sevilla FC , 1-3 , Madrid CF
+118 , Sevilla FC , 3-1 , Oviedo CF
+119 , Sevilla FC , 2-0 , Racing de Santander
+120 , Sevilla FC , 4-2 , Valencia CF
+121 , Valencia CF , 2-0 , Arenas Club de Getxo
+122 , Valencia CF , 1-0 , Athletic Bilbao
+123 , Valencia CF , 2-0 , Athletic Club de Madrid
+124 , Valencia CF , 1-1 , FC Barcelona
+125 , Valencia CF , 3-1 , Betis Balompié
+126 , Valencia CF , 7-1 , Donostia CF
+127 , Valencia CF , 1-3 , CE Espanyol
+128 , Valencia CF , 4-1 , Madrid CF
+129 , Valencia CF , 0-4 , Oviedo CF
+130 , Valencia CF , 2-0 , Racing de Santander
+131 , Valencia CF , 2-1 , Sevilla FC
+shortNames:,,,Are,Ath,AtM,Bar,Bet,Don,Esp,Mad,Ovi,Rac,Sev,Val
+fullNames:,,Arenas Club de Getxo,Athletic Bilbao,Athletic Club de Madrid,FC Barcelona,Betis Balompié,Donostia CF,CE Espanyol,Madrid CF,Oviedo CF,Racing de Santander,Sevilla FC,Valencia CF

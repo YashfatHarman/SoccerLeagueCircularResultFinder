@@ -1,0 +1,242 @@
+0 , Atlético Bilbao , 1-0 , Atlético Madrid
+1 , Atlético Bilbao , 0-0 , CF Barcelona
+2 , Atlético Bilbao , 3-0 , Córdoba CF
+3 , Atlético Bilbao , 4-0 , Deportivo de La Coruña
+4 , Atlético Bilbao , 2-1 , Elche CF
+5 , Atlético Bilbao , 1-3 , RCD Español
+6 , Atlético Bilbao , 2-1 , Granada CF
+7 , Atlético Bilbao , 0-0 , Hércules CF
+8 , Atlético Bilbao , 3-0 , UD Las Palmas
+9 , Atlético Bilbao , 2-1 , Pontevedra CF
+10 , Atlético Bilbao , 0-0 , Real Madrid
+11 , Atlético Bilbao , 1-1 , CE Sabadell FC
+12 , Atlético Bilbao , 6-0 , Sevilla CF
+13 , Atlético Bilbao , 2-1 , Valencia CF
+14 , Atlético Bilbao , 2-3 , Zaragoza
+15 , Atlético Madrid , 3-1 , Atlético Bilbao
+16 , Atlético Madrid , 0-1 , CF Barcelona
+17 , Atlético Madrid , 2-0 , Córdoba CF
+18 , Atlético Madrid , 4-0 , Deportivo de La Coruña
+19 , Atlético Madrid , 5-2 , Elche CF
+20 , Atlético Madrid , 5-1 , RCD Español
+21 , Atlético Madrid , 2-0 , Granada CF
+22 , Atlético Madrid , 7-2 , Hércules CF
+23 , Atlético Madrid , 2-1 , UD Las Palmas
+24 , Atlético Madrid , 3-1 , Pontevedra CF
+25 , Atlético Madrid , 2-2 , Real Madrid
+26 , Atlético Madrid , 3-0 , CE Sabadell FC
+27 , Atlético Madrid , 3-0 , Sevilla CF
+28 , Atlético Madrid , 1-1 , Valencia CF
+29 , Atlético Madrid , 0-0 , Zaragoza
+30 , CF Barcelona , 3-1 , Atlético Bilbao
+31 , CF Barcelona , 3-2 , Atlético Madrid
+32 , CF Barcelona , 4-1 , Córdoba CF
+33 , CF Barcelona , 5-0 , Deportivo de La Coruña
+34 , CF Barcelona , 3-0 , Elche CF
+35 , CF Barcelona , 3-1 , RCD Español
+36 , CF Barcelona , 3-0 , Granada CF
+37 , CF Barcelona , 4-1 , Hércules CF
+38 , CF Barcelona , 2-1 , UD Las Palmas
+39 , CF Barcelona , 0-1 , Pontevedra CF
+40 , CF Barcelona , 2-1 , Real Madrid
+41 , CF Barcelona , 2-0 , CE Sabadell FC
+42 , CF Barcelona , 5-0 , Sevilla CF
+43 , CF Barcelona , 2-1 , Valencia CF
+44 , CF Barcelona , 2-1 , Zaragoza
+45 , Córdoba CF , 2-0 , Atlético Bilbao
+46 , Córdoba CF , 1-0 , Atlético Madrid
+47 , Córdoba CF , 2-1 , CF Barcelona
+48 , Córdoba CF , 1-0 , Deportivo de La Coruña
+49 , Córdoba CF , 0-0 , Elche CF
+50 , Córdoba CF , 2-0 , RCD Español
+51 , Córdoba CF , 2-2 , Granada CF
+52 , Córdoba CF , 1-1 , Hércules CF
+53 , Córdoba CF , 0-0 , UD Las Palmas
+54 , Córdoba CF , 1-0 , Pontevedra CF
+55 , Córdoba CF , 0-1 , Real Madrid
+56 , Córdoba CF , 3-2 , CE Sabadell FC
+57 , Córdoba CF , 3-0 , Sevilla CF
+58 , Córdoba CF , 2-1 , Valencia CF
+59 , Córdoba CF , 1-1 , Zaragoza
+60 , Deportivo de La Coruña , 1-0 , Atlético Bilbao
+61 , Deportivo de La Coruña , 0-1 , Atlético Madrid
+62 , Deportivo de La Coruña , 0-3 , CF Barcelona
+63 , Deportivo de La Coruña , 2-0 , Córdoba CF
+64 , Deportivo de La Coruña , 1-1 , Elche CF
+65 , Deportivo de La Coruña , 1-1 , RCD Español
+66 , Deportivo de La Coruña , 2-1 , Granada CF
+67 , Deportivo de La Coruña , 1-0 , Hércules CF
+68 , Deportivo de La Coruña , 1-1 , UD Las Palmas
+69 , Deportivo de La Coruña , 1-2 , Pontevedra CF
+70 , Deportivo de La Coruña , 2-3 , Real Madrid
+71 , Deportivo de La Coruña , 0-1 , CE Sabadell FC
+72 , Deportivo de La Coruña , 1-1 , Sevilla CF
+73 , Deportivo de La Coruña , 0-1 , Valencia CF
+74 , Deportivo de La Coruña , 4-1 , Zaragoza
+75 , Elche CF , 1-1 , Atlético Bilbao
+76 , Elche CF , 2-1 , Atlético Madrid
+77 , Elche CF , 4-3 , CF Barcelona
+78 , Elche CF , 0-0 , Córdoba CF
+79 , Elche CF , 1-3 , Deportivo de La Coruña
+80 , Elche CF , 1-1 , RCD Español
+81 , Elche CF , 0-1 , Granada CF
+82 , Elche CF , 4-0 , Hércules CF
+83 , Elche CF , 2-1 , UD Las Palmas
+84 , Elche CF , 3-1 , Pontevedra CF
+85 , Elche CF , 1-1 , Real Madrid
+86 , Elche CF , 3-2 , CE Sabadell FC
+87 , Elche CF , 3-0 , Sevilla CF
+88 , Elche CF , 0-0 , Valencia CF
+89 , Elche CF , 5-1 , Zaragoza
+90 , RCD Español , 2-1 , Atlético Bilbao
+91 , RCD Español , 1-0 , Atlético Madrid
+92 , RCD Español , 2-0 , CF Barcelona
+93 , RCD Español , 2-1 , Córdoba CF
+94 , RCD Español , 3-2 , Deportivo de La Coruña
+95 , RCD Español , 3-0 , Elche CF
+96 , RCD Español , 1-0 , Granada CF
+97 , RCD Español , 4-1 , Hércules CF
+98 , RCD Español , 1-1 , UD Las Palmas
+99 , RCD Español , 2-2 , Pontevedra CF
+100 , RCD Español , 2-3 , Real Madrid
+101 , RCD Español , 4-1 , CE Sabadell FC
+102 , RCD Español , 3-1 , Sevilla CF
+103 , RCD Español , 2-1 , Valencia CF
+104 , RCD Español , 2-1 , Zaragoza
+105 , Granada CF , 1-1 , Atlético Bilbao
+106 , Granada CF , 2-1 , Atlético Madrid
+107 , Granada CF , 1-2 , CF Barcelona
+108 , Granada CF , 1-1 , Córdoba CF
+109 , Granada CF , 1-0 , Deportivo de La Coruña
+110 , Granada CF , 2-1 , Elche CF
+111 , Granada CF , 0-3 , RCD Español
+112 , Granada CF , 2-1 , Hércules CF
+113 , Granada CF , 0-1 , UD Las Palmas
+114 , Granada CF , 1-1 , Pontevedra CF
+115 , Granada CF , 1-1 , Real Madrid
+116 , Granada CF , 2-0 , CE Sabadell FC
+117 , Granada CF , 0-0 , Sevilla CF
+118 , Granada CF , 3-2 , Valencia CF
+119 , Granada CF , 6-2 , Zaragoza
+120 , Hércules CF , 1-2 , Atlético Bilbao
+121 , Hércules CF , 2-4 , Atlético Madrid
+122 , Hércules CF , 1-1 , CF Barcelona
+123 , Hércules CF , 1-1 , Córdoba CF
+124 , Hércules CF , 0-1 , Deportivo de La Coruña
+125 , Hércules CF , 1-3 , Elche CF
+126 , Hércules CF , 3-3 , RCD Español
+127 , Hércules CF , 2-1 , Granada CF
+128 , Hércules CF , 2-1 , UD Las Palmas
+129 , Hércules CF , 1-0 , Pontevedra CF
+130 , Hércules CF , 0-2 , Real Madrid
+131 , Hércules CF , 0-0 , CE Sabadell FC
+132 , Hércules CF , 2-1 , Sevilla CF
+133 , Hércules CF , 4-1 , Valencia CF
+134 , Hércules CF , 1-1 , Zaragoza
+135 , UD Las Palmas , 2-4 , Atlético Bilbao
+136 , UD Las Palmas , 1-0 , Atlético Madrid
+137 , UD Las Palmas , 2-0 , CF Barcelona
+138 , UD Las Palmas , 2-1 , Córdoba CF
+139 , UD Las Palmas , 2-0 , Deportivo de La Coruña
+140 , UD Las Palmas , 3-0 , Elche CF
+141 , UD Las Palmas , 0-0 , RCD Español
+142 , UD Las Palmas , 1-1 , Granada CF
+143 , UD Las Palmas , 0-1 , Hércules CF
+144 , UD Las Palmas , 0-0 , Pontevedra CF
+145 , UD Las Palmas , 1-1 , Real Madrid
+146 , UD Las Palmas , 1-0 , CE Sabadell FC
+147 , UD Las Palmas , 1-2 , Sevilla CF
+148 , UD Las Palmas , 0-0 , Valencia CF
+149 , UD Las Palmas , 2-3 , Zaragoza
+150 , Pontevedra CF , 1-1 , Atlético Bilbao
+151 , Pontevedra CF , 0-0 , Atlético Madrid
+152 , Pontevedra CF , 0-1 , CF Barcelona
+153 , Pontevedra CF , 2-1 , Córdoba CF
+154 , Pontevedra CF , 1-0 , Deportivo de La Coruña
+155 , Pontevedra CF , 1-1 , Elche CF
+156 , Pontevedra CF , 3-0 , RCD Español
+157 , Pontevedra CF , 1-0 , Granada CF
+158 , Pontevedra CF , 2-1 , Hércules CF
+159 , Pontevedra CF , 2-3 , UD Las Palmas
+160 , Pontevedra CF , 0-1 , Real Madrid
+161 , Pontevedra CF , 0-0 , CE Sabadell FC
+162 , Pontevedra CF , 3-0 , Sevilla CF
+163 , Pontevedra CF , 3-0 , Valencia CF
+164 , Pontevedra CF , 0-0 , Zaragoza
+165 , Real Madrid , 4-0 , Atlético Bilbao
+166 , Real Madrid , 2-1 , Atlético Madrid
+167 , Real Madrid , 1-0 , CF Barcelona
+168 , Real Madrid , 3-0 , Córdoba CF
+169 , Real Madrid , 2-0 , Deportivo de La Coruña
+170 , Real Madrid , 4-1 , Elche CF
+171 , Real Madrid , 1-1 , RCD Español
+172 , Real Madrid , 2-0 , Granada CF
+173 , Real Madrid , 2-1 , Hércules CF
+174 , Real Madrid , 1-1 , UD Las Palmas
+175 , Real Madrid , 2-0 , Pontevedra CF
+176 , Real Madrid , 5-0 , CE Sabadell FC
+177 , Real Madrid , 3-0 , Sevilla CF
+178 , Real Madrid , 4-2 , Valencia CF
+179 , Real Madrid , 3-1 , Zaragoza
+180 , CE Sabadell FC , 1-0 , Atlético Bilbao
+181 , CE Sabadell FC , 0-0 , Atlético Madrid
+182 , CE Sabadell FC , 2-0 , CF Barcelona
+183 , CE Sabadell FC , 3-0 , Córdoba CF
+184 , CE Sabadell FC , 3-0 , Deportivo de La Coruña
+185 , CE Sabadell FC , 0-0 , Elche CF
+186 , CE Sabadell FC , 0-1 , RCD Español
+187 , CE Sabadell FC , 1-0 , Granada CF
+188 , CE Sabadell FC , 5-2 , Hércules CF
+189 , CE Sabadell FC , 1-1 , UD Las Palmas
+190 , CE Sabadell FC , 3-0 , Pontevedra CF
+191 , CE Sabadell FC , 1-1 , Real Madrid
+192 , CE Sabadell FC , 1-0 , Sevilla CF
+193 , CE Sabadell FC , 3-0 , Valencia CF
+194 , CE Sabadell FC , 3-2 , Zaragoza
+195 , Sevilla CF , 1-1 , Atlético Bilbao
+196 , Sevilla CF , 1-1 , Atlético Madrid
+197 , Sevilla CF , 0-2 , CF Barcelona
+198 , Sevilla CF , 4-0 , Córdoba CF
+199 , Sevilla CF , 3-0 , Deportivo de La Coruña
+200 , Sevilla CF , 3-1 , Elche CF
+201 , Sevilla CF , 1-0 , RCD Español
+202 , Sevilla CF , 3-1 , Granada CF
+203 , Sevilla CF , 0-0 , Hércules CF
+204 , Sevilla CF , 2-0 , UD Las Palmas
+205 , Sevilla CF , 0-0 , Pontevedra CF
+206 , Sevilla CF , 0-1 , Real Madrid
+207 , Sevilla CF , 0-0 , CE Sabadell FC
+208 , Sevilla CF , 1-0 , Valencia CF
+209 , Sevilla CF , 3-1 , Zaragoza
+210 , Valencia CF , 1-0 , Atlético Bilbao
+211 , Valencia CF , 0-2 , Atlético Madrid
+212 , Valencia CF , 3-0 , CF Barcelona
+213 , Valencia CF , 3-1 , Córdoba CF
+214 , Valencia CF , 5-1 , Deportivo de La Coruña
+215 , Valencia CF , 5-0 , Elche CF
+216 , Valencia CF , 2-1 , RCD Español
+217 , Valencia CF , 3-0 , Granada CF
+218 , Valencia CF , 4-0 , Hércules CF
+219 , Valencia CF , 2-1 , UD Las Palmas
+220 , Valencia CF , 3-0 , Pontevedra CF
+221 , Valencia CF , 0-0 , Real Madrid
+222 , Valencia CF , 6-1 , CE Sabadell FC
+223 , Valencia CF , 3-0 , Sevilla CF
+224 , Valencia CF , 6-0 , Zaragoza
+225 , Zaragoza , 1-1 , Atlético Bilbao
+226 , Zaragoza , 2-2 , Atlético Madrid
+227 , Zaragoza , 0-1 , CF Barcelona
+228 , Zaragoza , 3-0 , Córdoba CF
+229 , Zaragoza , 5-1 , Deportivo de La Coruña
+230 , Zaragoza , 1-0 , Elche CF
+231 , Zaragoza , 2-0 , RCD Español
+232 , Zaragoza , 4-1 , Granada CF
+233 , Zaragoza , 2-0 , Hércules CF
+234 , Zaragoza , 4-1 , UD Las Palmas
+235 , Zaragoza , 1-0 , Pontevedra CF
+236 , Zaragoza , 2-1 , Real Madrid
+237 , Zaragoza , 1-0 , CE Sabadell FC
+238 , Zaragoza , 2-1 , Sevilla CF
+239 , Zaragoza , 3-1 , Valencia CF
+shortNames:,,AtB,AtM,Bar,Cór,Dep,Elc,Esp,Gra,Her,LPa,Pon,RMa,Sab,Sev,Val,Zar
+fullNames:,,Atlético Bilbao,Atlético Madrid,CF Barcelona,Córdoba CF,Deportivo de La Coruña,Elche CF,RCD Español,Granada CF,Hércules CF,UD Las Palmas,Pontevedra CF,Real Madrid,CE Sabadell FC,Sevilla CF,Valencia CF,Zaragoza

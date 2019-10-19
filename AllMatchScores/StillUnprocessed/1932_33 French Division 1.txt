@@ -1,0 +1,184 @@
+0 , Olympique Lillois , 1-2 , Olympique de Marseille
+1 , Olympique Lillois , 4-1 , RC Paris
+2 , Olympique Lillois , 4-2 , FC Sète
+3 , Olympique Lillois , 4-0 , SC Nîmes
+4 , Olympique Lillois , 2-0 , Excelsior AC Roubaix
+5 , Olympique Lillois , 3-0 , OGC Nice
+6 , Olympique Lillois , 5-3 , Club français
+7 , Olympique Lillois , 2-1 , Hyères FC
+8 , Olympique Lillois , 2-0 , FC Mulhouse
+9 , Olympique de Marseille , 7-0 , Olympique Lillois
+10 , Olympique de Marseille , 1-0 , RC Paris
+11 , Olympique de Marseille , 3-1 , FC Sète
+12 , Olympique de Marseille , 2-0 , SC Nîmes
+13 , Olympique de Marseille , 2-2 , Excelsior AC Roubaix
+14 , Olympique de Marseille , 1-0 , OGC Nice
+15 , Olympique de Marseille , 5-1 , Club français
+16 , Olympique de Marseille , 1-2 , Hyères FC
+17 , Olympique de Marseille , 3-1 , FC Mulhouse
+18 , RC Paris , 0-1 , Olympique Lillois
+19 , RC Paris , 3-1 , Olympique de Marseille
+20 , RC Paris , 5-3 , FC Sète
+21 , RC Paris , 3-1 , SC Nîmes
+22 , RC Paris , 2-2 , Excelsior AC Roubaix
+23 , RC Paris , 2-2 , OGC Nice
+24 , RC Paris , 4-1 , Club français
+25 , RC Paris , 2-1 , Hyères FC
+26 , RC Paris , 2-1 , FC Mulhouse
+27 , FC Sète , 1-0 , Olympique Lillois
+28 , FC Sète , 1-1 , Olympique de Marseille
+29 , FC Sète , 3-2 , RC Paris
+30 , FC Sète , 1-1 , SC Nîmes
+31 , FC Sète , 0-2 , Excelsior AC Roubaix
+32 , FC Sète , 1-2 , OGC Nice
+33 , FC Sète , 3-2 , Club français
+34 , FC Sète , 1-0 , Hyères FC
+35 , FC Sète , 1-1 , FC Mulhouse
+36 , SC Nîmes , 0-3 , Olympique Lillois
+37 , SC Nîmes , 1-3 , Olympique de Marseille
+38 , SC Nîmes , 5-1 , RC Paris
+39 , SC Nîmes , 1-3 , FC Sète
+40 , SC Nîmes , 2-0 , Excelsior AC Roubaix
+41 , SC Nîmes , 2-0 , OGC Nice
+42 , SC Nîmes , 3-1 , Club français
+43 , SC Nîmes , 3-0 , Hyères FC
+44 , SC Nîmes , 3-1 , FC Mulhouse
+45 , Excelsior AC Roubaix , 2-1 , Olympique Lillois
+46 , Excelsior AC Roubaix , 2-1 , Olympique de Marseille
+47 , Excelsior AC Roubaix , 1-1 , RC Paris
+48 , Excelsior AC Roubaix , 0-3 , FC Sète
+49 , Excelsior AC Roubaix , 4-4 , SC Nîmes
+50 , Excelsior AC Roubaix , 2-2 , OGC Nice
+51 , Excelsior AC Roubaix , 4-1 , Club français
+52 , Excelsior AC Roubaix , 2-1 , Hyères FC
+53 , Excelsior AC Roubaix , 2-2 , FC Mulhouse
+54 , OGC Nice , 2-3 , Olympique Lillois
+55 , OGC Nice , 1-0 , Olympique de Marseille
+56 , OGC Nice , 0-0 , RC Paris
+57 , OGC Nice , 2-2 , FC Sète
+58 , OGC Nice , 2-3 , SC Nîmes
+59 , OGC Nice , 2-2 , Excelsior AC Roubaix
+60 , OGC Nice , 2-0 , Club français
+61 , OGC Nice , 2-1 , Hyères FC
+62 , OGC Nice , 5-2 , FC Mulhouse
+63 , Club français , 1-3 , Olympique Lillois
+64 , Club français , 6-2 , Olympique de Marseille
+65 , Club français , 5-5 , RC Paris
+66 , Club français , 2-3 , FC Sète
+67 , Club français , 5-2 , SC Nîmes
+68 , Club français , 2-2 , Excelsior AC Roubaix
+69 , Club français , 2-0 , OGC Nice
+70 , Club français , 2-2 , Hyères FC
+71 , Club français , 5-0 , FC Mulhouse
+72 , Hyères FC , 0-1 , Olympique Lillois
+73 , Hyères FC , 1-1 , Olympique de Marseille
+74 , Hyères FC , 1-2 , RC Paris
+75 , Hyères FC , 1-2 , FC Sète
+76 , Hyères FC , 2-2 , SC Nîmes
+77 , Hyères FC , 3-1 , Excelsior AC Roubaix
+78 , Hyères FC , 1-0 , OGC Nice
+79 , Hyères FC , 3-1 , Club français
+80 , Hyères FC , 1-1 , FC Mulhouse
+81 , FC Mulhouse , 1-2 , Olympique Lillois
+82 , FC Mulhouse , 1-4 , Olympique de Marseille
+83 , FC Mulhouse , 3-5 , RC Paris
+84 , FC Mulhouse , 3-1 , FC Sète
+85 , FC Mulhouse , 3-4 , SC Nîmes
+86 , FC Mulhouse , 6-2 , Excelsior AC Roubaix
+87 , FC Mulhouse , 5-2 , OGC Nice
+88 , FC Mulhouse , 2-3 , Club français
+89 , FC Mulhouse , 3-1 , Hyères FC
+shortNames:,,Dom.\Ext.,Lille,Marseille,RC Paris,Sète,Nîmes,Exc,Nice,Club Français,Hyères,Mulhouse
+fullNames:,,Olympique Lillois,Olympique de Marseille,RC Paris,FC Sète,SC Nîmes,Excelsior AC Roubaix,OGC Nice,Club français,Hyères FC,FC Mulhouse
+0 , FC Antibes , 1-0 , AS Cannes
+1 , FC Antibes , 4-1 , FC Sochaux-Montbéliard
+2 , FC Antibes , 0-2 , SO Montpellier
+3 , FC Antibes , 3-0 , CA Paris
+4 , FC Antibes , 3-1 , Stade Rennais UC
+5 , FC Antibes , 5-0 , SC Fives
+6 , FC Antibes , 2-0 , Red Star Olympique
+7 , FC Antibes , 1-1 , FC Metz
+8 , FC Antibes , 0-0 , Olympique Alès
+9 , AS Cannes , 3-0 , FC Antibes
+10 , AS Cannes , 1-1 , FC Sochaux-Montbéliard
+11 , AS Cannes , 3-0 , SO Montpellier
+12 , AS Cannes , 2-2 , CA Paris
+13 , AS Cannes , 3-0 , Stade Rennais UC
+14 , AS Cannes , 5-5 , SC Fives
+15 , AS Cannes , 2-1 , Red Star Olympique
+16 , AS Cannes , 0-1 , FC Metz
+17 , AS Cannes , 2-0 , Olympique Alès
+18 , FC Sochaux-Montbéliard , 1-3 , FC Antibes
+19 , FC Sochaux-Montbéliard , 2-1 , AS Cannes
+20 , FC Sochaux-Montbéliard , 2-3 , SO Montpellier
+21 , FC Sochaux-Montbéliard , 1-3 , CA Paris
+22 , FC Sochaux-Montbéliard , 2-1 , Stade Rennais UC
+23 , FC Sochaux-Montbéliard , 6-4 , SC Fives
+24 , FC Sochaux-Montbéliard , 1-1 , Red Star Olympique
+25 , FC Sochaux-Montbéliard , 5-0 , FC Metz
+26 , FC Sochaux-Montbéliard , 5-2 , Olympique Alès
+27 , SO Montpellier , 2-1 , FC Antibes
+28 , SO Montpellier , 1-2 , AS Cannes
+29 , SO Montpellier , 2-0 , FC Sochaux-Montbéliard
+30 , SO Montpellier , 3-4 , CA Paris
+31 , SO Montpellier , 1-0 , Stade Rennais UC
+32 , SO Montpellier , 4-2 , SC Fives
+33 , SO Montpellier , 1-1 , Red Star Olympique
+34 , SO Montpellier , 7-3 , FC Metz
+35 , SO Montpellier , 2-0 , Olympique Alès
+36 , CA Paris , 2-3 , FC Antibes
+37 , CA Paris , 1-1 , AS Cannes
+38 , CA Paris , 3-5 , FC Sochaux-Montbéliard
+39 , CA Paris , 2-2 , SO Montpellier
+40 , CA Paris , 3-1 , Stade Rennais UC
+41 , CA Paris , 1-2 , SC Fives
+42 , CA Paris , 2-2 , Red Star Olympique
+43 , CA Paris , 2-1 , FC Metz
+44 , CA Paris , 2-1 , Olympique Alès
+45 , Stade Rennais UC , 0-0 , FC Antibes
+46 , Stade Rennais UC , 5-4 , AS Cannes
+47 , Stade Rennais UC , 1-1 , FC Sochaux-Montbéliard
+48 , Stade Rennais UC , 6-1 , SO Montpellier
+49 , Stade Rennais UC , 3-1 , CA Paris
+50 , Stade Rennais UC , 0-1 , SC Fives
+51 , Stade Rennais UC , 3-1 , Red Star Olympique
+52 , Stade Rennais UC , 4-0 , FC Metz
+53 , Stade Rennais UC , 4-0 , Olympique Alès
+54 , SC Fives , 0-5 , FC Antibes
+55 , SC Fives , 1-1 , AS Cannes
+56 , SC Fives , 2-2 , FC Sochaux-Montbéliard
+57 , SC Fives , 2-3 , SO Montpellier
+58 , SC Fives , 0-2 , CA Paris
+59 , SC Fives , 4-4 , Stade Rennais UC
+60 , SC Fives , 3-2 , Red Star Olympique
+61 , SC Fives , 8-1 , FC Metz
+62 , SC Fives , 3-0 , Olympique Alès
+63 , Red Star Olympique , 2-3 , FC Antibes
+64 , Red Star Olympique , 1-1 , AS Cannes
+65 , Red Star Olympique , 0-1 , FC Sochaux-Montbéliard
+66 , Red Star Olympique , 4-0 , SO Montpellier
+67 , Red Star Olympique , 3-4 , CA Paris
+68 , Red Star Olympique , 6-2 , Stade Rennais UC
+69 , Red Star Olympique , 0-1 , SC Fives
+70 , Red Star Olympique , 2-2 , FC Metz
+71 , Red Star Olympique , 5-0 , Olympique Alès
+72 , FC Metz , 3-2 , FC Antibes
+73 , FC Metz , 0-2 , AS Cannes
+74 , FC Metz , 0-3 , FC Sochaux-Montbéliard
+75 , FC Metz , 2-1 , SO Montpellier
+76 , FC Metz , 2-3 , CA Paris
+77 , FC Metz , 1-2 , Stade Rennais UC
+78 , FC Metz , 0-0 , SC Fives
+79 , FC Metz , 1-7 , Red Star Olympique
+80 , FC Metz , 4-0 , Olympique Alès
+81 , Olympique Alès , 3-3 , FC Antibes
+82 , Olympique Alès , 2-4 , AS Cannes
+83 , Olympique Alès , 0-1 , FC Sochaux-Montbéliard
+84 , Olympique Alès , 2-2 , SO Montpellier
+85 , Olympique Alès , 2-1 , CA Paris
+86 , Olympique Alès , 4-4 , Stade Rennais UC
+87 , Olympique Alès , 7-4 , SC Fives
+88 , Olympique Alès , 0-0 , Red Star Olympique
+89 , Olympique Alès , 2-3 , FC Metz
+shortNames:,,Dom.\Ext.,Antibes,Cannes,Sochaux,Montpellier,CA Paris,Rennes,Fives,Red Star,Metz,Alès
+fullNames:,,FC Antibes,AS Cannes,FC Sochaux-Montbéliard,SO Montpellier,CA Paris,Stade Rennais UC,SC Fives,Red Star Olympique,FC Metz,Olympique Alès

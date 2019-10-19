@@ -1,0 +1,22 @@
+FOUND
+And the result is: ['LEV', 'RVA', 'GRA', 'GET', 'LPA', 'RSO', 'EIB', 'SPG', 'DEP', 'RBS', 'MLG', 'CEL', 'VIL', 'ATM', 'SEV', 'BAR', 'RMA', 'ATH', 'ESP', 'VAL']
+LEV 2 - 1 RVA
+RVA 2 - 1 GRA
+GRA 2 - 1 GET
+GET 4 - 0 LPA
+LPA 2 - 0 RSO
+RSO 2 - 1 EIB
+EIB 2 - 0 SPG
+SPG 3 - 2 DEP
+DEP 2 - 1 RBS
+RBS 1 - 0 MLG
+MLG 2 - 0 CEL
+CEL 2 - 1 VIL
+VIL 1 - 0 ATM
+ATM 3 - 0 SEV
+SEV 2 - 1 BAR
+BAR 4 - 0 RMA
+RMA 2 - 1 ATH
+ATH 2 - 1 ESP
+ESP 1 - 0 VAL
+VAL 3 - 0 LEV

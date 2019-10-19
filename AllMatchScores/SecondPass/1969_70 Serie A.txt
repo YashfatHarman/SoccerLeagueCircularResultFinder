@@ -1,0 +1,242 @@
+0 , Bari , 0-2 , Bologna
+1 , Bari , 2-0 , Brescia
+2 , Bari , 0-0 , Cagliari
+3 , Bari , 1-1 , Fiorentina
+4 , Bari , 0-1 , Internazionale
+5 , Bari , 2-1 , Juventus
+6 , Bari , 0-0 , L.R. Vicenza
+7 , Bari , 0-0 , Lazio
+8 , Bari , 0-5 , Milan
+9 , Bari , 0-0 , Napoli
+10 , Bari , 1-0 , Palermo
+11 , Bari , 1-0 , Roma
+12 , Bari , 0-0 , Sampdoria
+13 , Bari , 0-1 , Torino
+14 , Bari , 0-2 , Hellas Verona
+15 , Bologna , 1-1 , Bari
+16 , Bologna , 0-3 , Brescia
+17 , Bologna , 0-0 , Cagliari
+18 , Bologna , 2-2 , Fiorentina
+19 , Bologna , 2-1 , Internazionale
+20 , Bologna , 0-0 , Juventus
+21 , Bologna , 1-1 , L.R. Vicenza
+22 , Bologna , 1-0 , Lazio
+23 , Bologna , 0-1 , Milan
+24 , Bologna , 1-2 , Napoli
+25 , Bologna , 3-1 , Palermo
+26 , Bologna , 1-1 , Roma
+27 , Bologna , 1-1 , Sampdoria
+28 , Bologna , 0-1 , Torino
+29 , Bologna , 0-0 , Hellas Verona
+30 , Brescia , 0-0 , Bari
+31 , Brescia , 1-1 , Bologna
+32 , Brescia , 0-2 , Cagliari
+33 , Brescia , 1-2 , Fiorentina
+34 , Brescia , 1-1 , Internazionale
+35 , Brescia , 0-1 , Juventus
+36 , Brescia , 1-1 , L.R. Vicenza
+37 , Brescia , 0-0 , Lazio
+38 , Brescia , 1-4 , Milan
+39 , Brescia , 1-2 , Napoli
+40 , Brescia , 4-2 , Palermo
+41 , Brescia , 0-1 , Roma
+42 , Brescia , 0-0 , Sampdoria
+43 , Brescia , 0-1 , Torino
+44 , Brescia , 0-0 , Hellas Verona
+45 , Cagliari , 2-0 , Bari
+46 , Cagliari , 1-0 , Bologna
+47 , Cagliari , 4-0 , Brescia
+48 , Cagliari , 0-0 , Fiorentina
+49 , Cagliari , 1-1 , Internazionale
+50 , Cagliari , 1-1 , Juventus
+51 , Cagliari , 2-1 , L.R. Vicenza
+52 , Cagliari , 1-0 , Lazio
+53 , Cagliari , 1-1 , Milan
+54 , Cagliari , 2-0 , Napoli
+55 , Cagliari , 2-0 , Palermo
+56 , Cagliari , 1-0 , Roma
+57 , Cagliari , 4-0 , Sampdoria
+58 , Cagliari , 2-0 , Torino
+59 , Cagliari , 1-0 , Hellas Verona
+60 , Fiorentina , 3-0 , Bari
+61 , Fiorentina , 0-1 , Bologna
+62 , Fiorentina , 0-1 , Brescia
+63 , Fiorentina , 0-1 , Cagliari
+64 , Fiorentina , 2-0 , Internazionale
+65 , Fiorentina , 2-0 , Juventus
+66 , Fiorentina , 2-1 , L.R. Vicenza
+67 , Fiorentina , 2-0 , Lazio
+68 , Fiorentina , 4-2 , Milan
+69 , Fiorentina , 1-2 , Napoli
+70 , Fiorentina , 3-1 , Palermo
+71 , Fiorentina , 2-2 , Roma
+72 , Fiorentina , 1-0 , Sampdoria
+73 , Fiorentina , 0-0 , Torino
+74 , Fiorentina , 1-0 , Hellas Verona
+75 , Internazionale , 1-0 , Bari
+76 , Internazionale , 1-0 , Bologna
+77 , Internazionale , 3-1 , Brescia
+78 , Internazionale , 1-0 , Cagliari
+79 , Internazionale , 3-0 , Fiorentina
+80 , Internazionale , 0-0 , Juventus
+81 , Internazionale , 0-0 , L.R. Vicenza
+82 , Internazionale , 3-0 , Lazio
+83 , Internazionale , 0-0 , Milan
+84 , Internazionale , 1-0 , Napoli
+85 , Internazionale , 2-0 , Palermo
+86 , Internazionale , 2-0 , Roma
+87 , Internazionale , 3-2 , Sampdoria
+88 , Internazionale , 2-0 , Torino
+89 , Internazionale , 0-0 , Hellas Verona
+90 , Juventus , 1-0 , Bari
+91 , Juventus , 1-1 , Bologna
+92 , Juventus , 1-0 , Brescia
+93 , Juventus , 2-2 , Cagliari
+94 , Juventus , 2-0 , Fiorentina
+95 , Juventus , 2-1 , Internazionale
+96 , Juventus , 4-0 , L.R. Vicenza
+97 , Juventus , 2-1 , Lazio
+98 , Juventus , 3-0 , Milan
+99 , Juventus , 0-0 , Napoli
+100 , Juventus , 4-1 , Palermo
+101 , Juventus , 1-1 , Roma
+102 , Juventus , 2-0 , Sampdoria
+103 , Juventus , 1-2 , Torino
+104 , Juventus , 3-0 , Hellas Verona
+105 , L.R. Vicenza , 2-0 , Bari
+106 , L.R. Vicenza , 1-1 , Bologna
+107 , L.R. Vicenza , 0-1 , Brescia
+108 , L.R. Vicenza , 1-2 , Cagliari
+109 , L.R. Vicenza , 1-2 , Fiorentina
+110 , L.R. Vicenza , 1-1 , Internazionale
+111 , L.R. Vicenza , 1-0 , Juventus
+112 , L.R. Vicenza , 2-1 , Lazio
+113 , L.R. Vicenza , 1-0 , Milan
+114 , L.R. Vicenza , 3-2 , Napoli
+115 , L.R. Vicenza , 1-1 , Palermo
+116 , L.R. Vicenza , 3-0 , Roma
+117 , L.R. Vicenza , 2-1 , Sampdoria
+118 , L.R. Vicenza , 1-0 , Torino
+119 , L.R. Vicenza , 3-0 , Hellas Verona
+120 , Lazio , 4-1 , Bari
+121 , Lazio , 1-0 , Bologna
+122 , Lazio , 1-0 , Brescia
+123 , Lazio , 0-2 , Cagliari
+124 , Lazio , 5-1 , Fiorentina
+125 , Lazio , 3-1 , Internazionale
+126 , Lazio , 2-0 , Juventus
+127 , Lazio , 1-0 , L.R. Vicenza
+128 , Lazio , 1-0 , Milan
+129 , Lazio , 0-2 , Napoli
+130 , Lazio , 4-0 , Palermo
+131 , Lazio , 1-1 , Roma
+132 , Lazio , 1-0 , Sampdoria
+133 , Lazio , 1-1 , Torino
+134 , Lazio , 0-1 , Hellas Verona
+135 , Milan , 1-0 , Bari
+136 , Milan , 0-0 , Bologna
+137 , Milan , 1-1 , Brescia
+138 , Milan , 0-0 , Cagliari
+139 , Milan , 4-2 , Fiorentina
+140 , Milan , 0-1 , Internazionale
+141 , Milan , 0-2 , Juventus
+142 , Milan , 1-0 , L.R. Vicenza
+143 , Milan , 3-0 , Lazio
+144 , Milan , 1-0 , Napoli
+145 , Milan , 1-0 , Palermo
+146 , Milan , 2-3 , Roma
+147 , Milan , 0-0 , Sampdoria
+148 , Milan , 3-0 , Torino
+149 , Milan , 2-0 , Hellas Verona
+150 , Napoli , 1-0 , Bari
+151 , Napoli , 0-0 , Bologna
+152 , Napoli , 0-0 , Brescia
+153 , Napoli , 0-2 , Cagliari
+154 , Napoli , 0-1 , Fiorentina
+155 , Napoli , 0-0 , Internazionale
+156 , Napoli , 1-0 , Juventus
+157 , Napoli , 1-0 , L.R. Vicenza
+158 , Napoli , 1-1 , Lazio
+159 , Napoli , 1-1 , Milan
+160 , Napoli , 0-0 , Palermo
+161 , Napoli , 0-0 , Roma
+162 , Napoli , 0-2 , Sampdoria
+163 , Napoli , 4-0 , Torino
+164 , Napoli , 2-1 , Hellas Verona
+165 , Palermo , 0-0 , Bari
+166 , Palermo , 1-0 , Bologna
+167 , Palermo , 1-3 , Brescia
+168 , Palermo , 1-0 , Cagliari
+169 , Palermo , 1-1 , Fiorentina
+170 , Palermo , 1-2 , Internazionale
+171 , Palermo , 1-3 , Juventus
+172 , Palermo , 1-3 , L.R. Vicenza
+173 , Palermo , 1-1 , Lazio
+174 , Palermo , 0-0 , Milan
+175 , Palermo , 0-0 , Napoli
+176 , Palermo , 2-2 , Roma
+177 , Palermo , 3-0 , Sampdoria
+178 , Palermo , 1-0 , Torino
+179 , Palermo , 1-0 , Hellas Verona
+180 , Roma , 1-0 , Bari
+181 , Roma , 1-2 , Bologna
+182 , Roma , 1-0 , Brescia
+183 , Roma , 1-1 , Cagliari
+184 , Roma , 0-1 , Fiorentina
+185 , Roma , 2-1 , Internazionale
+186 , Roma , 0-3 , Juventus
+187 , Roma , 1-0 , L.R. Vicenza
+188 , Roma , 2-1 , Lazio
+189 , Roma , 0-1 , Milan
+190 , Roma , 2-1 , Napoli
+191 , Roma , 1-1 , Palermo
+192 , Roma , 3-3 , Sampdoria
+193 , Roma , 0-0 , Torino
+194 , Roma , 1-1 , Hellas Verona
+195 , Sampdoria , 1-0 , Bari
+196 , Sampdoria , 0-0 , Bologna
+197 , Sampdoria , 2-0 , Brescia
+198 , Sampdoria , 0-0 , Cagliari
+199 , Sampdoria , 1-3 , Fiorentina
+200 , Sampdoria , 0-5 , Internazionale
+201 , Sampdoria , 0-0 , Juventus
+202 , Sampdoria , 0-1 , L.R. Vicenza
+203 , Sampdoria , 0-2 , Lazio
+204 , Sampdoria , 1-1 , Milan
+205 , Sampdoria , 0-0 , Napoli
+206 , Sampdoria , 1-0 , Palermo
+207 , Sampdoria , 2-0 , Roma
+208 , Sampdoria , 1-1 , Torino
+209 , Sampdoria , 2-1 , Hellas Verona
+210 , Torino , 0-1 , Bari
+211 , Torino , 1-1 , Bologna
+212 , Torino , 1-0 , Brescia
+213 , Torino , 0-4 , Cagliari
+214 , Torino , 1-0 , Fiorentina
+215 , Torino , 0-0 , Internazionale
+216 , Torino , 0-3 , Juventus
+217 , Torino , 1-0 , L.R. Vicenza
+218 , Torino , 3-0 , Lazio
+219 , Torino , 0-1 , Milan
+220 , Torino , 0-2 , Napoli
+221 , Torino , 1-1 , Palermo
+222 , Torino , 0-0 , Roma
+223 , Torino , 2-1 , Sampdoria
+224 , Torino , 2-1 , Hellas Verona
+225 , Hellas Verona , 4-1 , Bari
+226 , Hellas Verona , 0-0 , Bologna
+227 , Hellas Verona , 0-0 , Brescia
+228 , Hellas Verona , 1-1 , Cagliari
+229 , Hellas Verona , 0-1 , Fiorentina
+230 , Hellas Verona , 1-3 , Internazionale
+231 , Hellas Verona , 1-0 , Juventus
+232 , Hellas Verona , 3-1 , L.R. Vicenza
+233 , Hellas Verona , 1-1 , Lazio
+234 , Hellas Verona , 2-2 , Milan
+235 , Hellas Verona , 1-0 , Napoli
+236 , Hellas Verona , 2-0 , Palermo
+237 , Hellas Verona , 2-0 , Roma
+238 , Hellas Verona , 1-1 , Sampdoria
+239 , Hellas Verona , 0-1 , Torino
+shortNames:,,Home ╲ Away,Bari !BAR,Bologna !BOL,Brescia !BRE,Cagliari !CAG,Fiorentina !FIO,Internazionale !INT,Juventus !JUV,L.R. Vicenza !LRV,Lazio !LAZ,Milan !MIL,Napoli !NAP,Palermo !PAL,Roma !ROM,Sampdoria !SAM,Torino !TOR,Hellas Verona !HEL
+fullNames:,,Bari,Bologna,Brescia,Cagliari,Fiorentina,Internazionale,Juventus,L.R. Vicenza,Lazio,Milan,Napoli,Palermo,Roma,Sampdoria,Torino,Hellas Verona

@@ -1,0 +1,422 @@
+0 , Alessandria , 0-1 , Atalanta
+1 , Alessandria , 1-0 , Bari
+2 , Alessandria , 0-2 , Bologna
+3 , Alessandria , 1-0 , Fiorentina
+4 , Alessandria , 0-0 , Genoa
+5 , Alessandria , 1-0 , Internazionale
+6 , Alessandria , 1-3 , Juventus
+7 , Alessandria , 2-2 , Lazio
+8 , Alessandria , 1-0 , Livorno
+9 , Alessandria , 4-2 , Lucchese
+10 , Alessandria , 2-2 , Milan
+11 , Alessandria , 0-0 , Modena
+12 , Alessandria , 2-2 , Napoli
+13 , Alessandria , 2-5 , Pro Patria
+14 , Alessandria , 4-0 , Roma
+15 , Alessandria , 3-0 , Salernitana
+16 , Alessandria , 1-1 , Sampdoria
+17 , Alessandria , 2-2 , Torino
+18 , Alessandria , 1-1 , Triestina
+19 , Alessandria , 4-0 , Vicenza
+20 , Atalanta , 0-0 , Alessandria
+21 , Atalanta , 3-1 , Bari
+22 , Atalanta , 1-0 , Bologna
+23 , Atalanta , 1-0 , Fiorentina
+24 , Atalanta , 2-1 , Genoa
+25 , Atalanta , 1-1 , Internazionale
+26 , Atalanta , 0-0 , Juventus
+27 , Atalanta , 5-0 , Lazio
+28 , Atalanta , 3-1 , Livorno
+29 , Atalanta , 5-0 , Lucchese
+30 , Atalanta , 1-0 , Milan
+31 , Atalanta , 2-1 , Modena
+32 , Atalanta , 2-1 , Napoli
+33 , Atalanta , 2-2 , Pro Patria
+34 , Atalanta , 1-1 , Roma
+35 , Atalanta , 0-0 , Salernitana
+36 , Atalanta , 2-0 , Sampdoria
+37 , Atalanta , 1-0 , Torino
+38 , Atalanta , 3-1 , Triestina
+39 , Atalanta , 2-0 , Vicenza
+40 , Bari , 1-0 , Alessandria
+41 , Bari , 3-0 , Atalanta
+42 , Bari , 1-1 , Bologna
+43 , Bari , 1-0 , Fiorentina
+44 , Bari , 0-2 , Genoa
+45 , Bari , 2-1 , Internazionale
+46 , Bari , 2-1 , Juventus
+47 , Bari , 2-1 , Lazio
+48 , Bari , 3-0 , Livorno
+49 , Bari , 1-0 , Lucchese
+50 , Bari , 1-0 , Milan
+51 , Bari , 1-1 , Modena
+52 , Bari , 2-1 , Napoli
+53 , Bari , 1-3 , Pro Patria
+54 , Bari , 2-1 , Roma
+55 , Bari , 0-0 , Salernitana
+56 , Bari , 0-2 , Sampdoria
+57 , Bari , 1-0 , Torino
+58 , Bari , 0-0 , Triestina
+59 , Bari , 1-0 , Vicenza
+60 , Bologna , 3-2 , Alessandria
+61 , Bologna , 3-1 , Atalanta
+62 , Bologna , 0-0 , Bari
+63 , Bologna , 1-0 , Fiorentina
+64 , Bologna , 4-2 , Genoa
+65 , Bologna , 1-0 , Internazionale
+66 , Bologna , 1-1 , Juventus
+67 , Bologna , 0-0 , Lazio
+68 , Bologna , 4-1 , Livorno
+69 , Bologna , 2-2 , Lucchese
+70 , Bologna , 1-0 , Milan
+71 , Bologna , 3-3 , Modena
+72 , Bologna , 0-1 , Napoli
+73 , Bologna , 2-2 , Pro Patria
+74 , Bologna , 2-2 , Roma
+75 , Bologna , 4-0 , Salernitana
+76 , Bologna , 1-0 , Sampdoria
+77 , Bologna , 1-0 , Torino
+78 , Bologna , 0-0 , Triestina
+79 , Bologna , 2-1 , Vicenza
+80 , Fiorentina , 2-1 , Alessandria
+81 , Fiorentina , 2-0 , Atalanta
+82 , Fiorentina , 2-0 , Bari
+83 , Fiorentina , 1-1 , Bologna
+84 , Fiorentina , 4-0 , Genoa
+85 , Fiorentina , 1-0 , Internazionale
+86 , Fiorentina , 2-4 , Juventus
+87 , Fiorentina , 4-1 , Lazio
+88 , Fiorentina , 1-1 , Livorno
+89 , Fiorentina , 2-0 , Lucchese
+90 , Fiorentina , 2-1 , Milan
+91 , Fiorentina , 4-2 , Modena
+92 , Fiorentina , 1-0 , Napoli
+93 , Fiorentina , 1-0 , Pro Patria
+94 , Fiorentina , 1-0 , Roma
+95 , Fiorentina , 1-0 , Salernitana
+96 , Fiorentina , 4-3 , Sampdoria
+97 , Fiorentina , 1-2 , Torino
+98 , Fiorentina , 2-1 , Triestina
+99 , Fiorentina , 1-2 , Vicenza
+100 , Genoa , 3-0 , Alessandria
+101 , Genoa , 1-1 , Atalanta
+102 , Genoa , 2-2 , Bari
+103 , Genoa , 7-2 , Bologna
+104 , Genoa , 1-2 , Fiorentina
+105 , Genoa , 2-1 , Internazionale
+106 , Genoa , 2-3 , Juventus
+107 , Genoa , 3-1 , Lazio
+108 , Genoa , 0-0 , Livorno
+109 , Genoa , 1-1 , Lucchese
+110 , Genoa , 3-1 , Milan
+111 , Genoa , 2-0 , Modena
+112 , Genoa , 3-2 , Napoli
+113 , Genoa , 4-1 , Pro Patria
+114 , Genoa , 2-4 , Roma
+115 , Genoa , 3-1 , Salernitana
+116 , Genoa , 2-1 , Sampdoria
+117 , Genoa , 1-2 , Torino
+118 , Genoa , 2-1 , Triestina
+119 , Genoa , 4-0 , Vicenza
+120 , Internazionale , 6-0 , Alessandria
+121 , Internazionale , 0-3 , Atalanta
+122 , Internazionale , 4-1 , Bari
+123 , Internazionale , 2-1 , Bologna
+124 , Internazionale , 4-1 , Fiorentina
+125 , Internazionale , 1-0 , Genoa
+126 , Internazionale , 4-2 , Juventus
+127 , Internazionale , 1-1 , Lazio
+128 , Internazionale , 1-0 , Livorno
+129 , Internazionale , 6-0 , Lucchese
+130 , Internazionale , 0-2 , Milan
+131 , Internazionale , 1-1 , Modena
+132 , Internazionale , 1-0 , Napoli
+133 , Internazionale , 4-0 , Pro Patria
+134 , Internazionale , 3-2 , Roma
+135 , Internazionale , 2-1 , Salernitana
+136 , Internazionale , 2-4 , Sampdoria
+137 , Internazionale , 0-1 , Torino
+138 , Internazionale , 1-1 , Triestina
+139 , Internazionale , 2-0 , Vicenza
+140 , Juventus , 6-1 , Alessandria
+141 , Juventus , 1-0 , Atalanta
+142 , Juventus , 6-0 , Bari
+143 , Juventus , 0-1 , Bologna
+144 , Juventus , 3-0 , Fiorentina
+145 , Juventus , 2-1 , Genoa
+146 , Juventus , 2-0 , Internazionale
+147 , Juventus , 1-1 , Lazio
+148 , Juventus , 6-1 , Livorno
+149 , Juventus , 1-1 , Lucchese
+150 , Juventus , 2-1 , Milan
+151 , Juventus , 0-1 , Modena
+152 , Juventus , 1-3 , Napoli
+153 , Juventus , 0-4 , Pro Patria
+154 , Juventus , 3-0 , Roma
+155 , Juventus , 2-0 , Salernitana
+156 , Juventus , 4-1 , Sampdoria
+157 , Juventus , 1-1 , Torino
+158 , Juventus , 0-1 , Triestina
+159 , Juventus , 6-0 , Vicenza
+160 , Lazio , 1-0 , Alessandria
+161 , Lazio , 1-1 , Atalanta
+162 , Lazio , 3-3 , Bari
+163 , Lazio , 2-1 , Bologna
+164 , Lazio , 5-0 , Fiorentina
+165 , Lazio , 3-0 , Genoa
+166 , Lazio , 1-0 , Internazionale
+167 , Lazio , 0-0 , Juventus
+168 , Lazio , 4-1 , Livorno
+169 , Lazio , 1-0 , Lucchese
+170 , Lazio , 1-2 , Milan
+171 , Lazio , 1-0 , Modena
+172 , Lazio , 0-0 , Napoli
+173 , Lazio , 1-0 , Pro Patria
+174 , Lazio , 0-1 , Roma
+175 , Lazio , 3-1 , Salernitana
+176 , Lazio , 3-3 , Sampdoria
+177 , Lazio , 0-0 , Torino
+178 , Lazio , 3-1 , Triestina
+179 , Lazio , 2-1 , Vicenza
+180 , Livorno , 1-0 , Alessandria
+181 , Livorno , 2-0 , Atalanta
+182 , Livorno , 1-1 , Bari
+183 , Livorno , 2-0 , Bologna
+184 , Livorno , 2-2 , Fiorentina
+185 , Livorno , 1-1 , Genoa
+186 , Livorno , 3-2 , Internazionale
+187 , Livorno , 0-0 , Juventus
+188 , Livorno , 0-0 , Lazio
+189 , Livorno , 2-0 , Lucchese
+190 , Livorno , 1-1 , Milan
+191 , Livorno , 1-1 , Modena
+192 , Livorno , 1-0 , Napoli
+193 , Livorno , 2-2 , Pro Patria
+194 , Livorno , 2-1 , Roma
+195 , Livorno , 3-0 , Salernitana
+196 , Livorno , 1-1 , Sampdoria
+197 , Livorno , 1-3 , Torino
+198 , Livorno , 2-1 , Triestina
+199 , Livorno , 2-0 , Vicenza
+200 , Lucchese , 2-1 , Alessandria
+201 , Lucchese , 1-1 , Atalanta
+202 , Lucchese , 1-0 , Bari
+203 , Lucchese , 1-0 , Bologna
+204 , Lucchese , 1-0 , Fiorentina
+205 , Lucchese , 0-3 , Genoa
+206 , Lucchese , 1-1 , Internazionale
+207 , Lucchese , 2-2 , Juventus
+208 , Lucchese , 2-1 , Lazio
+209 , Lucchese , 2-2 , Livorno
+210 , Lucchese , 0-0 , Milan
+211 , Lucchese , 2-0 , Modena
+212 , Lucchese , 2-1 , Napoli
+213 , Lucchese , 2-0 , Pro Patria
+214 , Lucchese , 2-2 , Roma
+215 , Lucchese , 1-0 , Salernitana
+216 , Lucchese , 2-1 , Sampdoria
+217 , Lucchese , 2-2 , Torino
+218 , Lucchese , 1-1 , Triestina
+219 , Lucchese , 1-1 , Vicenza
+220 , Milan , 1-3 , Alessandria
+221 , Milan , 1-0 , Atalanta
+222 , Milan , 8-1 , Bari
+223 , Milan , 2-1 , Bologna
+224 , Milan , 2-1 , Fiorentina
+225 , Milan , 2-0 , Genoa
+226 , Milan , 3-2 , Internazionale
+227 , Milan , 5-0 , Juventus
+228 , Milan , 5-2 , Lazio
+229 , Milan , 2-0 , Livorno
+230 , Milan , 1-2 , Lucchese
+231 , Milan , 2-1 , Modena
+232 , Milan , 3-0 , Napoli
+233 , Milan , 4-2 , Pro Patria
+234 , Milan , 2-2 , Roma
+235 , Milan , 2-0 , Salernitana
+236 , Milan , 1-0 , Sampdoria
+237 , Milan , 3-2 , Torino
+238 , Milan , 1-1 , Triestina
+239 , Milan , 3-2 , Vicenza
+240 , Modena , 1-0 , Alessandria
+241 , Modena , 2-0 , Atalanta
+242 , Modena , 2-0 , Bari
+243 , Modena , 1-1 , Bologna
+244 , Modena , 1-1 , Fiorentina
+245 , Modena , 3-2 , Genoa
+246 , Modena , 2-0 , Internazionale
+247 , Modena , 0-1 , Juventus
+248 , Modena , 2-0 , Lazio
+249 , Modena , 3-0 , Livorno
+250 , Modena , 3-0 , Lucchese
+251 , Modena , 1-0 , Milan
+252 , Modena , 1-0 , Napoli
+253 , Modena , 1-0 , Pro Patria
+254 , Modena , 3-0 , Roma
+255 , Modena , 1-0 , Salernitana
+256 , Modena , 1-1 , Sampdoria
+257 , Modena , 0-3 , Torino
+258 , Modena , 0-0 , Triestina
+259 , Modena , 2-0 , Vicenza
+260 , Napoli , 1-2 , Alessandria
+261 , Napoli , 1-1 , Atalanta
+262 , Napoli , 1-0 , Bari
+263 , Napoli , 1-1 , Bologna
+264 , Napoli , 3-0 , Fiorentina
+265 , Napoli , 3-0 , Genoa
+266 , Napoli , 3-0 , Internazionale
+267 , Napoli , 0-0 , Juventus
+268 , Napoli , 0-0 , Lazio
+269 , Napoli , 3-0 , Livorno
+270 , Napoli , 5-0 , Lucchese
+271 , Napoli , 0-2 , Milan
+272 , Napoli , 5-1 , Modena
+273 , Napoli , 1-0 , Pro Patria
+274 , Napoli , 1-2 , Roma
+275 , Napoli , 0-0 , Salernitana
+276 , Napoli , 3-1 , Sampdoria
+277 , Napoli , 0-0 , Torino
+278 , Napoli , 1-0 , Triestina
+279 , Napoli , 1-1 , Vicenza
+280 , Pro Patria , 3-2 , Alessandria
+281 , Pro Patria , 2-0 , Atalanta
+282 , Pro Patria , 2-0 , Bari
+283 , Pro Patria , 1-0 , Bologna
+284 , Pro Patria , 1-0 , Fiorentina
+285 , Pro Patria , 3-2 , Genoa
+286 , Pro Patria , 2-0 , Internazionale
+287 , Pro Patria , 2-3 , Juventus
+288 , Pro Patria , 1-1 , Lazio
+289 , Pro Patria , 2-0 , Livorno
+290 , Pro Patria , 5-1 , Lucchese
+291 , Pro Patria , 2-3 , Milan
+292 , Pro Patria , 0-1 , Modena
+293 , Pro Patria , 3-1 , Napoli
+294 , Pro Patria , 2-2 , Roma
+295 , Pro Patria , 1-0 , Salernitana
+296 , Pro Patria , 1-0 , Sampdoria
+297 , Pro Patria , 0-2 , Torino
+298 , Pro Patria , 3-1 , Triestina
+299 , Pro Patria , 2-0 , Vicenza
+300 , Roma , 4-1 , Alessandria
+301 , Roma , 4-1 , Atalanta
+302 , Roma , 0-0 , Bari
+303 , Roma , 0-2 , Bologna
+304 , Roma , 0-1 , Fiorentina
+305 , Roma , 3-0 , Genoa
+306 , Roma , 2-3 , Internazionale
+307 , Roma , 2-3 , Juventus
+308 , Roma , 0-2 , Lazio
+309 , Roma , 1-0 , Livorno
+310 , Roma , 4-2 , Lucchese
+311 , Roma , 1-4 , Milan
+312 , Roma , 0-0 , Modena
+313 , Roma , 1-0 , Napoli
+314 , Roma , 1-1 , Pro Patria
+315 , Roma , 1-0 , Salernitana
+316 , Roma , 2-0 , Sampdoria
+317 , Roma , 1-7 , Torino
+318 , Roma , 1-3 , Triestina
+319 , Roma , 2-0 , Vicenza
+320 , Salernitana , 1-0 , Alessandria
+321 , Salernitana , 0-0 , Atalanta
+322 , Salernitana , 1-0 , Bari
+323 , Salernitana , 2-0 , Bologna
+324 , Salernitana , 2-0 , Fiorentina
+325 , Salernitana , 4-1 , Genoa
+326 , Salernitana , 1-0 , Internazionale
+327 , Salernitana , 0-0 , Juventus
+328 , Salernitana , 2-0 , Lazio
+329 , Salernitana , 2-4 , Livorno
+330 , Salernitana , 5-2 , Lucchese
+331 , Salernitana , 4-3 , Milan
+332 , Salernitana , 1-0 , Modena
+333 , Salernitana , 3-3 , Napoli
+334 , Salernitana , 5-0 , Pro Patria
+335 , Salernitana , 0-1 , Roma
+336 , Salernitana , 2-1 , Sampdoria
+337 , Salernitana , 1-4 , Torino
+338 , Salernitana , 2-2 , Triestina
+339 , Salernitana , 1-0 , Vicenza
+340 , Sampdoria , 4-0 , Alessandria
+341 , Sampdoria , 1-0 , Atalanta
+342 , Sampdoria , 0-1 , Bari
+343 , Sampdoria , 2-0 , Bologna
+344 , Sampdoria , 0-0 , Fiorentina
+345 , Sampdoria , 1-1 , Genoa
+346 , Sampdoria , 1-4 , Internazionale
+347 , Sampdoria , 5-2 , Juventus
+348 , Sampdoria , 2-1 , Lazio
+349 , Sampdoria , 1-1 , Livorno
+350 , Sampdoria , 4-1 , Lucchese
+351 , Sampdoria , 0-0 , Milan
+352 , Sampdoria , 0-0 , Modena
+353 , Sampdoria , 2-1 , Napoli
+354 , Sampdoria , 5-3 , Pro Patria
+355 , Sampdoria , 2-1 , Roma
+356 , Sampdoria , 6-3 , Salernitana
+357 , Sampdoria , 0-1 , Torino
+358 , Sampdoria , 2-2 , Triestina
+359 , Sampdoria , 6-1 , Vicenza
+360 , Torino , 10-0 , Alessandria
+361 , Torino , 4-0 , Atalanta
+362 , Torino , 5-1 , Bari
+363 , Torino , 5-1 , Bologna
+364 , Torino , 5-0 , Fiorentina
+365 , Torino , 2-1 , Genoa
+366 , Torino , 5-0 , Internazionale
+367 , Torino , 1-1 , Juventus
+368 , Torino , 4-3 , Lazio
+369 , Torino , 5-2 , Livorno
+370 , Torino , 6-0 , Lucchese
+371 , Torino , 2-1 , Milan
+372 , Torino , 5-2 , Modena
+373 , Torino , 4-0 , Napoli
+374 , Torino , 4-1 , Pro Patria
+375 , Torino , 4-1 , Roma
+376 , Torino , 7-1 , Salernitana
+377 , Torino , 3-2 , Sampdoria
+378 , Torino , 6-0 , Triestina
+379 , Torino , 2-0 , Vicenza
+380 , Triestina , 2-1 , Alessandria
+381 , Triestina , 1-1 , Atalanta
+382 , Triestina , 1-1 , Bari
+383 , Triestina , 1-0 , Bologna
+384 , Triestina , 1-0 , Fiorentina
+385 , Triestina , 1-0 , Genoa
+386 , Triestina , 4-3 , Internazionale
+387 , Triestina , 1-0 , Juventus
+388 , Triestina , 2-1 , Lazio
+389 , Triestina , 1-1 , Livorno
+390 , Triestina , 4-1 , Lucchese
+391 , Triestina , 2-0 , Milan
+392 , Triestina , 1-0 , Modena
+393 , Triestina , 1-0 , Napoli
+394 , Triestina , 4-1 , Pro Patria
+395 , Triestina , 2-0 , Roma
+396 , Triestina , 0-0 , Salernitana
+397 , Triestina , 2-0 , Sampdoria
+398 , Triestina , 0-0 , Torino
+399 , Triestina , 1-0 , Vicenza
+400 , Vicenza , 0-3 , Alessandria
+401 , Vicenza , 1-0 , Atalanta
+402 , Vicenza , 3-1 , Bari
+403 , Vicenza , 2-1 , Bologna
+404 , Vicenza , 1-2 , Fiorentina
+405 , Vicenza , 0-3 , Genoa
+406 , Vicenza , 1-4 , Internazionale
+407 , Vicenza , 0-1 , Juventus
+408 , Vicenza , 2-1 , Lazio
+409 , Vicenza , 1-0 , Livorno
+410 , Vicenza , 1-3 , Lucchese
+411 , Vicenza , 0-0 , Milan
+412 , Vicenza , 0-0 , Modena
+413 , Vicenza , 2-1 , Napoli
+414 , Vicenza , 1-0 , Pro Patria
+415 , Vicenza , 1-1 , Roma
+416 , Vicenza , 2-0 , Salernitana
+417 , Vicenza , 3-2 , Sampdoria
+418 , Vicenza , 0-4 , Torino
+419 , Vicenza , 1-1 , Triestina
+shortNames:,,Home ╲ Away,Alessandria !ALE,Atalanta !ATA,Bari !BAR,Bologna !BOL,Fiorentina !FIO,Genoa !GEN,Internazionale !INT,Juventus !JUV,Lazio !LAZ,Livorno !LIV,Lucchese !LUC,Milan !MIL,Modena !MOD,Napoli !NAP,Pro Patria !PPA,Roma !ROM,Salernitana !SAL,Sampdoria !SAM,Torino !TOR,Triestina !TRI,Vicenza !VIC
+fullNames:,,Alessandria,Atalanta,Bari,Bologna,Fiorentina,Genoa,Internazionale,Juventus,Lazio,Livorno,Lucchese,Milan,Modena,Napoli,Pro Patria,Roma,Salernitana,Sampdoria,Torino,Triestina,Vicenza

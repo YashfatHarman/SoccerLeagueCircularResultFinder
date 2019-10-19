@@ -1,0 +1,382 @@
+0 , Auxerre , 2-0 , Bastia
+1 , Auxerre , 2-2 , Bordeaux
+2 , Auxerre , 1-2 , Brest
+3 , Auxerre , 2-0 , Laval
+4 , Auxerre , 3-0 , Le Havre
+5 , Auxerre , 0-0 , Lens
+6 , Auxerre , 2-0 , Lille
+7 , Auxerre , 2-0 , Marseille
+8 , Auxerre , 2-1 , Metz
+9 , Auxerre , 1-0 , AS Monaco
+10 , Auxerre , 3-0 , Nancy
+11 , Auxerre , 0-0 , Nantes
+12 , Auxerre , 1-2 , Nice
+13 , Auxerre , 0-1 , PSG
+14 , Auxerre , 1-0 , Rennes
+15 , Auxerre , 3-2 , Sochaux
+16 , Auxerre , 2-0 , Strasbourg
+17 , Auxerre , 0-0 , Toulon
+18 , Auxerre , 2-1 , Toulouse
+19 , Bastia , 0-0 , Auxerre
+20 , Bastia , 0-2 , Bordeaux
+21 , Bastia , 3-2 , Brest
+22 , Bastia , 0-0 , Laval
+23 , Bastia , 2-1 , Le Havre
+24 , Bastia , 0-1 , Lens
+25 , Bastia , 2-0 , Lille
+26 , Bastia , 0-3 , Marseille
+27 , Bastia , 0-0 , Metz
+28 , Bastia , 0-0 , AS Monaco
+29 , Bastia , 2-2 , Nancy
+30 , Bastia , 2-3 , Nantes
+31 , Bastia , 0-1 , Nice
+32 , Bastia , 2-4 , PSG
+33 , Bastia , 0-2 , Rennes
+34 , Bastia , 0-0 , Sochaux
+35 , Bastia , 2-0 , Strasbourg
+36 , Bastia , 2-1 , Toulon
+37 , Bastia , 0-2 , Toulouse
+38 , Bordeaux , 0-0 , Auxerre
+39 , Bordeaux , 2-2 , Bastia
+40 , Bordeaux , 4-0 , Brest
+41 , Bordeaux , 2-1 , Laval
+42 , Bordeaux , 5-3 , Le Havre
+43 , Bordeaux , 2-1 , Lens
+44 , Bordeaux , 1-1 , Lille
+45 , Bordeaux , 2-1 , Marseille
+46 , Bordeaux , 3-1 , Metz
+47 , Bordeaux , 5-1 , AS Monaco
+48 , Bordeaux , 1-0 , Nancy
+49 , Bordeaux , 2-1 , Nantes
+50 , Bordeaux , 1-0 , Nice
+51 , Bordeaux , 0-0 , PSG
+52 , Bordeaux , 3-2 , Rennes
+53 , Bordeaux , 1-1 , Sochaux
+54 , Bordeaux , 1-0 , Strasbourg
+55 , Bordeaux , 2-1 , Toulon
+56 , Bordeaux , 1-1 , Toulouse
+57 , Brest , 1-3 , Auxerre
+58 , Brest , 7-0 , Bastia
+59 , Brest , 0-1 , Bordeaux
+60 , Brest , 2-1 , Laval
+61 , Brest , 1-1 , Le Havre
+62 , Brest , 2-0 , Lens
+63 , Brest , 1-1 , Lille
+64 , Brest , 2-1 , Marseille
+65 , Brest , 1-1 , Metz
+66 , Brest , 2-1 , AS Monaco
+67 , Brest , 0-2 , Nancy
+68 , Brest , 1-3 , Nantes
+69 , Brest , 1-1 , Nice
+70 , Brest , 1-1 , PSG
+71 , Brest , 2-1 , Rennes
+72 , Brest , 3-1 , Sochaux
+73 , Brest , 2-1 , Strasbourg
+74 , Brest , 2-1 , Toulon
+75 , Brest , 2-2 , Toulouse
+76 , Laval , 0-0 , Auxerre
+77 , Laval , 1-0 , Bastia
+78 , Laval , 0-0 , Bordeaux
+79 , Laval , 0-0 , Brest
+80 , Laval , 2-2 , Le Havre
+81 , Laval , 2-1 , Lens
+82 , Laval , 2-2 , Lille
+83 , Laval , 1-0 , Marseille
+84 , Laval , 1-1 , Metz
+85 , Laval , 0-0 , AS Monaco
+86 , Laval , 2-0 , Nancy
+87 , Laval , 0-0 , Nantes
+88 , Laval , 2-1 , Nice
+89 , Laval , 2-2 , PSG
+90 , Laval , 1-0 , Rennes
+91 , Laval , 3-1 , Sochaux
+92 , Laval , 4-1 , Strasbourg
+93 , Laval , 2-0 , Toulon
+94 , Laval , 3-2 , Toulouse
+95 , Le Havre , 3-3 , Auxerre
+96 , Le Havre , 5-2 , Bastia
+97 , Le Havre , 0-1 , Bordeaux
+98 , Le Havre , 2-0 , Brest
+99 , Le Havre , 1-1 , Laval
+100 , Le Havre , 3-0 , Lens
+101 , Le Havre , 0-0 , Lille
+102 , Le Havre , 1-0 , Marseille
+103 , Le Havre , 0-0 , Metz
+104 , Le Havre , 1-1 , AS Monaco
+105 , Le Havre , 2-0 , Nancy
+106 , Le Havre , 0-1 , Nantes
+107 , Le Havre , 1-2 , Nice
+108 , Le Havre , 1-2 , PSG
+109 , Le Havre , 1-0 , Rennes
+110 , Le Havre , 1-0 , Sochaux
+111 , Le Havre , 4-1 , Strasbourg
+112 , Le Havre , 4-3 , Toulon
+113 , Le Havre , 1-0 , Toulouse
+114 , Lens , 2-1 , Auxerre
+115 , Lens , 6-0 , Bastia
+116 , Lens , 1-0 , Bordeaux
+117 , Lens , 1-0 , Brest
+118 , Lens , 3-1 , Laval
+119 , Lens , 4-1 , Le Havre
+120 , Lens , 1-4 , Lille
+121 , Lens , 2-1 , Marseille
+122 , Lens , 0-0 , Metz
+123 , Lens , 1-1 , AS Monaco
+124 , Lens , 1-0 , Nancy
+125 , Lens , 0-0 , Nantes
+126 , Lens , 2-0 , Nice
+127 , Lens , 2-3 , PSG
+128 , Lens , 0-0 , Rennes
+129 , Lens , 3-1 , Sochaux
+130 , Lens , 0-0 , Strasbourg
+131 , Lens , 1-1 , Toulon
+132 , Lens , 2-0 , Toulouse
+133 , Lille , 0-1 , Auxerre
+134 , Lille , 2-2 , Bastia
+135 , Lille , 1-0 , Bordeaux
+136 , Lille , 3-1 , Brest
+137 , Lille , 1-3 , Laval
+138 , Lille , 0-0 , Le Havre
+139 , Lille , 1-0 , Lens
+140 , Lille , 0-0 , Marseille
+141 , Lille , 1-0 , Metz
+142 , Lille , 2-2 , AS Monaco
+143 , Lille , 3-1 , Nancy
+144 , Lille , 0-0 , Nantes
+145 , Lille , 1-0 , Nice
+146 , Lille , 2-0 , PSG
+147 , Lille , 2-0 , Rennes
+148 , Lille , 2-1 , Sochaux
+149 , Lille , 2-0 , Strasbourg
+150 , Lille , 1-0 , Toulon
+151 , Lille , 2-0 , Toulouse
+152 , Marseille , 2-1 , Auxerre
+153 , Marseille , 0-0 , Bastia
+154 , Marseille , 4-0 , Bordeaux
+155 , Marseille , 3-0 , Brest
+156 , Marseille , 4-0 , Laval
+157 , Marseille , 1-1 , Le Havre
+158 , Marseille , 3-3 , Lens
+159 , Marseille , 1-0 , Lille
+160 , Marseille , 0-0 , Metz
+161 , Marseille , 2-2 , AS Monaco
+162 , Marseille , 2-3 , Nancy
+163 , Marseille , 1-0 , Nantes
+164 , Marseille , 2-1 , Nice
+165 , Marseille , 0-0 , PSG
+166 , Marseille , 1-2 , Rennes
+167 , Marseille , 1-2 , Sochaux
+168 , Marseille , 0-1 , Strasbourg
+169 , Marseille , 2-3 , Toulon
+170 , Marseille , 1-1 , Toulouse
+171 , Metz , 2-0 , Auxerre
+172 , Metz , 3-0 , Bastia
+173 , Metz , 2-3 , Bordeaux
+174 , Metz , 3-1 , Brest
+175 , Metz , 2-1 , Laval
+176 , Metz , 3-0 , Le Havre
+177 , Metz , 2-3 , Lens
+178 , Metz , 4-0 , Lille
+179 , Metz , 3-0 , Marseille
+180 , Metz , 3-2 , AS Monaco
+181 , Metz , 3-1 , Nancy
+182 , Metz , 0-0 , Nantes
+183 , Metz , 3-0 , Nice
+184 , Metz , 3-1 , PSG
+185 , Metz , 4-1 , Rennes
+186 , Metz , 2-0 , Sochaux
+187 , Metz , 0-0 , Strasbourg
+188 , Metz , 0-2 , Toulon
+189 , Metz , 1-1 , Toulouse
+190 , AS Monaco , 1-0 , Auxerre
+191 , AS Monaco , 2-1 , Bastia
+192 , AS Monaco , 9-0 , Bordeaux
+193 , AS Monaco , 3-1 , Brest
+194 , AS Monaco , 1-1 , Laval
+195 , AS Monaco , 2-2 , Le Havre
+196 , AS Monaco , 1-2 , Lens
+197 , AS Monaco , 3-2 , Lille
+198 , AS Monaco , 0-0 , Marseille
+199 , AS Monaco , 0-0 , Metz
+200 , AS Monaco , 1-1 , Nancy
+201 , AS Monaco , 1-1 , Nantes
+202 , AS Monaco , 0-1 , Nice
+203 , AS Monaco , 1-1 , PSG
+204 , AS Monaco , 1-0 , Rennes
+205 , AS Monaco , 1-0 , Sochaux
+206 , AS Monaco , 2-0 , Strasbourg
+207 , AS Monaco , 0-2 , Toulon
+208 , AS Monaco , 3-0 , Toulouse
+209 , Nancy , 1-0 , Auxerre
+210 , Nancy , 4-1 , Bastia
+211 , Nancy , 1-1 , Bordeaux
+212 , Nancy , 2-0 , Brest
+213 , Nancy , 1-0 , Laval
+214 , Nancy , 3-0 , Le Havre
+215 , Nancy , 2-1 , Lens
+216 , Nancy , 3-0 , Lille
+217 , Nancy , 0-2 , Marseille
+218 , Nancy , 0-2 , Metz
+219 , Nancy , 1-1 , AS Monaco
+220 , Nancy , 1-3 , Nantes
+221 , Nancy , 3-0 , Nice
+222 , Nancy , 1-0 , PSG
+223 , Nancy , 0-0 , Rennes
+224 , Nancy , 3-0 , Sochaux
+225 , Nancy , 1-1 , Strasbourg
+226 , Nancy , 5-3 , Toulon
+227 , Nancy , 0-1 , Toulouse
+228 , Nantes , 2-1 , Auxerre
+229 , Nantes , 2-0 , Bastia
+230 , Nantes , 0-0 , Bordeaux
+231 , Nantes , 3-1 , Brest
+232 , Nantes , 1-0 , Laval
+233 , Nantes , 2-1 , Le Havre
+234 , Nantes , 4-0 , Lens
+235 , Nantes , 5-1 , Lille
+236 , Nantes , 0-2 , Marseille
+237 , Nantes , 1-0 , Metz
+238 , Nantes , 1-1 , AS Monaco
+239 , Nantes , 2-0 , Nancy
+240 , Nantes , 1-1 , Nice
+241 , Nantes , 2-0 , PSG
+242 , Nantes , 1-0 , Rennes
+243 , Nantes , 3-2 , Sochaux
+244 , Nantes , 2-0 , Strasbourg
+245 , Nantes , 1-1 , Toulon
+246 , Nantes , 1-0 , Toulouse
+247 , Nice , 1-1 , Auxerre
+248 , Nice , 1-0 , Bastia
+249 , Nice , 1-1 , Bordeaux
+250 , Nice , 2-2 , Brest
+251 , Nice , 0-0 , Laval
+252 , Nice , 0-3 , Le Havre
+253 , Nice , 1-1 , Lens
+254 , Nice , 0-0 , Lille
+255 , Nice , 1-0 , Marseille
+256 , Nice , 2-0 , Metz
+257 , Nice , 1-0 , AS Monaco
+258 , Nice , 3-1 , Nancy
+259 , Nice , 0-0 , Nantes
+260 , Nice , 0-0 , PSG
+261 , Nice , 2-1 , Rennes
+262 , Nice , 2-0 , Sochaux
+263 , Nice , 5-1 , Strasbourg
+264 , Nice , 2-1 , Toulon
+265 , Nice , 3-1 , Toulouse
+266 , PSG , 4-0 , Auxerre
+267 , PSG , 3-1 , Bastia
+268 , PSG , 1-0 , Bordeaux
+269 , PSG , 2-0 , Brest
+270 , PSG , 5-1 , Laval
+271 , PSG , 1-0 , Le Havre
+272 , PSG , 2-2 , Lens
+273 , PSG , 3-0 , Lille
+274 , PSG , 2-0 , Marseille
+275 , PSG , 2-1 , Metz
+276 , PSG , 1-0 , AS Monaco
+277 , PSG , 2-0 , Nancy
+278 , PSG , 2-1 , Nantes
+279 , PSG , 3-2 , Nice
+280 , PSG , 1-0 , Rennes
+281 , PSG , 4-1 , Sochaux
+282 , PSG , 1-1 , Strasbourg
+283 , PSG , 1-0 , Toulon
+284 , PSG , 3-0 , Toulouse
+285 , Rennes , 4-1 , Auxerre
+286 , Rennes , 3-1 , Bastia
+287 , Rennes , 0-0 , Bordeaux
+288 , Rennes , 0-4 , Brest
+289 , Rennes , 1-0 , Laval
+290 , Rennes , 2-1 , Le Havre
+291 , Rennes , 2-0 , Lens
+292 , Rennes , 2-0 , Lille
+293 , Rennes , 1-2 , Marseille
+294 , Rennes , 0-0 , Metz
+295 , Rennes , 0-1 , AS Monaco
+296 , Rennes , 1-0 , Nancy
+297 , Rennes , 0-0 , Nantes
+298 , Rennes , 2-0 , Nice
+299 , Rennes , 2-3 , PSG
+300 , Rennes , 0-0 , Sochaux
+301 , Rennes , 1-1 , Strasbourg
+302 , Rennes , 1-0 , Toulon
+303 , Rennes , 2-1 , Toulouse
+304 , Sochaux , 2-0 , Auxerre
+305 , Sochaux , 2-0 , Bastia
+306 , Sochaux , 2-1 , Bordeaux
+307 , Sochaux , 4-2 , Brest
+308 , Sochaux , 1-0 , Laval
+309 , Sochaux , 1-1 , Le Havre
+310 , Sochaux , 1-3 , Lens
+311 , Sochaux , 3-1 , Lille
+312 , Sochaux , 1-1 , Marseille
+313 , Sochaux , 1-2 , Metz
+314 , Sochaux , 1-1 , AS Monaco
+315 , Sochaux , 1-1 , Nancy
+316 , Sochaux , 1-1 , Nantes
+317 , Sochaux , 2-0 , Nice
+318 , Sochaux , 1-1 , PSG
+319 , Sochaux , 0-0 , Rennes
+320 , Sochaux , 3-1 , Strasbourg
+321 , Sochaux , 1-0 , Toulon
+322 , Sochaux , 4-1 , Toulouse
+323 , Strasbourg , 1-3 , Auxerre
+324 , Strasbourg , 6-1 , Bastia
+325 , Strasbourg , 3-2 , Bordeaux
+326 , Strasbourg , 0-1 , Brest
+327 , Strasbourg , 2-1 , Laval
+328 , Strasbourg , 2-1 , Le Havre
+329 , Strasbourg , 0-0 , Lens
+330 , Strasbourg , 2-1 , Lille
+331 , Strasbourg , 0-0 , Marseille
+332 , Strasbourg , 0-0 , Metz
+333 , Strasbourg , 1-1 , AS Monaco
+334 , Strasbourg , 1-0 , Nancy
+335 , Strasbourg , 1-2 , Nantes
+336 , Strasbourg , 2-0 , Nice
+337 , Strasbourg , 1-0 , PSG
+338 , Strasbourg , 1-1 , Rennes
+339 , Strasbourg , 3-0 , Sochaux
+340 , Strasbourg , 1-1 , Toulon
+341 , Strasbourg , 0-3 , Toulouse
+342 , Toulon , 0-1 , Auxerre
+343 , Toulon , 1-1 , Bastia
+344 , Toulon , 1-1 , Bordeaux
+345 , Toulon , 2-3 , Brest
+346 , Toulon , 3-0 , Laval
+347 , Toulon , 1-0 , Le Havre
+348 , Toulon , 0-0 , Lens
+349 , Toulon , 1-1 , Lille
+350 , Toulon , 0-0 , Marseille
+351 , Toulon , 2-1 , Metz
+352 , Toulon , 1-1 , AS Monaco
+353 , Toulon , 1-0 , Nancy
+354 , Toulon , 0-0 , Nantes
+355 , Toulon , 4-0 , Nice
+356 , Toulon , 1-1 , PSG
+357 , Toulon , 1-1 , Rennes
+358 , Toulon , 2-2 , Sochaux
+359 , Toulon , 1-0 , Strasbourg
+360 , Toulon , 1-1 , Toulouse
+361 , Toulouse , 2-0 , Auxerre
+362 , Toulouse , 3-1 , Bastia
+363 , Toulouse , 1-2 , Bordeaux
+364 , Toulouse , 2-0 , Brest
+365 , Toulouse , 2-0 , Laval
+366 , Toulouse , 1-0 , Le Havre
+367 , Toulouse , 1-1 , Lens
+368 , Toulouse , 1-0 , Lille
+369 , Toulouse , 1-0 , Marseille
+370 , Toulouse , 2-0 , Metz
+371 , Toulouse , 2-1 , AS Monaco
+372 , Toulouse , 4-1 , Nancy
+373 , Toulouse , 4-2 , Nantes
+374 , Toulouse , 0-0 , Nice
+375 , Toulouse , 1-3 , PSG
+376 , Toulouse , 4-1 , Rennes
+377 , Toulouse , 3-0 , Sochaux
+378 , Toulouse , 3-0 , Strasbourg
+379 , Toulouse , 4-0 , Toulon
+shortNames:,,Home\Away,Aux,Bas,Bor,Bre,Lav,LeH,Lens,Lille,Mar,Met,Mon,Nanc,Nant,Nic,PSG,Ren,Soc,Str,Tln,Tls
+fullNames:,,Auxerre,Bastia,Bordeaux,Brest,Laval,Le Havre,Lens,Lille,Marseille,Metz,AS Monaco,Nancy,Nantes,Nice,PSG,Rennes,Sochaux,Strasbourg,Toulon,Toulouse

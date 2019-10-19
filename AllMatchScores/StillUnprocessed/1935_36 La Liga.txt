@@ -1,0 +1,134 @@
+0 , Athletic Bilbao , 3-1 , Athletic Club de Madrid
+1 , Athletic Bilbao , 5-2 , FC Barcelona
+2 , Athletic Bilbao , 7-0 , Betis Balompié
+3 , Athletic Bilbao , 5-2 , CE Espanyol
+4 , Athletic Bilbao , 5-3 , Hércules CF
+5 , Athletic Bilbao , 1-0 , Madrid CF
+6 , Athletic Bilbao , 2-0 , Osasuna
+7 , Athletic Bilbao , 4-2 , Oviedo CF
+8 , Athletic Bilbao , 6-1 , Racing de Santander
+9 , Athletic Bilbao , 4-1 , Sevilla FC
+10 , Athletic Bilbao , 3-2 , Valencia CF
+11 , Athletic Club de Madrid , 1-2 , Athletic Bilbao
+12 , Athletic Club de Madrid , 0-3 , FC Barcelona
+13 , Athletic Club de Madrid , 5-0 , Betis Balompié
+14 , Athletic Club de Madrid , 3-2 , CE Espanyol
+15 , Athletic Club de Madrid , 1-2 , Hércules CF
+16 , Athletic Club de Madrid , 2-3 , Madrid CF
+17 , Athletic Club de Madrid , 2-0 , Osasuna
+18 , Athletic Club de Madrid , 3-0 , Oviedo CF
+19 , Athletic Club de Madrid , 1-0 , Racing de Santander
+20 , Athletic Club de Madrid , 2-3 , Sevilla FC
+21 , Athletic Club de Madrid , 2-2 , Valencia CF
+22 , FC Barcelona , 2-0 , Athletic Bilbao
+23 , FC Barcelona , 5-1 , Athletic Club de Madrid
+24 , FC Barcelona , 1-0 , Betis Balompié
+25 , FC Barcelona , 2-0 , CE Espanyol
+26 , FC Barcelona , 1-0 , Hércules CF
+27 , FC Barcelona , 0-3 , Madrid CF
+28 , FC Barcelona , 5-0 , Osasuna
+29 , FC Barcelona , 5-2 , Oviedo CF
+30 , FC Barcelona , 2-3 , Racing de Santander
+31 , FC Barcelona , 4-1 , Sevilla FC
+32 , FC Barcelona , 0-0 , Valencia CF
+33 , Betis Balompié , 1-2 , Athletic Bilbao
+34 , Betis Balompié , 3-0 , Athletic Club de Madrid
+35 , Betis Balompié , 2-0 , FC Barcelona
+36 , Betis Balompié , 3-0 , CE Espanyol
+37 , Betis Balompié , 1-1 , Hércules CF
+38 , Betis Balompié , 1-1 , Madrid CF
+39 , Betis Balompié , 5-1 , Osasuna
+40 , Betis Balompié , 1-2 , Oviedo CF
+41 , Betis Balompié , 3-1 , Racing de Santander
+42 , Betis Balompié , 1-0 , Sevilla FC
+43 , Betis Balompié , 3-0 , Valencia CF
+44 , CE Espanyol , 2-0 , Athletic Bilbao
+45 , CE Espanyol , 2-3 , Athletic Club de Madrid
+46 , CE Espanyol , 1-0 , FC Barcelona
+47 , CE Espanyol , 3-0 , Betis Balompié
+48 , CE Espanyol , 3-2 , Hércules CF
+49 , CE Espanyol , 3-0 , Madrid CF
+50 , CE Espanyol , 3-0 , Osasuna
+51 , CE Espanyol , 1-5 , Oviedo CF
+52 , CE Espanyol , 1-1 , Racing de Santander
+53 , CE Espanyol , 6-1 , Sevilla FC
+54 , CE Espanyol , 3-2 , Valencia CF
+55 , Hércules CF , 1-0 , Athletic Bilbao
+56 , Hércules CF , 2-1 , Athletic Club de Madrid
+57 , Hércules CF , 2-2 , FC Barcelona
+58 , Hércules CF , 3-0 , Betis Balompié
+59 , Hércules CF , 2-1 , CE Espanyol
+60 , Hércules CF , 0-1 , Madrid CF
+61 , Hércules CF , 1-0 , Osasuna
+62 , Hércules CF , 1-0 , Oviedo CF
+63 , Hércules CF , 4-1 , Racing de Santander
+64 , Hércules CF , 2-1 , Sevilla FC
+65 , Hércules CF , 2-0 , Valencia CF
+66 , Madrid CF , 2-2 , Athletic Bilbao
+67 , Madrid CF , 3-1 , Athletic Club de Madrid
+68 , Madrid CF , 3-0 , FC Barcelona
+69 , Madrid CF , 5-1 , Betis Balompié
+70 , Madrid CF , 6-0 , CE Espanyol
+71 , Madrid CF , 5-1 , Hércules CF
+72 , Madrid CF , 6-2 , Osasuna
+73 , Madrid CF , 5-4 , Oviedo CF
+74 , Madrid CF , 2-4 , Racing de Santander
+75 , Madrid CF , 3-3 , Sevilla FC
+76 , Madrid CF , 4-1 , Valencia CF
+77 , Osasuna , 4-1 , Athletic Bilbao
+78 , Osasuna , 4-0 , Athletic Club de Madrid
+79 , Osasuna , 0-1 , FC Barcelona
+80 , Osasuna , 6-0 , Betis Balompié
+81 , Osasuna , 6-1 , CE Espanyol
+82 , Osasuna , 3-0 , Hércules CF
+83 , Osasuna , 1-4 , Madrid CF
+84 , Osasuna , 4-5 , Oviedo CF
+85 , Osasuna , 3-1 , Racing de Santander
+86 , Osasuna , 6-3 , Sevilla FC
+87 , Osasuna , 2-3 , Valencia CF
+88 , Oviedo CF , 3-3 , Athletic Bilbao
+89 , Oviedo CF , 4-1 , Athletic Club de Madrid
+90 , Oviedo CF , 2-1 , FC Barcelona
+91 , Oviedo CF , 2-3 , Betis Balompié
+92 , Oviedo CF , 5-2 , CE Espanyol
+93 , Oviedo CF , 5-2 , Hércules CF
+94 , Oviedo CF , 1-0 , Madrid CF
+95 , Oviedo CF , 5-2 , Osasuna
+96 , Oviedo CF , 4-2 , Racing de Santander
+97 , Oviedo CF , 0-0 , Sevilla FC
+98 , Oviedo CF , 4-3 , Valencia CF
+99 , Racing de Santander , 2-1 , Athletic Bilbao
+100 , Racing de Santander , 5-2 , Athletic Club de Madrid
+101 , Racing de Santander , 4-0 , FC Barcelona
+102 , Racing de Santander , 5-1 , Betis Balompié
+103 , Racing de Santander , 4-0 , CE Espanyol
+104 , Racing de Santander , 4-2 , Hércules CF
+105 , Racing de Santander , 4-3 , Madrid CF
+106 , Racing de Santander , 3-1 , Osasuna
+107 , Racing de Santander , 2-6 , Oviedo CF
+108 , Racing de Santander , 3-0 , Sevilla FC
+109 , Racing de Santander , 6-2 , Valencia CF
+110 , Sevilla FC , 0-2 , Athletic Bilbao
+111 , Sevilla FC , 1-1 , Athletic Club de Madrid
+112 , Sevilla FC , 2-1 , FC Barcelona
+113 , Sevilla FC , 1-0 , Betis Balompié
+114 , Sevilla FC , 2-0 , CE Espanyol
+115 , Sevilla FC , 1-2 , Hércules CF
+116 , Sevilla FC , 2-1 , Madrid CF
+117 , Sevilla FC , 2-0 , Osasuna
+118 , Sevilla FC , 1-1 , Oviedo CF
+119 , Sevilla FC , 1-2 , Racing de Santander
+120 , Sevilla FC , 1-2 , Valencia CF
+121 , Valencia CF , 1-1 , Athletic Bilbao
+122 , Valencia CF , 1-1 , Athletic Club de Madrid
+123 , Valencia CF , 1-2 , FC Barcelona
+124 , Valencia CF , 0-2 , Betis Balompié
+125 , Valencia CF , 1-0 , CE Espanyol
+126 , Valencia CF , 5-2 , Hércules CF
+127 , Valencia CF , 1-2 , Madrid CF
+128 , Valencia CF , 2-1 , Osasuna
+129 , Valencia CF , 1-1 , Oviedo CF
+130 , Valencia CF , 1-0 , Racing de Santander
+131 , Valencia CF , 5-0 , Sevilla FC
+shortNames:,,Ath,AtM,Bar,Bet,Esp,Hér,Mad,Osa,Ovi,Rac,Sev,Val
+fullNames:,,Athletic Bilbao,Athletic Club de Madrid,FC Barcelona,Betis Balompié,CE Espanyol,Hércules CF,Madrid CF,Osasuna,Oviedo CF,Racing de Santander,Sevilla FC,Valencia CF

@@ -1,0 +1,308 @@
+0 , Atalanta , 2-0 , Bologna
+1 , Atalanta , 1-1 , Como
+2 , Atalanta , 1-2 , Fiorentina
+3 , Atalanta , 0-1 , Internazionale
+4 , Atalanta , 1-5 , Juventus
+5 , Atalanta , 0-0 , Lazio
+6 , Atalanta , 1-1 , Milan
+7 , Atalanta , 1-1 , Napoli
+8 , Atalanta , 1-0 , Novara
+9 , Atalanta , 0-0 , Palermo
+10 , Atalanta , 3-2 , Pro Patria
+11 , Atalanta , 1-5 , Roma
+12 , Atalanta , 4-0 , Sampdoria
+13 , Atalanta , 0-1 , SPAL
+14 , Atalanta , 1-3 , Torino
+15 , Atalanta , 5-2 , Triestina
+16 , Atalanta , 5-0 , Udinese
+17 , Bologna , 3-1 , Atalanta
+18 , Bologna , 1-0 , Como
+19 , Bologna , 2-1 , Fiorentina
+20 , Bologna , 2-0 , Internazionale
+21 , Bologna , 1-0 , Juventus
+22 , Bologna , 1-1 , Lazio
+23 , Bologna , 2-0 , Milan
+24 , Bologna , 1-3 , Napoli
+25 , Bologna , 1-0 , Novara
+26 , Bologna , 5-2 , Palermo
+27 , Bologna , 4-1 , Pro Patria
+28 , Bologna , 0-1 , Roma
+29 , Bologna , 2-0 , Sampdoria
+30 , Bologna , 2-1 , SPAL
+31 , Bologna , 2-2 , Torino
+32 , Bologna , 0-1 , Triestina
+33 , Bologna , 3-1 , Udinese
+34 , Como , 2-1 , Atalanta
+35 , Como , 1-0 , Bologna
+36 , Como , 2-1 , Fiorentina
+37 , Como , 0-1 , Internazionale
+38 , Como , 0-1 , Juventus
+39 , Como , 0-1 , Lazio
+40 , Como , 3-1 , Milan
+41 , Como , 2-1 , Napoli
+42 , Como , 0-0 , Novara
+43 , Como , 3-1 , Palermo
+44 , Como , 4-1 , Pro Patria
+45 , Como , 2-1 , Roma
+46 , Como , 1-0 , Sampdoria
+47 , Como , 1-0 , SPAL
+48 , Como , 0-1 , Torino
+49 , Como , 2-0 , Triestina
+50 , Como , 0-0 , Udinese
+51 , Fiorentina , 1-1 , Atalanta
+52 , Fiorentina , 1-1 , Bologna
+53 , Fiorentina , 2-0 , Como
+54 , Fiorentina , 1-0 , Internazionale
+55 , Fiorentina , 1-2 , Juventus
+56 , Fiorentina , 0-0 , Lazio
+57 , Fiorentina , 0-3 , Milan
+58 , Fiorentina , 2-1 , Napoli
+59 , Fiorentina , 1-0 , Novara
+60 , Fiorentina , 0-2 , Palermo
+61 , Fiorentina , 2-2 , Pro Patria
+62 , Fiorentina , 2-0 , Roma
+63 , Fiorentina , 2-2 , Sampdoria
+64 , Fiorentina , 1-1 , SPAL
+65 , Fiorentina , 0-2 , Torino
+66 , Fiorentina , 2-0 , Triestina
+67 , Fiorentina , 1-0 , Udinese
+68 , Internazionale , 1-0 , Atalanta
+69 , Internazionale , 2-1 , Bologna
+70 , Internazionale , 3-1 , Como
+71 , Internazionale , 3-0 , Fiorentina
+72 , Internazionale , 2-0 , Juventus
+73 , Internazionale , 1-1 , Lazio
+74 , Internazionale , 0-0 , Milan
+75 , Internazionale , 5-1 , Napoli
+76 , Internazionale , 0-1 , Novara
+77 , Internazionale , 3-0 , Palermo
+78 , Internazionale , 2-1 , Pro Patria
+79 , Internazionale , 1-0 , Roma
+80 , Internazionale , 2-1 , Sampdoria
+81 , Internazionale , 1-1 , SPAL
+82 , Internazionale , 1-3 , Torino
+83 , Internazionale , 1-0 , Triestina
+84 , Internazionale , 0-0 , Udinese
+85 , Juventus , 1-1 , Atalanta
+86 , Juventus , 1-2 , Bologna
+87 , Juventus , 2-1 , Como
+88 , Juventus , 8-0 , Fiorentina
+89 , Juventus , 2-1 , Internazionale
+90 , Juventus , 5-0 , Lazio
+91 , Juventus , 0-3 , Milan
+92 , Juventus , 1-1 , Napoli
+93 , Juventus , 1-1 , Novara
+94 , Juventus , 2-1 , Palermo
+95 , Juventus , 2-0 , Pro Patria
+96 , Juventus , 3-2 , Roma
+97 , Juventus , 3-0 , Sampdoria
+98 , Juventus , 2-2 , SPAL
+99 , Juventus , 4-1 , Torino
+100 , Juventus , 3-2 , Triestina
+101 , Juventus , 4-0 , Udinese
+102 , Lazio , 0-2 , Atalanta
+103 , Lazio , 1-2 , Bologna
+104 , Lazio , 2-0 , Como
+105 , Lazio , 0-1 , Fiorentina
+106 , Lazio , 1-1 , Internazionale
+107 , Lazio , 0-1 , Juventus
+108 , Lazio , 0-0 , Milan
+109 , Lazio , 2-1 , Napoli
+110 , Lazio , 1-3 , Novara
+111 , Lazio , 2-0 , Palermo
+112 , Lazio , 3-1 , Pro Patria
+113 , Lazio , 1-0 , Roma
+114 , Lazio , 0-1 , Sampdoria
+115 , Lazio , 3-1 , SPAL
+116 , Lazio , 2-1 , Torino
+117 , Lazio , 4-1 , Triestina
+118 , Lazio , 1-2 , Udinese
+119 , Milan , 5-1 , Atalanta
+120 , Milan , 1-1 , Bologna
+121 , Milan , 4-2 , Como
+122 , Milan , 2-1 , Fiorentina
+123 , Milan , 0-1 , Internazionale
+124 , Milan , 1-2 , Juventus
+125 , Milan , 3-1 , Lazio
+126 , Milan , 2-2 , Napoli
+127 , Milan , 2-0 , Novara
+128 , Milan , 5-0 , Palermo
+129 , Milan , 4-0 , Pro Patria
+130 , Milan , 4-1 , Roma
+131 , Milan , 2-1 , Sampdoria
+132 , Milan , 1-0 , SPAL
+133 , Milan , 5-1 , Torino
+134 , Milan , 4-1 , Triestina
+135 , Milan , 0-0 , Udinese
+136 , Napoli , 2-0 , Atalanta
+137 , Napoli , 4-1 , Bologna
+138 , Napoli , 1-0 , Como
+139 , Napoli , 0-0 , Fiorentina
+140 , Napoli , 0-1 , Internazionale
+141 , Napoli , 3-2 , Juventus
+142 , Napoli , 3-0 , Lazio
+143 , Napoli , 4-2 , Milan
+144 , Napoli , 2-3 , Novara
+145 , Napoli , 0-0 , Palermo
+146 , Napoli , 1-0 , Pro Patria
+147 , Napoli , 0-0 , Roma
+148 , Napoli , 2-1 , Sampdoria
+149 , Napoli , 1-0 , SPAL
+150 , Napoli , 3-0 , Torino
+151 , Napoli , 1-1 , Triestina
+152 , Napoli , 4-2 , Udinese
+153 , Novara , 1-1 , Atalanta
+154 , Novara , 2-2 , Bologna
+155 , Novara , 2-1 , Como
+156 , Novara , 1-2 , Fiorentina
+157 , Novara , 1-2 , Internazionale
+158 , Novara , 0-6 , Juventus
+159 , Novara , 2-2 , Lazio
+160 , Novara , 2-1 , Milan
+161 , Novara , 0-1 , Napoli
+162 , Novara , 3-4 , Palermo
+163 , Novara , 2-2 , Pro Patria
+164 , Novara , 3-1 , Roma
+165 , Novara , 2-0 , Sampdoria
+166 , Novara , 0-0 , SPAL
+167 , Novara , 2-0 , Torino
+168 , Novara , 1-0 , Triestina
+169 , Novara , 3-1 , Udinese
+170 , Palermo , 4-2 , Atalanta
+171 , Palermo , 4-1 , Bologna
+172 , Palermo , 2-0 , Como
+173 , Palermo , 0-0 , Fiorentina
+174 , Palermo , 0-3 , Internazionale
+175 , Palermo , 1-1 , Juventus
+176 , Palermo , 3-1 , Lazio
+177 , Palermo , 0-1 , Milan
+178 , Palermo , 0-0 , Napoli
+179 , Palermo , 2-1 , Novara
+180 , Palermo , 2-0 , Pro Patria
+181 , Palermo , 1-1 , Roma
+182 , Palermo , 3-0 , Sampdoria
+183 , Palermo , 2-2 , SPAL
+184 , Palermo , 1-1 , Torino
+185 , Palermo , 0-0 , Triestina
+186 , Palermo , 3-2 , Udinese
+187 , Pro Patria , 0-3 , Atalanta
+188 , Pro Patria , 3-0 , Bologna
+189 , Pro Patria , 2-0 , Como
+190 , Pro Patria , 0-0 , Fiorentina
+191 , Pro Patria , 2-2 , Internazionale
+192 , Pro Patria , 3-3 , Juventus
+193 , Pro Patria , 1-0 , Lazio
+194 , Pro Patria , 0-1 , Milan
+195 , Pro Patria , 1-1 , Napoli
+196 , Pro Patria , 2-3 , Novara
+197 , Pro Patria , 2-1 , Palermo
+198 , Pro Patria , 0-1 , Roma
+199 , Pro Patria , 0-1 , Sampdoria
+200 , Pro Patria , 2-0 , SPAL
+201 , Pro Patria , 3-0 , Torino
+202 , Pro Patria , 3-2 , Triestina
+203 , Pro Patria , 2-3 , Udinese
+204 , Roma , 2-2 , Atalanta
+205 , Roma , 2-1 , Bologna
+206 , Roma , 3-0 , Como
+207 , Roma , 1-0 , Fiorentina
+208 , Roma , 1-3 , Internazionale
+209 , Roma , 3-0 , Juventus
+210 , Roma , 0-2 , Lazio
+211 , Roma , 2-1 , Milan
+212 , Roma , 5-2 , Napoli
+213 , Roma , 4-1 , Novara
+214 , Roma , 1-0 , Palermo
+215 , Roma , 0-0 , Pro Patria
+216 , Roma , 0-0 , Sampdoria
+217 , Roma , 0-0 , SPAL
+218 , Roma , 2-1 , Torino
+219 , Roma , 2-2 , Triestina
+220 , Roma , 2-2 , Udinese
+221 , Sampdoria , 0-0 , Atalanta
+222 , Sampdoria , 1-1 , Bologna
+223 , Sampdoria , 1-1 , Como
+224 , Sampdoria , 4-0 , Fiorentina
+225 , Sampdoria , 2-0 , Internazionale
+226 , Sampdoria , 1-1 , Juventus
+227 , Sampdoria , 1-2 , Lazio
+228 , Sampdoria , 2-1 , Milan
+229 , Sampdoria , 0-0 , Napoli
+230 , Sampdoria , 1-1 , Novara
+231 , Sampdoria , 4-1 , Palermo
+232 , Sampdoria , 1-0 , Pro Patria
+233 , Sampdoria , 2-2 , Roma
+234 , Sampdoria , 2-2 , SPAL
+235 , Sampdoria , 1-0 , Torino
+236 , Sampdoria , 3-1 , Triestina
+237 , Sampdoria , 1-1 , Udinese
+238 , SPAL , 2-2 , Atalanta
+239 , SPAL , 1-4 , Bologna
+240 , SPAL , 0-0 , Como
+241 , SPAL , 1-1 , Fiorentina
+242 , SPAL , 0-1 , Internazionale
+243 , SPAL , 2-2 , Juventus
+244 , SPAL , 1-0 , Lazio
+245 , SPAL , 1-1 , Milan
+246 , SPAL , 4-1 , Napoli
+247 , SPAL , 0-0 , Novara
+248 , SPAL , 4-0 , Palermo
+249 , SPAL , 4-0 , Pro Patria
+250 , SPAL , 2-1 , Roma
+251 , SPAL , 0-0 , Sampdoria
+252 , SPAL , 1-1 , Torino
+253 , SPAL , 2-0 , Triestina
+254 , SPAL , 3-0 , Udinese
+255 , Torino , 2-3 , Atalanta
+256 , Torino , 1-1 , Bologna
+257 , Torino , 2-1 , Como
+258 , Torino , 4-1 , Fiorentina
+259 , Torino , 1-1 , Internazionale
+260 , Torino , 0-1 , Juventus
+261 , Torino , 2-0 , Lazio
+262 , Torino , 1-1 , Milan
+263 , Torino , 1-2 , Napoli
+264 , Torino , 4-1 , Novara
+265 , Torino , 3-1 , Palermo
+266 , Torino , 1-1 , Pro Patria
+267 , Torino , 0-0 , Roma
+268 , Torino , 2-0 , Sampdoria
+269 , Torino , 1-1 , SPAL
+270 , Torino , 5-0 , Triestina
+271 , Torino , 0-3 , Udinese
+272 , Triestina , 2-2 , Atalanta
+273 , Triestina , 1-0 , Bologna
+274 , Triestina , 4-1 , Como
+275 , Triestina , 1-1 , Fiorentina
+276 , Triestina , 0-0 , Internazionale
+277 , Triestina , 2-1 , Juventus
+278 , Triestina , 3-0 , Lazio
+279 , Triestina , 1-1 , Milan
+280 , Triestina , 2-3 , Napoli
+281 , Triestina , 2-0 , Novara
+282 , Triestina , 2-1 , Palermo
+283 , Triestina , 4-0 , Pro Patria
+284 , Triestina , 2-3 , Roma
+285 , Triestina , 1-1 , Sampdoria
+286 , Triestina , 2-0 , SPAL
+287 , Triestina , 3-0 , Torino
+288 , Triestina , 1-1 , Udinese
+289 , Udinese , 1-3 , Atalanta
+290 , Udinese , 0-2 , Bologna
+291 , Udinese , 1-0 , Como
+292 , Udinese , 0-1 , Fiorentina
+293 , Udinese , 0-0 , Internazionale
+294 , Udinese , 1-1 , Juventus
+295 , Udinese , 0-4 , Lazio
+296 , Udinese , 0-1 , Milan
+297 , Udinese , 1-1 , Napoli
+298 , Udinese , 2-1 , Novara
+299 , Udinese , 1-1 , Palermo
+300 , Udinese , 7-3 , Pro Patria
+301 , Udinese , 3-1 , Roma
+302 , Udinese , 3-2 , Sampdoria
+303 , Udinese , 2-0 , SPAL
+304 , Udinese , 1-0 , Torino
+305 , Udinese , 1-1 , Triestina
+shortNames:,,Home ╲ Away,Atalanta !ATA,Bologna !BOL,Como !COM,Fiorentina !FIO,Internazionale !INT,Juventus !JUV,Lazio !LAZ,Milan !MIL,Napoli !NAP,Novara !NOV,Palermo !PAL,Pro Patria !PPA,Roma !ROM,Sampdoria !SAM,SPAL !SPA,Torino !TOR,Triestina !TRI,Udinese !UDI
+fullNames:,,Atalanta,Bologna,Como,Fiorentina,Internazionale,Juventus,Lazio,Milan,Napoli,Novara,Palermo,Pro Patria,Roma,Sampdoria,SPAL,Torino,Triestina,Udinese

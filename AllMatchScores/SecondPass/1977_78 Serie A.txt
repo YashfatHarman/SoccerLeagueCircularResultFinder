@@ -1,0 +1,242 @@
+0 , Atalanta , 0-0 , Bologna
+1 , Atalanta , 0-0 , Fiorentina
+2 , Atalanta , 1-2 , Foggia
+3 , Atalanta , 1-1 , Genoa
+4 , Atalanta , 0-1 , Internazionale
+5 , Atalanta , 0-2 , Juventus
+6 , Atalanta , 2-4 , L.R. Vicenza
+7 , Atalanta , 1-1 , Lazio
+8 , Atalanta , 1-1 , Milan
+9 , Atalanta , 1-1 , Napoli
+10 , Atalanta , 1-1 , Perugia
+11 , Atalanta , 2-0 , Pescara
+12 , Atalanta , 0-1 , Roma
+13 , Atalanta , 0-0 , Torino
+14 , Atalanta , 1-0 , Hellas Verona
+15 , Bologna , 0-0 , Atalanta
+16 , Bologna , 0-1 , Fiorentina
+17 , Bologna , 2-1 , Foggia
+18 , Bologna , 2-1 , Genoa
+19 , Bologna , 2-1 , Internazionale
+20 , Bologna , 1-1 , Juventus
+21 , Bologna , 3-2 , L.R. Vicenza
+22 , Bologna , 2-1 , Lazio
+23 , Bologna , 0-0 , Milan
+24 , Bologna , 0-0 , Napoli
+25 , Bologna , 2-3 , Perugia
+26 , Bologna , 1-1 , Pescara
+27 , Bologna , 0-0 , Roma
+28 , Bologna , 1-3 , Torino
+29 , Bologna , 0-3 , Hellas Verona
+30 , Fiorentina , 2-2 , Atalanta
+31 , Fiorentina , 0-0 , Bologna
+32 , Fiorentina , 1-1 , Foggia
+33 , Fiorentina , 0-0 , Genoa
+34 , Fiorentina , 0-2 , Internazionale
+35 , Fiorentina , 1-1 , Juventus
+36 , Fiorentina , 1-3 , L.R. Vicenza
+37 , Fiorentina , 0-1 , Lazio
+38 , Fiorentina , 1-1 , Milan
+39 , Fiorentina , 1-0 , Napoli
+40 , Fiorentina , 2-1 , Perugia
+41 , Fiorentina , 3-0 , Pescara
+42 , Fiorentina , 2-0 , Roma
+43 , Fiorentina , 2-0 , Torino
+44 , Fiorentina , 1-2 , Hellas Verona
+45 , Foggia , 1-0 , Atalanta
+46 , Foggia , 1-0 , Bologna
+47 , Foggia , 1-1 , Fiorentina
+48 , Foggia , 1-1 , Genoa
+49 , Foggia , 0-2 , Internazionale
+50 , Foggia , 0-0 , Juventus
+51 , Foggia , 1-1 , L.R. Vicenza
+52 , Foggia , 3-1 , Lazio
+53 , Foggia , 1-2 , Milan
+54 , Foggia , 1-1 , Napoli
+55 , Foggia , 0-1 , Perugia
+56 , Foggia , 2-0 , Pescara
+57 , Foggia , 0-0 , Roma
+58 , Foggia , 1-0 , Torino
+59 , Foggia , 4-0 , Hellas Verona
+60 , Genoa , 0-1 , Atalanta
+61 , Genoa , 0-0 , Bologna
+62 , Genoa , 2-1 , Fiorentina
+63 , Genoa , 0-0 , Foggia
+64 , Genoa , 1-1 , Internazionale
+65 , Genoa , 2-2 , Juventus
+66 , Genoa , 1-2 , L.R. Vicenza
+67 , Genoa , 2-1 , Lazio
+68 , Genoa , 1-1 , Milan
+69 , Genoa , 1-1 , Napoli
+70 , Genoa , 2-0 , Perugia
+71 , Genoa , 1-0 , Pescara
+72 , Genoa , 1-0 , Roma
+73 , Genoa , 1-2 , Torino
+74 , Genoa , 2-2 , Hellas Verona
+75 , Internazionale , 1-0 , Atalanta
+76 , Internazionale , 0-1 , Bologna
+77 , Internazionale , 2-1 , Fiorentina
+78 , Internazionale , 2-1 , Foggia
+79 , Internazionale , 2-0 , Genoa
+80 , Internazionale , 0-1 , Juventus
+81 , Internazionale , 2-0 , L.R. Vicenza
+82 , Internazionale , 1-1 , Lazio
+83 , Internazionale , 1-3 , Milan
+84 , Internazionale , 1-0 , Napoli
+85 , Internazionale , 2-0 , Perugia
+86 , Internazionale , 0-0 , Pescara
+87 , Internazionale , 4-2 , Roma
+88 , Internazionale , 0-0 , Torino
+89 , Internazionale , 0-0 , Hellas Verona
+90 , Juventus , 1-1 , Atalanta
+91 , Juventus , 1-0 , Bologna
+92 , Juventus , 5-1 , Fiorentina
+93 , Juventus , 6-0 , Foggia
+94 , Juventus , 4-0 , Genoa
+95 , Juventus , 2-2 , Internazionale
+96 , Juventus , 3-2 , L.R. Vicenza
+97 , Juventus , 3-0 , Lazio
+98 , Juventus , 1-1 , Milan
+99 , Juventus , 1-0 , Napoli
+100 , Juventus , 2-0 , Perugia
+101 , Juventus , 2-0 , Pescara
+102 , Juventus , 2-0 , Roma
+103 , Juventus , 0-0 , Torino
+104 , Juventus , 1-0 , Hellas Verona
+105 , L.R. Vicenza , 2-2 , Atalanta
+106 , L.R. Vicenza , 3-0 , Bologna
+107 , L.R. Vicenza , 1-0 , Fiorentina
+108 , L.R. Vicenza , 2-0 , Foggia
+109 , L.R. Vicenza , 1-0 , Genoa
+110 , L.R. Vicenza , 1-2 , Internazionale
+111 , L.R. Vicenza , 0-0 , Juventus
+112 , L.R. Vicenza , 2-1 , Lazio
+113 , L.R. Vicenza , 1-1 , Milan
+114 , L.R. Vicenza , 0-0 , Napoli
+115 , L.R. Vicenza , 3-1 , Perugia
+116 , L.R. Vicenza , 1-1 , Pescara
+117 , L.R. Vicenza , 4-3 , Roma
+118 , L.R. Vicenza , 0-0 , Torino
+119 , L.R. Vicenza , 1-0 , Hellas Verona
+120 , Lazio , 0-2 , Atalanta
+121 , Lazio , 0-1 , Bologna
+122 , Lazio , 1-0 , Fiorentina
+123 , Lazio , 1-1 , Foggia
+124 , Lazio , 0-0 , Genoa
+125 , Lazio , 1-0 , Internazionale
+126 , Lazio , 3-0 , Juventus
+127 , Lazio , 1-3 , L.R. Vicenza
+128 , Lazio , 2-0 , Milan
+129 , Lazio , 1-1 , Napoli
+130 , Lazio , 2-0 , Perugia
+131 , Lazio , 2-1 , Pescara
+132 , Lazio , 1-1 , Roma
+133 , Lazio , 1-1 , Torino
+134 , Lazio , 1-1 , Hellas Verona
+135 , Milan , 0-1 , Atalanta
+136 , Milan , 1-0 , Bologna
+137 , Milan , 5-1 , Fiorentina
+138 , Milan , 2-0 , Foggia
+139 , Milan , 2-2 , Genoa
+140 , Milan , 0-0 , Internazionale
+141 , Milan , 0-0 , Juventus
+142 , Milan , 3-1 , L.R. Vicenza
+143 , Milan , 0-2 , Lazio
+144 , Milan , 0-1 , Napoli
+145 , Milan , 2-2 , Perugia
+146 , Milan , 2-0 , Pescara
+147 , Milan , 1-0 , Roma
+148 , Milan , 1-1 , Torino
+149 , Milan , 1-1 , Hellas Verona
+150 , Napoli , 2-2 , Atalanta
+151 , Napoli , 0-0 , Bologna
+152 , Napoli , 0-0 , Fiorentina
+153 , Napoli , 5-0 , Foggia
+154 , Napoli , 0-0 , Genoa
+155 , Napoli , 2-2 , Internazionale
+156 , Napoli , 1-2 , Juventus
+157 , Napoli , 1-4 , L.R. Vicenza
+158 , Napoli , 4-3 , Lazio
+159 , Napoli , 1-1 , Milan
+160 , Napoli , 3-2 , Perugia
+161 , Napoli , 1-1 , Pescara
+162 , Napoli , 2-0 , Roma
+163 , Napoli , 1-3 , Torino
+164 , Napoli , 3-0 , Hellas Verona
+165 , Perugia , 1-1 , Atalanta
+166 , Perugia , 2-0 , Bologna
+167 , Perugia , 2-1 , Fiorentina
+168 , Perugia , 3-1 , Foggia
+169 , Perugia , 0-0 , Genoa
+170 , Perugia , 1-1 , Internazionale
+171 , Perugia , 0-0 , Juventus
+172 , Perugia , 1-1 , L.R. Vicenza
+173 , Perugia , 4-0 , Lazio
+174 , Perugia , 0-1 , Milan
+175 , Perugia , 2-0 , Napoli
+176 , Perugia , 2-1 , Pescara
+177 , Perugia , 3-2 , Roma
+178 , Perugia , 2-0 , Torino
+179 , Perugia , 0-1 , Hellas Verona
+180 , Pescara , 0-0 , Atalanta
+181 , Pescara , 2-1 , Bologna
+182 , Pescara , 1-2 , Fiorentina
+183 , Pescara , 1-2 , Foggia
+184 , Pescara , 0-0 , Genoa
+185 , Pescara , 2-1 , Internazionale
+186 , Pescara , 1-2 , Juventus
+187 , Pescara , 1-2 , L.R. Vicenza
+188 , Pescara , 1-0 , Lazio
+189 , Pescara , 0-2 , Milan
+190 , Pescara , 1-3 , Napoli
+191 , Pescara , 1-1 , Perugia
+192 , Pescara , 1-1 , Roma
+193 , Pescara , 2-1 , Torino
+194 , Pescara , 2-2 , Hellas Verona
+195 , Roma , 3-1 , Atalanta
+196 , Roma , 1-1 , Bologna
+197 , Roma , 2-2 , Fiorentina
+198 , Roma , 1-0 , Foggia
+199 , Roma , 1-0 , Genoa
+200 , Roma , 1-2 , Internazionale
+201 , Roma , 1-1 , Juventus
+202 , Roma , 1-1 , L.R. Vicenza
+203 , Roma , 0-0 , Lazio
+204 , Roma , 1-2 , Milan
+205 , Roma , 0-0 , Napoli
+206 , Roma , 2-0 , Perugia
+207 , Roma , 2-0 , Pescara
+208 , Roma , 2-1 , Torino
+209 , Roma , 2-1 , Hellas Verona
+210 , Torino , 3-2 , Atalanta
+211 , Torino , 2-0 , Bologna
+212 , Torino , 1-0 , Fiorentina
+213 , Torino , 3-1 , Foggia
+214 , Torino , 3-1 , Genoa
+215 , Torino , 1-0 , Internazionale
+216 , Torino , 0-0 , Juventus
+217 , Torino , 2-2 , L.R. Vicenza
+218 , Torino , 1-0 , Lazio
+219 , Torino , 1-0 , Milan
+220 , Torino , 1-0 , Napoli
+221 , Torino , 1-1 , Perugia
+222 , Torino , 2-0 , Pescara
+223 , Torino , 1-1 , Roma
+224 , Torino , 2-1 , Hellas Verona
+225 , Hellas Verona , 1-2 , Atalanta
+226 , Hellas Verona , 1-1 , Bologna
+227 , Hellas Verona , 0-0 , Fiorentina
+228 , Hellas Verona , 3-1 , Foggia
+229 , Hellas Verona , 2-0 , Genoa
+230 , Hellas Verona , 0-0 , Internazionale
+231 , Hellas Verona , 0-0 , Juventus
+232 , Hellas Verona , 0-0 , L.R. Vicenza
+233 , Hellas Verona , 2-2 , Lazio
+234 , Hellas Verona , 1-2 , Milan
+235 , Hellas Verona , 0-1 , Napoli
+236 , Hellas Verona , 0-0 , Perugia
+237 , Hellas Verona , 1-0 , Pescara
+238 , Hellas Verona , 0-0 , Roma
+239 , Hellas Verona , 0-0 , Torino
+shortNames:,,Home ╲ Away,Atalanta !ATA,Bologna !BOL,Fiorentina !FIO,Foggia !FOG,Genoa !GEN,Internazionale !INT,Juventus !JUV,L.R. Vicenza !LRV,Lazio !LAZ,Milan !MIL,Napoli !NAP,Perugia !PER,Pescara !PES,Roma !ROM,Torino !TOR,Hellas Verona !HEL
+fullNames:,,Atalanta,Bologna,Fiorentina,Foggia,Genoa,Internazionale,Juventus,L.R. Vicenza,Lazio,Milan,Napoli,Perugia,Pescara,Roma,Torino,Hellas Verona

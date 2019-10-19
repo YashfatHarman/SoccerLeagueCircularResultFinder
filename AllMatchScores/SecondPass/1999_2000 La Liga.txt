@@ -1,0 +1,382 @@
+0 , Athletic Bilbao , 4-2 , Atlético Madrid
+1 , Athletic Bilbao , 0-4 , Barcelona
+2 , Athletic Bilbao , 1-0 , Betis
+3 , Athletic Bilbao , 1-0 , Celta de Vigo
+4 , Athletic Bilbao , 2-1 , Alavés
+5 , Athletic Bilbao , 2-3 , Deportivo La Coruña
+6 , Athletic Bilbao , 2-1 , Espanyol
+7 , Athletic Bilbao , 2-2 , Málaga
+8 , Athletic Bilbao , 1-1 , Mallorca
+9 , Athletic Bilbao , 2-1 , Numancia
+10 , Athletic Bilbao , 2-2 , Racing Santander
+11 , Athletic Bilbao , 1-2 , Rayo Vallecano
+12 , Athletic Bilbao , 2-2 , Real Madrid
+13 , Athletic Bilbao , 1-1 , Oviedo
+14 , Athletic Bilbao , 1-1 , Real Sociedad
+15 , Athletic Bilbao , 1-1 , Sevilla
+16 , Athletic Bilbao , 1-0 , Valencia
+17 , Athletic Bilbao , 1-0 , Valladolid
+18 , Athletic Bilbao , 2-2 , Zaragoza
+19 , Atlético Madrid , 1-2 , Athletic Bilbao
+20 , Atlético Madrid , 0-3 , Barcelona
+21 , Atlético Madrid , 0-0 , Betis
+22 , Atlético Madrid , 1-2 , Celta de Vigo
+23 , Atlético Madrid , 1-0 , Alavés
+24 , Atlético Madrid , 1-3 , Deportivo La Coruña
+25 , Atlético Madrid , 1-1 , Espanyol
+26 , Atlético Madrid , 2-2 , Málaga
+27 , Atlético Madrid , 1-0 , Mallorca
+28 , Atlético Madrid , 2-2 , Numancia
+29 , Atlético Madrid , 2-0 , Racing Santander
+30 , Atlético Madrid , 0-2 , Rayo Vallecano
+31 , Atlético Madrid , 1-1 , Real Madrid
+32 , Atlético Madrid , 5-0 , Oviedo
+33 , Atlético Madrid , 1-1 , Real Sociedad
+34 , Atlético Madrid , 1-1 , Sevilla
+35 , Atlético Madrid , 1-2 , Valencia
+36 , Atlético Madrid , 3-1 , Valladolid
+37 , Atlético Madrid , 2-2 , Zaragoza
+38 , Barcelona , 4-0 , Athletic Bilbao
+39 , Barcelona , 2-1 , Atlético Madrid
+40 , Barcelona , 4-1 , Betis
+41 , Barcelona , 2-2 , Celta de Vigo
+42 , Barcelona , 0-1 , Alavés
+43 , Barcelona , 2-1 , Deportivo La Coruña
+44 , Barcelona , 3-0 , Espanyol
+45 , Barcelona , 1-2 , Málaga
+46 , Barcelona , 0-3 , Mallorca
+47 , Barcelona , 4-0 , Numancia
+48 , Barcelona , 1-0 , Racing Santander
+49 , Barcelona , 0-2 , Rayo Vallecano
+50 , Barcelona , 2-2 , Real Madrid
+51 , Barcelona , 3-2 , Oviedo
+52 , Barcelona , 3-1 , Real Sociedad
+53 , Barcelona , 2-0 , Sevilla
+54 , Barcelona , 3-0 , Valencia
+55 , Barcelona , 4-0 , Valladolid
+56 , Barcelona , 2-0 , Zaragoza
+57 , Betis , 2-1 , Athletic Bilbao
+58 , Betis , 2-1 , Atlético Madrid
+59 , Betis , 2-1 , Barcelona
+60 , Betis , 0-0 , Celta de Vigo
+61 , Betis , 0-1 , Alavés
+62 , Betis , 0-0 , Deportivo La Coruña
+63 , Betis , 2-5 , Espanyol
+64 , Betis , 0-0 , Málaga
+65 , Betis , 1-0 , Mallorca
+66 , Betis , 1-2 , Numancia
+67 , Betis , 2-2 , Racing Santander
+68 , Betis , 1-1 , Rayo Vallecano
+69 , Betis , 0-2 , Real Madrid
+70 , Betis , 1-0 , Oviedo
+71 , Betis , 1-0 , Real Sociedad
+72 , Betis , 1-1 , Sevilla
+73 , Betis , 1-0 , Valencia
+74 , Betis , 0-1 , Valladolid
+75 , Betis , 2-0 , Zaragoza
+76 , Celta de Vigo , 1-1 , Athletic Bilbao
+77 , Celta de Vigo , 0-1 , Atlético Madrid
+78 , Celta de Vigo , 0-2 , Barcelona
+79 , Celta de Vigo , 5-1 , Betis
+80 , Celta de Vigo , 1-1 , Alavés
+81 , Celta de Vigo , 2-1 , Deportivo La Coruña
+82 , Celta de Vigo , 2-1 , Espanyol
+83 , Celta de Vigo , 2-4 , Málaga
+84 , Celta de Vigo , 1-0 , Mallorca
+85 , Celta de Vigo , 0-0 , Numancia
+86 , Celta de Vigo , 2-0 , Racing Santander
+87 , Celta de Vigo , 0-1 , Rayo Vallecano
+88 , Celta de Vigo , 1-0 , Real Madrid
+89 , Celta de Vigo , 5-3 , Oviedo
+90 , Celta de Vigo , 4-1 , Real Sociedad
+91 , Celta de Vigo , 2-1 , Sevilla
+92 , Celta de Vigo , 0-0 , Valencia
+93 , Celta de Vigo , 1-1 , Valladolid
+94 , Celta de Vigo , 2-1 , Zaragoza
+95 , Alavés , 1-2 , Athletic Bilbao
+96 , Alavés , 2-0 , Atlético Madrid
+97 , Alavés , 2-1 , Barcelona
+98 , Alavés , 2-0 , Betis
+99 , Alavés , 1-0 , Celta de Vigo
+100 , Alavés , 2-1 , Deportivo La Coruña
+101 , Alavés , 0-0 , Espanyol
+102 , Alavés , 2-1 , Málaga
+103 , Alavés , 2-2 , Mallorca
+104 , Alavés , 2-2 , Numancia
+105 , Alavés , 2-1 , Racing Santander
+106 , Alavés , 0-1 , Rayo Vallecano
+107 , Alavés , 1-3 , Real Madrid
+108 , Alavés , 1-0 , Oviedo
+109 , Alavés , 2-1 , Real Sociedad
+110 , Alavés , 0-0 , Sevilla
+111 , Alavés , 0-1 , Valencia
+112 , Alavés , 1-0 , Valladolid
+113 , Alavés , 0-2 , Zaragoza
+114 , Deportivo La Coruña , 2-0 , Athletic Bilbao
+115 , Deportivo La Coruña , 4-1 , Atlético Madrid
+116 , Deportivo La Coruña , 2-1 , Barcelona
+117 , Deportivo La Coruña , 2-0 , Betis
+118 , Deportivo La Coruña , 1-0 , Celta de Vigo
+119 , Deportivo La Coruña , 4-1 , Alavés
+120 , Deportivo La Coruña , 2-0 , Espanyol
+121 , Deportivo La Coruña , 4-1 , Málaga
+122 , Deportivo La Coruña , 2-1 , Mallorca
+123 , Deportivo La Coruña , 0-2 , Numancia
+124 , Deportivo La Coruña , 0-3 , Racing Santander
+125 , Deportivo La Coruña , 3-2 , Rayo Vallecano
+126 , Deportivo La Coruña , 5-2 , Real Madrid
+127 , Deportivo La Coruña , 3-1 , Oviedo
+128 , Deportivo La Coruña , 2-0 , Real Sociedad
+129 , Deportivo La Coruña , 5-2 , Sevilla
+130 , Deportivo La Coruña , 2-0 , Valencia
+131 , Deportivo La Coruña , 2-0 , Valladolid
+132 , Deportivo La Coruña , 2-2 , Zaragoza
+133 , Espanyol , 0-0 , Athletic Bilbao
+134 , Espanyol , 3-1 , Atlético Madrid
+135 , Espanyol , 1-1 , Barcelona
+136 , Espanyol , 3-0 , Betis
+137 , Espanyol , 3-0 , Celta de Vigo
+138 , Espanyol , 2-3 , Alavés
+139 , Espanyol , 0-0 , Deportivo La Coruña
+140 , Espanyol , 0-2 , Málaga
+141 , Espanyol , 1-2 , Mallorca
+142 , Espanyol , 3-1 , Numancia
+143 , Espanyol , 1-0 , Racing Santander
+144 , Espanyol , 5-1 , Rayo Vallecano
+145 , Espanyol , 0-2 , Real Madrid
+146 , Espanyol , 2-1 , Oviedo
+147 , Espanyol , 0-0 , Real Sociedad
+148 , Espanyol , 2-2 , Sevilla
+149 , Espanyol , 3-2 , Valencia
+150 , Espanyol , 1-1 , Valladolid
+151 , Espanyol , 1-1 , Zaragoza
+152 , Málaga , 3-4 , Athletic Bilbao
+153 , Málaga , 2-3 , Atlético Madrid
+154 , Málaga , 1-2 , Barcelona
+155 , Málaga , 3-0 , Betis
+156 , Málaga , 0-1 , Celta de Vigo
+157 , Málaga , 0-1 , Alavés
+158 , Málaga , 1-0 , Deportivo La Coruña
+159 , Málaga , 1-0 , Espanyol
+160 , Málaga , 0-0 , Mallorca
+161 , Málaga , 3-1 , Numancia
+162 , Málaga , 0-0 , Racing Santander
+163 , Málaga , 2-0 , Rayo Vallecano
+164 , Málaga , 1-1 , Real Madrid
+165 , Málaga , 4-0 , Oviedo
+166 , Málaga , 0-0 , Real Sociedad
+167 , Málaga , 3-0 , Sevilla
+168 , Málaga , 1-1 , Valencia
+169 , Málaga , 0-0 , Valladolid
+170 , Málaga , 0-0 , Zaragoza
+171 , Mallorca , 2-1 , Athletic Bilbao
+172 , Mallorca , 1-2 , Atlético Madrid
+173 , Mallorca , 3-2 , Barcelona
+174 , Mallorca , 4-0 , Betis
+175 , Mallorca , 1-0 , Celta de Vigo
+176 , Mallorca , 2-0 , Alavés
+177 , Mallorca , 2-2 , Deportivo La Coruña
+178 , Mallorca , 1-3 , Espanyol
+179 , Mallorca , 2-1 , Málaga
+180 , Mallorca , 3-0 , Numancia
+181 , Mallorca , 1-2 , Racing Santander
+182 , Mallorca , 2-1 , Rayo Vallecano
+183 , Mallorca , 1-2 , Real Madrid
+184 , Mallorca , 1-1 , Oviedo
+185 , Mallorca , 2-1 , Real Sociedad
+186 , Mallorca , 3-1 , Sevilla
+187 , Mallorca , 1-0 , Valencia
+188 , Mallorca , 0-0 , Valladolid
+189 , Mallorca , 1-1 , Zaragoza
+190 , Numancia , 1-1 , Athletic Bilbao
+191 , Numancia , 3-0 , Atlético Madrid
+192 , Numancia , 3-3 , Barcelona
+193 , Numancia , 1-2 , Betis
+194 , Numancia , 3-1 , Celta de Vigo
+195 , Numancia , 0-0 , Alavés
+196 , Numancia , 1-0 , Deportivo La Coruña
+197 , Numancia , 2-0 , Espanyol
+198 , Numancia , 1-1 , Málaga
+199 , Numancia , 3-1 , Mallorca
+200 , Numancia , 2-1 , Racing Santander
+201 , Numancia , 3-1 , Rayo Vallecano
+202 , Numancia , 0-0 , Real Madrid
+203 , Numancia , 1-1 , Oviedo
+204 , Numancia , 1-2 , Real Sociedad
+205 , Numancia , 2-0 , Sevilla
+206 , Numancia , 1-2 , Valencia
+207 , Numancia , 1-0 , Valladolid
+208 , Numancia , 1-2 , Zaragoza
+209 , Racing Santander , 2-2 , Athletic Bilbao
+210 , Racing Santander , 2-1 , Atlético Madrid
+211 , Racing Santander , 1-2 , Barcelona
+212 , Racing Santander , 1-1 , Betis
+213 , Racing Santander , 3-0 , Celta de Vigo
+214 , Racing Santander , 0-0 , Alavés
+215 , Racing Santander , 0-0 , Deportivo La Coruña
+216 , Racing Santander , 2-2 , Espanyol
+217 , Racing Santander , 2-3 , Málaga
+218 , Racing Santander , 1-1 , Mallorca
+219 , Racing Santander , 1-1 , Numancia
+220 , Racing Santander , 1-1 , Rayo Vallecano
+221 , Racing Santander , 1-1 , Real Madrid
+222 , Racing Santander , 3-1 , Oviedo
+223 , Racing Santander , 0-0 , Real Sociedad
+224 , Racing Santander , 2-2 , Sevilla
+225 , Racing Santander , 1-1 , Valencia
+226 , Racing Santander , 1-1 , Valladolid
+227 , Racing Santander , 1-2 , Zaragoza
+228 , Rayo Vallecano , 1-2 , Athletic Bilbao
+229 , Rayo Vallecano , 1-1 , Atlético Madrid
+230 , Rayo Vallecano , 1-1 , Barcelona
+231 , Rayo Vallecano , 1-3 , Betis
+232 , Rayo Vallecano , 1-0 , Celta de Vigo
+233 , Rayo Vallecano , 0-1 , Alavés
+234 , Rayo Vallecano , 2-0 , Deportivo La Coruña
+235 , Rayo Vallecano , 2-1 , Espanyol
+236 , Rayo Vallecano , 4-1 , Málaga
+237 , Rayo Vallecano , 2-1 , Mallorca
+238 , Rayo Vallecano , 0-0 , Numancia
+239 , Rayo Vallecano , 1-2 , Racing Santander
+240 , Rayo Vallecano , 2-3 , Real Madrid
+241 , Rayo Vallecano , 1-2 , Oviedo
+242 , Rayo Vallecano , 2-1 , Real Sociedad
+243 , Rayo Vallecano , 2-0 , Sevilla
+244 , Rayo Vallecano , 1-3 , Valencia
+245 , Rayo Vallecano , 4-1 , Valladolid
+246 , Rayo Vallecano , 0-1 , Zaragoza
+247 , Real Madrid , 3-1 , Athletic Bilbao
+248 , Real Madrid , 1-3 , Atlético Madrid
+249 , Real Madrid , 3-0 , Barcelona
+250 , Real Madrid , 2-1 , Betis
+251 , Real Madrid , 1-0 , Celta de Vigo
+252 , Real Madrid , 0-1 , Alavés
+253 , Real Madrid , 1-1 , Deportivo La Coruña
+254 , Real Madrid , 2-1 , Espanyol
+255 , Real Madrid , 1-0 , Málaga
+256 , Real Madrid , 2-1 , Mallorca
+257 , Real Madrid , 4-1 , Numancia
+258 , Real Madrid , 2-4 , Racing Santander
+259 , Real Madrid , 0-0 , Rayo Vallecano
+260 , Real Madrid , 2-2 , Oviedo
+261 , Real Madrid , 1-1 , Real Sociedad
+262 , Real Madrid , 3-1 , Sevilla
+263 , Real Madrid , 2-3 , Valencia
+264 , Real Madrid , 0-1 , Valladolid
+265 , Real Madrid , 1-5 , Zaragoza
+266 , Oviedo , 1-0 , Athletic Bilbao
+267 , Oviedo , 2-2 , Atlético Madrid
+268 , Oviedo , 3-0 , Barcelona
+269 , Oviedo , 1-1 , Betis
+270 , Oviedo , 1-0 , Celta de Vigo
+271 , Oviedo , 1-0 , Alavés
+272 , Oviedo , 0-1 , Deportivo La Coruña
+273 , Oviedo , 1-0 , Espanyol
+274 , Oviedo , 2-2 , Málaga
+275 , Oviedo , 0-0 , Mallorca
+276 , Oviedo , 1-0 , Numancia
+277 , Oviedo , 1-2 , Racing Santander
+278 , Oviedo , 2-0 , Rayo Vallecano
+279 , Oviedo , 1-1 , Real Madrid
+280 , Oviedo , 0-1 , Real Sociedad
+281 , Oviedo , 4-2 , Sevilla
+282 , Oviedo , 0-0 , Valencia
+283 , Oviedo , 1-1 , Valladolid
+284 , Oviedo , 1-0 , Zaragoza
+285 , Real Sociedad , 4-1 , Athletic Bilbao
+286 , Real Sociedad , 4-1 , Atlético Madrid
+287 , Real Sociedad , 0-0 , Barcelona
+288 , Real Sociedad , 1-0 , Betis
+289 , Real Sociedad , 0-2 , Celta de Vigo
+290 , Real Sociedad , 1-1 , Alavés
+291 , Real Sociedad , 0-1 , Deportivo La Coruña
+292 , Real Sociedad , 1-0 , Espanyol
+293 , Real Sociedad , 2-2 , Málaga
+294 , Real Sociedad , 2-1 , Mallorca
+295 , Real Sociedad , 2-1 , Numancia
+296 , Real Sociedad , 2-5 , Racing Santander
+297 , Real Sociedad , 2-1 , Rayo Vallecano
+298 , Real Sociedad , 1-1 , Real Madrid
+299 , Real Sociedad , 0-0 , Oviedo
+300 , Real Sociedad , 1-1 , Sevilla
+301 , Real Sociedad , 0-0 , Valencia
+302 , Real Sociedad , 3-0 , Valladolid
+303 , Real Sociedad , 2-1 , Zaragoza
+304 , Sevilla , 0-0 , Athletic Bilbao
+305 , Sevilla , 2-1 , Atlético Madrid
+306 , Sevilla , 3-2 , Barcelona
+307 , Sevilla , 3-0 , Betis
+308 , Sevilla , 0-1 , Celta de Vigo
+309 , Sevilla , 2-2 , Alavés
+310 , Sevilla , 1-3 , Deportivo La Coruña
+311 , Sevilla , 1-2 , Espanyol
+312 , Sevilla , 0-0 , Málaga
+313 , Sevilla , 0-4 , Mallorca
+314 , Sevilla , 4-0 , Numancia
+315 , Sevilla , 1-0 , Racing Santander
+316 , Sevilla , 2-3 , Rayo Vallecano
+317 , Sevilla , 1-1 , Real Madrid
+318 , Sevilla , 2-3 , Oviedo
+319 , Sevilla , 2-2 , Real Sociedad
+320 , Sevilla , 1-2 , Valencia
+321 , Sevilla , 0-1 , Valladolid
+322 , Sevilla , 0-0 , Zaragoza
+323 , Valencia , 2-0 , Athletic Bilbao
+324 , Valencia , 2-0 , Atlético Madrid
+325 , Valencia , 3-1 , Barcelona
+326 , Valencia , 3-1 , Betis
+327 , Valencia , 1-1 , Celta de Vigo
+328 , Valencia , 0-2 , Alavés
+329 , Valencia , 2-0 , Deportivo La Coruña
+330 , Valencia , 1-2 , Espanyol
+331 , Valencia , 2-2 , Málaga
+332 , Valencia , 1-0 , Mallorca
+333 , Valencia , 4-0 , Numancia
+334 , Valencia , 1-2 , Racing Santander
+335 , Valencia , 3-1 , Rayo Vallecano
+336 , Valencia , 1-1 , Real Madrid
+337 , Valencia , 6-2 , Oviedo
+338 , Valencia , 4-0 , Real Sociedad
+339 , Valencia , 2-0 , Sevilla
+340 , Valencia , 0-0 , Valladolid
+341 , Valencia , 2-1 , Zaragoza
+342 , Valladolid , 1-0 , Athletic Bilbao
+343 , Valladolid , 1-0 , Atlético Madrid
+344 , Valladolid , 0-2 , Barcelona
+345 , Valladolid , 0-3 , Betis
+346 , Valladolid , 1-3 , Celta de Vigo
+347 , Valladolid , 1-1 , Alavés
+348 , Valladolid , 4-1 , Deportivo La Coruña
+349 , Valladolid , 1-0 , Espanyol
+350 , Valladolid , 4-2 , Málaga
+351 , Valladolid , 2-1 , Mallorca
+352 , Valladolid , 2-0 , Numancia
+353 , Valladolid , 1-0 , Racing Santander
+354 , Valladolid , 1-2 , Rayo Vallecano
+355 , Valladolid , 0-1 , Real Madrid
+356 , Valladolid , 2-1 , Oviedo
+357 , Valladolid , 2-1 , Real Sociedad
+358 , Valladolid , 2-1 , Sevilla
+359 , Valladolid , 0-0 , Valencia
+360 , Valladolid , 1-1 , Zaragoza
+361 , Zaragoza , 0-0 , Athletic Bilbao
+362 , Zaragoza , 1-1 , Atlético Madrid
+363 , Zaragoza , 0-0 , Barcelona
+364 , Zaragoza , 1-0 , Betis
+365 , Zaragoza , 2-1 , Celta de Vigo
+366 , Zaragoza , 2-1 , Alavés
+367 , Zaragoza , 2-1 , Deportivo La Coruña
+368 , Zaragoza , 1-1 , Espanyol
+369 , Zaragoza , 3-2 , Málaga
+370 , Zaragoza , 3-0 , Mallorca
+371 , Zaragoza , 3-3 , Numancia
+372 , Zaragoza , 4-1 , Racing Santander
+373 , Zaragoza , 1-1 , Rayo Vallecano
+374 , Zaragoza , 0-1 , Real Madrid
+375 , Zaragoza , 4-0 , Oviedo
+376 , Zaragoza , 2-0 , Real Sociedad
+377 , Zaragoza , 2-1 , Sevilla
+378 , Zaragoza , 4-2 , Valencia
+379 , Zaragoza , 1-1 , Valladolid
+shortNames:,,Home ╲ Away,Athletic Bilbao !ATH,Atlético Madrid !ATM,Barcelona !BAR,Betis !BET,Celta de Vigo !CEL,Alavés !ALV,Deportivo La Coruña !DEP,Espanyol !ESP,Málaga !MLG,Mallorca !MLL,Numancia !NUM,Racing Santander !RAC,Rayo Vallecano !RVA,Real Madrid !RMA,Oviedo !ROV,Real Sociedad !RSO,Sevilla !SEV,Valencia !VAL,Valladolid !VLD,Zaragoza !ZAR
+fullNames:,,Athletic Bilbao,Atlético Madrid,Barcelona,Betis,Celta de Vigo,Alavés,Deportivo La Coruña,Espanyol,Málaga,Mallorca,Numancia,Racing Santander,Rayo Vallecano,Real Madrid,Oviedo,Real Sociedad,Sevilla,Valencia,Valladolid,Zaragoza

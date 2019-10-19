@@ -1,0 +1,242 @@
+0 , Atlético Bilbao , 1-0 , Atlético Madrid
+1 , Atlético Bilbao , 1-1 , CF Barcelona
+2 , Atlético Bilbao , 2-0 , Celta de Vigo
+3 , Atlético Bilbao , 2-0 , Elche CF
+4 , Atlético Bilbao , 2-0 , RCD Español
+5 , Atlético Bilbao , 3-0 , Granada CF
+6 , Atlético Bilbao , 1-0 , UD Las Palmas
+7 , Atlético Bilbao , 2-1 , CD Málaga
+8 , Atlético Bilbao , 3-0 , Real Gijón
+9 , Atlético Bilbao , 0-1 , Real Madrid
+10 , Atlético Bilbao , 1-1 , Real Sociedad
+11 , Atlético Bilbao , 1-0 , CE Sabadell FC
+12 , Atlético Bilbao , 1-0 , Sevilla CF
+13 , Atlético Bilbao , 0-0 , Valencia CF
+14 , Atlético Bilbao , 3-0 , Zaragoza
+15 , Atlético Madrid , 2-0 , Atlético Bilbao
+16 , Atlético Madrid , 1-1 , CF Barcelona
+17 , Atlético Madrid , 3-1 , Celta de Vigo
+18 , Atlético Madrid , 3-1 , Elche CF
+19 , Atlético Madrid , 3-0 , RCD Español
+20 , Atlético Madrid , 3-0 , Granada CF
+21 , Atlético Madrid , 2-1 , UD Las Palmas
+22 , Atlético Madrid , 2-1 , CD Málaga
+23 , Atlético Madrid , 2-0 , Real Gijón
+24 , Atlético Madrid , 2-2 , Real Madrid
+25 , Atlético Madrid , 1-0 , Real Sociedad
+26 , Atlético Madrid , 4-1 , CE Sabadell FC
+27 , Atlético Madrid , 4-1 , Sevilla CF
+28 , Atlético Madrid , 3-0 , Valencia CF
+29 , Atlético Madrid , 3-0 , Zaragoza
+30 , CF Barcelona , 0-1 , Atlético Bilbao
+31 , CF Barcelona , 2-0 , Atlético Madrid
+32 , CF Barcelona , 2-1 , Celta de Vigo
+33 , CF Barcelona , 0-0 , Elche CF
+34 , CF Barcelona , 3-0 , RCD Español
+35 , CF Barcelona , 2-1 , Granada CF
+36 , CF Barcelona , 2-0 , UD Las Palmas
+37 , CF Barcelona , 1-0 , CD Málaga
+38 , CF Barcelona , 2-0 , Real Gijón
+39 , CF Barcelona , 0-1 , Real Madrid
+40 , CF Barcelona , 4-0 , Real Sociedad
+41 , CF Barcelona , 4-1 , CE Sabadell FC
+42 , CF Barcelona , 5-2 , Sevilla CF
+43 , CF Barcelona , 0-2 , Valencia CF
+44 , CF Barcelona , 5-2 , Zaragoza
+45 , Celta de Vigo , 2-1 , Atlético Bilbao
+46 , Celta de Vigo , 3-2 , Atlético Madrid
+47 , Celta de Vigo , 1-1 , CF Barcelona
+48 , Celta de Vigo , 3-0 , Elche CF
+49 , Celta de Vigo , 1-0 , RCD Español
+50 , Celta de Vigo , 2-0 , Granada CF
+51 , Celta de Vigo , 1-0 , UD Las Palmas
+52 , Celta de Vigo , 0-0 , CD Málaga
+53 , Celta de Vigo , 2-0 , Real Gijón
+54 , Celta de Vigo , 2-0 , Real Madrid
+55 , Celta de Vigo , 0-0 , Real Sociedad
+56 , Celta de Vigo , 1-0 , CE Sabadell FC
+57 , Celta de Vigo , 2-0 , Sevilla CF
+58 , Celta de Vigo , 1-0 , Valencia CF
+59 , Celta de Vigo , 2-0 , Zaragoza
+60 , Elche CF , 1-1 , Atlético Bilbao
+61 , Elche CF , 0-4 , Atlético Madrid
+62 , Elche CF , 0-1 , CF Barcelona
+63 , Elche CF , 1-1 , Celta de Vigo
+64 , Elche CF , 1-1 , RCD Español
+65 , Elche CF , 1-1 , Granada CF
+66 , Elche CF , 2-0 , UD Las Palmas
+67 , Elche CF , 1-1 , CD Málaga
+68 , Elche CF , 5-0 , Real Gijón
+69 , Elche CF , 0-1 , Real Madrid
+70 , Elche CF , 1-2 , Real Sociedad
+71 , Elche CF , 0-0 , CE Sabadell FC
+72 , Elche CF , 1-0 , Sevilla CF
+73 , Elche CF , 1-3 , Valencia CF
+74 , Elche CF , 2-1 , Zaragoza
+75 , RCD Español , 1-0 , Atlético Bilbao
+76 , RCD Español , 0-0 , Atlético Madrid
+77 , RCD Español , 0-1 , CF Barcelona
+78 , RCD Español , 0-1 , Celta de Vigo
+79 , RCD Español , 2-0 , Elche CF
+80 , RCD Español , 1-0 , Granada CF
+81 , RCD Español , 2-1 , UD Las Palmas
+82 , RCD Español , 1-1 , CD Málaga
+83 , RCD Español , 2-0 , Real Gijón
+84 , RCD Español , 0-1 , Real Madrid
+85 , RCD Español , 0-0 , Real Sociedad
+86 , RCD Español , 3-1 , CE Sabadell FC
+87 , RCD Español , 0-1 , Sevilla CF
+88 , RCD Español , 1-0 , Valencia CF
+89 , RCD Español , 0-0 , Zaragoza
+90 , Granada CF , 2-2 , Atlético Bilbao
+91 , Granada CF , 0-0 , Atlético Madrid
+92 , Granada CF , 0-2 , CF Barcelona
+93 , Granada CF , 1-0 , Celta de Vigo
+94 , Granada CF , 3-1 , Elche CF
+95 , Granada CF , 1-0 , RCD Español
+96 , Granada CF , 1-0 , UD Las Palmas
+97 , Granada CF , 1-1 , CD Málaga
+98 , Granada CF , 3-0 , Real Gijón
+99 , Granada CF , 2-0 , Real Madrid
+100 , Granada CF , 2-0 , Real Sociedad
+101 , Granada CF , 3-1 , CE Sabadell FC
+102 , Granada CF , 0-0 , Sevilla CF
+103 , Granada CF , 2-2 , Valencia CF
+104 , Granada CF , 3-0 , Zaragoza
+105 , UD Las Palmas , 1-1 , Atlético Bilbao
+106 , UD Las Palmas , 1-1 , Atlético Madrid
+107 , UD Las Palmas , 3-2 , CF Barcelona
+108 , UD Las Palmas , 1-2 , Celta de Vigo
+109 , UD Las Palmas , 2-2 , Elche CF
+110 , UD Las Palmas , 0-0 , RCD Español
+111 , UD Las Palmas , 2-0 , Granada CF
+112 , UD Las Palmas , 1-2 , CD Málaga
+113 , UD Las Palmas , 1-2 , Real Gijón
+114 , UD Las Palmas , 0-0 , Real Madrid
+115 , UD Las Palmas , 4-2 , Real Sociedad
+116 , UD Las Palmas , 5-0 , CE Sabadell FC
+117 , UD Las Palmas , 0-0 , Sevilla CF
+118 , UD Las Palmas , 0-0 , Valencia CF
+119 , UD Las Palmas , 4-0 , Zaragoza
+120 , CD Málaga , 3-3 , Atlético Bilbao
+121 , CD Málaga , 0-0 , Atlético Madrid
+122 , CD Málaga , 0-1 , CF Barcelona
+123 , CD Málaga , 2-1 , Celta de Vigo
+124 , CD Málaga , 1-0 , Elche CF
+125 , CD Málaga , 0-0 , RCD Español
+126 , CD Málaga , 1-0 , Granada CF
+127 , CD Málaga , 1-1 , UD Las Palmas
+128 , CD Málaga , 3-0 , Real Gijón
+129 , CD Málaga , 0-2 , Real Madrid
+130 , CD Málaga , 0-0 , Real Sociedad
+131 , CD Málaga , 1-0 , CE Sabadell FC
+132 , CD Málaga , 1-1 , Sevilla CF
+133 , CD Málaga , 0-1 , Valencia CF
+134 , CD Málaga , 1-0 , Zaragoza
+135 , Real Gijón , 3-1 , Atlético Bilbao
+136 , Real Gijón , 1-1 , Atlético Madrid
+137 , Real Gijón , 0-2 , CF Barcelona
+138 , Real Gijón , 4-0 , Celta de Vigo
+139 , Real Gijón , 3-1 , Elche CF
+140 , Real Gijón , 0-1 , RCD Español
+141 , Real Gijón , 3-2 , Granada CF
+142 , Real Gijón , 2-0 , UD Las Palmas
+143 , Real Gijón , 3-0 , CD Málaga
+144 , Real Gijón , 0-1 , Real Madrid
+145 , Real Gijón , 2-0 , Real Sociedad
+146 , Real Gijón , 3-2 , CE Sabadell FC
+147 , Real Gijón , 4-0 , Sevilla CF
+148 , Real Gijón , 0-1 , Valencia CF
+149 , Real Gijón , 1-1 , Zaragoza
+150 , Real Madrid , 1-2 , Atlético Bilbao
+151 , Real Madrid , 1-0 , Atlético Madrid
+152 , Real Madrid , 0-1 , CF Barcelona
+153 , Real Madrid , 4-0 , Celta de Vigo
+154 , Real Madrid , 1-1 , Elche CF
+155 , Real Madrid , 1-0 , RCD Español
+156 , Real Madrid , 3-2 , Granada CF
+157 , Real Madrid , 4-2 , UD Las Palmas
+158 , Real Madrid , 2-2 , CD Málaga
+159 , Real Madrid , 1-1 , Real Gijón
+160 , Real Madrid , 1-0 , Real Sociedad
+161 , Real Madrid , 3-1 , CE Sabadell FC
+162 , Real Madrid , 4-0 , Sevilla CF
+163 , Real Madrid , 2-0 , Valencia CF
+164 , Real Madrid , 2-1 , Zaragoza
+165 , Real Sociedad , 2-1 , Atlético Bilbao
+166 , Real Sociedad , 0-1 , Atlético Madrid
+167 , Real Sociedad , 1-0 , CF Barcelona
+168 , Real Sociedad , 1-3 , Celta de Vigo
+169 , Real Sociedad , 2-0 , Elche CF
+170 , Real Sociedad , 1-0 , RCD Español
+171 , Real Sociedad , 1-1 , Granada CF
+172 , Real Sociedad , 1-0 , UD Las Palmas
+173 , Real Sociedad , 1-2 , CD Málaga
+174 , Real Sociedad , 3-1 , Real Gijón
+175 , Real Sociedad , 0-0 , Real Madrid
+176 , Real Sociedad , 2-0 , CE Sabadell FC
+177 , Real Sociedad , 1-0 , Sevilla CF
+178 , Real Sociedad , 0-0 , Valencia CF
+179 , Real Sociedad , 2-0 , Zaragoza
+180 , CE Sabadell FC , 1-0 , Atlético Bilbao
+181 , CE Sabadell FC , 0-2 , Atlético Madrid
+182 , CE Sabadell FC , 2-1 , CF Barcelona
+183 , CE Sabadell FC , 3-2 , Celta de Vigo
+184 , CE Sabadell FC , 1-0 , Elche CF
+185 , CE Sabadell FC , 0-0 , RCD Español
+186 , CE Sabadell FC , 0-1 , Granada CF
+187 , CE Sabadell FC , 0-0 , UD Las Palmas
+188 , CE Sabadell FC , 5-2 , CD Málaga
+189 , CE Sabadell FC , 2-1 , Real Gijón
+190 , CE Sabadell FC , 1-1 , Real Madrid
+191 , CE Sabadell FC , 0-0 , Real Sociedad
+192 , CE Sabadell FC , 2-1 , Sevilla CF
+193 , CE Sabadell FC , 0-1 , Valencia CF
+194 , CE Sabadell FC , 2-1 , Zaragoza
+195 , Sevilla CF , 3-2 , Atlético Bilbao
+196 , Sevilla CF , 1-1 , Atlético Madrid
+197 , Sevilla CF , 0-1 , CF Barcelona
+198 , Sevilla CF , 2-1 , Celta de Vigo
+199 , Sevilla CF , 2-1 , Elche CF
+200 , Sevilla CF , 1-0 , RCD Español
+201 , Sevilla CF , 1-0 , Granada CF
+202 , Sevilla CF , 3-1 , UD Las Palmas
+203 , Sevilla CF , 1-0 , CD Málaga
+204 , Sevilla CF , 1-1 , Real Gijón
+205 , Sevilla CF , 3-1 , Real Madrid
+206 , Sevilla CF , 1-0 , Real Sociedad
+207 , Sevilla CF , 1-0 , CE Sabadell FC
+208 , Sevilla CF , 2-2 , Valencia CF
+209 , Sevilla CF , 4-2 , Zaragoza
+210 , Valencia CF , 4-0 , Atlético Bilbao
+211 , Valencia CF , 1-0 , Atlético Madrid
+212 , Valencia CF , 1-1 , CF Barcelona
+213 , Valencia CF , 2-1 , Celta de Vigo
+214 , Valencia CF , 3-0 , Elche CF
+215 , Valencia CF , 2-1 , RCD Español
+216 , Valencia CF , 2-1 , Granada CF
+217 , Valencia CF , 5-1 , UD Las Palmas
+218 , Valencia CF , 1-0 , CD Málaga
+219 , Valencia CF , 1-0 , Real Gijón
+220 , Valencia CF , 1-0 , Real Madrid
+221 , Valencia CF , 0-0 , Real Sociedad
+222 , Valencia CF , 2-1 , CE Sabadell FC
+223 , Valencia CF , 0-1 , Sevilla CF
+224 , Valencia CF , 2-0 , Zaragoza
+225 , Zaragoza , 1-2 , Atlético Bilbao
+226 , Zaragoza , 0-1 , Atlético Madrid
+227 , Zaragoza , 1-2 , CF Barcelona
+228 , Zaragoza , 0-0 , Celta de Vigo
+229 , Zaragoza , 1-1 , Elche CF
+230 , Zaragoza , 2-2 , RCD Español
+231 , Zaragoza , 0-0 , Granada CF
+232 , Zaragoza , 1-1 , UD Las Palmas
+233 , Zaragoza , 0-0 , CD Málaga
+234 , Zaragoza , 0-0 , Real Gijón
+235 , Zaragoza , 0-5 , Real Madrid
+236 , Zaragoza , 1-0 , Real Sociedad
+237 , Zaragoza , 3-1 , CE Sabadell FC
+238 , Zaragoza , 4-1 , Sevilla CF
+239 , Zaragoza , 0-2 , Valencia CF
+shortNames:,,ATB,ATM,BAR,CEL,ELC,ESP,GRA,LPA,MLG,RGI,RMA,RSO,SAB,SEV,VAL,ZAR
+fullNames:,,Atlético Bilbao,Atlético Madrid,CF Barcelona,Celta de Vigo,Elche CF,RCD Español,Granada CF,UD Las Palmas,CD Málaga,Real Gijón,Real Madrid,Real Sociedad,CE Sabadell FC,Sevilla CF,Valencia CF,Zaragoza

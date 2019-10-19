@@ -1,0 +1,92 @@
+0 , Arenas Club , 3-3 , Athletic Bilbao
+1 , Arenas Club , 2-1 , Athletic Club de Madrid
+2 , Arenas Club , 1-3 , FC Barcelona
+3 , Arenas Club , 2-0 , RCD Español
+4 , Arenas Club , 2-3 , CD Europa
+5 , Arenas Club , 5-1 , Real Santander
+6 , Arenas Club , 5-1 , Real Madrid
+7 , Arenas Club , 3-1 , Real Sociedad
+8 , Arenas Club , 7-2 , Real Unión
+9 , Athletic Bilbao , 5-2 , Arenas Club
+10 , Athletic Bilbao , 6-1 , Athletic Club de Madrid
+11 , Athletic Bilbao , 4-3 , FC Barcelona
+12 , Athletic Bilbao , 6-0 , RCD Español
+13 , Athletic Bilbao , 3-0 , CD Europa
+14 , Athletic Bilbao , 4-0 , Real Santander
+15 , Athletic Bilbao , 2-1 , Real Madrid
+16 , Athletic Bilbao , 2-2 , Real Sociedad
+17 , Athletic Bilbao , 5-2 , Real Unión
+18 , Athletic Club de Madrid , 1-3 , Arenas Club
+19 , Athletic Club de Madrid , 3-4 , Athletic Bilbao
+20 , Athletic Club de Madrid , 3-2 , FC Barcelona
+21 , Athletic Club de Madrid , 2-0 , RCD Español
+22 , Athletic Club de Madrid , 5-3 , CD Europa
+23 , Athletic Club de Madrid , 3-1 , Real Santander
+24 , Athletic Club de Madrid , 2-1 , Real Madrid
+25 , Athletic Club de Madrid , 1-1 , Real Sociedad
+26 , Athletic Club de Madrid , 3-3 , Real Unión
+27 , FC Barcelona , 3-1 , Arenas Club
+28 , FC Barcelona , 1-1 , Athletic Bilbao
+29 , FC Barcelona , 4-2 , Athletic Club de Madrid
+30 , FC Barcelona , 5-4 , RCD Español
+31 , FC Barcelona , 2-1 , CD Europa
+32 , FC Barcelona , 5-0 , Real Santander
+33 , FC Barcelona , 1-4 , Real Madrid
+34 , FC Barcelona , 3-0 , Real Sociedad
+35 , FC Barcelona , 4-2 , Real Unión
+36 , RCD Español , 1-0 , Arenas Club
+37 , RCD Español , 2-2 , Athletic Bilbao
+38 , RCD Español , 1-0 , Athletic Club de Madrid
+39 , RCD Español , 4-0 , FC Barcelona
+40 , RCD Español , 1-2 , CD Europa
+41 , RCD Español , 3-0 , Real Santander
+42 , RCD Español , 8-1 , Real Madrid
+43 , RCD Español , 3-1 , Real Sociedad
+44 , RCD Español , 3-1 , Real Unión
+45 , CD Europa , 1-2 , Arenas Club
+46 , CD Europa , 2-2 , Athletic Bilbao
+47 , CD Europa , 2-0 , Athletic Club de Madrid
+48 , CD Europa , 0-3 , FC Barcelona
+49 , CD Europa , 1-2 , RCD Español
+50 , CD Europa , 5-0 , Real Santander
+51 , CD Europa , 1-2 , Real Madrid
+52 , CD Europa , 3-2 , Real Sociedad
+53 , CD Europa , 0-1 , Real Unión
+54 , Real Santander , 2-5 , Arenas Club
+55 , Real Santander , 2-3 , Athletic Bilbao
+56 , Real Santander , 3-2 , Athletic Club de Madrid
+57 , Real Santander , 2-1 , FC Barcelona
+58 , Real Santander , 4-1 , RCD Español
+59 , Real Santander , 6-0 , CD Europa
+60 , Real Santander , 2-0 , Real Madrid
+61 , Real Santander , 2-0 , Real Sociedad
+62 , Real Santander , 4-2 , Real Unión
+63 , Real Madrid , 5-2 , Arenas Club
+64 , Real Madrid , 2-3 , Athletic Bilbao
+65 , Real Madrid , 4-1 , Athletic Club de Madrid
+66 , Real Madrid , 5-1 , FC Barcelona
+67 , Real Madrid , 2-4 , RCD Español
+68 , Real Madrid , 6-1 , CD Europa
+69 , Real Madrid , 6-0 , Real Santander
+70 , Real Madrid , 1-1 , Real Sociedad
+71 , Real Madrid , 2-2 , Real Unión
+72 , Real Sociedad , 4-4 , Arenas Club
+73 , Real Sociedad , 1-7 , Athletic Bilbao
+74 , Real Sociedad , 2-0 , Athletic Club de Madrid
+75 , Real Sociedad , 1-2 , FC Barcelona
+76 , Real Sociedad , 1-0 , RCD Español
+77 , Real Sociedad , 2-0 , CD Europa
+78 , Real Sociedad , 7-0 , Real Santander
+79 , Real Sociedad , 4-0 , Real Madrid
+80 , Real Sociedad , 2-3 , Real Unión
+81 , Real Unión , 3-2 , Arenas Club
+82 , Real Unión , 1-1 , Athletic Bilbao
+83 , Real Unión , 8-2 , Athletic Club de Madrid
+84 , Real Unión , 1-3 , FC Barcelona
+85 , Real Unión , 3-3 , RCD Español
+86 , Real Unión , 3-4 , CD Europa
+87 , Real Unión , 6-3 , Real Santander
+88 , Real Unión , 2-2 , Real Madrid
+89 , Real Unión , 3-2 , Real Sociedad
+shortNames:,,Are,Ath,AtM,Bar,Esp,Eur,Rac,Mad,RSo,RIr
+fullNames:,,Arenas Club,Athletic Bilbao,Athletic Club de Madrid,FC Barcelona,RCD Español,CD Europa,Real Santander,Real Madrid,Real Sociedad,Real Unión

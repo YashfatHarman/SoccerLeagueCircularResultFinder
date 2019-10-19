@@ -1,0 +1,706 @@
+Hello World
+<table class="wikitable">
+<tr style="background:#eeeeee;">
+<td></td>
+<th><a href="/wiki/AD_Almer%C3%ADa" title="AD Almería">ALM</a></th>
+<th><a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">ATH</a></th>
+<th><a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">ATM</a></th>
+<th><a href="/wiki/FC_Barcelona" title="FC Barcelona">BAR</a></th>
+<th><a href="/wiki/Real_Betis" title="Real Betis">BET</a></th>
+<th><a href="/wiki/Burgos_CF_(I)" title="Burgos CF (I)">BUR</a></th>
+<th><a href="/wiki/RCD_Espanyol" title="RCD Espanyol">ESP</a></th>
+<th><a href="/wiki/H%C3%A9rcules_CF" title="Hércules CF">HÉR</a></th>
+<th><a href="/wiki/UD_Las_Palmas" title="UD Las Palmas">LPA</a></th>
+<th><a href="/wiki/CD_M%C3%A1laga" title="CD Málaga">MLG</a></th>
+<th><a href="/wiki/Rayo_Vallecano" title="Rayo Vallecano">RAY</a></th>
+<th><a href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">RMA</a></th>
+<th><a href="/wiki/Real_Sociedad" title="Real Sociedad">RSO</a></th>
+<th><a href="/wiki/UD_Salamanca" title="UD Salamanca">SAL</a></th>
+<th><a href="/wiki/Sevilla_FC" title="Sevilla FC">SEV</a></th>
+<th><a href="/wiki/Sporting_de_Gij%C3%B3n" title="Sporting de Gijón">SPG</a></th>
+<th><a href="/wiki/Valencia_CF" title="Valencia CF">VAL</a></th>
+<th><a href="/wiki/Real_Zaragoza" title="Real Zaragoza">ZAR</a></th>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/AD_Almer%C3%ADa" title="AD Almería">AD Almería</a></b></td>
+<td style="background:#98A1B2"></td>
+<td>4-2</td>
+<td>2-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>2-0</td>
+<td>1-1</td>
+<td>2-0</td>
+<td>3-0</td>
+<td>3-2</td>
+<td>3-3</td>
+<td>1-1</td>
+<td>0-0</td>
+<td>2-0</td>
+<td>2-2</td>
+<td>0-0</td>
+<td>1-0</td>
+<td>1-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Athletic_Bilbao" title="Athletic Bilbao">Athletic Bilbao</a></b></td>
+<td>3-0</td>
+<td style="background:#98A1B2"></td>
+<td>2-1</td>
+<td>2-1</td>
+<td>2-2</td>
+<td>1-0</td>
+<td>2-0</td>
+<td>2-1</td>
+<td>3-0</td>
+<td>3-1</td>
+<td>4-1</td>
+<td>3-0</td>
+<td>0-1</td>
+<td>2-0</td>
+<td>4-3</td>
+<td>2-3</td>
+<td>4-0</td>
+<td>3-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Atl%C3%A9tico_Madrid" title="Atlético Madrid">Atlético Madrid</a></b></td>
+<td>4-1</td>
+<td>0-1</td>
+<td style="background:#98A1B2"></td>
+<td>2-1</td>
+<td>3-1</td>
+<td>1-0</td>
+<td>1-1</td>
+<td>2-1</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>2-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>0-1</td>
+<td>3-2</td>
+<td>1-3</td>
+<td>0-1</td>
+<td>3-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/FC_Barcelona" title="FC Barcelona">FC Barcelona</a></b></td>
+<td>2-0</td>
+<td>1-0</td>
+<td>1-0</td>
+<td style="background:#98A1B2"></td>
+<td>5-0</td>
+<td>1-0</td>
+<td>3-1</td>
+<td>2-0</td>
+<td>1-0</td>
+<td>3-0</td>
+<td>2-1</td>
+<td>0-2</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>2-1</td>
+<td>2-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Real_Betis" title="Real Betis">Betis</a></b></td>
+<td>0-0</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>2-1</td>
+<td style="background:#98A1B2"></td>
+<td>3-1</td>
+<td>2-0</td>
+<td>2-0</td>
+<td>3-0</td>
+<td>2-1</td>
+<td>1-2</td>
+<td>2-3</td>
+<td>1-1</td>
+<td>2-0</td>
+<td>4-0</td>
+<td>1-0</td>
+<td>3-0</td>
+<td>1-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Burgos_CF_(I)" title="Burgos CF (I)">Burgos</a></b></td>
+<td>2-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>0-0</td>
+<td>1-1</td>
+<td style="background:#98A1B2"></td>
+<td>0-0</td>
+<td>1-1</td>
+<td>2-2</td>
+<td>1-0</td>
+<td>1-1</td>
+<td>1-2</td>
+<td>1-3</td>
+<td>2-0</td>
+<td>1-0</td>
+<td>0-3</td>
+<td>1-1</td>
+<td>0-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/RCD_Espanyol" title="RCD Espanyol">RCD Español</a></b></td>
+<td>5-2</td>
+<td>0-0</td>
+<td>0-1</td>
+<td>2-0</td>
+<td>0-0</td>
+<td>1-0</td>
+<td style="background:#98A1B2"></td>
+<td>0-0</td>
+<td>0-1</td>
+<td>1-1</td>
+<td>1-0</td>
+<td>0-0</td>
+<td>1-2</td>
+<td>1-1</td>
+<td>1-0</td>
+<td>1-0</td>
+<td>1-1</td>
+<td>2-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/H%C3%A9rcules_CF" title="Hércules CF">Hércules CF</a></b></td>
+<td>4-0</td>
+<td>2-1</td>
+<td>2-3</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>3-0</td>
+<td>0-1</td>
+<td style="background:#98A1B2"></td>
+<td>1-0</td>
+<td>1-0</td>
+<td>2-2</td>
+<td>0-0</td>
+<td>0-0</td>
+<td>4-0</td>
+<td>0-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>3-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/UD_Las_Palmas" title="UD Las Palmas">UD Las Palmas</a></b></td>
+<td>3-2</td>
+<td>1-1</td>
+<td>4-2</td>
+<td>0-1</td>
+<td>1-0</td>
+<td>2-1</td>
+<td>1-0</td>
+<td>2-1</td>
+<td style="background:#98A1B2"></td>
+<td>1-1</td>
+<td>3-0</td>
+<td>1-2</td>
+<td>2-2</td>
+<td>1-0</td>
+<td>2-0</td>
+<td>4-2</td>
+<td>2-1</td>
+<td>0-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/CD_M%C3%A1laga" title="CD Málaga">CD Málaga</a></b></td>
+<td>0-1<sup><span style="color:red;">3</span></sup></td>
+<td>1-0</td>
+<td>1-0</td>
+<td>0-0</td>
+<td>1-0</td>
+<td>3-1</td>
+<td>1-2</td>
+<td>0-2</td>
+<td>1-0</td>
+<td style="background:#98A1B2"></td>
+<td>1-3</td>
+<td>1-4</td>
+<td>0-0</td>
+<td><sup><span style="color:red;">2</span></sup></td>
+<td>2-1</td>
+<td>0-3</td>
+<td>2-1</td>
+<td>1-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Rayo_Vallecano" title="Rayo Vallecano">Rayo Vallecano</a></b></td>
+<td>1-2</td>
+<td>2-1</td>
+<td>4-1</td>
+<td>0-0</td>
+<td>0-1</td>
+<td>5-2</td>
+<td>2-2</td>
+<td>2-1</td>
+<td>1-0</td>
+<td>5-1</td>
+<td style="background:#98A1B2"></td>
+<td>1-2</td>
+<td>1-1</td>
+<td>1-2</td>
+<td>1-1</td>
+<td>1-2</td>
+<td>1-0</td>
+<td>0-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Real_Madrid_C.F." title="Real Madrid C.F.">Real Madrid</a></b></td>
+<td>4-1</td>
+<td>3-1</td>
+<td>4-0</td>
+<td>3-2</td>
+<td>1-1</td>
+<td>2-1</td>
+<td>2-0</td>
+<td>5-0</td>
+<td>3-1</td>
+<td>2-1</td>
+<td>7-0</td>
+<td style="background:#98A1B2"></td>
+<td>2-2</td>
+<td>2-0</td>
+<td>2-0</td>
+<td>1-0</td>
+<td>3-1</td>
+<td>3-2</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Real_Sociedad" title="Real Sociedad">Real Sociedad</a></b></td>
+<td>1-0</td>
+<td>4-0</td>
+<td>2-0</td>
+<td>4-3</td>
+<td>0-0</td>
+<td>2-2</td>
+<td>1-0</td>
+<td>1-1</td>
+<td>1-0</td>
+<td>3-1</td>
+<td>4-0</td>
+<td>4-0</td>
+<td style="background:#98A1B2"></td>
+<td>1-0</td>
+<td>2-0</td>
+<td>4-1</td>
+<td>0-0</td>
+<td>2-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/UD_Salamanca" title="UD Salamanca">UD Salamanca</a></b></td>
+<td>2-1</td>
+<td>2-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>3-0</td>
+<td>1-3</td>
+<td>2-0</td>
+<td>2-1</td>
+<td>2-0</td>
+<td>3-0</td>
+<td>3-0</td>
+<td>1-1</td>
+<td>0-1</td>
+<td style="background:#98A1B2"></td>
+<td>2-1</td>
+<td>0-1</td>
+<td>1-1</td>
+<td>0-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Sevilla_FC" title="Sevilla FC">Sevilla FC</a></b></td>
+<td>3-1</td>
+<td>3-1</td>
+<td>2-2</td>
+<td>3-1</td>
+<td>2-1</td>
+<td>6-1</td>
+<td>2-1</td>
+<td>2-1</td>
+<td>0-1</td>
+<td>3-1</td>
+<td>1-1</td>
+<td>1-1</td>
+<td>2-1</td>
+<td>2-0</td>
+<td style="background:#98A1B2"></td>
+<td>1-0</td>
+<td>2-1</td>
+<td>2-1</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Sporting_de_Gij%C3%B3n" title="Sporting de Gijón">Sporting de Gijón</a></b></td>
+<td>1-0</td>
+<td>2-0</td>
+<td>0-0</td>
+<td>4-1</td>
+<td>3-1</td>
+<td>2-0</td>
+<td>2-0</td>
+<td>0-0</td>
+<td>4-1</td>
+<td>0-1</td>
+<td>1-0</td>
+<td>1-1</td>
+<td>0-1</td>
+<td>0-0</td>
+<td>2-1</td>
+<td style="background:#98A1B2"></td>
+<td>4-2</td>
+<td>1-4</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Valencia_CF" title="Valencia CF">Valencia CF</a></b></td>
+<td>1-1</td>
+<td>2-0</td>
+<td>2-1</td>
+<td>1-1</td>
+<td>2-2</td>
+<td>3-1</td>
+<td>5-1</td>
+<td>0-0</td>
+<td>4-0</td>
+<td>3-1</td>
+<td>2-1</td>
+<td>2-0</td>
+<td>0-0</td>
+<td>2-2</td>
+<td>2-1</td>
+<td>3-1</td>
+<td style="background:#98A1B2"></td>
+<td>3-0</td>
+</tr>
+<tr align="center">
+<td align="right" style="background:#eeeeee;"><b><a href="/wiki/Real_Zaragoza" title="Real Zaragoza">Zaragoza</a></b></td>
+<td>0-0</td>
+<td>1-0</td>
+<td>0-0</td>
+<td>2-2</td>
+<td>5-1</td>
+<td>5-0</td>
+<td>1-1</td>
+<td>1-0</td>
+<td>4-0</td>
+<td>3-1</td>
+<td>3-2</td>
+<td>0-1</td>
+<td>0-2</td>
+<td>1-2</td>
+<td>1-0</td>
+<td>1-0</td>
+<td>1-1</td>
+<td style="background:#98A1B2"></td>
+</tr>
+</table>
+score:  4-2
+score:  2-1
+score:  1-1
+score:  1-1
+score:  2-0
+score:  1-1
+score:  2-0
+score:  3-0
+score:  3-2
+score:  3-3
+score:  1-1
+score:  0-0
+score:  2-0
+score:  2-2
+score:  0-0
+score:  1-0
+score:  1-0
+score:  3-0
+score:  2-1
+score:  2-1
+score:  2-2
+score:  1-0
+score:  2-0
+score:  2-1
+score:  3-0
+score:  3-1
+score:  4-1
+score:  3-0
+score:  0-1
+score:  2-0
+score:  4-3
+score:  2-3
+score:  4-0
+score:  3-1
+score:  4-1
+score:  0-1
+score:  2-1
+score:  3-1
+score:  1-0
+score:  1-1
+score:  2-1
+score:  0-0
+score:  0-0
+score:  2-1
+score:  1-1
+score:  1-1
+score:  0-1
+score:  3-2
+score:  1-3
+score:  0-1
+score:  3-0
+score:  2-0
+score:  1-0
+score:  1-0
+score:  5-0
+score:  1-0
+score:  3-1
+score:  2-0
+score:  1-0
+score:  3-0
+score:  2-1
+score:  0-2
+score:  0-0
+score:  0-0
+score:  0-0
+score:  0-0
+score:  2-1
+score:  2-0
+score:  0-0
+score:  0-0
+score:  0-0
+score:  2-1
+score:  3-1
+score:  2-0
+score:  2-0
+score:  3-0
+score:  2-1
+score:  1-2
+score:  2-3
+score:  1-1
+score:  2-0
+score:  4-0
+score:  1-0
+score:  3-0
+score:  1-0
+score:  2-1
+score:  1-1
+score:  1-1
+score:  0-0
+score:  1-1
+score:  0-0
+score:  1-1
+score:  2-2
+score:  1-0
+score:  1-1
+score:  1-2
+score:  1-3
+score:  2-0
+score:  1-0
+score:  0-3
+score:  1-1
+score:  0-1
+score:  5-2
+score:  0-0
+score:  0-1
+score:  2-0
+score:  0-0
+score:  1-0
+score:  0-0
+score:  0-1
+score:  1-1
+score:  1-0
+score:  0-0
+score:  1-2
+score:  1-1
+score:  1-0
+score:  1-0
+score:  1-1
+score:  2-0
+score:  4-0
+score:  2-1
+score:  2-3
+score:  1-1
+score:  1-1
+score:  3-0
+score:  0-1
+score:  1-0
+score:  1-0
+score:  2-2
+score:  0-0
+score:  0-0
+score:  4-0
+score:  0-1
+score:  1-1
+score:  1-1
+score:  3-1
+score:  3-2
+score:  1-1
+score:  4-2
+score:  0-1
+score:  1-0
+score:  2-1
+score:  1-0
+score:  2-1
+score:  1-1
+score:  3-0
+score:  1-2
+score:  2-2
+score:  1-0
+score:  2-0
+score:  4-2
+score:  2-1
+score:  0-0
+score:  1-0
+score:  1-0
+score:  0-0
+score:  1-0
+score:  3-1
+score:  1-2
+score:  0-2
+score:  1-0
+score:  1-3
+score:  1-4
+score:  0-0
+score:  2-1
+score:  0-3
+score:  2-1
+score:  1-1
+score:  1-2
+score:  2-1
+score:  4-1
+score:  0-0
+score:  0-1
+score:  5-2
+score:  2-2
+score:  2-1
+score:  1-0
+score:  5-1
+score:  1-2
+score:  1-1
+score:  1-2
+score:  1-1
+score:  1-2
+score:  1-0
+score:  0-1
+score:  4-1
+score:  3-1
+score:  4-0
+score:  3-2
+score:  1-1
+score:  2-1
+score:  2-0
+score:  5-0
+score:  3-1
+score:  2-1
+score:  7-0
+score:  2-2
+score:  2-0
+score:  2-0
+score:  1-0
+score:  3-1
+score:  3-2
+score:  1-0
+score:  4-0
+score:  2-0
+score:  4-3
+score:  0-0
+score:  2-2
+score:  1-0
+score:  1-1
+score:  1-0
+score:  3-1
+score:  4-0
+score:  4-0
+score:  1-0
+score:  2-0
+score:  4-1
+score:  0-0
+score:  2-1
+score:  2-1
+score:  2-1
+score:  1-1
+score:  1-1
+score:  3-0
+score:  1-3
+score:  2-0
+score:  2-1
+score:  2-0
+score:  3-0
+score:  3-0
+score:  1-1
+score:  0-1
+score:  2-1
+score:  0-1
+score:  1-1
+score:  0-1
+score:  3-1
+score:  3-1
+score:  2-2
+score:  3-1
+score:  2-1
+score:  6-1
+score:  2-1
+score:  2-1
+score:  0-1
+score:  3-1
+score:  1-1
+score:  1-1
+score:  2-1
+score:  2-0
+score:  1-0
+score:  2-1
+score:  2-1
+score:  1-0
+score:  2-0
+score:  0-0
+score:  4-1
+score:  3-1
+score:  2-0
+score:  2-0
+score:  0-0
+score:  4-1
+score:  0-1
+score:  1-0
+score:  1-1
+score:  0-1
+score:  0-0
+score:  2-1
+score:  4-2
+score:  1-4
+score:  1-1
+score:  2-0
+score:  2-1
+score:  1-1
+score:  2-2
+score:  3-1
+score:  5-1
+score:  0-0
+score:  4-0
+score:  3-1
+score:  2-1
+score:  2-0
+score:  0-0
+score:  2-2
+score:  2-1
+score:  3-1
+score:  3-0
+score:  0-0
+score:  1-0
+score:  0-0
+score:  2-2
+score:  5-1
+score:  5-0
+score:  1-1
+score:  1-0
+score:  4-0
+score:  3-1
+score:  3-2
+score:  0-1
+score:  0-2
+score:  1-2
+score:  1-0
+score:  1-0
+score:  1-1

@@ -1,0 +1,242 @@
+0 , Ambrosiana-Inter , 5-3 , Bari
+1 , Ambrosiana-Inter , 2-0 , Bologna
+2 , Ambrosiana-Inter , 1-0 , Genova 1893
+3 , Ambrosiana-Inter , 5-0 , Juventus
+4 , Ambrosiana-Inter , 1-1 , Lazio
+5 , Ambrosiana-Inter , 5-2 , Liguria
+6 , Ambrosiana-Inter , 3-1 , Livorno
+7 , Ambrosiana-Inter , 7-1 , Lucchese
+8 , Ambrosiana-Inter , 1-0 , Milano
+9 , Ambrosiana-Inter , 4-2 , Modena
+10 , Ambrosiana-Inter , 1-2 , Napoli
+11 , Ambrosiana-Inter , 3-1 , Novara
+12 , Ambrosiana-Inter , 0-0 , Roma
+13 , Ambrosiana-Inter , 1-1 , Torino
+14 , Ambrosiana-Inter , 0-0 , Triestina
+15 , Bari , 4-1 , Ambrosiana-Inter
+16 , Bari , 2-2 , Bologna
+17 , Bari , 0-0 , Genova 1893
+18 , Bari , 1-1 , Juventus
+19 , Bari , 2-1 , Lazio
+20 , Bari , 2-1 , Liguria
+21 , Bari , 2-0 , Livorno
+22 , Bari , 1-1 , Lucchese
+23 , Bari , 2-1 , Milano
+24 , Bari , 1-0 , Modena
+25 , Bari , 1-1 , Napoli
+26 , Bari , 1-0 , Novara
+27 , Bari , 3-1 , Roma
+28 , Bari , 0-0 , Torino
+29 , Bari , 0-0 , Triestina
+30 , Bologna , 1-1 , Ambrosiana-Inter
+31 , Bologna , 4-3 , Bari
+32 , Bologna , 3-0 , Genova 1893
+33 , Bologna , 1-0 , Juventus
+34 , Bologna , 2-0 , Lazio
+35 , Bologna , 1-1 , Liguria
+36 , Bologna , 1-1 , Livorno
+37 , Bologna , 2-2 , Lucchese
+38 , Bologna , 2-1 , Milano
+39 , Bologna , 1-1 , Modena
+40 , Bologna , 4-0 , Napoli
+41 , Bologna , 3-0 , Novara
+42 , Bologna , 1-0 , Roma
+43 , Bologna , 0-3 , Torino
+44 , Bologna , 2-0 , Triestina
+45 , Genova 1893 , 3-0 , Ambrosiana-Inter
+46 , Genova 1893 , 8-0 , Bari
+47 , Genova 1893 , 2-3 , Bologna
+48 , Genova 1893 , 3-2 , Juventus
+49 , Genova 1893 , 2-1 , Lazio
+50 , Genova 1893 , 0-1 , Liguria
+51 , Genova 1893 , 0-1 , Livorno
+52 , Genova 1893 , 4-1 , Lucchese
+53 , Genova 1893 , 2-0 , Milano
+54 , Genova 1893 , 5-1 , Modena
+55 , Genova 1893 , 3-1 , Napoli
+56 , Genova 1893 , 3-1 , Novara
+57 , Genova 1893 , 2-0 , Roma
+58 , Genova 1893 , 6-1 , Torino
+59 , Genova 1893 , 0-0 , Triestina
+60 , Juventus , 0-0 , Ambrosiana-Inter
+61 , Juventus , 3-0 , Bari
+62 , Juventus , 1-0 , Bologna
+63 , Juventus , 1-1 , Genova 1893
+64 , Juventus , 1-0 , Lazio
+65 , Juventus , 2-1 , Liguria
+66 , Juventus , 2-1 , Livorno
+67 , Juventus , 1-1 , Lucchese
+68 , Juventus , 2-2 , Milano
+69 , Juventus , 1-1 , Modena
+70 , Juventus , 1-0 , Napoli
+71 , Juventus , 1-0 , Novara
+72 , Juventus , 0-0 , Roma
+73 , Juventus , 1-1 , Torino
+74 , Juventus , 2-1 , Triestina
+75 , Lazio , 1-2 , Ambrosiana-Inter
+76 , Lazio , 1-0 , Bari
+77 , Lazio , 1-2 , Bologna
+78 , Lazio , 2-1 , Genova 1893
+79 , Lazio , 1-1 , Juventus
+80 , Lazio , 1-0 , Liguria
+81 , Lazio , 2-1 , Livorno
+82 , Lazio , 5-0 , Lucchese
+83 , Lazio , 2-2 , Milano
+84 , Lazio , 2-1 , Modena
+85 , Lazio , 0-0 , Napoli
+86 , Lazio , 1-0 , Novara
+87 , Lazio , 1-3 , Roma
+88 , Lazio , 1-1 , Torino
+89 , Lazio , 1-0 , Triestina
+90 , Liguria , 1-0 , Ambrosiana-Inter
+91 , Liguria , 1-0 , Bari
+92 , Liguria , 1-2 , Bologna
+93 , Liguria , 1-0 , Genova 1893
+94 , Liguria , 1-1 , Juventus
+95 , Liguria , 0-1 , Lazio
+96 , Liguria , 3-3 , Livorno
+97 , Liguria , 1-1 , Lucchese
+98 , Liguria , 0-1 , Milano
+99 , Liguria , 1-0 , Modena
+100 , Liguria , 2-0 , Napoli
+101 , Liguria , 3-1 , Novara
+102 , Liguria , 3-2 , Roma
+103 , Liguria , 2-1 , Torino
+104 , Liguria , 2-2 , Triestina
+105 , Livorno , 2-2 , Ambrosiana-Inter
+106 , Livorno , 3-0 , Bari
+107 , Livorno , 3-1 , Bologna
+108 , Livorno , 2-2 , Genova 1893
+109 , Livorno , 1-0 , Juventus
+110 , Livorno , 2-3 , Lazio
+111 , Livorno , 0-1 , Liguria
+112 , Livorno , 1-0 , Lucchese
+113 , Livorno , 0-2 , Milano
+114 , Livorno , 1-0 , Modena
+115 , Livorno , 2-0 , Napoli
+116 , Livorno , 0-2 , Novara
+117 , Livorno , 3-1 , Roma
+118 , Livorno , 1-1 , Torino
+119 , Livorno , 1-0 , Triestina
+120 , Lucchese , 1-1 , Ambrosiana-Inter
+121 , Lucchese , 0-0 , Bari
+122 , Lucchese , 1-1 , Bologna
+123 , Lucchese , 0-1 , Genova 1893
+124 , Lucchese , 1-0 , Juventus
+125 , Lucchese , 2-1 , Lazio
+126 , Lucchese , 3-1 , Liguria
+127 , Lucchese , 2-1 , Livorno
+128 , Lucchese , 1-2 , Milano
+129 , Lucchese , 3-1 , Modena
+130 , Lucchese , 2-2 , Napoli
+131 , Lucchese , 0-1 , Novara
+132 , Lucchese , 1-4 , Roma
+133 , Lucchese , 1-1 , Torino
+134 , Lucchese , 1-0 , Triestina
+135 , Milano , 3-1 , Ambrosiana-Inter
+136 , Milano , 3-1 , Bari
+137 , Milano , 0-1 , Bologna
+138 , Milano , 1-2 , Genova 1893
+139 , Milano , 0-0 , Juventus
+140 , Milano , 3-0 , Lazio
+141 , Milano , 0-0 , Liguria
+142 , Milano , 2-2 , Livorno
+143 , Milano , 1-0 , Lucchese
+144 , Milano , 2-0 , Modena
+145 , Milano , 0-0 , Napoli
+146 , Milano , 2-1 , Novara
+147 , Milano , 0-1 , Roma
+148 , Milano , 0-0 , Torino
+149 , Milano , 2-4 , Triestina
+150 , Modena , 1-1 , Ambrosiana-Inter
+151 , Modena , 0-2 , Bari
+152 , Modena , 1-1 , Bologna
+153 , Modena , 0-0 , Genova 1893
+154 , Modena , 2-0 , Juventus
+155 , Modena , 4-0 , Lazio
+156 , Modena , 2-3 , Liguria
+157 , Modena , 3-2 , Livorno
+158 , Modena , 0-1 , Lucchese
+159 , Modena , 2-2 , Milano
+160 , Modena , 2-1 , Napoli
+161 , Modena , 1-1 , Novara
+162 , Modena , 2-0 , Roma
+163 , Modena , 0-1 , Torino
+164 , Modena , 1-0 , Triestina
+165 , Napoli , 1-0 , Ambrosiana-Inter
+166 , Napoli , 1-1 , Bari
+167 , Napoli , 1-6 , Bologna
+168 , Napoli , 2-0 , Genova 1893
+169 , Napoli , 4-1 , Juventus
+170 , Napoli , 0-0 , Lazio
+171 , Napoli , 0-0 , Liguria
+172 , Napoli , 3-1 , Livorno
+173 , Napoli , 3-1 , Lucchese
+174 , Napoli , 1-0 , Milano
+175 , Napoli , 0-1 , Modena
+176 , Napoli , 2-1 , Novara
+177 , Napoli , 1-0 , Roma
+178 , Napoli , 0-0 , Torino
+179 , Napoli , 2-0 , Triestina
+180 , Novara , 0-1 , Ambrosiana-Inter
+181 , Novara , 2-0 , Bari
+182 , Novara , 1-3 , Bologna
+183 , Novara , 0-0 , Genova 1893
+184 , Novara , 0-0 , Juventus
+185 , Novara , 2-0 , Lazio
+186 , Novara , 1-0 , Liguria
+187 , Novara , 2-1 , Livorno
+188 , Novara , 1-1 , Lucchese
+189 , Novara , 2-1 , Milano
+190 , Novara , 0-0 , Modena
+191 , Novara , 0-0 , Napoli
+192 , Novara , 5-0 , Roma
+193 , Novara , 0-1 , Torino
+194 , Novara , 1-0 , Triestina
+195 , Roma , 2-3 , Ambrosiana-Inter
+196 , Roma , 2-0 , Bari
+197 , Roma , 0-1 , Bologna
+198 , Roma , 3-1 , Genova 1893
+199 , Roma , 1-0 , Juventus
+200 , Roma , 0-2 , Lazio
+201 , Roma , 1-0 , Liguria
+202 , Roma , 4-1 , Livorno
+203 , Roma , 3-0 , Lucchese
+204 , Roma , 1-0 , Milano
+205 , Roma , 0-1 , Modena
+206 , Roma , 2-2 , Napoli
+207 , Roma , 3-0 , Novara
+208 , Roma , 2-0 , Torino
+209 , Roma , 1-2 , Triestina
+210 , Torino , 2-1 , Ambrosiana-Inter
+211 , Torino , 2-1 , Bari
+212 , Torino , 1-1 , Bologna
+213 , Torino , 0-1 , Genova 1893
+214 , Torino , 3-2 , Juventus
+215 , Torino , 3-1 , Lazio
+216 , Torino , 1-0 , Liguria
+217 , Torino , 3-2 , Livorno
+218 , Torino , 5-1 , Lucchese
+219 , Torino , 3-2 , Milano
+220 , Torino , 4-2 , Modena
+221 , Torino , 3-0 , Napoli
+222 , Torino , 1-1 , Novara
+223 , Torino , 0-1 , Roma
+224 , Torino , 1-0 , Triestina
+225 , Triestina , 1-2 , Ambrosiana-Inter
+226 , Triestina , 1-0 , Bari
+227 , Triestina , 1-1 , Bologna
+228 , Triestina , 1-1 , Genova 1893
+229 , Triestina , 1-1 , Juventus
+230 , Triestina , 2-0 , Lazio
+231 , Triestina , 0-2 , Liguria
+232 , Triestina , 2-0 , Livorno
+233 , Triestina , 2-1 , Lucchese
+234 , Triestina , 0-1 , Milano
+235 , Triestina , 0-0 , Modena
+236 , Triestina , 0-0 , Napoli
+237 , Triestina , 0-0 , Novara
+238 , Triestina , 0-1 , Roma
+239 , Triestina , 3-1 , Torino
+shortNames:,,Home ╲ Away,Ambrosiana-Inter !AMB,Bari !BAR,Bologna !BOL,Genova 1893 !GEN,Juventus !JUV,Lazio !LAZ,Liguria !LIG,Livorno !LIV,Lucchese !LUC,Milano !MIL,Modena !MOD,Napoli !NAP,Novara !NOV,Roma !ROM,Torino !TOR,Triestina !TRI
+fullNames:,,Ambrosiana-Inter,Bari,Bologna,Genova 1893,Juventus,Lazio,Liguria,Livorno,Lucchese,Milano,Modena,Napoli,Novara,Roma,Torino,Triestina

@@ -1,0 +1,382 @@
+0 , Atalanta , 2-1 , Bologna
+1 , Atalanta , 1-0 , Cagliari
+2 , Atalanta , 2-1 , Catania
+3 , Atalanta , 2-1 , Chievo
+4 , Atalanta , 0-2 , Fiorentina
+5 , Atalanta , 1-1 , Genoa
+6 , Atalanta , 1-2 , Hellas Verona
+7 , Atalanta , 1-1 , Internazionale
+8 , Atalanta , 1-4 , Juventus
+9 , Atalanta , 2-1 , Lazio
+10 , Atalanta , 2-0 , Livorno
+11 , Atalanta , 5-1 , Milan
+12 , Atalanta , 3-0 , Napoli
+13 , Atalanta , 0-4 , Parma
+14 , Atalanta , 1-1 , Roma
+15 , Atalanta , 3-0 , Sampdoria
+16 , Atalanta , 0-2 , Sassuolo
+17 , Atalanta , 2-0 , Torino
+18 , Atalanta , 2-0 , Udinese
+19 , Bologna , 0-2 , Atalanta
+20 , Bologna , 1-0 , Cagliari
+21 , Bologna , 1-2 , Catania
+22 , Bologna , 0-0 , Chievo
+23 , Bologna , 0-3 , Fiorentina
+24 , Bologna , 1-0 , Genoa
+25 , Bologna , 1-4 , Hellas Verona
+26 , Bologna , 1-1 , Internazionale
+27 , Bologna , 0-2 , Juventus
+28 , Bologna , 0-0 , Lazio
+29 , Bologna , 1-0 , Livorno
+30 , Bologna , 3-3 , Milan
+31 , Bologna , 2-2 , Napoli
+32 , Bologna , 1-1 , Parma
+33 , Bologna , 0-1 , Roma
+34 , Bologna , 2-2 , Sampdoria
+35 , Bologna , 0-0 , Sassuolo
+36 , Bologna , 1-2 , Torino
+37 , Bologna , 0-2 , Udinese
+38 , Cagliari , 2-1 , Atalanta
+39 , Cagliari , 0-3 , Bologna
+40 , Cagliari , 2-1 , Catania
+41 , Cagliari , 0-1 , Chievo
+42 , Cagliari , 1-0 , Fiorentina
+43 , Cagliari , 2-1 , Genoa
+44 , Cagliari , 1-0 , Hellas Verona
+45 , Cagliari , 1-1 , Internazionale
+46 , Cagliari , 1-4 , Juventus
+47 , Cagliari , 0-2 , Lazio
+48 , Cagliari , 1-2 , Livorno
+49 , Cagliari , 1-2 , Milan
+50 , Cagliari , 1-1 , Napoli
+51 , Cagliari , 1-0 , Parma
+52 , Cagliari , 1-3 , Roma
+53 , Cagliari , 2-2 , Sampdoria
+54 , Cagliari , 2-2 , Sassuolo
+55 , Cagliari , 2-1 , Torino
+56 , Cagliari , 3-0 , Udinese
+57 , Catania , 2-1 , Atalanta
+58 , Catania , 2-0 , Bologna
+59 , Catania , 1-1 , Cagliari
+60 , Catania , 2-0 , Chievo
+61 , Catania , 0-3 , Fiorentina
+62 , Catania , 1-1 , Genoa
+63 , Catania , 0-0 , Hellas Verona
+64 , Catania , 0-3 , Internazionale
+65 , Catania , 0-1 , Juventus
+66 , Catania , 3-1 , Lazio
+67 , Catania , 3-3 , Livorno
+68 , Catania , 1-3 , Milan
+69 , Catania , 2-4 , Napoli
+70 , Catania , 0-0 , Parma
+71 , Catania , 4-1 , Roma
+72 , Catania , 2-1 , Sampdoria
+73 , Catania , 0-0 , Sassuolo
+74 , Catania , 1-2 , Torino
+75 , Catania , 1-0 , Udinese
+76 , Chievo , 0-1 , Atalanta
+77 , Chievo , 3-0 , Bologna
+78 , Chievo , 0-0 , Cagliari
+79 , Chievo , 2-0 , Catania
+80 , Chievo , 1-2 , Fiorentina
+81 , Chievo , 2-1 , Genoa
+82 , Chievo , 0-1 , Hellas Verona
+83 , Chievo , 2-1 , Internazionale
+84 , Chievo , 1-2 , Juventus
+85 , Chievo , 0-2 , Lazio
+86 , Chievo , 3-0 , Livorno
+87 , Chievo , 0-0 , Milan
+88 , Chievo , 2-4 , Napoli
+89 , Chievo , 1-2 , Parma
+90 , Chievo , 0-2 , Roma
+91 , Chievo , 0-1 , Sampdoria
+92 , Chievo , 0-1 , Sassuolo
+93 , Chievo , 0-1 , Torino
+94 , Chievo , 2-1 , Udinese
+95 , Fiorentina , 2-0 , Atalanta
+96 , Fiorentina , 3-0 , Bologna
+97 , Fiorentina , 1-1 , Cagliari
+98 , Fiorentina , 2-1 , Catania
+99 , Fiorentina , 3-1 , Chievo
+100 , Fiorentina , 3-3 , Genoa
+101 , Fiorentina , 4-3 , Hellas Verona
+102 , Fiorentina , 1-2 , Internazionale
+103 , Fiorentina , 4-2 , Juventus
+104 , Fiorentina , 0-1 , Lazio
+105 , Fiorentina , 1-0 , Livorno
+106 , Fiorentina , 0-2 , Milan
+107 , Fiorentina , 1-2 , Napoli
+108 , Fiorentina , 2-2 , Parma
+109 , Fiorentina , 0-1 , Roma
+110 , Fiorentina , 2-1 , Sampdoria
+111 , Fiorentina , 3-4 , Sassuolo
+112 , Fiorentina , 2-2 , Torino
+113 , Fiorentina , 2-1 , Udinese
+114 , Genoa , 1-1 , Atalanta
+115 , Genoa , 0-0 , Bologna
+116 , Genoa , 1-2 , Cagliari
+117 , Genoa , 2-0 , Catania
+118 , Genoa , 2-1 , Chievo
+119 , Genoa , 2-5 , Fiorentina
+120 , Genoa , 2-0 , Hellas Verona
+121 , Genoa , 1-0 , Internazionale
+122 , Genoa , 0-1 , Juventus
+123 , Genoa , 2-0 , Lazio
+124 , Genoa , 0-0 , Livorno
+125 , Genoa , 1-2 , Milan
+126 , Genoa , 0-2 , Napoli
+127 , Genoa , 1-0 , Parma
+128 , Genoa , 1-0 , Roma
+129 , Genoa , 0-1 , Sampdoria
+130 , Genoa , 2-0 , Sassuolo
+131 , Genoa , 1-1 , Torino
+132 , Genoa , 3-3 , Udinese
+133 , Hellas Verona , 2-1 , Atalanta
+134 , Hellas Verona , 0-0 , Bologna
+135 , Hellas Verona , 2-1 , Cagliari
+136 , Hellas Verona , 4-0 , Catania
+137 , Hellas Verona , 0-1 , Chievo
+138 , Hellas Verona , 3-5 , Fiorentina
+139 , Hellas Verona , 3-0 , Genoa
+140 , Hellas Verona , 0-2 , Internazionale
+141 , Hellas Verona , 2-2 , Juventus
+142 , Hellas Verona , 4-1 , Lazio
+143 , Hellas Verona , 2-1 , Livorno
+144 , Hellas Verona , 2-1 , Milan
+145 , Hellas Verona , 0-3 , Napoli
+146 , Hellas Verona , 3-2 , Parma
+147 , Hellas Verona , 1-3 , Roma
+148 , Hellas Verona , 2-0 , Sampdoria
+149 , Hellas Verona , 2-0 , Sassuolo
+150 , Hellas Verona , 1-3 , Torino
+151 , Hellas Verona , 2-2 , Udinese
+152 , Internazionale , 1-2 , Atalanta
+153 , Internazionale , 2-2 , Bologna
+154 , Internazionale , 1-1 , Cagliari
+155 , Internazionale , 0-0 , Catania
+156 , Internazionale , 1-1 , Chievo
+157 , Internazionale , 2-1 , Fiorentina
+158 , Internazionale , 2-0 , Genoa
+159 , Internazionale , 4-2 , Hellas Verona
+160 , Internazionale , 1-1 , Juventus
+161 , Internazionale , 4-1 , Lazio
+162 , Internazionale , 2-0 , Livorno
+163 , Internazionale , 1-0 , Milan
+164 , Internazionale , 0-0 , Napoli
+165 , Internazionale , 3-3 , Parma
+166 , Internazionale , 0-3 , Roma
+167 , Internazionale , 1-1 , Sampdoria
+168 , Internazionale , 1-0 , Sassuolo
+169 , Internazionale , 1-0 , Torino
+170 , Internazionale , 0-0 , Udinese
+171 , Juventus , 1-0 , Atalanta
+172 , Juventus , 1-0 , Bologna
+173 , Juventus , 3-0 , Cagliari
+174 , Juventus , 4-0 , Catania
+175 , Juventus , 3-1 , Chievo
+176 , Juventus , 1-0 , Fiorentina
+177 , Juventus , 2-0 , Genoa
+178 , Juventus , 2-1 , Hellas Verona
+179 , Juventus , 3-1 , Internazionale
+180 , Juventus , 4-1 , Lazio
+181 , Juventus , 2-0 , Livorno
+182 , Juventus , 3-2 , Milan
+183 , Juventus , 3-0 , Napoli
+184 , Juventus , 2-1 , Parma
+185 , Juventus , 3-0 , Roma
+186 , Juventus , 4-2 , Sampdoria
+187 , Juventus , 4-0 , Sassuolo
+188 , Juventus , 1-0 , Torino
+189 , Juventus , 1-0 , Udinese
+190 , Lazio , 0-1 , Atalanta
+191 , Lazio , 1-0 , Bologna
+192 , Lazio , 2-0 , Cagliari
+193 , Lazio , 3-1 , Catania
+194 , Lazio , 3-0 , Chievo
+195 , Lazio , 0-0 , Fiorentina
+196 , Lazio , 0-2 , Genoa
+197 , Lazio , 3-3 , Hellas Verona
+198 , Lazio , 1-0 , Internazionale
+199 , Lazio , 1-1 , Juventus
+200 , Lazio , 2-0 , Livorno
+201 , Lazio , 1-1 , Milan
+202 , Lazio , 2-4 , Napoli
+203 , Lazio , 3-2 , Parma
+204 , Lazio , 0-0 , Roma
+205 , Lazio , 2-0 , Sampdoria
+206 , Lazio , 3-2 , Sassuolo
+207 , Lazio , 3-3 , Torino
+208 , Lazio , 2-1 , Udinese
+209 , Livorno , 1-0 , Atalanta
+210 , Livorno , 2-1 , Bologna
+211 , Livorno , 1-1 , Cagliari
+212 , Livorno , 2-0 , Catania
+213 , Livorno , 2-4 , Chievo
+214 , Livorno , 0-1 , Fiorentina
+215 , Livorno , 0-1 , Genoa
+216 , Livorno , 2-3 , Hellas Verona
+217 , Livorno , 2-2 , Internazionale
+218 , Livorno , 0-2 , Juventus
+219 , Livorno , 0-2 , Lazio
+220 , Livorno , 2-2 , Milan
+221 , Livorno , 1-1 , Napoli
+222 , Livorno , 0-3 , Parma
+223 , Livorno , 0-2 , Roma
+224 , Livorno , 1-2 , Sampdoria
+225 , Livorno , 3-1 , Sassuolo
+226 , Livorno , 3-3 , Torino
+227 , Livorno , 1-2 , Udinese
+228 , Milan , 3-0 , Atalanta
+229 , Milan , 1-0 , Bologna
+230 , Milan , 3-1 , Cagliari
+231 , Milan , 1-0 , Catania
+232 , Milan , 3-0 , Chievo
+233 , Milan , 0-2 , Fiorentina
+234 , Milan , 1-1 , Genoa
+235 , Milan , 1-0 , Hellas Verona
+236 , Milan , 1-0 , Internazionale
+237 , Milan , 0-2 , Juventus
+238 , Milan , 1-1 , Lazio
+239 , Milan , 3-0 , Livorno
+240 , Milan , 1-2 , Napoli
+241 , Milan , 2-4 , Parma
+242 , Milan , 2-2 , Roma
+243 , Milan , 1-0 , Sampdoria
+244 , Milan , 2-1 , Sassuolo
+245 , Milan , 1-1 , Torino
+246 , Milan , 1-0 , Udinese
+247 , Napoli , 2-0 , Atalanta
+248 , Napoli , 3-0 , Bologna
+249 , Napoli , 3-0 , Cagliari
+250 , Napoli , 2-1 , Catania
+251 , Napoli , 1-1 , Chievo
+252 , Napoli , 0-1 , Fiorentina
+253 , Napoli , 1-1 , Genoa
+254 , Napoli , 5-1 , Hellas Verona
+255 , Napoli , 4-2 , Internazionale
+256 , Napoli , 2-0 , Juventus
+257 , Napoli , 4-2 , Lazio
+258 , Napoli , 4-0 , Livorno
+259 , Napoli , 3-1 , Milan
+260 , Napoli , 0-1 , Parma
+261 , Napoli , 1-0 , Roma
+262 , Napoli , 2-0 , Sampdoria
+263 , Napoli , 1-1 , Sassuolo
+264 , Napoli , 2-0 , Torino
+265 , Napoli , 3-3 , Udinese
+266 , Parma , 4-3 , Atalanta
+267 , Parma , 1-1 , Bologna
+268 , Parma , 0-0 , Cagliari
+269 , Parma , 0-0 , Catania
+270 , Parma , 0-0 , Chievo
+271 , Parma , 2-2 , Fiorentina
+272 , Parma , 1-1 , Genoa
+273 , Parma , 2-0 , Hellas Verona
+274 , Parma , 0-2 , Internazionale
+275 , Parma , 0-1 , Juventus
+276 , Parma , 1-1 , Lazio
+277 , Parma , 2-0 , Livorno
+278 , Parma , 3-2 , Milan
+279 , Parma , 1-0 , Napoli
+280 , Parma , 1-3 , Roma
+281 , Parma , 2-0 , Sampdoria
+282 , Parma , 3-1 , Sassuolo
+283 , Parma , 3-1 , Torino
+284 , Parma , 1-0 , Udinese
+285 , Roma , 3-1 , Atalanta
+286 , Roma , 5-0 , Bologna
+287 , Roma , 0-0 , Cagliari
+288 , Roma , 4-0 , Catania
+289 , Roma , 1-0 , Chievo
+290 , Roma , 2-1 , Fiorentina
+291 , Roma , 4-0 , Genoa
+292 , Roma , 3-0 , Hellas Verona
+293 , Roma , 0-0 , Internazionale
+294 , Roma , 0-1 , Juventus
+295 , Roma , 2-0 , Lazio
+296 , Roma , 3-0 , Livorno
+297 , Roma , 2-0 , Milan
+298 , Roma , 2-0 , Napoli
+299 , Roma , 4-2 , Parma
+300 , Roma , 3-0 , Sampdoria
+301 , Roma , 1-1 , Sassuolo
+302 , Roma , 2-1 , Torino
+303 , Roma , 3-2 , Udinese
+304 , Sampdoria , 1-0 , Atalanta
+305 , Sampdoria , 1-1 , Bologna
+306 , Sampdoria , 1-0 , Cagliari
+307 , Sampdoria , 2-0 , Catania
+308 , Sampdoria , 2-1 , Chievo
+309 , Sampdoria , 0-0 , Fiorentina
+310 , Sampdoria , 0-3 , Genoa
+311 , Sampdoria , 5-0 , Hellas Verona
+312 , Sampdoria , 0-4 , Internazionale
+313 , Sampdoria , 0-1 , Juventus
+314 , Sampdoria , 1-1 , Lazio
+315 , Sampdoria , 4-2 , Livorno
+316 , Sampdoria , 0-2 , Milan
+317 , Sampdoria , 2-5 , Napoli
+318 , Sampdoria , 1-1 , Parma
+319 , Sampdoria , 0-2 , Roma
+320 , Sampdoria , 3-4 , Sassuolo
+321 , Sampdoria , 2-2 , Torino
+322 , Sampdoria , 3-0 , Udinese
+323 , Sassuolo , 2-0 , Atalanta
+324 , Sassuolo , 2-1 , Bologna
+325 , Sassuolo , 1-1 , Cagliari
+326 , Sassuolo , 3-1 , Catania
+327 , Sassuolo , 0-1 , Chievo
+328 , Sassuolo , 0-1 , Fiorentina
+329 , Sassuolo , 4-2 , Genoa
+330 , Sassuolo , 1-2 , Hellas Verona
+331 , Sassuolo , 0-7 , Internazionale
+332 , Sassuolo , 1-3 , Juventus
+333 , Sassuolo , 2-2 , Lazio
+334 , Sassuolo , 1-4 , Livorno
+335 , Sassuolo , 4-3 , Milan
+336 , Sassuolo , 0-2 , Napoli
+337 , Sassuolo , 0-1 , Parma
+338 , Sassuolo , 0-2 , Roma
+339 , Sassuolo , 1-2 , Sampdoria
+340 , Sassuolo , 0-2 , Torino
+341 , Sassuolo , 1-2 , Udinese
+342 , Torino , 1-0 , Atalanta
+343 , Torino , 1-2 , Bologna
+344 , Torino , 2-1 , Cagliari
+345 , Torino , 4-1 , Catania
+346 , Torino , 4-1 , Chievo
+347 , Torino , 0-0 , Fiorentina
+348 , Torino , 2-1 , Genoa
+349 , Torino , 2-2 , Hellas Verona
+350 , Torino , 3-3 , Internazionale
+351 , Torino , 0-1 , Juventus
+352 , Torino , 1-0 , Lazio
+353 , Torino , 3-1 , Livorno
+354 , Torino , 2-2 , Milan
+355 , Torino , 0-1 , Napoli
+356 , Torino , 1-1 , Parma
+357 , Torino , 1-1 , Roma
+358 , Torino , 0-2 , Sampdoria
+359 , Torino , 2-0 , Sassuolo
+360 , Torino , 2-0 , Udinese
+361 , Udinese , 1-1 , Atalanta
+362 , Udinese , 1-1 , Bologna
+363 , Udinese , 2-0 , Cagliari
+364 , Udinese , 1-0 , Catania
+365 , Udinese , 3-0 , Chievo
+366 , Udinese , 1-0 , Fiorentina
+367 , Udinese , 1-0 , Genoa
+368 , Udinese , 1-3 , Hellas Verona
+369 , Udinese , 0-3 , Internazionale
+370 , Udinese , 0-2 , Juventus
+371 , Udinese , 2-3 , Lazio
+372 , Udinese , 5-3 , Livorno
+373 , Udinese , 1-0 , Milan
+374 , Udinese , 1-1 , Napoli
+375 , Udinese , 3-1 , Parma
+376 , Udinese , 0-1 , Roma
+377 , Udinese , 3-3 , Sampdoria
+378 , Udinese , 1-0 , Sassuolo
+379 , Udinese , 0-2 , Torino
+shortNames:,,Home ╲ Away,Atalanta !ATA,Bologna !BOL,Cagliari !CAG,Catania !CTN,Chievo !CHV,Fiorentina !FIO,Genoa !GEN,Hellas Verona !HEL,Internazionale !INT,Juventus !JUV,Lazio !LAZ,Livorno !LIV,Milan !MIL,Napoli !NAP,Parma !PAR,Roma !ROM,Sampdoria !SAM,Sassuolo !SAS,Torino !TOR,Udinese !UDI
+fullNames:,,Atalanta,Bologna,Cagliari,Catania,Chievo,Fiorentina,Genoa,Hellas Verona,Internazionale,Juventus,Lazio,Livorno,Milan,Napoli,Parma,Roma,Sampdoria,Sassuolo,Torino,Udinese

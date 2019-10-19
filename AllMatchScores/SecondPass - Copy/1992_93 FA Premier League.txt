@@ -1,0 +1,464 @@
+0 , Arsenal , 0-1 , Aston Villa
+1 , Arsenal , 0-1 , Blackburn Rovers
+2 , Arsenal , 2-1 , Chelsea
+3 , Arsenal , 3-0 , Coventry City
+4 , Arsenal , 3-0 , Crystal Palace
+5 , Arsenal , 2-0 , Everton
+6 , Arsenal , 0-0 , Ipswich Town
+7 , Arsenal , 0-0 , Leeds United
+8 , Arsenal , 0-1 , Liverpool
+9 , Arsenal , 1-0 , Manchester City
+10 , Arsenal , 0-1 , Manchester United
+11 , Arsenal , 1-1 , Middlesbrough
+12 , Arsenal , 2-4 , Norwich City
+13 , Arsenal , 1-1 , Nottingham Forest
+14 , Arsenal , 2-0 , Oldham Athletic
+15 , Arsenal , 0-0 , Queens Park Rangers
+16 , Arsenal , 1-1 , Sheffield United
+17 , Arsenal , 2-1 , Sheffield Wednesday
+18 , Arsenal , 4-3 , Southampton
+19 , Arsenal , 1-3 , Tottenham Hotspur
+20 , Arsenal , 0-1 , Wimbledon
+21 , Aston Villa , 1-0 , Arsenal
+22 , Aston Villa , 0-0 , Blackburn Rovers
+23 , Aston Villa , 1-3 , Chelsea
+24 , Aston Villa , 0-0 , Coventry City
+25 , Aston Villa , 3-0 , Crystal Palace
+26 , Aston Villa , 2-1 , Everton
+27 , Aston Villa , 2-0 , Ipswich Town
+28 , Aston Villa , 1-1 , Leeds United
+29 , Aston Villa , 4-2 , Liverpool
+30 , Aston Villa , 3-1 , Manchester City
+31 , Aston Villa , 1-0 , Manchester United
+32 , Aston Villa , 5-1 , Middlesbrough
+33 , Aston Villa , 2-3 , Norwich City
+34 , Aston Villa , 2-1 , Nottingham Forest
+35 , Aston Villa , 0-1 , Oldham Athletic
+36 , Aston Villa , 2-0 , Queens Park Rangers
+37 , Aston Villa , 3-1 , Sheffield United
+38 , Aston Villa , 2-0 , Sheffield Wednesday
+39 , Aston Villa , 1-1 , Southampton
+40 , Aston Villa , 0-0 , Tottenham Hotspur
+41 , Aston Villa , 1-0 , Wimbledon
+42 , Blackburn Rovers , 1-0 , Arsenal
+43 , Blackburn Rovers , 3-0 , Aston Villa
+44 , Blackburn Rovers , 2-0 , Chelsea
+45 , Blackburn Rovers , 2-5 , Coventry City
+46 , Blackburn Rovers , 1-2 , Crystal Palace
+47 , Blackburn Rovers , 2-3 , Everton
+48 , Blackburn Rovers , 2-1 , Ipswich Town
+49 , Blackburn Rovers , 3-1 , Leeds United
+50 , Blackburn Rovers , 4-1 , Liverpool
+51 , Blackburn Rovers , 1-0 , Manchester City
+52 , Blackburn Rovers , 0-0 , Manchester United
+53 , Blackburn Rovers , 1-1 , Middlesbrough
+54 , Blackburn Rovers , 7-1 , Norwich City
+55 , Blackburn Rovers , 4-1 , Nottingham Forest
+56 , Blackburn Rovers , 2-0 , Oldham Athletic
+57 , Blackburn Rovers , 1-0 , Queens Park Rangers
+58 , Blackburn Rovers , 1-0 , Sheffield United
+59 , Blackburn Rovers , 1-0 , Sheffield Wednesday
+60 , Blackburn Rovers , 0-0 , Southampton
+61 , Blackburn Rovers , 0-2 , Tottenham Hotspur
+62 , Blackburn Rovers , 0-0 , Wimbledon
+63 , Chelsea , 1-0 , Arsenal
+64 , Chelsea , 0-1 , Aston Villa
+65 , Chelsea , 0-0 , Blackburn Rovers
+66 , Chelsea , 2-1 , Coventry City
+67 , Chelsea , 3-1 , Crystal Palace
+68 , Chelsea , 2-1 , Everton
+69 , Chelsea , 2-1 , Ipswich Town
+70 , Chelsea , 1-0 , Leeds United
+71 , Chelsea , 0-0 , Liverpool
+72 , Chelsea , 2-4 , Manchester City
+73 , Chelsea , 1-1 , Manchester United
+74 , Chelsea , 4-0 , Middlesbrough
+75 , Chelsea , 2-3 , Norwich City
+76 , Chelsea , 0-0 , Nottingham Forest
+77 , Chelsea , 1-1 , Oldham Athletic
+78 , Chelsea , 1-0 , Queens Park Rangers
+79 , Chelsea , 1-2 , Sheffield United
+80 , Chelsea , 0-2 , Sheffield Wednesday
+81 , Chelsea , 1-1 , Southampton
+82 , Chelsea , 1-1 , Tottenham Hotspur
+83 , Chelsea , 4-2 , Wimbledon
+84 , Coventry City , 0-2 , Arsenal
+85 , Coventry City , 3-0 , Aston Villa
+86 , Coventry City , 0-2 , Blackburn Rovers
+87 , Coventry City , 1-2 , Chelsea
+88 , Coventry City , 2-2 , Crystal Palace
+89 , Coventry City , 0-1 , Everton
+90 , Coventry City , 2-2 , Ipswich Town
+91 , Coventry City , 3-3 , Leeds United
+92 , Coventry City , 5-1 , Liverpool
+93 , Coventry City , 2-3 , Manchester City
+94 , Coventry City , 0-1 , Manchester United
+95 , Coventry City , 2-1 , Middlesbrough
+96 , Coventry City , 1-1 , Norwich City
+97 , Coventry City , 0-1 , Nottingham Forest
+98 , Coventry City , 3-0 , Oldham Athletic
+99 , Coventry City , 0-1 , Queens Park Rangers
+100 , Coventry City , 1-3 , Sheffield United
+101 , Coventry City , 1-0 , Sheffield Wednesday
+102 , Coventry City , 2-0 , Southampton
+103 , Coventry City , 1-0 , Tottenham Hotspur
+104 , Coventry City , 0-2 , Wimbledon
+105 , Crystal Palace , 1-2 , Arsenal
+106 , Crystal Palace , 1-0 , Aston Villa
+107 , Crystal Palace , 3-3 , Blackburn Rovers
+108 , Crystal Palace , 1-1 , Chelsea
+109 , Crystal Palace , 0-0 , Coventry City
+110 , Crystal Palace , 0-2 , Everton
+111 , Crystal Palace , 3-1 , Ipswich Town
+112 , Crystal Palace , 1-0 , Leeds United
+113 , Crystal Palace , 1-1 , Liverpool
+114 , Crystal Palace , 0-0 , Manchester City
+115 , Crystal Palace , 0-2 , Manchester United
+116 , Crystal Palace , 4-1 , Middlesbrough
+117 , Crystal Palace , 1-2 , Norwich City
+118 , Crystal Palace , 1-1 , Nottingham Forest
+119 , Crystal Palace , 2-2 , Oldham Athletic
+120 , Crystal Palace , 1-1 , Queens Park Rangers
+121 , Crystal Palace , 2-0 , Sheffield United
+122 , Crystal Palace , 1-1 , Sheffield Wednesday
+123 , Crystal Palace , 1-2 , Southampton
+124 , Crystal Palace , 1-3 , Tottenham Hotspur
+125 , Crystal Palace , 2-0 , Wimbledon
+126 , Everton , 0-0 , Arsenal
+127 , Everton , 1-0 , Aston Villa
+128 , Everton , 2-1 , Blackburn Rovers
+129 , Everton , 0-1 , Chelsea
+130 , Everton , 1-1 , Coventry City
+131 , Everton , 0-2 , Crystal Palace
+132 , Everton , 3-0 , Ipswich Town
+133 , Everton , 2-0 , Leeds United
+134 , Everton , 2-1 , Liverpool
+135 , Everton , 1-3 , Manchester City
+136 , Everton , 0-2 , Manchester United
+137 , Everton , 2-2 , Middlesbrough
+138 , Everton , 0-1 , Norwich City
+139 , Everton , 3-0 , Nottingham Forest
+140 , Everton , 2-2 , Oldham Athletic
+141 , Everton , 3-5 , Queens Park Rangers
+142 , Everton , 0-2 , Sheffield United
+143 , Everton , 1-1 , Sheffield Wednesday
+144 , Everton , 2-1 , Southampton
+145 , Everton , 1-2 , Tottenham Hotspur
+146 , Everton , 0-0 , Wimbledon
+147 , Ipswich Town , 1-2 , Arsenal
+148 , Ipswich Town , 1-1 , Aston Villa
+149 , Ipswich Town , 2-1 , Blackburn Rovers
+150 , Ipswich Town , 1-1 , Chelsea
+151 , Ipswich Town , 0-0 , Coventry City
+152 , Ipswich Town , 2-2 , Crystal Palace
+153 , Ipswich Town , 1-0 , Everton
+154 , Ipswich Town , 4-2 , Leeds United
+155 , Ipswich Town , 2-2 , Liverpool
+156 , Ipswich Town , 3-1 , Manchester City
+157 , Ipswich Town , 2-1 , Manchester United
+158 , Ipswich Town , 0-1 , Middlesbrough
+159 , Ipswich Town , 3-1 , Norwich City
+160 , Ipswich Town , 2-1 , Nottingham Forest
+161 , Ipswich Town , 1-2 , Oldham Athletic
+162 , Ipswich Town , 1-1 , Queens Park Rangers
+163 , Ipswich Town , 0-0 , Sheffield United
+164 , Ipswich Town , 0-1 , Sheffield Wednesday
+165 , Ipswich Town , 0-0 , Southampton
+166 , Ipswich Town , 1-1 , Tottenham Hotspur
+167 , Ipswich Town , 2-1 , Wimbledon
+168 , Leeds United , 3-0 , Arsenal
+169 , Leeds United , 1-1 , Aston Villa
+170 , Leeds United , 5-2 , Blackburn Rovers
+171 , Leeds United , 1-1 , Chelsea
+172 , Leeds United , 2-2 , Coventry City
+173 , Leeds United , 0-0 , Crystal Palace
+174 , Leeds United , 2-0 , Everton
+175 , Leeds United , 1-0 , Ipswich Town
+176 , Leeds United , 2-2 , Liverpool
+177 , Leeds United , 1-0 , Manchester City
+178 , Leeds United , 0-0 , Manchester United
+179 , Leeds United , 3-0 , Middlesbrough
+180 , Leeds United , 0-0 , Norwich City
+181 , Leeds United , 1-4 , Nottingham Forest
+182 , Leeds United , 2-0 , Oldham Athletic
+183 , Leeds United , 1-1 , Queens Park Rangers
+184 , Leeds United , 3-1 , Sheffield United
+185 , Leeds United , 3-1 , Sheffield Wednesday
+186 , Leeds United , 2-1 , Southampton
+187 , Leeds United , 5-0 , Tottenham Hotspur
+188 , Leeds United , 2-1 , Wimbledon
+189 , Liverpool , 0-2 , Arsenal
+190 , Liverpool , 1-2 , Aston Villa
+191 , Liverpool , 2-1 , Blackburn Rovers
+192 , Liverpool , 2-1 , Chelsea
+193 , Liverpool , 4-0 , Coventry City
+194 , Liverpool , 5-0 , Crystal Palace
+195 , Liverpool , 1-0 , Everton
+196 , Liverpool , 0-0 , Ipswich Town
+197 , Liverpool , 2-0 , Leeds United
+198 , Liverpool , 1-1 , Manchester City
+199 , Liverpool , 1-2 , Manchester United
+200 , Liverpool , 4-1 , Middlesbrough
+201 , Liverpool , 4-1 , Norwich City
+202 , Liverpool , 0-0 , Nottingham Forest
+203 , Liverpool , 1-0 , Oldham Athletic
+204 , Liverpool , 1-0 , Queens Park Rangers
+205 , Liverpool , 2-1 , Sheffield United
+206 , Liverpool , 1-0 , Sheffield Wednesday
+207 , Liverpool , 1-1 , Southampton
+208 , Liverpool , 6-2 , Tottenham Hotspur
+209 , Liverpool , 2-3 , Wimbledon
+210 , Manchester City , 0-1 , Arsenal
+211 , Manchester City , 1-1 , Aston Villa
+212 , Manchester City , 3-2 , Blackburn Rovers
+213 , Manchester City , 0-1 , Chelsea
+214 , Manchester City , 1-0 , Coventry City
+215 , Manchester City , 0-0 , Crystal Palace
+216 , Manchester City , 2-5 , Everton
+217 , Manchester City , 3-1 , Ipswich Town
+218 , Manchester City , 4-0 , Leeds United
+219 , Manchester City , 1-1 , Liverpool
+220 , Manchester City , 1-1 , Manchester United
+221 , Manchester City , 0-1 , Middlesbrough
+222 , Manchester City , 3-1 , Norwich City
+223 , Manchester City , 2-2 , Nottingham Forest
+224 , Manchester City , 3-3 , Oldham Athletic
+225 , Manchester City , 1-1 , Queens Park Rangers
+226 , Manchester City , 2-0 , Sheffield United
+227 , Manchester City , 1-2 , Sheffield Wednesday
+228 , Manchester City , 1-0 , Southampton
+229 , Manchester City , 0-1 , Tottenham Hotspur
+230 , Manchester City , 1-1 , Wimbledon
+231 , Manchester United , 0-0 , Arsenal
+232 , Manchester United , 1-1 , Aston Villa
+233 , Manchester United , 3-1 , Blackburn Rovers
+234 , Manchester United , 3-0 , Chelsea
+235 , Manchester United , 5-0 , Coventry City
+236 , Manchester United , 1-0 , Crystal Palace
+237 , Manchester United , 0-3 , Everton
+238 , Manchester United , 1-1 , Ipswich Town
+239 , Manchester United , 2-0 , Leeds United
+240 , Manchester United , 2-2 , Liverpool
+241 , Manchester United , 2-1 , Manchester City
+242 , Manchester United , 3-0 , Middlesbrough
+243 , Manchester United , 1-0 , Norwich City
+244 , Manchester United , 2-0 , Nottingham Forest
+245 , Manchester United , 3-0 , Oldham Athletic
+246 , Manchester United , 0-0 , Queens Park Rangers
+247 , Manchester United , 2-1 , Sheffield United
+248 , Manchester United , 2-1 , Sheffield Wednesday
+249 , Manchester United , 2-1 , Southampton
+250 , Manchester United , 4-1 , Tottenham Hotspur
+251 , Manchester United , 0-1 , Wimbledon
+252 , Middlesbrough , 1-0 , Arsenal
+253 , Middlesbrough , 2-3 , Aston Villa
+254 , Middlesbrough , 3-2 , Blackburn Rovers
+255 , Middlesbrough , 0-0 , Chelsea
+256 , Middlesbrough , 0-2 , Coventry City
+257 , Middlesbrough , 0-1 , Crystal Palace
+258 , Middlesbrough , 1-2 , Everton
+259 , Middlesbrough , 2-2 , Ipswich Town
+260 , Middlesbrough , 4-1 , Leeds United
+261 , Middlesbrough , 1-2 , Liverpool
+262 , Middlesbrough , 2-0 , Manchester City
+263 , Middlesbrough , 1-1 , Manchester United
+264 , Middlesbrough , 3-3 , Norwich City
+265 , Middlesbrough , 1-2 , Nottingham Forest
+266 , Middlesbrough , 2-3 , Oldham Athletic
+267 , Middlesbrough , 0-1 , Queens Park Rangers
+268 , Middlesbrough , 2-0 , Sheffield United
+269 , Middlesbrough , 1-1 , Sheffield Wednesday
+270 , Middlesbrough , 2-1 , Southampton
+271 , Middlesbrough , 3-0 , Tottenham Hotspur
+272 , Middlesbrough , 2-0 , Wimbledon
+273 , Norwich City , 1-1 , Arsenal
+274 , Norwich City , 1-0 , Aston Villa
+275 , Norwich City , 0-0 , Blackburn Rovers
+276 , Norwich City , 2-1 , Chelsea
+277 , Norwich City , 1-1 , Coventry City
+278 , Norwich City , 4-2 , Crystal Palace
+279 , Norwich City , 1-1 , Everton
+280 , Norwich City , 0-2 , Ipswich Town
+281 , Norwich City , 4-2 , Leeds United
+282 , Norwich City , 1-0 , Liverpool
+283 , Norwich City , 2-1 , Manchester City
+284 , Norwich City , 1-3 , Manchester United
+285 , Norwich City , 1-1 , Middlesbrough
+286 , Norwich City , 3-1 , Nottingham Forest
+287 , Norwich City , 1-0 , Oldham Athletic
+288 , Norwich City , 2-1 , Queens Park Rangers
+289 , Norwich City , 2-1 , Sheffield United
+290 , Norwich City , 1-0 , Sheffield Wednesday
+291 , Norwich City , 1-0 , Southampton
+292 , Norwich City , 0-0 , Tottenham Hotspur
+293 , Norwich City , 2-1 , Wimbledon
+294 , Nottingham Forest , 0-1 , Arsenal
+295 , Nottingham Forest , 0-1 , Aston Villa
+296 , Nottingham Forest , 1-3 , Blackburn Rovers
+297 , Nottingham Forest , 3-0 , Chelsea
+298 , Nottingham Forest , 1-1 , Coventry City
+299 , Nottingham Forest , 1-1 , Crystal Palace
+300 , Nottingham Forest , 0-1 , Everton
+301 , Nottingham Forest , 0-1 , Ipswich Town
+302 , Nottingham Forest , 1-1 , Leeds United
+303 , Nottingham Forest , 1-0 , Liverpool
+304 , Nottingham Forest , 0-2 , Manchester City
+305 , Nottingham Forest , 0-2 , Manchester United
+306 , Nottingham Forest , 1-0 , Middlesbrough
+307 , Nottingham Forest , 0-3 , Norwich City
+308 , Nottingham Forest , 2-0 , Oldham Athletic
+309 , Nottingham Forest , 1-0 , Queens Park Rangers
+310 , Nottingham Forest , 0-2 , Sheffield United
+311 , Nottingham Forest , 1-2 , Sheffield Wednesday
+312 , Nottingham Forest , 1-2 , Southampton
+313 , Nottingham Forest , 2-1 , Tottenham Hotspur
+314 , Nottingham Forest , 1-1 , Wimbledon
+315 , Oldham Athletic , 0-1 , Arsenal
+316 , Oldham Athletic , 1-1 , Aston Villa
+317 , Oldham Athletic , 0-1 , Blackburn Rovers
+318 , Oldham Athletic , 3-1 , Chelsea
+319 , Oldham Athletic , 0-1 , Coventry City
+320 , Oldham Athletic , 1-1 , Crystal Palace
+321 , Oldham Athletic , 1-0 , Everton
+322 , Oldham Athletic , 4-2 , Ipswich Town
+323 , Oldham Athletic , 2-2 , Leeds United
+324 , Oldham Athletic , 3-2 , Liverpool
+325 , Oldham Athletic , 0-1 , Manchester City
+326 , Oldham Athletic , 1-0 , Manchester United
+327 , Oldham Athletic , 4-1 , Middlesbrough
+328 , Oldham Athletic , 2-3 , Norwich City
+329 , Oldham Athletic , 5-3 , Nottingham Forest
+330 , Oldham Athletic , 2-2 , Queens Park Rangers
+331 , Oldham Athletic , 1-1 , Sheffield United
+332 , Oldham Athletic , 1-1 , Sheffield Wednesday
+333 , Oldham Athletic , 4-3 , Southampton
+334 , Oldham Athletic , 2-1 , Tottenham Hotspur
+335 , Oldham Athletic , 6-2 , Wimbledon
+336 , Queens Park Rangers , 0-0 , Arsenal
+337 , Queens Park Rangers , 2-1 , Aston Villa
+338 , Queens Park Rangers , 0-3 , Blackburn Rovers
+339 , Queens Park Rangers , 1-1 , Chelsea
+340 , Queens Park Rangers , 2-0 , Coventry City
+341 , Queens Park Rangers , 1-3 , Crystal Palace
+342 , Queens Park Rangers , 4-2 , Everton
+343 , Queens Park Rangers , 0-0 , Ipswich Town
+344 , Queens Park Rangers , 2-1 , Leeds United
+345 , Queens Park Rangers , 0-1 , Liverpool
+346 , Queens Park Rangers , 1-1 , Manchester City
+347 , Queens Park Rangers , 1-3 , Manchester United
+348 , Queens Park Rangers , 3-3 , Middlesbrough
+349 , Queens Park Rangers , 3-1 , Norwich City
+350 , Queens Park Rangers , 4-3 , Nottingham Forest
+351 , Queens Park Rangers , 3-2 , Oldham Athletic
+352 , Queens Park Rangers , 3-2 , Sheffield United
+353 , Queens Park Rangers , 3-1 , Sheffield Wednesday
+354 , Queens Park Rangers , 3-1 , Southampton
+355 , Queens Park Rangers , 4-1 , Tottenham Hotspur
+356 , Queens Park Rangers , 1-2 , Wimbledon
+357 , Sheffield United , 1-1 , Arsenal
+358 , Sheffield United , 0-2 , Aston Villa
+359 , Sheffield United , 1-3 , Blackburn Rovers
+360 , Sheffield United , 4-2 , Chelsea
+361 , Sheffield United , 1-1 , Coventry City
+362 , Sheffield United , 0-1 , Crystal Palace
+363 , Sheffield United , 1-0 , Everton
+364 , Sheffield United , 3-0 , Ipswich Town
+365 , Sheffield United , 2-1 , Leeds United
+366 , Sheffield United , 1-0 , Liverpool
+367 , Sheffield United , 1-1 , Manchester City
+368 , Sheffield United , 2-1 , Manchester United
+369 , Sheffield United , 2-0 , Middlesbrough
+370 , Sheffield United , 0-1 , Norwich City
+371 , Sheffield United , 0-0 , Nottingham Forest
+372 , Sheffield United , 2-0 , Oldham Athletic
+373 , Sheffield United , 1-2 , Queens Park Rangers
+374 , Sheffield United , 1-1 , Sheffield Wednesday
+375 , Sheffield United , 2-0 , Southampton
+376 , Sheffield United , 6-0 , Tottenham Hotspur
+377 , Sheffield United , 2-2 , Wimbledon
+378 , Sheffield Wednesday , 1-0 , Arsenal
+379 , Sheffield Wednesday , 1-2 , Aston Villa
+380 , Sheffield Wednesday , 0-0 , Blackburn Rovers
+381 , Sheffield Wednesday , 3-3 , Chelsea
+382 , Sheffield Wednesday , 1-2 , Coventry City
+383 , Sheffield Wednesday , 2-1 , Crystal Palace
+384 , Sheffield Wednesday , 3-1 , Everton
+385 , Sheffield Wednesday , 1-1 , Ipswich Town
+386 , Sheffield Wednesday , 1-1 , Leeds United
+387 , Sheffield Wednesday , 1-1 , Liverpool
+388 , Sheffield Wednesday , 0-3 , Manchester City
+389 , Sheffield Wednesday , 3-3 , Manchester United
+390 , Sheffield Wednesday , 2-3 , Middlesbrough
+391 , Sheffield Wednesday , 1-0 , Norwich City
+392 , Sheffield Wednesday , 2-0 , Nottingham Forest
+393 , Sheffield Wednesday , 2-1 , Oldham Athletic
+394 , Sheffield Wednesday , 1-0 , Queens Park Rangers
+395 , Sheffield Wednesday , 1-1 , Sheffield United
+396 , Sheffield Wednesday , 5-2 , Southampton
+397 , Sheffield Wednesday , 2-0 , Tottenham Hotspur
+398 , Sheffield Wednesday , 1-1 , Wimbledon
+399 , Southampton , 2-0 , Arsenal
+400 , Southampton , 2-0 , Aston Villa
+401 , Southampton , 1-1 , Blackburn Rovers
+402 , Southampton , 1-0 , Chelsea
+403 , Southampton , 2-2 , Coventry City
+404 , Southampton , 1-0 , Crystal Palace
+405 , Southampton , 0-0 , Everton
+406 , Southampton , 4-3 , Ipswich Town
+407 , Southampton , 1-1 , Leeds United
+408 , Southampton , 2-1 , Liverpool
+409 , Southampton , 0-1 , Manchester City
+410 , Southampton , 0-1 , Manchester United
+411 , Southampton , 2-1 , Middlesbrough
+412 , Southampton , 3-0 , Norwich City
+413 , Southampton , 1-2 , Nottingham Forest
+414 , Southampton , 1-0 , Oldham Athletic
+415 , Southampton , 1-2 , Queens Park Rangers
+416 , Southampton , 3-2 , Sheffield United
+417 , Southampton , 1-2 , Sheffield Wednesday
+418 , Southampton , 0-0 , Tottenham Hotspur
+419 , Southampton , 2-2 , Wimbledon
+420 , Tottenham Hotspur , 1-0 , Arsenal
+421 , Tottenham Hotspur , 0-0 , Aston Villa
+422 , Tottenham Hotspur , 1-2 , Blackburn Rovers
+423 , Tottenham Hotspur , 1-2 , Chelsea
+424 , Tottenham Hotspur , 0-2 , Coventry City
+425 , Tottenham Hotspur , 2-2 , Crystal Palace
+426 , Tottenham Hotspur , 2-1 , Everton
+427 , Tottenham Hotspur , 0-2 , Ipswich Town
+428 , Tottenham Hotspur , 4-0 , Leeds United
+429 , Tottenham Hotspur , 2-0 , Liverpool
+430 , Tottenham Hotspur , 3-1 , Manchester City
+431 , Tottenham Hotspur , 1-1 , Manchester United
+432 , Tottenham Hotspur , 2-2 , Middlesbrough
+433 , Tottenham Hotspur , 5-1 , Norwich City
+434 , Tottenham Hotspur , 2-1 , Nottingham Forest
+435 , Tottenham Hotspur , 4-1 , Oldham Athletic
+436 , Tottenham Hotspur , 3-2 , Queens Park Rangers
+437 , Tottenham Hotspur , 2-0 , Sheffield United
+438 , Tottenham Hotspur , 0-2 , Sheffield Wednesday
+439 , Tottenham Hotspur , 4-2 , Southampton
+440 , Tottenham Hotspur , 1-1 , Wimbledon
+441 , Wimbledon , 3-2 , Arsenal
+442 , Wimbledon , 2-3 , Aston Villa
+443 , Wimbledon , 1-1 , Blackburn Rovers
+444 , Wimbledon , 0-0 , Chelsea
+445 , Wimbledon , 1-2 , Coventry City
+446 , Wimbledon , 4-0 , Crystal Palace
+447 , Wimbledon , 1-3 , Everton
+448 , Wimbledon , 0-1 , Ipswich Town
+449 , Wimbledon , 1-0 , Leeds United
+450 , Wimbledon , 2-0 , Liverpool
+451 , Wimbledon , 0-1 , Manchester City
+452 , Wimbledon , 1-2 , Manchester United
+453 , Wimbledon , 2-0 , Middlesbrough
+454 , Wimbledon , 3-0 , Norwich City
+455 , Wimbledon , 1-0 , Nottingham Forest
+456 , Wimbledon , 5-2 , Oldham Athletic
+457 , Wimbledon , 0-2 , Queens Park Rangers
+458 , Wimbledon , 2-0 , Sheffield United
+459 , Wimbledon , 1-1 , Sheffield Wednesday
+460 , Wimbledon , 1-2 , Southampton
+461 , Wimbledon , 1-1 , Tottenham Hotspur
+shortNames:,,Home ╲ Away,Arsenal !ARS,Aston Villa !AST,Blackburn Rovers !BLB,Chelsea !CHE,Coventry City !COV,Crystal Palace !CRY,Everton !EVE,Ipswich Town !IPS,Leeds United !LEE,Liverpool !LIV,Manchester City !MCI,Manchester United !MUN,Middlesbrough !MID,Norwich City !NOR,Nottingham Forest !NOT,Oldham Athletic !OLD,Queens Park Rangers !QPR,Sheffield United !SHU,Sheffield Wednesday !SHW,Southampton !SOU,Tottenham Hotspur !TOT,Wimbledon !WDN
+fullNames:,,Arsenal,Aston Villa,Blackburn Rovers,Chelsea,Coventry City,Crystal Palace,Everton,Ipswich Town,Leeds United,Liverpool,Manchester City,Manchester United,Middlesbrough,Norwich City,Nottingham Forest,Oldham Athletic,Queens Park Rangers,Sheffield United,Sheffield Wednesday,Southampton,Tottenham Hotspur,Wimbledon
